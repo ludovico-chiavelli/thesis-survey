@@ -5,8 +5,8 @@ def main():
     file_path = Path("Final database (main prompts).xlsx").resolve()
 
     efcd = pd.read_excel(file_path, sheet_name="Sheet 1")
-    topics = extract_topics_efcamdat(efcd, "efcamdat_topics.txt")
-    write_topics_to_file(topics)
+    topics = extract_topics_efcamdat(efcd)
+    write_topics_to_file(topics, "efcamdat_topics.txt")
 
     b1_and_above_topics = extract_b1_and_above_topics(efcd)
     write_topics_to_file(b1_and_above_topics, "b1_and_above_topics.txt")
