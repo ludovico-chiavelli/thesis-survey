@@ -17,10 +17,10 @@ def main():
     args = parser.parse_args()
 
     ef_topics_file = Path('extracting_topics/b1_and_above_topics.txt').resolve()
-    bawe_topics_file = Path('extracting_topics/bawe_topics.txt').resolve()
+    bawe_topics_file = Path('extracting_topics/bawe_essay_topics.txt').resolve()
 
-    efcamdat_context = "I want you to imagine you are an English learner from a non-English speaking country. You are currently at B2 level, assigned to do a writing task in English."
-    bawe_context = "I want you to imagine you are a university level student in the UK. You have been given the task to write a text piece."
+    efcamdat_context = "You are an English learner.Your native language is not English. You are currently at B1 level."
+    bawe_context = "You are a university student."
 
     efcamdat_topics = load_topics(ef_topics_file)
     bawe_topics = load_topics(bawe_topics_file)
@@ -29,8 +29,8 @@ def main():
     random.seed(42)
     random_bawe_topics = random.sample(bawe_topics, 72)
 
-    efcamdat_prompts = generate_prompts(efcamdat_topics, efcamdat_context)
-    bawe_prompts = generate_prompts(random_bawe_topics, bawe_context)
+    efcamdat_prompts = generate_prompts(efcamdat_topics, efcamdat_context, corpus='EFCAMDAT')
+    bawe_prompts = generate_prompts(random_bawe_topics, bawe_context, corpus='BAWE')
 
     if args.save_prompts:
         with open(args.save_prompts, 'w') as file:
@@ -47,10 +47,13 @@ def main():
         for prompt in bawe_prompts:
             writer.writerow(['BAWE', prompt['prompt_id'], prompt['topic'], '', prompt['text'], '', ''])
 
-def generate_prompts(topics: list, context: str) -> list:
+def generate_prompts(topics: list, context: str, corpus: str) -> list:
     prompts = []
     for topic in topics:
-        prompt = f'{context} Your topic is {topic["topic"]}. Please write a text piece on this topic.'
+        if corpus == 'EFCAMDAT':
+            prompt = f'{context} Write a piece of text on the topic: {topic["topic"]}.'
+        elif corpus == 'BAWE':
+            prompt = f'{context} Write an essay on the topic {topic["topic"]}.'
         prompts.append({'prompt_id': topic['topic_id'], 'topic': topic['topic'], 'text': prompt})
     
     return prompts
