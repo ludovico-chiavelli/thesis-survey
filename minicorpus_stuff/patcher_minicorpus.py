@@ -10,9 +10,11 @@ def main():
     
     corpus_file = Path('llm_corpus.csv').resolve()
     human_text_file = Path('extracting_topics/Final database (main prompts).xlsx').resolve()
+    bawe_excel = Path('extracting_topics/BAWE.xls').resolve()
 
-    zip_files(llama_file, gemma_file, mistral_file)
-    add_efcamdat_human_text(corpus_file, human_text_file)
+    # zip_files(llama_file, gemma_file, mistral_file)
+    # add_efcamdat_human_text(corpus_file, human_text_file)
+    add_bawe_human_text(corpus_file, bawe_excel)
 
 def zip_files(llam_file, gemma_file, mistral_file):
     pd_llam = pd.read_csv(llam_file)
