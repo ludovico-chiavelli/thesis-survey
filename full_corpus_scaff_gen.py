@@ -40,7 +40,7 @@ def main():
             for prompt in bawe_prompts:
                 file.write(prompt['text'] + '\n')
     
-    with open('human_llm_corpus_scaff.csv', 'w', newline='') as file:
+    with open('human_llm_fullcorpus_scaff.csv', 'w', newline='') as file:
         writer = csv.writer(file)
         writer.writerow(['CORPUS', 'TOPIC_ID', 'TOPIC', 'HUMAN_TEXT', 'PROMPT', 'LLM_NAME', 'LLM_TEXT_1', 'LLM_TEXT_2', 'LLM_TEXT_3'])
         for prompt in efcamdat_prompts:
