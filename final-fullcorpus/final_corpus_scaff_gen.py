@@ -48,7 +48,7 @@ def main():
             file.write(prompt['prompt_text'] + '\n')
     
     # Create final corpus pandas dataframe.
-    corpus_df = pd.DataFrame(columns=['CORPUS', 'TOPIC_ID', 'TOPIC', 'HUMAN_TEXT', 'PROMPT', 'LLAMA_TEXT', 'GEMMA_NAME', 'MISTRAL_TEXT'])
+    corpus_df = pd.DataFrame(columns=['CORPUS', 'TOPIC_ID', 'TOPIC', 'HUMAN_TEXT', 'PROMPT', 'LLAMA_TEXT', 'GEMMA_TEXT', 'MISTRAL_TEXT'])
     
     # Add human text from efcamdat
     print('Opening EFCAMDAT corpus...')
