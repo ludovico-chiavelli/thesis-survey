@@ -14,7 +14,7 @@ def main():
     # print(form_choiceq_item("This is a human text.", "This is an AI-generated text.", 1))
 
     # Load the final corpus.
-    final_corpus_file = Path('/home/nuvolari/GitHub/thesis-survey/final-fullcorpus/final_corpus.csv').resolve()
+    final_corpus_file = Path('/home/nuvolari/GitHub/thesis-llm-corpus/final_corpus_unf_texts_with_partials.csv').resolve()
     corpus_df = pd.read_csv(final_corpus_file)
     # Temporary, only select rows that have LLM text for LLAMA, GEMMA, MISTRAL
     corpus_df = corpus_df.dropna(subset=['LLAMA_TEXT', 'GEMMA_TEXT', 'MISTRAL_TEXT'])
@@ -40,7 +40,7 @@ def main():
         choiceq_items.append(form_choiceq_item(row["HUMAN_TEXT"], row["LLAMA_TEXT"], index))
     
     # Save the items to a file. Each Rate and Choice items are in groups of 3 and 3 respectively within one block. So 1 block has 6 questions all separated by a pagebreak.
-    with open('final_corpus_questions.txt', 'w') as file:
+    with open('final_corpus_survey_questions.txt', 'w') as file:
         file.write("[[AdvancedFormat]]\n\n")
         for i in range(6):
             file.write(f"[[Block: Survey Set {i}]]\n\n")
