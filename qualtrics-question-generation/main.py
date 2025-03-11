@@ -27,9 +27,9 @@ def main():
 
     # Form rate question items.
     rateq_items = []
-    for i, text in enumerate(list(ef_rateq_pool)):
+    for i, text in enumerate(ef_rateq_pool):
         rateq_items.append(form_rateq_item(text, i))
-    for i, text in enumerate(list(bawe_rateq_pool)):
+    for i, text in enumerate(bawe_rateq_pool):
         rateq_items.append(form_rateq_item(text, i))
 
     # Form choice question items.
@@ -49,7 +49,7 @@ def main():
             file.write(choiceq_items[i*3] + "\n\n" + choiceq_items[i*3+1] + "\n\n" + choiceq_items[i*3+2] + "\n\n")
     
 
-def sample_rateq_pool(corpus_df: pd.DataFrame) -> Tuple[pd.Series, pd.Series]:
+def sample_rateq_pool(corpus_df: pd.DataFrame) -> Tuple[list, list]:
     """
     Sample LLM text from the corpus for rate question pool.
     Even split between EFCAMDAT and BAWE. Even split between LLM models.
@@ -69,11 +69,11 @@ def sample_rateq_pool(corpus_df: pd.DataFrame) -> Tuple[pd.Series, pd.Series]:
     bawe_gemma_entries = bawe_rows["GEMMA_TEXT"].sample(n=6)
     bawe_mistral_entries = bawe_rows["MISTRAL_TEXT"].sample(n=6)
 
-    # Combine all ef entries into one list.
-    ef_entries = ef_llama_entries + ef_gemma_entries + ef_mistral_entries
+    # Convert to list. Combine all ef entries into one list.
+    ef_entries = list(ef_llama_entries) + list(ef_gemma_entries) + list(ef_mistral_entries)
 
     # Combine all bawe entries into one list.
-    bawe_entries = bawe_llama_entries + bawe_gemma_entries + bawe_mistral_entries
+    bawe_entries = list(bawe_llama_entries) + list(bawe_gemma_entries) + list(bawe_mistral_entries)
 
     return ef_entries, bawe_entries
 
@@ -125,10 +125,10 @@ def form_rateq_item(llm_text: str, index: int) -> str:
 [[ID: Rate{index}]]
 {itemq_rate}
 [[Choices]]
-choice 1 - Definitely AI
-choice 2 - Likely AI
-choice 3 - Likely human
-choice 4 - Definitely human
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
 
 [[PageBreak]]
 
