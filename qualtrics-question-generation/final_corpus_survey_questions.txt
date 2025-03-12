@@ -7,7 +7,7 @@
 [[ID: RateEF0]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 
-"Here is a sample text: The world's best burger is now at your fingertips! Enjoy your juicy and fresh burgers at Burger Delight, your new favourite destination. Experience the delicious taste of freshly grilled burgers made from high-quality beef. Our expert chefs create mouthwatering meals that will satisfy your cravings and leave you wanting more! Try Burger Delight today and treat yourself to a culinary experience like no other. Your satisfaction is our top priority. Here are some questions for you to answer: 1. What is the main idea of the blurb? 2. What is the tone of the blurb? 3. What is the target audience of the blurb? 4. What kind of language is used in the word 'juicy and fresh'? 5. What is the purpose of the last sentence? 6. How does the writer make the burger more appealing? 7. Can you suggest a title for the blurb? 8. What kind of language is"
+"Here is a sample text: The world's best burger is now at your fingertips! Enjoy your juicy and fresh burgers at Burger Delight, your new favourite destination. Experience the delicious taste of freshly grilled burgers made from high-quality beef. Our expert chefs create mouthwatering meals that will satisfy your cravings and leave you wanting more! Try Burger Delight today and treat yourself to a culinary experience like no other. Your satisfaction is our top priority. Here are some questions for you to answer: 1. What is the main"
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -34,7 +34,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateEF1]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 
-"It was a dark and stormy night in London when I had a terrifying experience. I was walking home from a friend's house in the Hackney area. The heavy rain was falling and the strong wind was blowing so hard that it made it difficult to see and hear anything. I was wearing a thin coat and no umbrella, so I got wet immediately. As I walked, the strong gust of wind knocked me down and I fell onto the ground. When I stood up, I realized that I was not alone. There was a stranger standing in front of me, and he was shouting at me. I was scared, and I didn't know what to do. The man's eyes looked wild and his hair was messy. He seemed to be very angry. I tried to run away, but my legs were shaking and I couldn't move. Suddenly, the man rushed at me and grabbed my arm. I was really frightened. I thought he was going to hurt me. Fortunately, a group"
+"It was a dark and stormy night in London when I had a terrifying experience. I was walking home from a friend's house in the Hackney area. The heavy rain was falling and the strong wind was blowing so hard that it made it difficult to see and hear anything. I was wearing a thin coat and no umbrella, so I got wet immediately. As I walked, the strong gust of wind knocked me down and I fell onto the ground. When I stood up, I realized that"
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -61,7 +61,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateEF2]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 
-"Using 5 transitional phrases in your words. Meanwhile, I remember the time when I was a teenager. It was dark and stormy outside. However, I was so excited because my friends and I were planning a camping trip in the mountains. Unfortunately, we decided to set up our tents in a place that was not recommended. Consequently, the strong wind began to blow our tents down. I was terrified. In the middle of the night, I heard a loud noise outside my tent. Therefore, I ran out of my tent, and I saw that a big bear was approaching us. It was so scary! However, my friends and I were able to scare the bear away with a loud noise. After that, we were all shaken but safe. We learned a valuable lesson about choosing a safe place to camp.  Here are 5 transitional phrases and a brief explanation of how they are used in this piece of text: 1. **Meanwhile** - It is used to indicate that an"
+"Using 5 transitional phrases in your words. Meanwhile, I remember the time when I was a teenager. It was dark and stormy outside. However, I was so excited because my friends and I were planning a camping trip in the mountains. Unfortunately, we decided to set up our tents in a place that was not recommended. Consequently, the strong wind began to blow our tents down. I was terrified. In the middle of the night, I heard a loud noise outside my tent. Therefore, I ran out of"
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -88,8 +88,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceEF0]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the latest news it also contains a world radio. For athletes there is another gimmick: a pedometer to count your steps! The most impressive unique telling point is the ability to correct your pronunciation in 50 languages. The translator helps you not only with your translations but helps you to improve your pronunciation. The transformer translator will be available in all important shops next week.
-choice 2 - Here is a sample text: The world's best burger is now at your fingertips! Enjoy your juicy and fresh burgers at Burger Delight, your new favourite destination. Experience the delicious taste of freshly grilled burgers made from high-quality beef. Our expert chefs create mouthwatering meals that will satisfy your cravings and leave you wanting more! Try Burger Delight today and treat yourself to a culinary experience like no other. Your satisfaction is our top priority. Here are some questions for you to answer: 1. What is the main idea of the blurb? 2. What is the tone of the blurb? 3. What is the target audience of the blurb? 4. What kind of language is used in the word 'juicy and fresh'? 5. What is the purpose of the last sentence? 6. How does the writer make the burger more appealing? 7. Can you suggest a title for the blurb? 8. What kind of language is
+The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
+Here is a sample text: The world's best burger is now at your fingertips! Enjoy your juicy and fresh burgers at Burger Delight, your new favourite destination. Experience the delicious taste of freshly grilled burgers made from high-quality beef. Our expert chefs create mouthwatering meals that will satisfy your cravings and leave you wanting more! Try
 
 [[PageBreak]]
 
@@ -104,9 +104,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the latest news it also contains a world radio. For athletes there is another gimmick: a pedometer to count your steps! The most impressive unique telling point is the ability to correct your pronunciation in 50 languages. The translator helps you not only with your translations but helps you to improve your pronunciation. The transformer translator will be available in all important shops next week.
+- The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
 
-- Here is a sample text: The world's best burger is now at your fingertips! Enjoy your juicy and fresh burgers at Burger Delight, your new favourite destination. Experience the delicious taste of freshly grilled burgers made from high-quality beef. Our expert chefs create mouthwatering meals that will satisfy your cravings and leave you wanting more! Try Burger Delight today and treat yourself to a culinary experience like no other. Your satisfaction is our top priority. Here are some questions for you to answer: 1. What is the main idea of the blurb? 2. What is the tone of the blurb? 3. What is the target audience of the blurb? 4. What kind of language is used in the word 'juicy and fresh'? 5. What is the purpose of the last sentence? 6. How does the writer make the burger more appealing? 7. Can you suggest a title for the blurb? 8. What kind of language is
+- Here is a sample text: The world's best burger is now at your fingertips! Enjoy your juicy and fresh burgers at Burger Delight, your new favourite destination. Experience the delicious taste of freshly grilled burgers made from high-quality beef. Our expert chefs create mouthwatering meals that will satisfy your cravings and leave you wanting more! Try
 
 [[PageBreak]]
 
@@ -116,8 +116,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF1]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they began vandalizing the local newsagents. They were breaking window, and throwing paint on the store front. She wants to stop them. But the young woman with long hair over her eyes and face came at her pushing the gun into her stomach, and talking very fast that she couldnt understand her. After a few seconds, she grabbed the laptop off her and ran off down the street. A nice handsome looking guy chased her and caught her by the hair. Turn out it was a wig. And actually she is a teenage boy. The police havent caught the couple yet. Now she is scared to leave the house. I wants to notice people to pay attention of safety. Yours sincerely, xxx
-choice 2 - It was a dark and stormy night in London when I had a terrifying experience. I was walking home from a friend's house in the Hackney area. The heavy rain was falling and the strong wind was blowing so hard that it made it difficult to see and hear anything. I was wearing a thin coat and no umbrella, so I got wet immediately. As I walked, the strong gust of wind knocked me down and I fell onto the ground. When I stood up, I realized that I was not alone. There was a stranger standing in front of me, and he was shouting at me. I was scared, and I didn't know what to do. The man's eyes looked wild and his hair was messy. He seemed to be very angry. I tried to run away, but my legs were shaking and I couldn't move. Suddenly, the man rushed at me and grabbed my arm. I was really frightened. I thought he was going to hurt me. Fortunately, a group
+Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
+It was a dark and stormy night in London when I had a terrifying experience. I was walking home from a friend's house in the Hackney area. The heavy rain was falling and the strong wind was blowing so hard that it made it difficult to see and hear anything. I was wearing a thin coat
 
 [[PageBreak]]
 
@@ -132,9 +132,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they began vandalizing the local newsagents. They were breaking window, and throwing paint on the store front. She wants to stop them. But the young woman with long hair over her eyes and face came at her pushing the gun into her stomach, and talking very fast that she couldnt understand her. After a few seconds, she grabbed the laptop off her and ran off down the street. A nice handsome looking guy chased her and caught her by the hair. Turn out it was a wig. And actually she is a teenage boy. The police havent caught the couple yet. Now she is scared to leave the house. I wants to notice people to pay attention of safety. Yours sincerely, xxx
+- Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
 
-- It was a dark and stormy night in London when I had a terrifying experience. I was walking home from a friend's house in the Hackney area. The heavy rain was falling and the strong wind was blowing so hard that it made it difficult to see and hear anything. I was wearing a thin coat and no umbrella, so I got wet immediately. As I walked, the strong gust of wind knocked me down and I fell onto the ground. When I stood up, I realized that I was not alone. There was a stranger standing in front of me, and he was shouting at me. I was scared, and I didn't know what to do. The man's eyes looked wild and his hair was messy. He seemed to be very angry. I tried to run away, but my legs were shaking and I couldn't move. Suddenly, the man rushed at me and grabbed my arm. I was really frightened. I thought he was going to hurt me. Fortunately, a group
+- It was a dark and stormy night in London when I had a terrifying experience. I was walking home from a friend's house in the Hackney area. The heavy rain was falling and the strong wind was blowing so hard that it made it difficult to see and hear anything. I was wearing a thin coat
 
 [[PageBreak]]
 
@@ -144,8 +144,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF2]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - Using 5 transitional phrases in your words. Meanwhile, I remember the time when I was a teenager. It was dark and stormy outside. However, I was so excited because my friends and I were planning a camping trip in the mountains. Unfortunately, we decided to set up our tents in a place that was not recommended. Consequently, the strong wind began to blow our tents down. I was terrified. In the middle of the night, I heard a loud noise outside my tent. Therefore, I ran out of my tent, and I saw that a big bear was approaching us. It was so scary! However, my friends and I were able to scare the bear away with a loud noise. After that, we were all shaken but safe. We learned a valuable lesson about choosing a safe place to camp.  Here are 5 transitional phrases and a brief explanation of how they are used in this piece of text: 1. **Meanwhile** - It is used to indicate that an
-choice 2 - In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into Mag's stomach. Mag was astonished and shaking. Then the saboteur grabbed Mag's laptop and ran off down the street. A passer-by chased the saboteur and caught her by the hair, at which point it came off in his hands. Turns out it was a wig. actually, the saboteur was a teenage boy. The couple haven't been caught until now.
+Using 5 transitional phrases in your words. Meanwhile, I remember the time when I was a teenager. It was dark and stormy outside. However, I was so excited because my friends and I were planning a camping trip in the mountains. Unfortunately, we decided to set up our tents in a place that was not recommended.
+In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
 
 [[PageBreak]]
 
@@ -160,9 +160,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- Using 5 transitional phrases in your words. Meanwhile, I remember the time when I was a teenager. It was dark and stormy outside. However, I was so excited because my friends and I were planning a camping trip in the mountains. Unfortunately, we decided to set up our tents in a place that was not recommended. Consequently, the strong wind began to blow our tents down. I was terrified. In the middle of the night, I heard a loud noise outside my tent. Therefore, I ran out of my tent, and I saw that a big bear was approaching us. It was so scary! However, my friends and I were able to scare the bear away with a loud noise. After that, we were all shaken but safe. We learned a valuable lesson about choosing a safe place to camp.  Here are 5 transitional phrases and a brief explanation of how they are used in this piece of text: 1. **Meanwhile** - It is used to indicate that an
+- Using 5 transitional phrases in your words. Meanwhile, I remember the time when I was a teenager. It was dark and stormy outside. However, I was so excited because my friends and I were planning a camping trip in the mountains. Unfortunately, we decided to set up our tents in a place that was not recommended.
 
-- In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into Mag's stomach. Mag was astonished and shaking. Then the saboteur grabbed Mag's laptop and ran off down the street. A passer-by chased the saboteur and caught her by the hair, at which point it came off in his hands. Turns out it was a wig. actually, the saboteur was a teenage boy. The couple haven't been caught until now.
+- In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
 
 [[PageBreak]]
 
@@ -228,7 +228,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateEF5]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 
-"If your list is realistic and practical, it is more likely that you will achieve your goals. In order to make our dreams come true, we need to be realistic about them. We have to think carefully about what we want to do. Then, write it down on a list. This list is called a 'to-do' list. I think that making a 'to-do' list is a very good idea because it helps us to focus and be more efficient. It also makes it easier to achieve our goals. If we are not realistic, our list will be unrealistic and we won't be able to achieve our goals. This will make us feel disappointed and maybe even sad. For example, let's say that you want to travel around the world in a year. That's a great dream, but it's not a realistic goal. You need time to save money, learn a language, and prepare for your journey. If you write this on your list, you will never be able to"
+"If your list is realistic and practical, it is more likely that you will achieve your goals. In order to make our dreams come true, we need to be realistic about them. We have to think carefully about what we want to do. Then, write it down on a list. This list is called a 'to-do' list. I think that making a 'to-do' list is a very good idea because it helps us to focus and be more efficient. It also makes it easier to achieve our goals."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -255,8 +255,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceEF3]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way. I'm sorry, but the services offered by this company are very bad.
-choice 2 - Missing Text
+To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
+Missing Text
 
 [[PageBreak]]
 
@@ -271,7 +271,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way. I'm sorry, but the services offered by this company are very bad.
+- To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
 
 - Missing Text
 
@@ -283,8 +283,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF4]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I was instructed about equipment: I should reclaim it in the good condition. But at first I should complete and submit the online form. I'm sure, It'll be interesting and exciting. cheers, Volobueva Anastasia
-choice 2 - Missing Text
+Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
+Missing Text
 
 [[PageBreak]]
 
@@ -299,7 +299,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I was instructed about equipment: I should reclaim it in the good condition. But at first I should complete and submit the online form. I'm sure, It'll be interesting and exciting. cheers, Volobueva Anastasia
+- Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
 
 - Missing Text
 
@@ -311,8 +311,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF5]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have only one day to live, it's impossible to save the rarest animal from disappearance (it might take a whole life). That's why I'd like to spend my last hours with people that I love.
-choice 2 - If your list is realistic and practical, it is more likely that you will achieve your goals. In order to make our dreams come true, we need to be realistic about them. We have to think carefully about what we want to do. Then, write it down on a list. This list is called a 'to-do' list. I think that making a 'to-do' list is a very good idea because it helps us to focus and be more efficient. It also makes it easier to achieve our goals. If we are not realistic, our list will be unrealistic and we won't be able to achieve our goals. This will make us feel disappointed and maybe even sad. For example, let's say that you want to travel around the world in a year. That's a great dream, but it's not a realistic goal. You need time to save money, learn a language, and prepare for your journey. If you write this on your list, you will never be able to
+If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
+If your list is realistic and practical, it is more likely that you will achieve your goals. In order to make our dreams come true, we need to be realistic about them. We have to think carefully about what we want to do. Then, write it down on a list. This list is called a 'to-do'
 
 [[PageBreak]]
 
@@ -327,9 +327,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have only one day to live, it's impossible to save the rarest animal from disappearance (it might take a whole life). That's why I'd like to spend my last hours with people that I love.
+- If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
 
-- If your list is realistic and practical, it is more likely that you will achieve your goals. In order to make our dreams come true, we need to be realistic about them. We have to think carefully about what we want to do. Then, write it down on a list. This list is called a 'to-do' list. I think that making a 'to-do' list is a very good idea because it helps us to focus and be more efficient. It also makes it easier to achieve our goals. If we are not realistic, our list will be unrealistic and we won't be able to achieve our goals. This will make us feel disappointed and maybe even sad. For example, let's say that you want to travel around the world in a year. That's a great dream, but it's not a realistic goal. You need time to save money, learn a language, and prepare for your journey. If you write this on your list, you will never be able to
+- If your list is realistic and practical, it is more likely that you will achieve your goals. In order to make our dreams come true, we need to be realistic about them. We have to think carefully about what we want to do. Then, write it down on a list. This list is called a 'to-do'
 
 [[PageBreak]]
 
@@ -341,7 +341,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: RateEF6]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 
-"##  Crafting the Perfect Catchphrase: A Blurb's Secret Weapon  As a B1 English learner, I've discovered the power of words in advertising. A simple blurb, that tiny paragraph packed with information and personality, can capture attention and make you want to buy something.  Writing a good blurb is like brewing the perfect cup of tea. You need the right ingredients and the right touch. First, **know your audience**. Who are you trying to reach? What are their needs and desires?   Second, **highlight the benefits**, not just the features. Instead of saying "our phone has a great camera," say "capture life's precious moments in stunning detail."  Third, use **vivid language and sensory details**. Make people *feel* the product or service. Instead of "this perfume is fresh," say " inhale the invigorating scent of citrus and bergamot."  Finally, **include a call to action**.  Tell people *what* to"
+"## Crafting the Perfect Catchphrase: A Blurb's Secret Weapon As a B1 English learner, I've discovered the power of words in advertising. A simple blurb, that tiny paragraph packed with information and personality, can capture attention and make you want to buy something. Writing a good blurb is like brewing the perfect cup of tea. You need the right ingredients and the right touch. First, **know your audience**. Who are you trying to reach? What are their needs and desires? Second, **highlight the benefits**, not just the features."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -368,7 +368,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateEF7]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 
-"## The Night the Wind Whispered Secrets  I had never been particularly afraid of storms. Sure, the rain drumming on the roof could be a bit noisy, and the wind sometimes rattled the windows, but I always found a strange comfort in the power of nature. Until that night.  The storm came suddenly, a dark wall of clouds blotting out the sun. The wind picked up, howling like a banshee around my small house. Branches snapped like twigs, and I could feel the whole building shiver under the force of it. Inside, the power flickered, plunging the room into an unsettling darkness.  Then, I heard it. A whispered word, barely audible through the roaring wind. It seemed to come from outside, from somewhere in the dense darkness beyond my windows. I strained to listen, my heart pounding in my chest. Another whisper followed, this time clearer, chilling me to the bone. It was my name.  Panic surged through me. My B1 English vocabulary"
+"## The Night the Wind Whispered Secrets I had never been particularly afraid of storms. Sure, the rain drumming on the roof could be a bit noisy, and the wind sometimes rattled the windows, but I always found a strange comfort in the power of nature. Until that night. The storm came suddenly, a dark wall of clouds blotting out the sun. The wind picked up, howling like a banshee around my small house. Branches snapped like twigs, and I could feel the whole building shiver under the"
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -395,7 +395,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateEF8]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 
-"The screech of the brakes ripped through the silence of the night, jolting me awake. My heart pounded against my ribs, a frantic drumbeat keeping pace with the roaring sound of the truck engine. I had been dozing in the back seat of my father's pickup truck, heading back home after a late dinner at a friend's house. Now, bathed in the harsh glare of oncoming headlights, I realized with a sickening lurch that we were veering off the road, hurtling towards a steep embankment.  Time seemed to stretch and warp. Every muscle in my body tensed, bracing for the inevitable impact. The smell of burnt rubber filled my nostrils as the truck spun wildly, tires grappling for purchase on the loose gravel. Then, a deafening crash as we lurched into the embankment. The world erupted in a cacophony of splintering wood, twisted metal, and shattering glass. I was thrown against the dashboard, my breath knocked out of me."
+"The screech of the brakes ripped through the silence of the night, jolting me awake. My heart pounded against my ribs, a frantic drumbeat keeping pace with the roaring sound of the truck engine. I had been dozing in the back seat of my father's pickup truck, heading back home after a late dinner at a friend's house. Now, bathed in the harsh glare of oncoming headlights, I realized with a sickening lurch that we were veering off the road, hurtling towards a steep embankment. Time seemed to"
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -422,8 +422,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceEF6]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the latest news it also contains a world radio. For athletes there is another gimmick: a pedometer to count your steps! The most impressive unique telling point is the ability to correct your pronunciation in 50 languages. The translator helps you not only with your translations but helps you to improve your pronunciation. The transformer translator will be available in all important shops next week.
-choice 2 - ##  Crafting the Perfect Catchphrase: A Blurb's Secret Weapon  As a B1 English learner, I've discovered the power of words in advertising. A simple blurb, that tiny paragraph packed with information and personality, can capture attention and make you want to buy something.  Writing a good blurb is like brewing the perfect cup of tea. You need the right ingredients and the right touch. First, **know your audience**. Who are you trying to reach? What are their needs and desires?   Second, **highlight the benefits**, not just the features. Instead of saying "our phone has a great camera," say "capture life's precious moments in stunning detail."  Third, use **vivid language and sensory details**. Make people *feel* the product or service. Instead of "this perfume is fresh," say " inhale the invigorating scent of citrus and bergamot."  Finally, **include a call to action**.  Tell people *what* to
+The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
+## Crafting the Perfect Catchphrase: A Blurb's Secret Weapon As a B1 English learner, I've discovered the power of words in advertising. A simple blurb, that tiny paragraph packed with information and personality, can capture attention and make you want to buy something. Writing a good blurb is like brewing the perfect cup of tea. You
 
 [[PageBreak]]
 
@@ -438,9 +438,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the latest news it also contains a world radio. For athletes there is another gimmick: a pedometer to count your steps! The most impressive unique telling point is the ability to correct your pronunciation in 50 languages. The translator helps you not only with your translations but helps you to improve your pronunciation. The transformer translator will be available in all important shops next week.
+- The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
 
-- ##  Crafting the Perfect Catchphrase: A Blurb's Secret Weapon  As a B1 English learner, I've discovered the power of words in advertising. A simple blurb, that tiny paragraph packed with information and personality, can capture attention and make you want to buy something.  Writing a good blurb is like brewing the perfect cup of tea. You need the right ingredients and the right touch. First, **know your audience**. Who are you trying to reach? What are their needs and desires?   Second, **highlight the benefits**, not just the features. Instead of saying "our phone has a great camera," say "capture life's precious moments in stunning detail."  Third, use **vivid language and sensory details**. Make people *feel* the product or service. Instead of "this perfume is fresh," say " inhale the invigorating scent of citrus and bergamot."  Finally, **include a call to action**.  Tell people *what* to
+- ## Crafting the Perfect Catchphrase: A Blurb's Secret Weapon As a B1 English learner, I've discovered the power of words in advertising. A simple blurb, that tiny paragraph packed with information and personality, can capture attention and make you want to buy something. Writing a good blurb is like brewing the perfect cup of tea. You
 
 [[PageBreak]]
 
@@ -450,8 +450,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF7]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they began vandalizing the local newsagents. They were breaking window, and throwing paint on the store front. She wants to stop them. But the young woman with long hair over her eyes and face came at her pushing the gun into her stomach, and talking very fast that she couldnt understand her. After a few seconds, she grabbed the laptop off her and ran off down the street. A nice handsome looking guy chased her and caught her by the hair. Turn out it was a wig. And actually she is a teenage boy. The police havent caught the couple yet. Now she is scared to leave the house. I wants to notice people to pay attention of safety. Yours sincerely, xxx
-choice 2 - ## The Night the Wind Whispered Secrets  I had never been particularly afraid of storms. Sure, the rain drumming on the roof could be a bit noisy, and the wind sometimes rattled the windows, but I always found a strange comfort in the power of nature. Until that night.  The storm came suddenly, a dark wall of clouds blotting out the sun. The wind picked up, howling like a banshee around my small house. Branches snapped like twigs, and I could feel the whole building shiver under the force of it. Inside, the power flickered, plunging the room into an unsettling darkness.  Then, I heard it. A whispered word, barely audible through the roaring wind. It seemed to come from outside, from somewhere in the dense darkness beyond my windows. I strained to listen, my heart pounding in my chest. Another whisper followed, this time clearer, chilling me to the bone. It was my name.  Panic surged through me. My B1 English vocabulary
+Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
+## The Night the Wind Whispered Secrets I had never been particularly afraid of storms. Sure, the rain drumming on the roof could be a bit noisy, and the wind sometimes rattled the windows, but I always found a strange comfort in the power of nature. Until that night. The storm came suddenly, a dark wall
 
 [[PageBreak]]
 
@@ -466,9 +466,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they began vandalizing the local newsagents. They were breaking window, and throwing paint on the store front. She wants to stop them. But the young woman with long hair over her eyes and face came at her pushing the gun into her stomach, and talking very fast that she couldnt understand her. After a few seconds, she grabbed the laptop off her and ran off down the street. A nice handsome looking guy chased her and caught her by the hair. Turn out it was a wig. And actually she is a teenage boy. The police havent caught the couple yet. Now she is scared to leave the house. I wants to notice people to pay attention of safety. Yours sincerely, xxx
+- Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
 
-- ## The Night the Wind Whispered Secrets  I had never been particularly afraid of storms. Sure, the rain drumming on the roof could be a bit noisy, and the wind sometimes rattled the windows, but I always found a strange comfort in the power of nature. Until that night.  The storm came suddenly, a dark wall of clouds blotting out the sun. The wind picked up, howling like a banshee around my small house. Branches snapped like twigs, and I could feel the whole building shiver under the force of it. Inside, the power flickered, plunging the room into an unsettling darkness.  Then, I heard it. A whispered word, barely audible through the roaring wind. It seemed to come from outside, from somewhere in the dense darkness beyond my windows. I strained to listen, my heart pounding in my chest. Another whisper followed, this time clearer, chilling me to the bone. It was my name.  Panic surged through me. My B1 English vocabulary
+- ## The Night the Wind Whispered Secrets I had never been particularly afraid of storms. Sure, the rain drumming on the roof could be a bit noisy, and the wind sometimes rattled the windows, but I always found a strange comfort in the power of nature. Until that night. The storm came suddenly, a dark wall
 
 [[PageBreak]]
 
@@ -478,8 +478,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF8]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - The screech of the brakes ripped through the silence of the night, jolting me awake. My heart pounded against my ribs, a frantic drumbeat keeping pace with the roaring sound of the truck engine. I had been dozing in the back seat of my father's pickup truck, heading back home after a late dinner at a friend's house. Now, bathed in the harsh glare of oncoming headlights, I realized with a sickening lurch that we were veering off the road, hurtling towards a steep embankment.  Time seemed to stretch and warp. Every muscle in my body tensed, bracing for the inevitable impact. The smell of burnt rubber filled my nostrils as the truck spun wildly, tires grappling for purchase on the loose gravel. Then, a deafening crash as we lurched into the embankment. The world erupted in a cacophony of splintering wood, twisted metal, and shattering glass. I was thrown against the dashboard, my breath knocked out of me.
-choice 2 - In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into Mag's stomach. Mag was astonished and shaking. Then the saboteur grabbed Mag's laptop and ran off down the street. A passer-by chased the saboteur and caught her by the hair, at which point it came off in his hands. Turns out it was a wig. actually, the saboteur was a teenage boy. The couple haven't been caught until now.
+The screech of the brakes ripped through the silence of the night, jolting me awake. My heart pounded against my ribs, a frantic drumbeat keeping pace with the roaring sound of the truck engine. I had been dozing in the back seat of my father's pickup truck, heading back home after a late dinner at a
+In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
 
 [[PageBreak]]
 
@@ -494,9 +494,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- The screech of the brakes ripped through the silence of the night, jolting me awake. My heart pounded against my ribs, a frantic drumbeat keeping pace with the roaring sound of the truck engine. I had been dozing in the back seat of my father's pickup truck, heading back home after a late dinner at a friend's house. Now, bathed in the harsh glare of oncoming headlights, I realized with a sickening lurch that we were veering off the road, hurtling towards a steep embankment.  Time seemed to stretch and warp. Every muscle in my body tensed, bracing for the inevitable impact. The smell of burnt rubber filled my nostrils as the truck spun wildly, tires grappling for purchase on the loose gravel. Then, a deafening crash as we lurched into the embankment. The world erupted in a cacophony of splintering wood, twisted metal, and shattering glass. I was thrown against the dashboard, my breath knocked out of me.
+- The screech of the brakes ripped through the silence of the night, jolting me awake. My heart pounded against my ribs, a frantic drumbeat keeping pace with the roaring sound of the truck engine. I had been dozing in the back seat of my father's pickup truck, heading back home after a late dinner at a
 
-- In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into Mag's stomach. Mag was astonished and shaking. Then the saboteur grabbed Mag's laptop and ran off down the street. A passer-by chased the saboteur and caught her by the hair, at which point it came off in his hands. Turns out it was a wig. actually, the saboteur was a teenage boy. The couple haven't been caught until now.
+- In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
 
 [[PageBreak]]
 
@@ -562,7 +562,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateEF11]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 
-"Making a 'To Do' List of Dreams   At B1 level, I'm just starting to feel comfortable expressing myself in English. But my dreams, they go beyond any language barrier! They are powerful, exciting, and sometimes even a little scary. So, I thought to myself, why not write them down, make a 'to do' list of my dreams, to make them feel real?  First, there's travelling the world. I want to explore ancient ruins, climb snowy mountains, and lay on sunny beaches in faraway lands. Not just as a tourist, though, but as an adventurer, experiencing the culture and meeting new people.  Next, I want to learn a musical instrument. The melody of music speaks to my heart, and I yearn to express myself through it. Maybe guitar, maybe piano, who knows? But I'll learn, I promise myself.  And then there's writing. I have stories inside me, bursting to be"
+"Making a 'To Do' List of Dreams At B1 level, I'm just starting to feel comfortable expressing myself in English. But my dreams, they go beyond any language barrier! They are powerful, exciting, and sometimes even a little scary. So, I thought to myself, why not write them down, make a 'to do' list of my dreams, to make them feel real? First, there's travelling the world. I want to explore ancient ruins, climb snowy mountains, and lay on sunny beaches in faraway lands. Not just as a"
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -589,8 +589,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceEF9]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way. I'm sorry, but the services offered by this company are very bad.
-choice 2 - Missing Text
+To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
+Missing Text
 
 [[PageBreak]]
 
@@ -605,7 +605,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way. I'm sorry, but the services offered by this company are very bad.
+- To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
 
 - Missing Text
 
@@ -617,8 +617,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF10]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I was instructed about equipment: I should reclaim it in the good condition. But at first I should complete and submit the online form. I'm sure, It'll be interesting and exciting. cheers, Volobueva Anastasia
-choice 2 - Missing Text
+Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
+Missing Text
 
 [[PageBreak]]
 
@@ -633,7 +633,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I was instructed about equipment: I should reclaim it in the good condition. But at first I should complete and submit the online form. I'm sure, It'll be interesting and exciting. cheers, Volobueva Anastasia
+- Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
 
 - Missing Text
 
@@ -645,8 +645,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF11]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have only one day to live, it's impossible to save the rarest animal from disappearance (it might take a whole life). That's why I'd like to spend my last hours with people that I love.
-choice 2 - Making a 'To Do' List of Dreams   At B1 level, I'm just starting to feel comfortable expressing myself in English. But my dreams, they go beyond any language barrier! They are powerful, exciting, and sometimes even a little scary. So, I thought to myself, why not write them down, make a 'to do' list of my dreams, to make them feel real?  First, there's travelling the world. I want to explore ancient ruins, climb snowy mountains, and lay on sunny beaches in faraway lands. Not just as a tourist, though, but as an adventurer, experiencing the culture and meeting new people.  Next, I want to learn a musical instrument. The melody of music speaks to my heart, and I yearn to express myself through it. Maybe guitar, maybe piano, who knows? But I'll learn, I promise myself.  And then there's writing. I have stories inside me, bursting to be
+If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
+Making a 'To Do' List of Dreams At B1 level, I'm just starting to feel comfortable expressing myself in English. But my dreams, they go beyond any language barrier! They are powerful, exciting, and sometimes even a little scary. So, I thought to myself, why not write them down, make a 'to do' list of my
 
 [[PageBreak]]
 
@@ -661,9 +661,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have only one day to live, it's impossible to save the rarest animal from disappearance (it might take a whole life). That's why I'd like to spend my last hours with people that I love.
+- If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
 
-- Making a 'To Do' List of Dreams   At B1 level, I'm just starting to feel comfortable expressing myself in English. But my dreams, they go beyond any language barrier! They are powerful, exciting, and sometimes even a little scary. So, I thought to myself, why not write them down, make a 'to do' list of my dreams, to make them feel real?  First, there's travelling the world. I want to explore ancient ruins, climb snowy mountains, and lay on sunny beaches in faraway lands. Not just as a tourist, though, but as an adventurer, experiencing the culture and meeting new people.  Next, I want to learn a musical instrument. The melody of music speaks to my heart, and I yearn to express myself through it. Maybe guitar, maybe piano, who knows? But I'll learn, I promise myself.  And then there's writing. I have stories inside me, bursting to be
+- Making a 'To Do' List of Dreams At B1 level, I'm just starting to feel comfortable expressing myself in English. But my dreams, they go beyond any language barrier! They are powerful, exciting, and sometimes even a little scary. So, I thought to myself, why not write them down, make a 'to do' list of my
 
 [[PageBreak]]
 
@@ -675,7 +675,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: RateEF12]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 
-"Title: Writing an Advertising Blurb: Tips for English Learners at B1 Level  Introduction: Hello, dear English learners! In today's world, understanding advertising is essential. One important part of advertising is the "blurb," a brief description that sells a product or service. Let's explore the basics of writing an effective advertising blurb, especially for those at the B1 level.  1. Keep it Simple: As a beginner, it's crucial to keep your language simple and easy to understand. Avoid complex sentences and difficult vocabulary. Stick to common, everyday words and simple sentence structures.  Example: "Our product cleans easily, so no hard work." Instead of: "Our product provides effortless cleanliness with minimal labor involved."  2. Use Active Voice: Active voice makes your writing more engaging and easier to understand. In the active voice, the subject performs"
+"Title: Writing an Advertising Blurb: Tips for English Learners at B1 Level Introduction: Hello, dear English learners! In today's world, understanding advertising is essential. One important part of advertising is the "blurb," a brief description that sells a product or service. Let's explore the basics of writing an effective advertising blurb, especially for those at the B1 level. 1. Keep it Simple: As a beginner, it's crucial to keep your language simple and easy to understand. Avoid complex sentences and difficult vocabulary. Stick to common, everyday words and"
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -702,7 +702,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateEF13]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 
-"Title: A Harrowing Encounter with a Wild Bear  In the vast, tranquil forest of Whispering Woods, I found myself one day, lost and alone. It was as if the entire world was asleep, cloaked in the dark embrace of the night. I, however, was wide-awake, my heart pounding in my chest like a scared little bird.  I had strayed from the familiar path while trying to find the elusive glow-in-the-dark flowers that the locals spoke of, my curiosity getting the better of me. As the sun dipped below the horizon, I felt a cold, unnerving presence. The air grew thick with dread, my senses heightened as I tried to discern the source.  Suddenly, the underbrush rustled violently. I froze, my breath caught in my throat. A monstrous figure emerged, towering over me"
+"Title: A Harrowing Encounter with a Wild Bear In the vast, tranquil forest of Whispering Woods, I found myself one day, lost and alone. It was as if the entire world was asleep, cloaked in the dark embrace of the night. I, however, was wide-awake, my heart pounding in my chest like a scared little bird. I had strayed from the familiar path while trying to find the elusive glow-in-the-dark flowers that the locals spoke of, my curiosity getting the better of me. As the sun dipped below"
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -729,7 +729,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateEF14]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 
-"Title: A Night to Remember - My Encounter with a Ghost  Everyone has had a terrifying experience in their life. For me, it was during a summer vacation in an old house in the countryside. At that time, I was still living in England and had just finished my B1 English course.  On the night of the terrifying incident, my friends and I decided to spend the night at the house to experience the legendary ghost stories associated with it. The excitement grew as we exchanged stories of ghosts, vampires, and other supernatural beings, each trying to outdo the other's tales.  As the night fell, the excitement turned into eeriness as we heard strange noises coming from the attic. Our friends dared us to investigate the source of the noise. A shiver ran down my spine, but I felt an adrenaline rush coursing through my veins. I mustered my courage and climbed up"
+"Title: A Night to Remember - My Encounter with a Ghost Everyone has had a terrifying experience in their life. For me, it was during a summer vacation in an old house in the countryside. At that time, I was still living in England and had just finished my B1 English course. On the night of the terrifying incident, my friends and I decided to spend the night at the house to experience the legendary ghost stories associated with it. The excitement grew as we exchanged stories of"
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -756,8 +756,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceEF12]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the latest news it also contains a world radio. For athletes there is another gimmick: a pedometer to count your steps! The most impressive unique telling point is the ability to correct your pronunciation in 50 languages. The translator helps you not only with your translations but helps you to improve your pronunciation. The transformer translator will be available in all important shops next week.
-choice 2 - Title: Writing an Advertising Blurb: Tips for English Learners at B1 Level  Introduction: Hello, dear English learners! In today's world, understanding advertising is essential. One important part of advertising is the "blurb," a brief description that sells a product or service. Let's explore the basics of writing an effective advertising blurb, especially for those at the B1 level.  1. Keep it Simple: As a beginner, it's crucial to keep your language simple and easy to understand. Avoid complex sentences and difficult vocabulary. Stick to common, everyday words and simple sentence structures.  Example: "Our product cleans easily, so no hard work." Instead of: "Our product provides effortless cleanliness with minimal labor involved."  2. Use Active Voice: Active voice makes your writing more engaging and easier to understand. In the active voice, the subject performs
+The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
+Title: Writing an Advertising Blurb: Tips for English Learners at B1 Level Introduction: Hello, dear English learners! In today's world, understanding advertising is essential. One important part of advertising is the "blurb," a brief description that sells a product or service. Let's explore the basics of writing an effective advertising blurb, especially for those at the
 
 [[PageBreak]]
 
@@ -772,9 +772,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the latest news it also contains a world radio. For athletes there is another gimmick: a pedometer to count your steps! The most impressive unique telling point is the ability to correct your pronunciation in 50 languages. The translator helps you not only with your translations but helps you to improve your pronunciation. The transformer translator will be available in all important shops next week.
+- The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
 
-- Title: Writing an Advertising Blurb: Tips for English Learners at B1 Level  Introduction: Hello, dear English learners! In today's world, understanding advertising is essential. One important part of advertising is the "blurb," a brief description that sells a product or service. Let's explore the basics of writing an effective advertising blurb, especially for those at the B1 level.  1. Keep it Simple: As a beginner, it's crucial to keep your language simple and easy to understand. Avoid complex sentences and difficult vocabulary. Stick to common, everyday words and simple sentence structures.  Example: "Our product cleans easily, so no hard work." Instead of: "Our product provides effortless cleanliness with minimal labor involved."  2. Use Active Voice: Active voice makes your writing more engaging and easier to understand. In the active voice, the subject performs
+- Title: Writing an Advertising Blurb: Tips for English Learners at B1 Level Introduction: Hello, dear English learners! In today's world, understanding advertising is essential. One important part of advertising is the "blurb," a brief description that sells a product or service. Let's explore the basics of writing an effective advertising blurb, especially for those at the
 
 [[PageBreak]]
 
@@ -784,8 +784,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF13]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they began vandalizing the local newsagents. They were breaking window, and throwing paint on the store front. She wants to stop them. But the young woman with long hair over her eyes and face came at her pushing the gun into her stomach, and talking very fast that she couldnt understand her. After a few seconds, she grabbed the laptop off her and ran off down the street. A nice handsome looking guy chased her and caught her by the hair. Turn out it was a wig. And actually she is a teenage boy. The police havent caught the couple yet. Now she is scared to leave the house. I wants to notice people to pay attention of safety. Yours sincerely, xxx
-choice 2 - Title: A Harrowing Encounter with a Wild Bear  In the vast, tranquil forest of Whispering Woods, I found myself one day, lost and alone. It was as if the entire world was asleep, cloaked in the dark embrace of the night. I, however, was wide-awake, my heart pounding in my chest like a scared little bird.  I had strayed from the familiar path while trying to find the elusive glow-in-the-dark flowers that the locals spoke of, my curiosity getting the better of me. As the sun dipped below the horizon, I felt a cold, unnerving presence. The air grew thick with dread, my senses heightened as I tried to discern the source.  Suddenly, the underbrush rustled violently. I froze, my breath caught in my throat. A monstrous figure emerged, towering over me
+Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
+Title: A Harrowing Encounter with a Wild Bear In the vast, tranquil forest of Whispering Woods, I found myself one day, lost and alone. It was as if the entire world was asleep, cloaked in the dark embrace of the night. I, however, was wide-awake, my heart pounding in my chest like a scared little bird.
 
 [[PageBreak]]
 
@@ -800,9 +800,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they began vandalizing the local newsagents. They were breaking window, and throwing paint on the store front. She wants to stop them. But the young woman with long hair over her eyes and face came at her pushing the gun into her stomach, and talking very fast that she couldnt understand her. After a few seconds, she grabbed the laptop off her and ran off down the street. A nice handsome looking guy chased her and caught her by the hair. Turn out it was a wig. And actually she is a teenage boy. The police havent caught the couple yet. Now she is scared to leave the house. I wants to notice people to pay attention of safety. Yours sincerely, xxx
+- Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
 
-- Title: A Harrowing Encounter with a Wild Bear  In the vast, tranquil forest of Whispering Woods, I found myself one day, lost and alone. It was as if the entire world was asleep, cloaked in the dark embrace of the night. I, however, was wide-awake, my heart pounding in my chest like a scared little bird.  I had strayed from the familiar path while trying to find the elusive glow-in-the-dark flowers that the locals spoke of, my curiosity getting the better of me. As the sun dipped below the horizon, I felt a cold, unnerving presence. The air grew thick with dread, my senses heightened as I tried to discern the source.  Suddenly, the underbrush rustled violently. I froze, my breath caught in my throat. A monstrous figure emerged, towering over me
+- Title: A Harrowing Encounter with a Wild Bear In the vast, tranquil forest of Whispering Woods, I found myself one day, lost and alone. It was as if the entire world was asleep, cloaked in the dark embrace of the night. I, however, was wide-awake, my heart pounding in my chest like a scared little bird.
 
 [[PageBreak]]
 
@@ -812,8 +812,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF14]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into Mag's stomach. Mag was astonished and shaking. Then the saboteur grabbed Mag's laptop and ran off down the street. A passer-by chased the saboteur and caught her by the hair, at which point it came off in his hands. Turns out it was a wig. actually, the saboteur was a teenage boy. The couple haven't been caught until now.
-choice 2 - Title: A Night to Remember - My Encounter with a Ghost  Everyone has had a terrifying experience in their life. For me, it was during a summer vacation in an old house in the countryside. At that time, I was still living in England and had just finished my B1 English course.  On the night of the terrifying incident, my friends and I decided to spend the night at the house to experience the legendary ghost stories associated with it. The excitement grew as we exchanged stories of ghosts, vampires, and other supernatural beings, each trying to outdo the other's tales.  As the night fell, the excitement turned into eeriness as we heard strange noises coming from the attic. Our friends dared us to investigate the source of the noise. A shiver ran down my spine, but I felt an adrenaline rush coursing through my veins. I mustered my courage and climbed up
+In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
+Title: A Night to Remember - My Encounter with a Ghost Everyone has had a terrifying experience in their life. For me, it was during a summer vacation in an old house in the countryside. At that time, I was still living in England and had just finished my B1 English course. On the night of
 
 [[PageBreak]]
 
@@ -828,9 +828,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into Mag's stomach. Mag was astonished and shaking. Then the saboteur grabbed Mag's laptop and ran off down the street. A passer-by chased the saboteur and caught her by the hair, at which point it came off in his hands. Turns out it was a wig. actually, the saboteur was a teenage boy. The couple haven't been caught until now.
+- In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
 
-- Title: A Night to Remember - My Encounter with a Ghost  Everyone has had a terrifying experience in their life. For me, it was during a summer vacation in an old house in the countryside. At that time, I was still living in England and had just finished my B1 English course.  On the night of the terrifying incident, my friends and I decided to spend the night at the house to experience the legendary ghost stories associated with it. The excitement grew as we exchanged stories of ghosts, vampires, and other supernatural beings, each trying to outdo the other's tales.  As the night fell, the excitement turned into eeriness as we heard strange noises coming from the attic. Our friends dared us to investigate the source of the noise. A shiver ran down my spine, but I felt an adrenaline rush coursing through my veins. I mustered my courage and climbed up
+- Title: A Night to Remember - My Encounter with a Ghost Everyone has had a terrifying experience in their life. For me, it was during a summer vacation in an old house in the countryside. At that time, I was still living in England and had just finished my B1 English course. On the night of
 
 [[PageBreak]]
 
@@ -896,7 +896,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateEF17]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 
-"Title: Making a 'To-Do' List of My Dreams  Hello everyone! Today, I would like to talk about an interesting and inspiring topic: Making a 'To-Do' list of dreams. Dreams are like a compass that guides us towards our desired destination in life. Here are some steps to create a list of dreams that will inspire and motivate us to reach our full potential.  Step 1: Identify Your Dreams The first step is to clearly identify what your dreams are. Dreams can be big or small, short-term or long-term. They can be related to your career, education, personal life, or even travel. Take some time to think about what you truly want to achieve in life.  Step 2: Prioritize Your Dreams Once you have identified your dreams, the next step is to prioritize them. Not all dreams can be achieved at the same time, so it'"
+"Title: Making a 'To-Do' List of My Dreams Hello everyone! Today, I would like to talk about an interesting and inspiring topic: Making a 'To-Do' list of dreams. Dreams are like a compass that guides us towards our desired destination in life. Here are some steps to create a list of dreams that will inspire and motivate us to reach our full potential. Step 1: Identify Your Dreams The first step is to clearly identify what your dreams are. Dreams can be big or small, short-term or long-term."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -923,8 +923,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceEF15]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way. I'm sorry, but the services offered by this company are very bad.
-choice 2 - Missing Text
+To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
+Missing Text
 
 [[PageBreak]]
 
@@ -939,7 +939,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way. I'm sorry, but the services offered by this company are very bad.
+- To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
 
 - Missing Text
 
@@ -951,8 +951,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF16]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - Missing Text
-choice 2 - Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I was instructed about equipment: I should reclaim it in the good condition. But at first I should complete and submit the online form. I'm sure, It'll be interesting and exciting. cheers, Volobueva Anastasia
+Missing Text
+Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
 
 [[PageBreak]]
 
@@ -969,7 +969,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 
 - Missing Text
 
-- Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I was instructed about equipment: I should reclaim it in the good condition. But at first I should complete and submit the online form. I'm sure, It'll be interesting and exciting. cheers, Volobueva Anastasia
+- Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
 
 [[PageBreak]]
 
@@ -979,8 +979,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF17]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have only one day to live, it's impossible to save the rarest animal from disappearance (it might take a whole life). That's why I'd like to spend my last hours with people that I love.
-choice 2 - Title: Making a 'To-Do' List of My Dreams  Hello everyone! Today, I would like to talk about an interesting and inspiring topic: Making a 'To-Do' list of dreams. Dreams are like a compass that guides us towards our desired destination in life. Here are some steps to create a list of dreams that will inspire and motivate us to reach our full potential.  Step 1: Identify Your Dreams The first step is to clearly identify what your dreams are. Dreams can be big or small, short-term or long-term. They can be related to your career, education, personal life, or even travel. Take some time to think about what you truly want to achieve in life.  Step 2: Prioritize Your Dreams Once you have identified your dreams, the next step is to prioritize them. Not all dreams can be achieved at the same time, so it'
+If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
+Title: Making a 'To-Do' List of My Dreams Hello everyone! Today, I would like to talk about an interesting and inspiring topic: Making a 'To-Do' list of dreams. Dreams are like a compass that guides us towards our desired destination in life. Here are some steps to create a list of dreams that will inspire and
 
 [[PageBreak]]
 
@@ -995,9 +995,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have only one day to live, it's impossible to save the rarest animal from disappearance (it might take a whole life). That's why I'd like to spend my last hours with people that I love.
+- If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
 
-- Title: Making a 'To-Do' List of My Dreams  Hello everyone! Today, I would like to talk about an interesting and inspiring topic: Making a 'To-Do' list of dreams. Dreams are like a compass that guides us towards our desired destination in life. Here are some steps to create a list of dreams that will inspire and motivate us to reach our full potential.  Step 1: Identify Your Dreams The first step is to clearly identify what your dreams are. Dreams can be big or small, short-term or long-term. They can be related to your career, education, personal life, or even travel. Take some time to think about what you truly want to achieve in life.  Step 2: Prioritize Your Dreams Once you have identified your dreams, the next step is to prioritize them. Not all dreams can be achieved at the same time, so it'
+- Title: Making a 'To-Do' List of My Dreams Hello everyone! Today, I would like to talk about an interesting and inspiring topic: Making a 'To-Do' list of dreams. Dreams are like a compass that guides us towards our desired destination in life. Here are some steps to create a list of dreams that will inspire and
 
 [[PageBreak]]
 
@@ -1090,8 +1090,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceBA0]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - Here is a sample text: The world's best burger is now at your fingertips! Enjoy your juicy and fresh burgers at Burger Delight, your new favourite destination. Experience the delicious taste of freshly grilled burgers made from high-quality beef. Our expert chefs create mouthwatering meals that will satisfy your cravings and leave you wanting more! Try Burger Delight today and treat yourself to a culinary experience like no other. Your satisfaction is our top priority. Here are some questions for you to answer: 1. What is the main idea of the blurb? 2. What is the tone of the blurb? 3. What is the target audience of the blurb? 4. What kind of language is used in the word 'juicy and fresh'? 5. What is the purpose of the last sentence? 6. How does the writer make the burger more appealing? 7. Can you suggest a title for the blurb? 8. What kind of language is
-choice 2 - The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the latest news it also contains a world radio. For athletes there is another gimmick: a pedometer to count your steps! The most impressive unique telling point is the ability to correct your pronunciation in 50 languages. The translator helps you not only with your translations but helps you to improve your pronunciation. The transformer translator will be available in all important shops next week.
+Here is a sample text: The world's best burger is now at your fingertips! Enjoy your juicy and fresh burgers at Burger Delight, your new favourite destination. Experience the delicious taste of freshly grilled burgers made from high-quality beef. Our expert chefs create mouthwatering meals that will satisfy your cravings and leave you wanting more! Try
+The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
 
 [[PageBreak]]
 
@@ -1106,9 +1106,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- Here is a sample text: The world's best burger is now at your fingertips! Enjoy your juicy and fresh burgers at Burger Delight, your new favourite destination. Experience the delicious taste of freshly grilled burgers made from high-quality beef. Our expert chefs create mouthwatering meals that will satisfy your cravings and leave you wanting more! Try Burger Delight today and treat yourself to a culinary experience like no other. Your satisfaction is our top priority. Here are some questions for you to answer: 1. What is the main idea of the blurb? 2. What is the tone of the blurb? 3. What is the target audience of the blurb? 4. What kind of language is used in the word 'juicy and fresh'? 5. What is the purpose of the last sentence? 6. How does the writer make the burger more appealing? 7. Can you suggest a title for the blurb? 8. What kind of language is
+- Here is a sample text: The world's best burger is now at your fingertips! Enjoy your juicy and fresh burgers at Burger Delight, your new favourite destination. Experience the delicious taste of freshly grilled burgers made from high-quality beef. Our expert chefs create mouthwatering meals that will satisfy your cravings and leave you wanting more! Try
 
-- The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the latest news it also contains a world radio. For athletes there is another gimmick: a pedometer to count your steps! The most impressive unique telling point is the ability to correct your pronunciation in 50 languages. The translator helps you not only with your translations but helps you to improve your pronunciation. The transformer translator will be available in all important shops next week.
+- The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
 
 [[PageBreak]]
 
@@ -1118,8 +1118,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA1]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - It was a dark and stormy night in London when I had a terrifying experience. I was walking home from a friend's house in the Hackney area. The heavy rain was falling and the strong wind was blowing so hard that it made it difficult to see and hear anything. I was wearing a thin coat and no umbrella, so I got wet immediately. As I walked, the strong gust of wind knocked me down and I fell onto the ground. When I stood up, I realized that I was not alone. There was a stranger standing in front of me, and he was shouting at me. I was scared, and I didn't know what to do. The man's eyes looked wild and his hair was messy. He seemed to be very angry. I tried to run away, but my legs were shaking and I couldn't move. Suddenly, the man rushed at me and grabbed my arm. I was really frightened. I thought he was going to hurt me. Fortunately, a group
-choice 2 - Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they began vandalizing the local newsagents. They were breaking window, and throwing paint on the store front. She wants to stop them. But the young woman with long hair over her eyes and face came at her pushing the gun into her stomach, and talking very fast that she couldnt understand her. After a few seconds, she grabbed the laptop off her and ran off down the street. A nice handsome looking guy chased her and caught her by the hair. Turn out it was a wig. And actually she is a teenage boy. The police havent caught the couple yet. Now she is scared to leave the house. I wants to notice people to pay attention of safety. Yours sincerely, xxx
+It was a dark and stormy night in London when I had a terrifying experience. I was walking home from a friend's house in the Hackney area. The heavy rain was falling and the strong wind was blowing so hard that it made it difficult to see and hear anything. I was wearing a thin coat
+Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
 
 [[PageBreak]]
 
@@ -1134,9 +1134,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- It was a dark and stormy night in London when I had a terrifying experience. I was walking home from a friend's house in the Hackney area. The heavy rain was falling and the strong wind was blowing so hard that it made it difficult to see and hear anything. I was wearing a thin coat and no umbrella, so I got wet immediately. As I walked, the strong gust of wind knocked me down and I fell onto the ground. When I stood up, I realized that I was not alone. There was a stranger standing in front of me, and he was shouting at me. I was scared, and I didn't know what to do. The man's eyes looked wild and his hair was messy. He seemed to be very angry. I tried to run away, but my legs were shaking and I couldn't move. Suddenly, the man rushed at me and grabbed my arm. I was really frightened. I thought he was going to hurt me. Fortunately, a group
+- It was a dark and stormy night in London when I had a terrifying experience. I was walking home from a friend's house in the Hackney area. The heavy rain was falling and the strong wind was blowing so hard that it made it difficult to see and hear anything. I was wearing a thin coat
 
-- Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they began vandalizing the local newsagents. They were breaking window, and throwing paint on the store front. She wants to stop them. But the young woman with long hair over her eyes and face came at her pushing the gun into her stomach, and talking very fast that she couldnt understand her. After a few seconds, she grabbed the laptop off her and ran off down the street. A nice handsome looking guy chased her and caught her by the hair. Turn out it was a wig. And actually she is a teenage boy. The police havent caught the couple yet. Now she is scared to leave the house. I wants to notice people to pay attention of safety. Yours sincerely, xxx
+- Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
 
 [[PageBreak]]
 
@@ -1146,8 +1146,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA2]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into Mag's stomach. Mag was astonished and shaking. Then the saboteur grabbed Mag's laptop and ran off down the street. A passer-by chased the saboteur and caught her by the hair, at which point it came off in his hands. Turns out it was a wig. actually, the saboteur was a teenage boy. The couple haven't been caught until now.
-choice 2 - Using 5 transitional phrases in your words. Meanwhile, I remember the time when I was a teenager. It was dark and stormy outside. However, I was so excited because my friends and I were planning a camping trip in the mountains. Unfortunately, we decided to set up our tents in a place that was not recommended. Consequently, the strong wind began to blow our tents down. I was terrified. In the middle of the night, I heard a loud noise outside my tent. Therefore, I ran out of my tent, and I saw that a big bear was approaching us. It was so scary! However, my friends and I were able to scare the bear away with a loud noise. After that, we were all shaken but safe. We learned a valuable lesson about choosing a safe place to camp.  Here are 5 transitional phrases and a brief explanation of how they are used in this piece of text: 1. **Meanwhile** - It is used to indicate that an
+In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
+Using 5 transitional phrases in your words. Meanwhile, I remember the time when I was a teenager. It was dark and stormy outside. However, I was so excited because my friends and I were planning a camping trip in the mountains. Unfortunately, we decided to set up our tents in a place that was not recommended.
 
 [[PageBreak]]
 
@@ -1162,9 +1162,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into Mag's stomach. Mag was astonished and shaking. Then the saboteur grabbed Mag's laptop and ran off down the street. A passer-by chased the saboteur and caught her by the hair, at which point it came off in his hands. Turns out it was a wig. actually, the saboteur was a teenage boy. The couple haven't been caught until now.
+- In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
 
-- Using 5 transitional phrases in your words. Meanwhile, I remember the time when I was a teenager. It was dark and stormy outside. However, I was so excited because my friends and I were planning a camping trip in the mountains. Unfortunately, we decided to set up our tents in a place that was not recommended. Consequently, the strong wind began to blow our tents down. I was terrified. In the middle of the night, I heard a loud noise outside my tent. Therefore, I ran out of my tent, and I saw that a big bear was approaching us. It was so scary! However, my friends and I were able to scare the bear away with a loud noise. After that, we were all shaken but safe. We learned a valuable lesson about choosing a safe place to camp.  Here are 5 transitional phrases and a brief explanation of how they are used in this piece of text: 1. **Meanwhile** - It is used to indicate that an
+- Using 5 transitional phrases in your words. Meanwhile, I remember the time when I was a teenager. It was dark and stormy outside. However, I was so excited because my friends and I were planning a camping trip in the mountains. Unfortunately, we decided to set up our tents in a place that was not recommended.
 
 [[PageBreak]]
 
@@ -1257,8 +1257,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceBA3]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way. I'm sorry, but the services offered by this company are very bad.
-choice 2 - Missing Text
+To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
+Missing Text
 
 [[PageBreak]]
 
@@ -1273,7 +1273,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way. I'm sorry, but the services offered by this company are very bad.
+- To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
 
 - Missing Text
 
@@ -1285,8 +1285,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA4]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - Missing Text
-choice 2 - Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I was instructed about equipment: I should reclaim it in the good condition. But at first I should complete and submit the online form. I'm sure, It'll be interesting and exciting. cheers, Volobueva Anastasia
+Missing Text
+Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
 
 [[PageBreak]]
 
@@ -1303,7 +1303,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 
 - Missing Text
 
-- Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I was instructed about equipment: I should reclaim it in the good condition. But at first I should complete and submit the online form. I'm sure, It'll be interesting and exciting. cheers, Volobueva Anastasia
+- Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
 
 [[PageBreak]]
 
@@ -1313,8 +1313,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA5]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - If your list is realistic and practical, it is more likely that you will achieve your goals. In order to make our dreams come true, we need to be realistic about them. We have to think carefully about what we want to do. Then, write it down on a list. This list is called a 'to-do' list. I think that making a 'to-do' list is a very good idea because it helps us to focus and be more efficient. It also makes it easier to achieve our goals. If we are not realistic, our list will be unrealistic and we won't be able to achieve our goals. This will make us feel disappointed and maybe even sad. For example, let's say that you want to travel around the world in a year. That's a great dream, but it's not a realistic goal. You need time to save money, learn a language, and prepare for your journey. If you write this on your list, you will never be able to
-choice 2 - If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have only one day to live, it's impossible to save the rarest animal from disappearance (it might take a whole life). That's why I'd like to spend my last hours with people that I love.
+If your list is realistic and practical, it is more likely that you will achieve your goals. In order to make our dreams come true, we need to be realistic about them. We have to think carefully about what we want to do. Then, write it down on a list. This list is called a 'to-do'
+If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
 
 [[PageBreak]]
 
@@ -1329,9 +1329,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- If your list is realistic and practical, it is more likely that you will achieve your goals. In order to make our dreams come true, we need to be realistic about them. We have to think carefully about what we want to do. Then, write it down on a list. This list is called a 'to-do' list. I think that making a 'to-do' list is a very good idea because it helps us to focus and be more efficient. It also makes it easier to achieve our goals. If we are not realistic, our list will be unrealistic and we won't be able to achieve our goals. This will make us feel disappointed and maybe even sad. For example, let's say that you want to travel around the world in a year. That's a great dream, but it's not a realistic goal. You need time to save money, learn a language, and prepare for your journey. If you write this on your list, you will never be able to
+- If your list is realistic and practical, it is more likely that you will achieve your goals. In order to make our dreams come true, we need to be realistic about them. We have to think carefully about what we want to do. Then, write it down on a list. This list is called a 'to-do'
 
-- If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have only one day to live, it's impossible to save the rarest animal from disappearance (it might take a whole life). That's why I'd like to spend my last hours with people that I love.
+- If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
 
 [[PageBreak]]
 
@@ -1424,8 +1424,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceBA6]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - ##  Crafting the Perfect Catchphrase: A Blurb's Secret Weapon  As a B1 English learner, I've discovered the power of words in advertising. A simple blurb, that tiny paragraph packed with information and personality, can capture attention and make you want to buy something.  Writing a good blurb is like brewing the perfect cup of tea. You need the right ingredients and the right touch. First, **know your audience**. Who are you trying to reach? What are their needs and desires?   Second, **highlight the benefits**, not just the features. Instead of saying "our phone has a great camera," say "capture life's precious moments in stunning detail."  Third, use **vivid language and sensory details**. Make people *feel* the product or service. Instead of "this perfume is fresh," say " inhale the invigorating scent of citrus and bergamot."  Finally, **include a call to action**.  Tell people *what* to
-choice 2 - The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the latest news it also contains a world radio. For athletes there is another gimmick: a pedometer to count your steps! The most impressive unique telling point is the ability to correct your pronunciation in 50 languages. The translator helps you not only with your translations but helps you to improve your pronunciation. The transformer translator will be available in all important shops next week.
+## Crafting the Perfect Catchphrase: A Blurb's Secret Weapon As a B1 English learner, I've discovered the power of words in advertising. A simple blurb, that tiny paragraph packed with information and personality, can capture attention and make you want to buy something. Writing a good blurb is like brewing the perfect cup of tea. You
+The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
 
 [[PageBreak]]
 
@@ -1440,9 +1440,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- ##  Crafting the Perfect Catchphrase: A Blurb's Secret Weapon  As a B1 English learner, I've discovered the power of words in advertising. A simple blurb, that tiny paragraph packed with information and personality, can capture attention and make you want to buy something.  Writing a good blurb is like brewing the perfect cup of tea. You need the right ingredients and the right touch. First, **know your audience**. Who are you trying to reach? What are their needs and desires?   Second, **highlight the benefits**, not just the features. Instead of saying "our phone has a great camera," say "capture life's precious moments in stunning detail."  Third, use **vivid language and sensory details**. Make people *feel* the product or service. Instead of "this perfume is fresh," say " inhale the invigorating scent of citrus and bergamot."  Finally, **include a call to action**.  Tell people *what* to
+- ## Crafting the Perfect Catchphrase: A Blurb's Secret Weapon As a B1 English learner, I've discovered the power of words in advertising. A simple blurb, that tiny paragraph packed with information and personality, can capture attention and make you want to buy something. Writing a good blurb is like brewing the perfect cup of tea. You
 
-- The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the latest news it also contains a world radio. For athletes there is another gimmick: a pedometer to count your steps! The most impressive unique telling point is the ability to correct your pronunciation in 50 languages. The translator helps you not only with your translations but helps you to improve your pronunciation. The transformer translator will be available in all important shops next week.
+- The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
 
 [[PageBreak]]
 
@@ -1452,8 +1452,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA7]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they began vandalizing the local newsagents. They were breaking window, and throwing paint on the store front. She wants to stop them. But the young woman with long hair over her eyes and face came at her pushing the gun into her stomach, and talking very fast that she couldnt understand her. After a few seconds, she grabbed the laptop off her and ran off down the street. A nice handsome looking guy chased her and caught her by the hair. Turn out it was a wig. And actually she is a teenage boy. The police havent caught the couple yet. Now she is scared to leave the house. I wants to notice people to pay attention of safety. Yours sincerely, xxx
-choice 2 - ## The Night the Wind Whispered Secrets  I had never been particularly afraid of storms. Sure, the rain drumming on the roof could be a bit noisy, and the wind sometimes rattled the windows, but I always found a strange comfort in the power of nature. Until that night.  The storm came suddenly, a dark wall of clouds blotting out the sun. The wind picked up, howling like a banshee around my small house. Branches snapped like twigs, and I could feel the whole building shiver under the force of it. Inside, the power flickered, plunging the room into an unsettling darkness.  Then, I heard it. A whispered word, barely audible through the roaring wind. It seemed to come from outside, from somewhere in the dense darkness beyond my windows. I strained to listen, my heart pounding in my chest. Another whisper followed, this time clearer, chilling me to the bone. It was my name.  Panic surged through me. My B1 English vocabulary
+Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
+## The Night the Wind Whispered Secrets I had never been particularly afraid of storms. Sure, the rain drumming on the roof could be a bit noisy, and the wind sometimes rattled the windows, but I always found a strange comfort in the power of nature. Until that night. The storm came suddenly, a dark wall
 
 [[PageBreak]]
 
@@ -1468,9 +1468,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they began vandalizing the local newsagents. They were breaking window, and throwing paint on the store front. She wants to stop them. But the young woman with long hair over her eyes and face came at her pushing the gun into her stomach, and talking very fast that she couldnt understand her. After a few seconds, she grabbed the laptop off her and ran off down the street. A nice handsome looking guy chased her and caught her by the hair. Turn out it was a wig. And actually she is a teenage boy. The police havent caught the couple yet. Now she is scared to leave the house. I wants to notice people to pay attention of safety. Yours sincerely, xxx
+- Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
 
-- ## The Night the Wind Whispered Secrets  I had never been particularly afraid of storms. Sure, the rain drumming on the roof could be a bit noisy, and the wind sometimes rattled the windows, but I always found a strange comfort in the power of nature. Until that night.  The storm came suddenly, a dark wall of clouds blotting out the sun. The wind picked up, howling like a banshee around my small house. Branches snapped like twigs, and I could feel the whole building shiver under the force of it. Inside, the power flickered, plunging the room into an unsettling darkness.  Then, I heard it. A whispered word, barely audible through the roaring wind. It seemed to come from outside, from somewhere in the dense darkness beyond my windows. I strained to listen, my heart pounding in my chest. Another whisper followed, this time clearer, chilling me to the bone. It was my name.  Panic surged through me. My B1 English vocabulary
+- ## The Night the Wind Whispered Secrets I had never been particularly afraid of storms. Sure, the rain drumming on the roof could be a bit noisy, and the wind sometimes rattled the windows, but I always found a strange comfort in the power of nature. Until that night. The storm came suddenly, a dark wall
 
 [[PageBreak]]
 
@@ -1480,8 +1480,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA8]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into Mag's stomach. Mag was astonished and shaking. Then the saboteur grabbed Mag's laptop and ran off down the street. A passer-by chased the saboteur and caught her by the hair, at which point it came off in his hands. Turns out it was a wig. actually, the saboteur was a teenage boy. The couple haven't been caught until now.
-choice 2 - The screech of the brakes ripped through the silence of the night, jolting me awake. My heart pounded against my ribs, a frantic drumbeat keeping pace with the roaring sound of the truck engine. I had been dozing in the back seat of my father's pickup truck, heading back home after a late dinner at a friend's house. Now, bathed in the harsh glare of oncoming headlights, I realized with a sickening lurch that we were veering off the road, hurtling towards a steep embankment.  Time seemed to stretch and warp. Every muscle in my body tensed, bracing for the inevitable impact. The smell of burnt rubber filled my nostrils as the truck spun wildly, tires grappling for purchase on the loose gravel. Then, a deafening crash as we lurched into the embankment. The world erupted in a cacophony of splintering wood, twisted metal, and shattering glass. I was thrown against the dashboard, my breath knocked out of me.
+In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
+The screech of the brakes ripped through the silence of the night, jolting me awake. My heart pounded against my ribs, a frantic drumbeat keeping pace with the roaring sound of the truck engine. I had been dozing in the back seat of my father's pickup truck, heading back home after a late dinner at a
 
 [[PageBreak]]
 
@@ -1496,9 +1496,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into Mag's stomach. Mag was astonished and shaking. Then the saboteur grabbed Mag's laptop and ran off down the street. A passer-by chased the saboteur and caught her by the hair, at which point it came off in his hands. Turns out it was a wig. actually, the saboteur was a teenage boy. The couple haven't been caught until now.
+- In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
 
-- The screech of the brakes ripped through the silence of the night, jolting me awake. My heart pounded against my ribs, a frantic drumbeat keeping pace with the roaring sound of the truck engine. I had been dozing in the back seat of my father's pickup truck, heading back home after a late dinner at a friend's house. Now, bathed in the harsh glare of oncoming headlights, I realized with a sickening lurch that we were veering off the road, hurtling towards a steep embankment.  Time seemed to stretch and warp. Every muscle in my body tensed, bracing for the inevitable impact. The smell of burnt rubber filled my nostrils as the truck spun wildly, tires grappling for purchase on the loose gravel. Then, a deafening crash as we lurched into the embankment. The world erupted in a cacophony of splintering wood, twisted metal, and shattering glass. I was thrown against the dashboard, my breath knocked out of me.
+- The screech of the brakes ripped through the silence of the night, jolting me awake. My heart pounded against my ribs, a frantic drumbeat keeping pace with the roaring sound of the truck engine. I had been dozing in the back seat of my father's pickup truck, heading back home after a late dinner at a
 
 [[PageBreak]]
 
@@ -1591,8 +1591,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceBA9]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - Missing Text
-choice 2 - To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way. I'm sorry, but the services offered by this company are very bad.
+Missing Text
+To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
 
 [[PageBreak]]
 
@@ -1609,7 +1609,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 
 - Missing Text
 
-- To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way. I'm sorry, but the services offered by this company are very bad.
+- To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
 
 [[PageBreak]]
 
@@ -1619,8 +1619,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA10]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I was instructed about equipment: I should reclaim it in the good condition. But at first I should complete and submit the online form. I'm sure, It'll be interesting and exciting. cheers, Volobueva Anastasia
-choice 2 - Missing Text
+Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
+Missing Text
 
 [[PageBreak]]
 
@@ -1635,7 +1635,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I was instructed about equipment: I should reclaim it in the good condition. But at first I should complete and submit the online form. I'm sure, It'll be interesting and exciting. cheers, Volobueva Anastasia
+- Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
 
 - Missing Text
 
@@ -1647,8 +1647,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA11]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have only one day to live, it's impossible to save the rarest animal from disappearance (it might take a whole life). That's why I'd like to spend my last hours with people that I love.
-choice 2 - Making a 'To Do' List of Dreams   At B1 level, I'm just starting to feel comfortable expressing myself in English. But my dreams, they go beyond any language barrier! They are powerful, exciting, and sometimes even a little scary. So, I thought to myself, why not write them down, make a 'to do' list of my dreams, to make them feel real?  First, there's travelling the world. I want to explore ancient ruins, climb snowy mountains, and lay on sunny beaches in faraway lands. Not just as a tourist, though, but as an adventurer, experiencing the culture and meeting new people.  Next, I want to learn a musical instrument. The melody of music speaks to my heart, and I yearn to express myself through it. Maybe guitar, maybe piano, who knows? But I'll learn, I promise myself.  And then there's writing. I have stories inside me, bursting to be
+If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
+Making a 'To Do' List of Dreams At B1 level, I'm just starting to feel comfortable expressing myself in English. But my dreams, they go beyond any language barrier! They are powerful, exciting, and sometimes even a little scary. So, I thought to myself, why not write them down, make a 'to do' list of my
 
 [[PageBreak]]
 
@@ -1663,9 +1663,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have only one day to live, it's impossible to save the rarest animal from disappearance (it might take a whole life). That's why I'd like to spend my last hours with people that I love.
+- If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
 
-- Making a 'To Do' List of Dreams   At B1 level, I'm just starting to feel comfortable expressing myself in English. But my dreams, they go beyond any language barrier! They are powerful, exciting, and sometimes even a little scary. So, I thought to myself, why not write them down, make a 'to do' list of my dreams, to make them feel real?  First, there's travelling the world. I want to explore ancient ruins, climb snowy mountains, and lay on sunny beaches in faraway lands. Not just as a tourist, though, but as an adventurer, experiencing the culture and meeting new people.  Next, I want to learn a musical instrument. The melody of music speaks to my heart, and I yearn to express myself through it. Maybe guitar, maybe piano, who knows? But I'll learn, I promise myself.  And then there's writing. I have stories inside me, bursting to be
+- Making a 'To Do' List of Dreams At B1 level, I'm just starting to feel comfortable expressing myself in English. But my dreams, they go beyond any language barrier! They are powerful, exciting, and sometimes even a little scary. So, I thought to myself, why not write them down, make a 'to do' list of my
 
 [[PageBreak]]
 
@@ -1758,8 +1758,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceBA12]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - Title: Writing an Advertising Blurb: Tips for English Learners at B1 Level  Introduction: Hello, dear English learners! In today's world, understanding advertising is essential. One important part of advertising is the "blurb," a brief description that sells a product or service. Let's explore the basics of writing an effective advertising blurb, especially for those at the B1 level.  1. Keep it Simple: As a beginner, it's crucial to keep your language simple and easy to understand. Avoid complex sentences and difficult vocabulary. Stick to common, everyday words and simple sentence structures.  Example: "Our product cleans easily, so no hard work." Instead of: "Our product provides effortless cleanliness with minimal labor involved."  2. Use Active Voice: Active voice makes your writing more engaging and easier to understand. In the active voice, the subject performs
-choice 2 - The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the latest news it also contains a world radio. For athletes there is another gimmick: a pedometer to count your steps! The most impressive unique telling point is the ability to correct your pronunciation in 50 languages. The translator helps you not only with your translations but helps you to improve your pronunciation. The transformer translator will be available in all important shops next week.
+Title: Writing an Advertising Blurb: Tips for English Learners at B1 Level Introduction: Hello, dear English learners! In today's world, understanding advertising is essential. One important part of advertising is the "blurb," a brief description that sells a product or service. Let's explore the basics of writing an effective advertising blurb, especially for those at the
+The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
 
 [[PageBreak]]
 
@@ -1774,9 +1774,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- Title: Writing an Advertising Blurb: Tips for English Learners at B1 Level  Introduction: Hello, dear English learners! In today's world, understanding advertising is essential. One important part of advertising is the "blurb," a brief description that sells a product or service. Let's explore the basics of writing an effective advertising blurb, especially for those at the B1 level.  1. Keep it Simple: As a beginner, it's crucial to keep your language simple and easy to understand. Avoid complex sentences and difficult vocabulary. Stick to common, everyday words and simple sentence structures.  Example: "Our product cleans easily, so no hard work." Instead of: "Our product provides effortless cleanliness with minimal labor involved."  2. Use Active Voice: Active voice makes your writing more engaging and easier to understand. In the active voice, the subject performs
+- Title: Writing an Advertising Blurb: Tips for English Learners at B1 Level Introduction: Hello, dear English learners! In today's world, understanding advertising is essential. One important part of advertising is the "blurb," a brief description that sells a product or service. Let's explore the basics of writing an effective advertising blurb, especially for those at the
 
-- The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the latest news it also contains a world radio. For athletes there is another gimmick: a pedometer to count your steps! The most impressive unique telling point is the ability to correct your pronunciation in 50 languages. The translator helps you not only with your translations but helps you to improve your pronunciation. The transformer translator will be available in all important shops next week.
+- The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
 
 [[PageBreak]]
 
@@ -1786,8 +1786,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA13]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they began vandalizing the local newsagents. They were breaking window, and throwing paint on the store front. She wants to stop them. But the young woman with long hair over her eyes and face came at her pushing the gun into her stomach, and talking very fast that she couldnt understand her. After a few seconds, she grabbed the laptop off her and ran off down the street. A nice handsome looking guy chased her and caught her by the hair. Turn out it was a wig. And actually she is a teenage boy. The police havent caught the couple yet. Now she is scared to leave the house. I wants to notice people to pay attention of safety. Yours sincerely, xxx
-choice 2 - Title: A Harrowing Encounter with a Wild Bear  In the vast, tranquil forest of Whispering Woods, I found myself one day, lost and alone. It was as if the entire world was asleep, cloaked in the dark embrace of the night. I, however, was wide-awake, my heart pounding in my chest like a scared little bird.  I had strayed from the familiar path while trying to find the elusive glow-in-the-dark flowers that the locals spoke of, my curiosity getting the better of me. As the sun dipped below the horizon, I felt a cold, unnerving presence. The air grew thick with dread, my senses heightened as I tried to discern the source.  Suddenly, the underbrush rustled violently. I froze, my breath caught in my throat. A monstrous figure emerged, towering over me
+Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
+Title: A Harrowing Encounter with a Wild Bear In the vast, tranquil forest of Whispering Woods, I found myself one day, lost and alone. It was as if the entire world was asleep, cloaked in the dark embrace of the night. I, however, was wide-awake, my heart pounding in my chest like a scared little bird.
 
 [[PageBreak]]
 
@@ -1802,9 +1802,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they began vandalizing the local newsagents. They were breaking window, and throwing paint on the store front. She wants to stop them. But the young woman with long hair over her eyes and face came at her pushing the gun into her stomach, and talking very fast that she couldnt understand her. After a few seconds, she grabbed the laptop off her and ran off down the street. A nice handsome looking guy chased her and caught her by the hair. Turn out it was a wig. And actually she is a teenage boy. The police havent caught the couple yet. Now she is scared to leave the house. I wants to notice people to pay attention of safety. Yours sincerely, xxx
+- Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
 
-- Title: A Harrowing Encounter with a Wild Bear  In the vast, tranquil forest of Whispering Woods, I found myself one day, lost and alone. It was as if the entire world was asleep, cloaked in the dark embrace of the night. I, however, was wide-awake, my heart pounding in my chest like a scared little bird.  I had strayed from the familiar path while trying to find the elusive glow-in-the-dark flowers that the locals spoke of, my curiosity getting the better of me. As the sun dipped below the horizon, I felt a cold, unnerving presence. The air grew thick with dread, my senses heightened as I tried to discern the source.  Suddenly, the underbrush rustled violently. I froze, my breath caught in my throat. A monstrous figure emerged, towering over me
+- Title: A Harrowing Encounter with a Wild Bear In the vast, tranquil forest of Whispering Woods, I found myself one day, lost and alone. It was as if the entire world was asleep, cloaked in the dark embrace of the night. I, however, was wide-awake, my heart pounding in my chest like a scared little bird.
 
 [[PageBreak]]
 
@@ -1814,8 +1814,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA14]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - Title: A Night to Remember - My Encounter with a Ghost  Everyone has had a terrifying experience in their life. For me, it was during a summer vacation in an old house in the countryside. At that time, I was still living in England and had just finished my B1 English course.  On the night of the terrifying incident, my friends and I decided to spend the night at the house to experience the legendary ghost stories associated with it. The excitement grew as we exchanged stories of ghosts, vampires, and other supernatural beings, each trying to outdo the other's tales.  As the night fell, the excitement turned into eeriness as we heard strange noises coming from the attic. Our friends dared us to investigate the source of the noise. A shiver ran down my spine, but I felt an adrenaline rush coursing through my veins. I mustered my courage and climbed up
-choice 2 - In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into Mag's stomach. Mag was astonished and shaking. Then the saboteur grabbed Mag's laptop and ran off down the street. A passer-by chased the saboteur and caught her by the hair, at which point it came off in his hands. Turns out it was a wig. actually, the saboteur was a teenage boy. The couple haven't been caught until now.
+Title: A Night to Remember - My Encounter with a Ghost Everyone has had a terrifying experience in their life. For me, it was during a summer vacation in an old house in the countryside. At that time, I was still living in England and had just finished my B1 English course. On the night of
+In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
 
 [[PageBreak]]
 
@@ -1830,9 +1830,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- Title: A Night to Remember - My Encounter with a Ghost  Everyone has had a terrifying experience in their life. For me, it was during a summer vacation in an old house in the countryside. At that time, I was still living in England and had just finished my B1 English course.  On the night of the terrifying incident, my friends and I decided to spend the night at the house to experience the legendary ghost stories associated with it. The excitement grew as we exchanged stories of ghosts, vampires, and other supernatural beings, each trying to outdo the other's tales.  As the night fell, the excitement turned into eeriness as we heard strange noises coming from the attic. Our friends dared us to investigate the source of the noise. A shiver ran down my spine, but I felt an adrenaline rush coursing through my veins. I mustered my courage and climbed up
+- Title: A Night to Remember - My Encounter with a Ghost Everyone has had a terrifying experience in their life. For me, it was during a summer vacation in an old house in the countryside. At that time, I was still living in England and had just finished my B1 English course. On the night of
 
-- In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into Mag's stomach. Mag was astonished and shaking. Then the saboteur grabbed Mag's laptop and ran off down the street. A passer-by chased the saboteur and caught her by the hair, at which point it came off in his hands. Turns out it was a wig. actually, the saboteur was a teenage boy. The couple haven't been caught until now.
+- In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
 
 [[PageBreak]]
 
@@ -1925,8 +1925,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceBA15]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - Missing Text
-choice 2 - To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way. I'm sorry, but the services offered by this company are very bad.
+Missing Text
+To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
 
 [[PageBreak]]
 
@@ -1943,7 +1943,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 
 - Missing Text
 
-- To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way. I'm sorry, but the services offered by this company are very bad.
+- To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
 
 [[PageBreak]]
 
@@ -1953,8 +1953,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA16]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - Missing Text
-choice 2 - Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I was instructed about equipment: I should reclaim it in the good condition. But at first I should complete and submit the online form. I'm sure, It'll be interesting and exciting. cheers, Volobueva Anastasia
+Missing Text
+Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
 
 [[PageBreak]]
 
@@ -1971,7 +1971,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 
 - Missing Text
 
-- Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I was instructed about equipment: I should reclaim it in the good condition. But at first I should complete and submit the online form. I'm sure, It'll be interesting and exciting. cheers, Volobueva Anastasia
+- Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
 
 [[PageBreak]]
 
@@ -1981,8 +1981,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA17]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-choice 1 - If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have only one day to live, it's impossible to save the rarest animal from disappearance (it might take a whole life). That's why I'd like to spend my last hours with people that I love.
-choice 2 - Title: Making a 'To-Do' List of My Dreams  Hello everyone! Today, I would like to talk about an interesting and inspiring topic: Making a 'To-Do' list of dreams. Dreams are like a compass that guides us towards our desired destination in life. Here are some steps to create a list of dreams that will inspire and motivate us to reach our full potential.  Step 1: Identify Your Dreams The first step is to clearly identify what your dreams are. Dreams can be big or small, short-term or long-term. They can be related to your career, education, personal life, or even travel. Take some time to think about what you truly want to achieve in life.  Step 2: Prioritize Your Dreams Once you have identified your dreams, the next step is to prioritize them. Not all dreams can be achieved at the same time, so it'
+If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
+Title: Making a 'To-Do' List of My Dreams Hello everyone! Today, I would like to talk about an interesting and inspiring topic: Making a 'To-Do' list of dreams. Dreams are like a compass that guides us towards our desired destination in life. Here are some steps to create a list of dreams that will inspire and
 
 [[PageBreak]]
 
@@ -1997,9 +1997,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-- If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have only one day to live, it's impossible to save the rarest animal from disappearance (it might take a whole life). That's why I'd like to spend my last hours with people that I love.
+- If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
 
-- Title: Making a 'To-Do' List of My Dreams  Hello everyone! Today, I would like to talk about an interesting and inspiring topic: Making a 'To-Do' list of dreams. Dreams are like a compass that guides us towards our desired destination in life. Here are some steps to create a list of dreams that will inspire and motivate us to reach our full potential.  Step 1: Identify Your Dreams The first step is to clearly identify what your dreams are. Dreams can be big or small, short-term or long-term. They can be related to your career, education, personal life, or even travel. Take some time to think about what you truly want to achieve in life.  Step 2: Prioritize Your Dreams Once you have identified your dreams, the next step is to prioritize them. Not all dreams can be achieved at the same time, so it'
+- Title: Making a 'To-Do' List of My Dreams Hello everyone! Today, I would like to talk about an interesting and inspiring topic: Making a 'To-Do' list of dreams. Dreams are like a compass that guides us towards our desired destination in life. Here are some steps to create a list of dreams that will inspire and
 
 [[PageBreak]]
 
