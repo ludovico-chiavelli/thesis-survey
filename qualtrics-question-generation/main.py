@@ -15,9 +15,12 @@ def main():
 
     # Load the final corpus.
     final_corpus_file = Path('/home/nuvolari/GitHub/thesis-llm-corpus/final_corpus_unf_texts_with_partials.csv').resolve()
-    corpus_df = pd.read_csv(final_corpus_file)
-    # Temporary, only select rows that have LLM text for LLAMA, GEMMA, MISTRAL
-    corpus_df = corpus_df.dropna(subset=['LLAMA_TEXT', 'GEMMA_TEXT', 'MISTRAL_TEXT'])
+    corpus_df = pd.read_csv(final_corpus_file, dtype=str)
+    
+    # temporary.Check for missing values and fill them with a default string if necessary
+    corpus_df['LLAMA_TEXT'].fillna('Missing Text', inplace=True)
+    corpus_df['GEMMA_TEXT'].fillna('Missing Text', inplace=True)
+    corpus_df['MISTRAL_TEXT'].fillna('Missing Text', inplace=True)
 
     # Sample rate question pool.
     ef_rateq_pool, bawe_rateq_pool = sample_rateq_pool(corpus_df)
@@ -28,25 +31,25 @@ def main():
     # Form rate question items.
     rateq_items = []
     for i, text in enumerate(ef_rateq_pool):
-        rateq_items.append(form_rateq_item(text, i))
+        rateq_items.append(form_rateq_item(text, i, source_corp="EF"))
     for i, text in enumerate(bawe_rateq_pool):
-        rateq_items.append(form_rateq_item(text, i))
+        rateq_items.append(form_rateq_item(text, i, source_corp="BA"))
 
     # Form choice question items.
     choiceq_items = []
-    for index, row in ef_choiceq_pool.iterrows():
-        choiceq_items.append(form_choiceq_item(row["HUMAN_TEXT"], row["LLAMA_TEXT"], index))
-    for index, row in bawe_choiceq_pool.iterrows():
-        choiceq_items.append(form_choiceq_item(row["HUMAN_TEXT"], row["LLAMA_TEXT"], index))
+    for index, item in enumerate(ef_choiceq_pool):
+        choiceq_items.append(form_choiceq_item(item[0], item[1], index, source_corp="EF"))
+    for index, item in enumerate(ef_choiceq_pool):
+        choiceq_items.append(form_choiceq_item(item[0], item[1], index, source_corp="BA"))
     
     # Save the items to a file. Each Rate and Choice items are in groups of 3 and 3 respectively within one block. So 1 block has 6 questions all separated by a pagebreak.
     with open('final_corpus_survey_questions.txt', 'w') as file:
         file.write("[[AdvancedFormat]]\n\n")
-        for i in range(6):
-            file.write(f"[[Block: Survey Set {i}]]\n\n")
-            # this only works because len(rateq_items) is a multiple of 3
-            file.write(rateq_items[i*3] + "\n\n" + rateq_items[i*3+1] + "\n\n" + rateq_items[i*3+2] + "\n\n")
-            file.write(choiceq_items[i*3] + "\n\n" + choiceq_items[i*3+1] + "\n\n" + choiceq_items[i*3+2] + "\n\n")
+        for i in range(0, len(rateq_items) - 2, 3):
+            block_num = int(i/3) + 1
+            file.write(f"[[Block: Survey Set {block_num}]]\n\n")
+            file.write(rateq_items[i] + "\n\n" + rateq_items[i+1] + "\n\n" + rateq_items[i+2] + "\n\n")
+            file.write(choiceq_items[i] + "\n\n" + choiceq_items[i+1] + "\n\n" + choiceq_items[i+2] + "\n\n")
     
 
 def sample_rateq_pool(corpus_df: pd.DataFrame) -> Tuple[list, list]:
@@ -80,7 +83,7 @@ def sample_rateq_pool(corpus_df: pd.DataFrame) -> Tuple[list, list]:
 
 
 
-def sample_choiceq_pool(corpus_df: pd.DataFrame) -> Tuple[pd.Series, pd.Series]:
+def sample_choiceq_pool(corpus_df: pd.DataFrame) -> Tuple[list[Tuple[str, str]], list[Tuple[str, str]]]:
     """
     Sample LLM text from the corpus for choice question pool.
     Even split between EFCAMDAT and BAWE. Even split between LLM models.
@@ -100,15 +103,23 @@ def sample_choiceq_pool(corpus_df: pd.DataFrame) -> Tuple[pd.Series, pd.Series]:
     bawe_gemma_entries = bawe_rows[["HUMAN_TEXT", "GEMMA_TEXT"]].sample(n=6)
     bawe_mistral_entries = bawe_rows[["HUMAN_TEXT", "MISTRAL_TEXT"]].sample(n=6)
 
-    # Combine all ef entries into one list.
-    ef_entries = ef_llama_entries + ef_gemma_entries + ef_mistral_entries
-
-    # Combine all bawe entries into one list.
-    bawe_entries = bawe_llama_entries + bawe_gemma_entries + bawe_mistral_entries
+    # Combine all ef entries into one list. Make a list of tuples with (human_text, llama_text) pairs.
+    ef_entries = []
+    bawe_entries = []
+    for index, row in ef_llama_entries.iterrows():
+        ef_entries.append((row["HUMAN_TEXT"], row["LLAMA_TEXT"]))
+        bawe_entries.append((row["HUMAN_TEXT"], row["LLAMA_TEXT"]))
+    for index, row in ef_gemma_entries.iterrows():
+        ef_entries.append((row["HUMAN_TEXT"], row["GEMMA_TEXT"]))
+        bawe_entries.append((row["HUMAN_TEXT"], row["GEMMA_TEXT"]))
+    for index, row in ef_mistral_entries.iterrows():
+        ef_entries.append((row["HUMAN_TEXT"], row["MISTRAL_TEXT"]))
+        bawe_entries.append((row["HUMAN_TEXT"], row["MISTRAL_TEXT"]))
+    
 
     return ef_entries, bawe_entries
 
-def form_rateq_item(llm_text: str, index: int) -> str:
+def form_rateq_item(llm_text: str, index: int, source_corp: str) -> str:
     """
     Form a rate question item from an LLM text.
     """
@@ -122,7 +133,7 @@ def form_rateq_item(llm_text: str, index: int) -> str:
 
     composition = f"""
 [[Question:MC:SingleAnswer:Horizontal]]
-[[ID: Rate{index}]]
+[[ID: Rate{source_corp}{index}]]
 {itemq_rate}
 [[Choices]]
 1 - Definitely AI
@@ -133,13 +144,13 @@ def form_rateq_item(llm_text: str, index: int) -> str:
 [[PageBreak]]
 
 [[Question:TE:Essay]]
-[[ID: Rate{index}why]]
+[[ID: Rate{source_corp}{index}why]]
 {itemq_why}
 
 [[PageBreak]]
 
 [[Question:TE:Essay]]
-[[ID: Rate{index}rewrite]]
+[[ID: Rate{source_corp}{index}rewrite]]
 {itemq_rewrite}
 
 [[PageBreak]]
@@ -147,7 +158,7 @@ def form_rateq_item(llm_text: str, index: int) -> str:
 
     return composition
 
-def form_choiceq_item(human_text: str, llm_text: str, index: int) -> str:
+def form_choiceq_item(human_text: str, llm_text: str, index: int, source_corp: str) -> str:
     """
     Form a choice question item from a human-LLM text pair.
     """
@@ -167,7 +178,7 @@ def form_choiceq_item(human_text: str, llm_text: str, index: int) -> str:
 
     composition = f"""
 [[Question:MC:SingleAnswer:Vertical]]
-[[ID: Choice{index}]]
+[[ID: Choice{source_corp}{index}]]
 {itemq_choice}
 [[Choices]]
 choice 1 - {opt1}
@@ -176,14 +187,15 @@ choice 2 - {opt2}
 [[PageBreak]]
 
 [[Question:TE:Essay]]
-[[ID: Choice{index}why]]
+[[ID: Choice{source_corp}{index}why]]
 {itemq_why}
 
 [[PageBreak]]
 
 [[Question:TE:Essay]]
-[[ID: Choice{index}rewrite]]
+[[ID: Choice{source_corp}{index}rewrite]]
 {itemq_rewrite}
+
 
 - {opt1}
 
