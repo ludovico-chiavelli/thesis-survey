@@ -126,8 +126,9 @@ def form_rateq_item(llm_text: str, index: int, source_corp: str) -> str:
     Form a rate question item from an LLM text.
     """
 
-    # Clean llm_text.
+    # Clean llm_text. Only first 88 words are used.
     llm_text = llm_text.strip().replace("\n", " ")
+    llm_text = " ".join(llm_text.split()[:88]) + "..."
 
     # Form the rate question item.
 
@@ -168,11 +169,14 @@ def form_choiceq_item(human_text: str, llm_text: str, index: int, source_corp: s
     Form a choice question item from a human-LLM text pair.
     """
 
-    # Clean llm_text.
+    # Clean llm_text. Only first 56 words are used.
     llm_text = llm_text.strip().replace("\n", " ")
+    llm_text = " ".join(llm_text.split()[:56]) + "..."
 
-    # Clean human_text.
+    # Clean human_text. Only first 56 words are used, if it even reaches that amount.
     human_text = human_text.strip().replace("\n", " ")
+    max_len = min(56, len(human_text.split()))
+    human_text = " ".join(human_text.split()[:max_len])
 
     # Shuffle the order of the texts.
     options = [human_text, llm_text]
@@ -185,15 +189,15 @@ def form_choiceq_item(human_text: str, llm_text: str, index: int, source_corp: s
     # Form question texts.
     itemq_choice = f"Pick which text sounds more AI-generated."
     itemq_why = f"Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful."
-    itemq_rewrite = f"Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):"
+    itemq_rewrite = f"Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):\n"
 
     composition = f"""
 [[Question:MC:SingleAnswer:Vertical]]
 [[ID: Choice{source_corp}{index}]]
 {itemq_choice}
 [[Choices]]
-choice 1 - {opt1}
-choice 2 - {opt2}
+{opt1}
+{opt2}
 
 [[PageBreak]]
 
@@ -206,7 +210,6 @@ choice 2 - {opt2}
 [[Question:TE:Essay]]
 [[ID: Choice{source_corp}{index}rewrite]]
 {itemq_rewrite}
-
 
 - {opt1}
 
