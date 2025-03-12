@@ -197,8 +197,8 @@ def form_choiceq_item(human_text: str, llm_text: str, index: int, source_corp: s
 [[ID: Choice{source_corp}{index}]]
 {itemq_choice}
 [[Choices]]
-■) - {opt1}
-▲) - {opt2}
+1) {opt1}
+2) {opt2}
 
 [[PageBreak]]
 
@@ -212,9 +212,9 @@ def form_choiceq_item(human_text: str, llm_text: str, index: int, source_corp: s
 [[ID: Choice{source_corp}{index}rewrite]]
 {itemq_rewrite}
 
-■) {opt1}
+1) {opt1}
 
-▲) {opt2}
+2) {opt2}
 
 [[PageBreak]]
 """
