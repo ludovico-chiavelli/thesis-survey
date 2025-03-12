@@ -10,6 +10,8 @@ from typing import Tuple
 
 
 def main():
+    # Set the seed for reproducibility
+    random.seed(42)
     # print(form_rateq_item("This is a test text.", 1))
     # print(form_choiceq_item("This is a human text.", "This is an AI-generated text.", 1))
 
@@ -23,10 +25,10 @@ def main():
     corpus_df['MISTRAL_TEXT'].fillna('Missing Text', inplace=True)
 
     # Sample rate question pool.
-    ef_rateq_pool, bawe_rateq_pool = sample_rateq_pool(corpus_df)
+    ef_rateq_pool, bawe_rateq_pool = sample_rateq_pool(corpus_df, seed=42)
 
     # Sample choice question pool.
-    ef_choiceq_pool, bawe_choiceq_pool = sample_choiceq_pool(corpus_df)
+    ef_choiceq_pool, bawe_choiceq_pool = sample_choiceq_pool(corpus_df, seed=42)
 
     # Form rate question items.
     rateq_items = []
@@ -52,25 +54,25 @@ def main():
             file.write(choiceq_items[i] + "\n\n" + choiceq_items[i+1] + "\n\n" + choiceq_items[i+2] + "\n\n")
     
 
-def sample_rateq_pool(corpus_df: pd.DataFrame) -> Tuple[list, list]:
+def sample_rateq_pool(corpus_df: pd.DataFrame, seed: int) -> Tuple[list, list]:
     """
     Sample LLM text from the corpus for rate question pool.
     Even split between EFCAMDAT and BAWE. Even split between LLM models.
     """
 
     # Sample 36 LLM texts from the corpus. 18 from EFCAMDAT and 18 from BAWE. 6 from each LLM model.
-    ef_rows = corpus_df[corpus_df['CORPUS'] == 'EFCAMDAT'].sample(n=18)
-    bawe_rows = corpus_df[corpus_df['CORPUS'] == 'BAWE'].sample(n=18)
+    ef_rows = corpus_df[corpus_df['CORPUS'] == 'EFCAMDAT'].sample(n=18, random_state=seed)
+    bawe_rows = corpus_df[corpus_df['CORPUS'] == 'BAWE'].sample(n=18, random_state=seed)
 
     # Sample 6 texts from each LLM model for EFCAMDAT entries.
-    ef_llama_entries = ef_rows["LLAMA_TEXT"].sample(n=6)
-    ef_gemma_entries = ef_rows["GEMMA_TEXT"].sample(n=6)
-    ef_mistral_entries = ef_rows["MISTRAL_TEXT"].sample(n=6)
+    ef_llama_entries = ef_rows["LLAMA_TEXT"].sample(n=6, random_state=seed)
+    ef_gemma_entries = ef_rows["GEMMA_TEXT"].sample(n=6, random_state=seed)
+    ef_mistral_entries = ef_rows["MISTRAL_TEXT"].sample(n=6, random_state=seed)
 
     # Sample 6 texts from each LLM model for BAWE entries.
-    bawe_llama_entries = bawe_rows["LLAMA_TEXT"].sample(n=6)
-    bawe_gemma_entries = bawe_rows["GEMMA_TEXT"].sample(n=6)
-    bawe_mistral_entries = bawe_rows["MISTRAL_TEXT"].sample(n=6)
+    bawe_llama_entries = bawe_rows["LLAMA_TEXT"].sample(n=6, random_state=seed)
+    bawe_gemma_entries = bawe_rows["GEMMA_TEXT"].sample(n=6, random_state=seed)
+    bawe_mistral_entries = bawe_rows["MISTRAL_TEXT"].sample(n=6, random_state=seed)
 
     # Convert to list. Combine all ef entries into one list.
     ef_entries = list(ef_llama_entries) + list(ef_gemma_entries) + list(ef_mistral_entries)
@@ -83,25 +85,25 @@ def sample_rateq_pool(corpus_df: pd.DataFrame) -> Tuple[list, list]:
 
 
 
-def sample_choiceq_pool(corpus_df: pd.DataFrame) -> Tuple[list[Tuple[str, str]], list[Tuple[str, str]]]:
+def sample_choiceq_pool(corpus_df: pd.DataFrame, seed: int) -> Tuple[list[Tuple[str, str]], list[Tuple[str, str]]]:
     """
     Sample LLM text from the corpus for choice question pool.
     Even split between EFCAMDAT and BAWE. Even split between LLM models.
     """
 
     # Sample 36 human-LLM text pairs from the corpus. 18 from EFCAMDAT and 18 from BAWE. 6 from each LLM model.
-    ef_rows = corpus_df[corpus_df['CORPUS'] == 'EFCAMDAT'].sample(n=18)
-    bawe_rows = corpus_df[corpus_df['CORPUS'] == 'BAWE'].sample(n=18)
+    ef_rows = corpus_df[corpus_df['CORPUS'] == 'EFCAMDAT'].sample(n=18, random_state=seed)
+    bawe_rows = corpus_df[corpus_df['CORPUS'] == 'BAWE'].sample(n=18, random_state=seed)
 
     # Sample 6 human and LLM text pairs from each LLM model for EFCAMDAT entries.
-    ef_llama_entries = ef_rows[["HUMAN_TEXT", "LLAMA_TEXT"]].sample(n=6)
-    ef_gemma_entries = ef_rows[["HUMAN_TEXT", "GEMMA_TEXT"]].sample(n=6)
-    ef_mistral_entries = ef_rows[["HUMAN_TEXT", "MISTRAL_TEXT"]].sample(n=6)
+    ef_llama_entries = ef_rows[["HUMAN_TEXT", "LLAMA_TEXT"]].sample(n=6, random_state=seed)
+    ef_gemma_entries = ef_rows[["HUMAN_TEXT", "GEMMA_TEXT"]].sample(n=6, random_state=seed)
+    ef_mistral_entries = ef_rows[["HUMAN_TEXT", "MISTRAL_TEXT"]].sample(n=6, random_state=seed)
 
     # Sample 6 human and LLM text pairs from each LLM model for BAWE entries.
-    bawe_llama_entries = bawe_rows[["HUMAN_TEXT", "LLAMA_TEXT"]].sample(n=6)
-    bawe_gemma_entries = bawe_rows[["HUMAN_TEXT", "GEMMA_TEXT"]].sample(n=6)
-    bawe_mistral_entries = bawe_rows[["HUMAN_TEXT", "MISTRAL_TEXT"]].sample(n=6)
+    bawe_llama_entries = bawe_rows[["HUMAN_TEXT", "LLAMA_TEXT"]].sample(n=6, random_state=seed)
+    bawe_gemma_entries = bawe_rows[["HUMAN_TEXT", "GEMMA_TEXT"]].sample(n=6, random_state=seed)
+    bawe_mistral_entries = bawe_rows[["HUMAN_TEXT", "MISTRAL_TEXT"]].sample(n=6, random_state=seed)
 
     # Combine all ef entries into one list. Make a list of tuples with (human_text, llama_text) pairs.
     ef_entries = []
@@ -123,6 +125,9 @@ def form_rateq_item(llm_text: str, index: int, source_corp: str) -> str:
     """
     Form a rate question item from an LLM text.
     """
+
+    # Clean llm_text.
+    llm_text = llm_text.strip().replace("\n", " ")
 
     # Form the rate question item.
 
@@ -162,6 +167,12 @@ def form_choiceq_item(human_text: str, llm_text: str, index: int, source_corp: s
     """
     Form a choice question item from a human-LLM text pair.
     """
+
+    # Clean llm_text.
+    llm_text = llm_text.strip().replace("\n", " ")
+
+    # Clean human_text.
+    human_text = human_text.strip().replace("\n", " ")
 
     # Shuffle the order of the texts.
     options = [human_text, llm_text]
