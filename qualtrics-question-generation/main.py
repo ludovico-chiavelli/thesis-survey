@@ -133,7 +133,8 @@ def form_rateq_item(llm_text: str, index: int, source_corp: str) -> str:
     # Form the rate question item.
 
     # Form question texts.
-    itemq_rate = f"Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).\n\n\"{llm_text}\""
+    # the new line characters don't affect import. Just make the txt file more readable.
+    itemq_rate = f"Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): \n\n\"{llm_text}\""
     itemq_why = f"Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful."
     itemq_rewrite = f'Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.'
 
@@ -196,8 +197,8 @@ def form_choiceq_item(human_text: str, llm_text: str, index: int, source_corp: s
 [[ID: Choice{source_corp}{index}]]
 {itemq_choice}
 [[Choices]]
-{opt1}
-{opt2}
+■) - {opt1}
+▲) - {opt2}
 
 [[PageBreak]]
 
@@ -211,9 +212,9 @@ def form_choiceq_item(human_text: str, llm_text: str, index: int, source_corp: s
 [[ID: Choice{source_corp}{index}rewrite]]
 {itemq_rewrite}
 
-- {opt1}
+■) {opt1}
 
-- {opt2}
+▲) {opt2}
 
 [[PageBreak]]
 """
