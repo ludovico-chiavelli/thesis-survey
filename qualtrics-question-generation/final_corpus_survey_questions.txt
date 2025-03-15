@@ -7,7 +7,7 @@
 [[ID: RateEF0]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Here is a sample text: The world's best burger is now at your fingertips! Enjoy your juicy and fresh burgers at Burger Delight, your new favourite destination. Experience the delicious taste of freshly grilled burgers made from high-quality beef. Our expert chefs create mouthwatering meals that will satisfy your cravings and leave you wanting more! Try Burger Delight today and treat yourself to a culinary experience like no other. Your satisfaction is our top priority. Here are some questions for you to answer: 1. What is the main..."
+"The task requires you to use vocabulary and sentence structures that would be appropriate for B1 level learners. Writing a Natural Remedies Pamphlet Are you tired of taking medicines? Would you like to use natural remedies instead? Natural remedies are substances found in nature, like plants, herbs and minerals, that can help cure and prevent illnesses. In this pamphlet, we will introduce you to some of the most common natural remedies. Ginger is a natural remedy that can help with nausea and digestion. To make ginger tea, you..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -34,7 +34,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateEF1]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"It was a dark and stormy night in London when I had a terrifying experience. I was walking home from a friend's house in the Hackney area. The heavy rain was falling and the strong wind was blowing so hard that it made it difficult to see and hear anything. I was wearing a thin coat and no umbrella, so I got wet immediately. As I walked, the strong gust of wind knocked me down and I fell onto the ground. When I stood up, I realized that..."
+"Making a business proposal is an important task in the business world. When someone is planning to start a business, they usually need a proposal to convince investors to support their project. A business proposal is like a written document that explains what your business is about, how you plan to make money, and why it is going to be successful. In a business proposal, there are several important sections that need to be included. The first one is the executive summary. This section should be a brief..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -61,7 +61,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateEF2]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Using 5 transitional phrases in your words. Meanwhile, I remember the time when I was a teenager. It was dark and stormy outside. However, I was so excited because my friends and I were planning a camping trip in the mountains. Unfortunately, we decided to set up our tents in a place that was not recommended. Consequently, the strong wind began to blow our tents down. I was terrified. In the middle of the night, I heard a loud noise outside my tent. Therefore, I ran out of..."
+"“Attending a leadership course has broadened my knowledge on leadership skills and how to interact with people.” I am writing this essay for the IELTS exam. The course, which I attended recently, was very useful. Firstly, it helped me to learn new information on leadership skills. From the start, I knew that I wanted to become a better leader, and the course provided the knowledge I needed to make progress in that goal. One of the things that struck me during the course was the importance of communication..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -88,8 +88,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceEF0]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
-2) Here is a sample text: The world's best burger is now at your fingertips! Enjoy your juicy and fresh burgers at Burger Delight, your new favourite destination. Experience the delicious taste of freshly grilled burgers made from high-quality beef. Our expert chefs create mouthwatering meals that will satisfy your cravings and leave you wanting more! Try...
+1) Home remedies from my Grandmother. . If you have a sore throat, take a spoonful of honey and ginger, three times a day. . If you suffer from congestion, make a poultice of mustard powder mixed with water, and place it on your chest during half an hour, for three days. . For the immune system,
+2) The task requires you to use vocabulary and sentence structures that would be appropriate for B1 level learners. Writing a Natural Remedies Pamphlet Are you tired of taking medicines? Would you like to use natural remedies instead? Natural remedies are substances found in nature, like plants, herbs and minerals, that can help cure and prevent illnesses....
 
 [[PageBreak]]
 
@@ -104,9 +104,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
+1) Home remedies from my Grandmother. . If you have a sore throat, take a spoonful of honey and ginger, three times a day. . If you suffer from congestion, make a poultice of mustard powder mixed with water, and place it on your chest during half an hour, for three days. . For the immune system,
 
-2) Here is a sample text: The world's best burger is now at your fingertips! Enjoy your juicy and fresh burgers at Burger Delight, your new favourite destination. Experience the delicious taste of freshly grilled burgers made from high-quality beef. Our expert chefs create mouthwatering meals that will satisfy your cravings and leave you wanting more! Try...
+2) The task requires you to use vocabulary and sentence structures that would be appropriate for B1 level learners. Writing a Natural Remedies Pamphlet Are you tired of taking medicines? Would you like to use natural remedies instead? Natural remedies are substances found in nature, like plants, herbs and minerals, that can help cure and prevent illnesses....
 
 [[PageBreak]]
 
@@ -116,8 +116,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF1]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
-2) It was a dark and stormy night in London when I had a terrifying experience. I was walking home from a friend's house in the Hackney area. The heavy rain was falling and the strong wind was blowing so hard that it made it difficult to see and hear anything. I was wearing a thin coat...
+1) thanks for your interest in our product. we have ready-made and customer-made products and we can offer you the best quality at low price with our 30 years pen making experience, as your special request, we can give you $2.5 for a pen and $1.8 for a notebook with your company name and logo. if the
+2) Making a business proposal is an important task in the business world. When someone is planning to start a business, they usually need a proposal to convince investors to support their project. A business proposal is like a written document that explains what your business is about, how you plan to make money, and why it...
 
 [[PageBreak]]
 
@@ -132,9 +132,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
+1) thanks for your interest in our product. we have ready-made and customer-made products and we can offer you the best quality at low price with our 30 years pen making experience, as your special request, we can give you $2.5 for a pen and $1.8 for a notebook with your company name and logo. if the
 
-2) It was a dark and stormy night in London when I had a terrifying experience. I was walking home from a friend's house in the Hackney area. The heavy rain was falling and the strong wind was blowing so hard that it made it difficult to see and hear anything. I was wearing a thin coat...
+2) Making a business proposal is an important task in the business world. When someone is planning to start a business, they usually need a proposal to convince investors to support their project. A business proposal is like a written document that explains what your business is about, how you plan to make money, and why it...
 
 [[PageBreak]]
 
@@ -144,8 +144,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF2]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) Using 5 transitional phrases in your words. Meanwhile, I remember the time when I was a teenager. It was dark and stormy outside. However, I was so excited because my friends and I were planning a camping trip in the mountains. Unfortunately, we decided to set up our tents in a place that was not recommended....
-2) In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
+1) “Attending a leadership course has broadened my knowledge on leadership skills and how to interact with people.” I am writing this essay for the IELTS exam. The course, which I attended recently, was very useful. Firstly, it helped me to learn new information on leadership skills. From the start, I knew that I wanted to become...
+2) Dear colleagues, I'd like to report you about the management course I took part in recently. To begin with, be aware of the fact that anyone can learn the skills to be a good manager. You needn't be "a born leader". What are the skills for a good manager? firstly, you should have the ability of
 
 [[PageBreak]]
 
@@ -160,9 +160,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) Using 5 transitional phrases in your words. Meanwhile, I remember the time when I was a teenager. It was dark and stormy outside. However, I was so excited because my friends and I were planning a camping trip in the mountains. Unfortunately, we decided to set up our tents in a place that was not recommended....
+1) “Attending a leadership course has broadened my knowledge on leadership skills and how to interact with people.” I am writing this essay for the IELTS exam. The course, which I attended recently, was very useful. Firstly, it helped me to learn new information on leadership skills. From the start, I knew that I wanted to become...
 
-2) In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
+2) Dear colleagues, I'd like to report you about the management course I took part in recently. To begin with, be aware of the fact that anyone can learn the skills to be a good manager. You needn't be "a born leader". What are the skills for a good manager? firstly, you should have the ability of
 
 [[PageBreak]]
 
@@ -174,7 +174,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: RateEF3]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"What does it mean to you? Interpreting a prophecy is to understand a prediction or a message from the past. Prophecy is a statement about the future that has been made or believed to be made by a person or a group. In the Bible, many prophecies are about God's plan for humanity. If we can interpret prophecy correctly, it can help us understand God's will and our destiny. I have learned about a prophecy that said, "A great king will come to power and bring peace to..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -201,7 +201,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateEF4]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"Conducting a performance appraisal is a regular activity which is carried out to assess the performance of an employee. Performance appraisal is also called annual appraisal. The main goal of conducting a performance appraisal is to identify the areas where the employee needs improvement or where the employee can be rewarded. It is also to give the employee feedback about their performance, positive and negative, in the previous year. The process is generally conducted between the employee and their immediate supervisor or manager. The meeting between the two..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -228,7 +228,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateEF5]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"If your list is realistic and practical, it is more likely that you will achieve your goals. In order to make our dreams come true, we need to be realistic about them. We have to think carefully about what we want to do. Then, write it down on a list. This list is called a 'to-do' list. I think that making a 'to-do' list is a very good idea because it helps us to focus and be more efficient. It also makes it easier to achieve our goals...."
+"You should be: - use a variety of vocabulary related to management and staff behavior; - use the following grammatical structures: - the passive voice (be reported to /be investigated, etc.) - the conditional (e.g. if something happens, I will take, etc.) - tenses: present simple, past simple, future simple - use an active voice for most of the part - be concise Here is an example of a warning that is typically issued to a staff member in the company where you work: To: [Staff Member's Name]..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -255,8 +255,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceEF3]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
-2) Missing Text...
+1) In the first picture we can see a probable collision of the an asteroid with our planet. Everyone in the earth knows that we are not prepared to deal with a collision caused by a big asteroid. We have learnt in science books about the last time we had a big collision caused by a asteroid
+2) What does it mean to you? Interpreting a prophecy is to understand a prediction or a message from the past. Prophecy is a statement about the future that has been made or believed to be made by a person or a group. In the Bible, many prophecies are about God's plan for humanity. If we can...
 
 [[PageBreak]]
 
@@ -271,9 +271,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
+1) In the first picture we can see a probable collision of the an asteroid with our planet. Everyone in the earth knows that we are not prepared to deal with a collision caused by a big asteroid. We have learnt in science books about the last time we had a big collision caused by a asteroid
 
-2) Missing Text...
+2) What does it mean to you? Interpreting a prophecy is to understand a prediction or a message from the past. Prophecy is a statement about the future that has been made or believed to be made by a person or a group. In the Bible, many prophecies are about God's plan for humanity. If we can...
 
 [[PageBreak]]
 
@@ -283,8 +283,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF4]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
-2) Missing Text...
+1) Hey. My name is Wellington Silva. It's been days I'm looking for a training course for a guy who works at my company and found you web site, and found an appropriate course. I think his name: communication skills. This is the course he needs, I'm looking for something to give to the motivation, win-win results
+2) Conducting a performance appraisal is a regular activity which is carried out to assess the performance of an employee. Performance appraisal is also called annual appraisal. The main goal of conducting a performance appraisal is to identify the areas where the employee needs improvement or where the employee can be rewarded. It is also to give...
 
 [[PageBreak]]
 
@@ -299,9 +299,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
+1) Hey. My name is Wellington Silva. It's been days I'm looking for a training course for a guy who works at my company and found you web site, and found an appropriate course. I think his name: communication skills. This is the course he needs, I'm looking for something to give to the motivation, win-win results
 
-2) Missing Text...
+2) Conducting a performance appraisal is a regular activity which is carried out to assess the performance of an employee. Performance appraisal is also called annual appraisal. The main goal of conducting a performance appraisal is to identify the areas where the employee needs improvement or where the employee can be rewarded. It is also to give...
 
 [[PageBreak]]
 
@@ -311,8 +311,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF5]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
-2) If your list is realistic and practical, it is more likely that you will achieve your goals. In order to make our dreams come true, we need to be realistic about them. We have to think carefully about what we want to do. Then, write it down on a list. This list is called a 'to-do'...
+1) Some serious problems have been brought to my attention relating to your working style and habits. This is a formal letter of warning to ask you to improve your work. As you know, this enterprise is focused in sales but we have also main drivers as the quality, Order and teamwork as our guidelines, and you
+2) You should be: - use a variety of vocabulary related to management and staff behavior; - use the following grammatical structures: - the passive voice (be reported to /be investigated, etc.) - the conditional (e.g. if something happens, I will take, etc.) - tenses: present simple, past simple, future simple - use an active voice for...
 
 [[PageBreak]]
 
@@ -327,9 +327,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
+1) Some serious problems have been brought to my attention relating to your working style and habits. This is a formal letter of warning to ask you to improve your work. As you know, this enterprise is focused in sales but we have also main drivers as the quality, Order and teamwork as our guidelines, and you
 
-2) If your list is realistic and practical, it is more likely that you will achieve your goals. In order to make our dreams come true, we need to be realistic about them. We have to think carefully about what we want to do. Then, write it down on a list. This list is called a 'to-do'...
+2) You should be: - use a variety of vocabulary related to management and staff behavior; - use the following grammatical structures: - the passive voice (be reported to /be investigated, etc.) - the conditional (e.g. if something happens, I will take, etc.) - tenses: present simple, past simple, future simple - use an active voice for...
 
 [[PageBreak]]
 
@@ -341,7 +341,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: RateEF6]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"## Crafting the Perfect Catchphrase: A Blurb's Secret Weapon As a B1 English learner, I've discovered the power of words in advertising. A simple blurb, that tiny paragraph packed with information and personality, can capture attention and make you want to buy something. Writing a good blurb is like brewing the perfect cup of tea. You need the right ingredients and the right touch. First, **know your audience**. Who are you trying to reach? What are their needs and desires? Second, **highlight the benefits**, not just the features...."
+"## Raising Your Voice: How to Write a Complaint Letter Learning a new language opens up a world of possibilities, but sometimes, it can also be frustrating. Imagine you buy a faulty electronic device, a hotel room falls short of expectations, or a service fails to meet your needs. It's natural to feel disappointed and want to express your dissatisfaction. That's where writing a complaint letter comes in. At B1 level, you can already understand and use a good variety of vocabulary and grammar structures. This allows you..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -368,7 +368,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateEF7]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"## The Night the Wind Whispered Secrets I had never been particularly afraid of storms. Sure, the rain drumming on the roof could be a bit noisy, and the wind sometimes rattled the windows, but I always found a strange comfort in the power of nature. Until that night. The storm came suddenly, a dark wall of clouds blotting out the sun. The wind picked up, howling like a banshee around my small house. Branches snapped like twigs, and I could feel the whole building shiver under the..."
+"Business trips can be tiring but also very rewarding. Last month, I went on a business trip to Berlin. The purpose of the trip was to attend a conference on sustainable development. I was very excited to go. I had never been to Germany before, and I was eager to explore the city. The flight was long, but I managed to get some sleep. When I arrived in Berlin, I checked into my hotel and then went for a walk to get my bearings. The city is beautiful,..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -395,7 +395,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateEF8]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"The screech of the brakes ripped through the silence of the night, jolting me awake. My heart pounded against my ribs, a frantic drumbeat keeping pace with the roaring sound of the truck engine. I had been dozing in the back seat of my father's pickup truck, heading back home after a late dinner at a friend's house. Now, bathed in the harsh glare of oncoming headlights, I realized with a sickening lurch that we were veering off the road, hurtling towards a steep embankment. Time seemed to..."
+"## Museum of the Unexpected: Discover the Extraordinary in the Ordinary **Welcome to the Museum of the Unexpected!** Prepare to journey beyond the ordinary and uncover the hidden wonder in everyday objects. Here, we explore the art, history, and stories behind the seemingly mundane. **What to Expect:** * **Interactive Exhibits:** Engage all your senses as you delve into the fascinating world of forgotten inventions, curious collectibles, and forgotten traditions. * **Storytelling Through Objects:** Each exhibit is carefully curated to tell a captivating tale, connecting objects from the past..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -422,8 +422,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceEF6]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
-2) ## Crafting the Perfect Catchphrase: A Blurb's Secret Weapon As a B1 English learner, I've discovered the power of words in advertising. A simple blurb, that tiny paragraph packed with information and personality, can capture attention and make you want to buy something. Writing a good blurb is like brewing the perfect cup of tea. You...
+1) I would like to complain about my holidays with Blue Cruise Alaska. It was awful in my life. The company promised a wonderful cruise on a comfortable and save ship and show us a lots of wild animals. But in fact, it was a little dreadful very slow boat that had problems with its engine every
+2) ## Raising Your Voice: How to Write a Complaint Letter Learning a new language opens up a world of possibilities, but sometimes, it can also be frustrating. Imagine you buy a faulty electronic device, a hotel room falls short of expectations, or a service fails to meet your needs. It's natural to feel disappointed and want...
 
 [[PageBreak]]
 
@@ -438,9 +438,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
+1) I would like to complain about my holidays with Blue Cruise Alaska. It was awful in my life. The company promised a wonderful cruise on a comfortable and save ship and show us a lots of wild animals. But in fact, it was a little dreadful very slow boat that had problems with its engine every
 
-2) ## Crafting the Perfect Catchphrase: A Blurb's Secret Weapon As a B1 English learner, I've discovered the power of words in advertising. A simple blurb, that tiny paragraph packed with information and personality, can capture attention and make you want to buy something. Writing a good blurb is like brewing the perfect cup of tea. You...
+2) ## Raising Your Voice: How to Write a Complaint Letter Learning a new language opens up a world of possibilities, but sometimes, it can also be frustrating. Imagine you buy a faulty electronic device, a hotel room falls short of expectations, or a service fails to meet your needs. It's natural to feel disappointed and want...
 
 [[PageBreak]]
 
@@ -450,8 +450,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF7]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
-2) ## The Night the Wind Whispered Secrets I had never been particularly afraid of storms. Sure, the rain drumming on the roof could be a bit noisy, and the wind sometimes rattled the windows, but I always found a strange comfort in the power of nature. Until that night. The storm came suddenly, a dark wall...
+1) It was the first time for me to travel so i a bit disappointed! I didn't know that I had to get a landing card! thanks Brooke, she told me to do my visa! I meet and old friend in the airplot shuttle! it was nice to meet him! actually, I'm in Russia. I have got
+2) Business trips can be tiring but also very rewarding. Last month, I went on a business trip to Berlin. The purpose of the trip was to attend a conference on sustainable development. I was very excited to go. I had never been to Germany before, and I was eager to explore the city. The flight was...
 
 [[PageBreak]]
 
@@ -466,9 +466,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
+1) It was the first time for me to travel so i a bit disappointed! I didn't know that I had to get a landing card! thanks Brooke, she told me to do my visa! I meet and old friend in the airplot shuttle! it was nice to meet him! actually, I'm in Russia. I have got
 
-2) ## The Night the Wind Whispered Secrets I had never been particularly afraid of storms. Sure, the rain drumming on the roof could be a bit noisy, and the wind sometimes rattled the windows, but I always found a strange comfort in the power of nature. Until that night. The storm came suddenly, a dark wall...
+2) Business trips can be tiring but also very rewarding. Last month, I went on a business trip to Berlin. The purpose of the trip was to attend a conference on sustainable development. I was very excited to go. I had never been to Germany before, and I was eager to explore the city. The flight was...
 
 [[PageBreak]]
 
@@ -478,8 +478,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF8]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) The screech of the brakes ripped through the silence of the night, jolting me awake. My heart pounded against my ribs, a frantic drumbeat keeping pace with the roaring sound of the truck engine. I had been dozing in the back seat of my father's pickup truck, heading back home after a late dinner at a...
-2) In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
+1) ## Museum of the Unexpected: Discover the Extraordinary in the Ordinary **Welcome to the Museum of the Unexpected!** Prepare to journey beyond the ordinary and uncover the hidden wonder in everyday objects. Here, we explore the art, history, and stories behind the seemingly mundane. **What to Expect:** * **Interactive Exhibits:** Engage all your senses as you...
+2) This brochure aims at explaining 3 important paintings that have been exhibiting by this Museum. The first one is an impressionist painting, made by Claude Monet in 1874. This painting was done at the bridge and it shows the river and boats. Monet used many impressionist technics, like the use of many different colors to show
 
 [[PageBreak]]
 
@@ -494,9 +494,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) The screech of the brakes ripped through the silence of the night, jolting me awake. My heart pounded against my ribs, a frantic drumbeat keeping pace with the roaring sound of the truck engine. I had been dozing in the back seat of my father's pickup truck, heading back home after a late dinner at a...
+1) ## Museum of the Unexpected: Discover the Extraordinary in the Ordinary **Welcome to the Museum of the Unexpected!** Prepare to journey beyond the ordinary and uncover the hidden wonder in everyday objects. Here, we explore the art, history, and stories behind the seemingly mundane. **What to Expect:** * **Interactive Exhibits:** Engage all your senses as you...
 
-2) In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
+2) This brochure aims at explaining 3 important paintings that have been exhibiting by this Museum. The first one is an impressionist painting, made by Claude Monet in 1874. This painting was done at the bridge and it shows the river and boats. Monet used many impressionist technics, like the use of many different colors to show
 
 [[PageBreak]]
 
@@ -508,7 +508,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: RateEF9]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"Choosing a Renewable Energy Source As global warming becomes a more pressing issue, finding clean and sustainable energy sources is crucial. Renewable energy, derived from naturally replenishing resources, offers a promising solution. However, choosing the right renewable energy source for a particular situation can be complex. Several factors should be considered when making this decision. Firstly, **location** plays a vital role. Solar energy is abundant in sunny regions, while wind power thrives in areas with strong and consistent winds. Hydropower, on the other hand, requires access to flowing..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -535,7 +535,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateEF10]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"Attending a leadership course has been a truly transformative experience for me. As someone who is still learning English, I was initially hesitant to join, but the opportunity to develop my leadership skills was too good to pass up. The course itself was incredibly well-structured, with a mix of interactive exercises, group discussions, and guest lectures from inspiring leaders. I particularly enjoyed the role-playing activities, which allowed me to practice my communication skills in a safe and supportive environment. One of the most valuable aspects of the course..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -562,7 +562,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateEF11]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Making a 'To Do' List of Dreams At B1 level, I'm just starting to feel comfortable expressing myself in English. But my dreams, they go beyond any language barrier! They are powerful, exciting, and sometimes even a little scary. So, I thought to myself, why not write them down, make a 'to do' list of my dreams, to make them feel real? First, there's travelling the world. I want to explore ancient ruins, climb snowy mountains, and lay on sunny beaches in faraway lands. Not just as a..."
+"## Untangling Language: A Look at Natural Language Processing Techniques Natural Language Processing (NLP) is revolutionizing the way we interact with computers. Once a realm of science fiction, NLP now enables machines to understand, interpret, and generate human language with increasing accuracy. As a learner of English, I'm fascinated by the complexity of language and the ingenuity of researchers who are developing techniques to bridge the gap between human communication and machine understanding. One key technique is **tokenization**, which involves breaking down text into smaller units like words..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -589,8 +589,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceEF9]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
-2) Missing Text...
+1) I'm a firm believer that solar energy would be beneficial to our city as our city isn't by a river or located in a windy area. Moreover, there are a lot of sunny days in central Europe which we can use to transform sun rays into energy. A major advantage is that people usually have bigger
+2) Choosing a Renewable Energy Source As global warming becomes a more pressing issue, finding clean and sustainable energy sources is crucial. Renewable energy, derived from naturally replenishing resources, offers a promising solution. However, choosing the right renewable energy source for a particular situation can be complex. Several factors should be considered when making this decision. Firstly,...
 
 [[PageBreak]]
 
@@ -605,9 +605,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
+1) I'm a firm believer that solar energy would be beneficial to our city as our city isn't by a river or located in a windy area. Moreover, there are a lot of sunny days in central Europe which we can use to transform sun rays into energy. A major advantage is that people usually have bigger
 
-2) Missing Text...
+2) Choosing a Renewable Energy Source As global warming becomes a more pressing issue, finding clean and sustainable energy sources is crucial. Renewable energy, derived from naturally replenishing resources, offers a promising solution. However, choosing the right renewable energy source for a particular situation can be complex. Several factors should be considered when making this decision. Firstly,...
 
 [[PageBreak]]
 
@@ -617,8 +617,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF10]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
-2) Missing Text...
+1) firstly, our teacher thaught us about dealing with difficulties, which means to take control of a situation. Very important is to weigh up pros and cons, because you have to make difficult decisions.secondly there is the attitude to the future . That means, that you have think clear when it comes to goal setting.She explained, that
+2) Attending a leadership course has been a truly transformative experience for me. As someone who is still learning English, I was initially hesitant to join, but the opportunity to develop my leadership skills was too good to pass up. The course itself was incredibly well-structured, with a mix of interactive exercises, group discussions, and guest lectures...
 
 [[PageBreak]]
 
@@ -633,9 +633,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
+1) firstly, our teacher thaught us about dealing with difficulties, which means to take control of a situation. Very important is to weigh up pros and cons, because you have to make difficult decisions.secondly there is the attitude to the future . That means, that you have think clear when it comes to goal setting.She explained, that
 
-2) Missing Text...
+2) Attending a leadership course has been a truly transformative experience for me. As someone who is still learning English, I was initially hesitant to join, but the opportunity to develop my leadership skills was too good to pass up. The course itself was incredibly well-structured, with a mix of interactive exercises, group discussions, and guest lectures...
 
 [[PageBreak]]
 
@@ -645,8 +645,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF11]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
-2) Making a 'To Do' List of Dreams At B1 level, I'm just starting to feel comfortable expressing myself in English. But my dreams, they go beyond any language barrier! They are powerful, exciting, and sometimes even a little scary. So, I thought to myself, why not write them down, make a 'to do' list of my...
+1) client: A young mother with two daughters, one a toddler and the other one, may be 3 to 4 yrs old. situation: My client works from home, usually in the afternoon, while the toddler naps. Problem:During the client's work time the other daughter is home and always interferes during inappropriate work times. consequences: My client feels
+2) ## Untangling Language: A Look at Natural Language Processing Techniques Natural Language Processing (NLP) is revolutionizing the way we interact with computers. Once a realm of science fiction, NLP now enables machines to understand, interpret, and generate human language with increasing accuracy. As a learner of English, I'm fascinated by the complexity of language and the...
 
 [[PageBreak]]
 
@@ -661,9 +661,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
+1) client: A young mother with two daughters, one a toddler and the other one, may be 3 to 4 yrs old. situation: My client works from home, usually in the afternoon, while the toddler naps. Problem:During the client's work time the other daughter is home and always interferes during inappropriate work times. consequences: My client feels
 
-2) Making a 'To Do' List of Dreams At B1 level, I'm just starting to feel comfortable expressing myself in English. But my dreams, they go beyond any language barrier! They are powerful, exciting, and sometimes even a little scary. So, I thought to myself, why not write them down, make a 'to do' list of my...
+2) ## Untangling Language: A Look at Natural Language Processing Techniques Natural Language Processing (NLP) is revolutionizing the way we interact with computers. Once a realm of science fiction, NLP now enables machines to understand, interpret, and generate human language with increasing accuracy. As a learner of English, I'm fascinated by the complexity of language and the...
 
 [[PageBreak]]
 
@@ -675,7 +675,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: RateEF12]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Title: Writing an Advertising Blurb: Tips for English Learners at B1 Level Introduction: Hello, dear English learners! In today's world, understanding advertising is essential. One important part of advertising is the "blurb," a brief description that sells a product or service. Let's explore the basics of writing an effective advertising blurb, especially for those at the B1 level. 1. Keep it Simple: As a beginner, it's crucial to keep your language simple and easy to understand. Avoid complex sentences and difficult vocabulary. Stick to common, everyday words and..."
+"Title: Writing Safety Guidelines: Essential Steps to Ensure a Safer Workplace Introduction: In today's fast-paced world, workplaces can often be high-risk environments. To maintain a safe and productive workplace, it is crucial to have a set of comprehensive safety guidelines in place. This article will outline essential steps to help businesses create effective safety guidelines, ensuring a safer work environment for everyone. 1. Identify potential hazards: The first step in creating safety guidelines is to identify the potential hazards present in the workplace. This involves conducting a thorough..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -702,7 +702,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateEF13]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Title: A Harrowing Encounter with a Wild Bear In the vast, tranquil forest of Whispering Woods, I found myself one day, lost and alone. It was as if the entire world was asleep, cloaked in the dark embrace of the night. I, however, was wide-awake, my heart pounding in my chest like a scared little bird. I had strayed from the familiar path while trying to find the elusive glow-in-the-dark flowers that the locals spoke of, my curiosity getting the better of me. As the sun dipped below..."
+"Title: Finding a Luxury Home for a Distinguished Client A wealthy client is searching for a new home, and I, as a dedicated real estate agent, have the responsibility of finding the perfect luxury property to match their desires and expectations. The process begins with a thorough understanding of the client's preferences and requirements. I ask questions about their preferred location, style of property, number of bedrooms and bathrooms, and any specific features they may desire, such as a home theater, swimming pool, or rooftop garden. Next, I..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -729,7 +729,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateEF14]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Title: A Night to Remember - My Encounter with a Ghost Everyone has had a terrifying experience in their life. For me, it was during a summer vacation in an old house in the countryside. At that time, I was still living in England and had just finished my B1 English course. On the night of the terrifying incident, my friends and I decided to spend the night at the house to experience the legendary ghost stories associated with it. The excitement grew as we exchanged stories of..."
+"Title: Selling Items in an Online Auction: A Beginner's Guide Hello everyone! Are you considering selling some items online but don't know where to start? Online auctions might be the perfect solution for you. In this guide, I will show you the steps to sell items in an online auction, especially for those who are beginners. First, you'll need to choose a reputable online auction site. Some popular ones include eBay, Amazon Auctions, and Craigslist. Research the site and read reviews from other sellers to ensure it's reliable..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -756,8 +756,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceEF12]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
-2) Title: Writing an Advertising Blurb: Tips for English Learners at B1 Level Introduction: Hello, dear English learners! In today's world, understanding advertising is essential. One important part of advertising is the "blurb," a brief description that sells a product or service. Let's explore the basics of writing an effective advertising blurb, especially for those at the...
+1) tsunami warning tsunami alert: - If you hear an alarm and when you hear it you should to get out of your hotel. - You will find exit to the stairway. - Don't take the elevator. - You should look at evacuation map tsunami warning: - You will have two hours to get to safety. -
+2) Title: Writing Safety Guidelines: Essential Steps to Ensure a Safer Workplace Introduction: In today's fast-paced world, workplaces can often be high-risk environments. To maintain a safe and productive workplace, it is crucial to have a set of comprehensive safety guidelines in place. This article will outline essential steps to help businesses create effective safety guidelines, ensuring...
 
 [[PageBreak]]
 
@@ -772,9 +772,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
+1) tsunami warning tsunami alert: - If you hear an alarm and when you hear it you should to get out of your hotel. - You will find exit to the stairway. - Don't take the elevator. - You should look at evacuation map tsunami warning: - You will have two hours to get to safety. -
 
-2) Title: Writing an Advertising Blurb: Tips for English Learners at B1 Level Introduction: Hello, dear English learners! In today's world, understanding advertising is essential. One important part of advertising is the "blurb," a brief description that sells a product or service. Let's explore the basics of writing an effective advertising blurb, especially for those at the...
+2) Title: Writing Safety Guidelines: Essential Steps to Ensure a Safer Workplace Introduction: In today's fast-paced world, workplaces can often be high-risk environments. To maintain a safe and productive workplace, it is crucial to have a set of comprehensive safety guidelines in place. This article will outline essential steps to help businesses create effective safety guidelines, ensuring...
 
 [[PageBreak]]
 
@@ -784,8 +784,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF13]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
-2) Title: A Harrowing Encounter with a Wild Bear In the vast, tranquil forest of Whispering Woods, I found myself one day, lost and alone. It was as if the entire world was asleep, cloaked in the dark embrace of the night. I, however, was wide-awake, my heart pounding in my chest like a scared little bird....
+1) Property n. 1: It doesn't fulfill the criteria Ms. Blight has pointed out. First of all, it looks like a poky house: just one bedroom, while the Blight family needs three ones. On the other hand it has land enough to extend the building, but in Greece it means making a lot of papers and having
+2) Title: Finding a Luxury Home for a Distinguished Client A wealthy client is searching for a new home, and I, as a dedicated real estate agent, have the responsibility of finding the perfect luxury property to match their desires and expectations. The process begins with a thorough understanding of the client's preferences and requirements. I ask...
 
 [[PageBreak]]
 
@@ -800,9 +800,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
+1) Property n. 1: It doesn't fulfill the criteria Ms. Blight has pointed out. First of all, it looks like a poky house: just one bedroom, while the Blight family needs three ones. On the other hand it has land enough to extend the building, but in Greece it means making a lot of papers and having
 
-2) Title: A Harrowing Encounter with a Wild Bear In the vast, tranquil forest of Whispering Woods, I found myself one day, lost and alone. It was as if the entire world was asleep, cloaked in the dark embrace of the night. I, however, was wide-awake, my heart pounding in my chest like a scared little bird....
+2) Title: Finding a Luxury Home for a Distinguished Client A wealthy client is searching for a new home, and I, as a dedicated real estate agent, have the responsibility of finding the perfect luxury property to match their desires and expectations. The process begins with a thorough understanding of the client's preferences and requirements. I ask...
 
 [[PageBreak]]
 
@@ -812,8 +812,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF14]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
-2) Title: A Night to Remember - My Encounter with a Ghost Everyone has had a terrifying experience in their life. For me, it was during a summer vacation in an old house in the countryside. At that time, I was still living in England and had just finished my B1 English course. On the night of...
+1) Hi,all. come to buy this functional and wonderful digital camera.It is produced in quandong,China and good fame for its high quality.It is 12cm in length and 4cm in widen and 6cm in depth, you can find it very convenient and easy to use because it is small in size and light in weight.The price for this
+2) Title: Selling Items in an Online Auction: A Beginner's Guide Hello everyone! Are you considering selling some items online but don't know where to start? Online auctions might be the perfect solution for you. In this guide, I will show you the steps to sell items in an online auction, especially for those who are beginners....
 
 [[PageBreak]]
 
@@ -828,9 +828,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
+1) Hi,all. come to buy this functional and wonderful digital camera.It is produced in quandong,China and good fame for its high quality.It is 12cm in length and 4cm in widen and 6cm in depth, you can find it very convenient and easy to use because it is small in size and light in weight.The price for this
 
-2) Title: A Night to Remember - My Encounter with a Ghost Everyone has had a terrifying experience in their life. For me, it was during a summer vacation in an old house in the countryside. At that time, I was still living in England and had just finished my B1 English course. On the night of...
+2) Title: Selling Items in an Online Auction: A Beginner's Guide Hello everyone! Are you considering selling some items online but don't know where to start? Online auctions might be the perfect solution for you. In this guide, I will show you the steps to sell items in an online auction, especially for those who are beginners....
 
 [[PageBreak]]
 
@@ -842,7 +842,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: RateEF15]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"Title: My First Business Trip to New York My first business trip was an unforgettable experience for me. It was to New York City, the city that never sleeps. The journey started with a long flight from London to JFK airport, which took about 8 hours. I was a bit nervous at first, as it was my first business trip, but I was also excited to visit a new place. When I arrived at the hotel, I was taken aback by the grandeur of it. It was a..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -869,7 +869,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateEF16]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"Title: Responding to Written Invitations: A Guide for English Learners Invitations are messages that request your presence or participation at an event. When you receive a written invitation, there are certain things you should consider before responding. Here is a simple guide to help you respond to written invitations in English: 1. **Be prompt and polite:** Response time is critical when you receive an invitation. Try to respond as soon as possible, but no later than the recommended response date listed on the invitation. Always be polite and..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -896,7 +896,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateEF17]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Title: Making a 'To-Do' List of My Dreams Hello everyone! Today, I would like to talk about an interesting and inspiring topic: Making a 'To-Do' list of dreams. Dreams are like a compass that guides us towards our desired destination in life. Here are some steps to create a list of dreams that will inspire and motivate us to reach our full potential. Step 1: Identify Your Dreams The first step is to clearly identify what your dreams are. Dreams can be big or small, short-term or long-term...."
+"Use the vocabulary you have learnt in the lesson. Title: Making a Movie - A Fascinating Journey Making a movie is an interesting and challenging adventure. It begins with a bright idea, a spark of creativity that ignites in the mind of a talented director. This idea is developed into a screenplay, a written script that outlines the story, characters, and actions. The next step is casting, where the director selects the perfect actors to bring their vision to life. Each actor must understand and embody their role..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -923,8 +923,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceEF15]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
-2) Missing Text...
+1) Hi mom, the trip is great. I have seen a lot of cities. I was in Dusseldorf for a meeting, in London for a presentation and now I'm in Oslo for a meeting with UK marketing team. This three cities are awsome mom. You have to visit them once. I stay in Oslo till Monday.then I
+2) Title: My First Business Trip to New York My first business trip was an unforgettable experience for me. It was to New York City, the city that never sleeps. The journey started with a long flight from London to JFK airport, which took about 8 hours. I was a bit nervous at first, as it was...
 
 [[PageBreak]]
 
@@ -939,9 +939,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
+1) Hi mom, the trip is great. I have seen a lot of cities. I was in Dusseldorf for a meeting, in London for a presentation and now I'm in Oslo for a meeting with UK marketing team. This three cities are awsome mom. You have to visit them once. I stay in Oslo till Monday.then I
 
-2) Missing Text...
+2) Title: My First Business Trip to New York My first business trip was an unforgettable experience for me. It was to New York City, the city that never sleeps. The journey started with a long flight from London to JFK airport, which took about 8 hours. I was a bit nervous at first, as it was...
 
 [[PageBreak]]
 
@@ -951,8 +951,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF16]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) Missing Text...
-2) Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
+1) Title: Responding to Written Invitations: A Guide for English Learners Invitations are messages that request your presence or participation at an event. When you receive a written invitation, there are certain things you should consider before responding. Here is a simple guide to help you respond to written invitations in English: 1. **Be prompt and polite:**...
+2) I'm very flattering with your beautiful words. I don't know who you are, but your mail shows that you are a smart and sensitive person. Unfortunately, I think that you don't know it, but I'm married. I have a beautiful woman that I love too much. We are together for six years. than, its impossible for
 
 [[PageBreak]]
 
@@ -967,9 +967,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) Missing Text...
+1) Title: Responding to Written Invitations: A Guide for English Learners Invitations are messages that request your presence or participation at an event. When you receive a written invitation, there are certain things you should consider before responding. Here is a simple guide to help you respond to written invitations in English: 1. **Be prompt and polite:**...
 
-2) Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
+2) I'm very flattering with your beautiful words. I don't know who you are, but your mail shows that you are a smart and sensitive person. Unfortunately, I think that you don't know it, but I'm married. I have a beautiful woman that I love too much. We are together for six years. than, its impossible for
 
 [[PageBreak]]
 
@@ -979,8 +979,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF17]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
-2) Title: Making a 'To-Do' List of My Dreams Hello everyone! Today, I would like to talk about an interesting and inspiring topic: Making a 'To-Do' list of dreams. Dreams are like a compass that guides us towards our desired destination in life. Here are some steps to create a list of dreams that will inspire and...
+1) In a comparison of the two websites we have to sum up as follows: In points of usability of the website, product range and product quality the www.nileretail.com is state of the art, the site www.the-shopping-space.com is awful. The next ont we can compar is the diversity of pament and delivery options. The winner in this
+2) Use the vocabulary you have learnt in the lesson. Title: Making a Movie - A Fascinating Journey Making a movie is an interesting and challenging adventure. It begins with a bright idea, a spark of creativity that ignites in the mind of a talented director. This idea is developed into a screenplay, a written script that...
 
 [[PageBreak]]
 
@@ -995,9 +995,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
+1) In a comparison of the two websites we have to sum up as follows: In points of usability of the website, product range and product quality the www.nileretail.com is state of the art, the site www.the-shopping-space.com is awful. The next ont we can compar is the diversity of pament and delivery options. The winner in this
 
-2) Title: Making a 'To-Do' List of My Dreams Hello everyone! Today, I would like to talk about an interesting and inspiring topic: Making a 'To-Do' list of dreams. Dreams are like a compass that guides us towards our desired destination in life. Here are some steps to create a list of dreams that will inspire and...
+2) Use the vocabulary you have learnt in the lesson. Title: Making a Movie - A Fascinating Journey Making a movie is an interesting and challenging adventure. It begins with a bright idea, a spark of creativity that ignites in the mind of a talented director. This idea is developed into a screenplay, a written script that...
 
 [[PageBreak]]
 
@@ -1009,7 +1009,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: RateBA0]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"This essay should cover all aspects of the problem, including the role of states and international organizations. Refugees are people who are forced to leave their homes due to various reasons like war, natural disaster, political instability, or persecution. The issue of refugees has become a major global problem in recent years due to the growing number of conflicts and natural disasters worldwide. One of the most significant challenges in dealing with refugees is the principle of burden-sharing, which is the distribution of the responsibility of hosting and..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1036,7 +1036,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateBA1]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"(Note: Answer should be around 800-1000 words). Qualitative research methods offer a valuable approach to understanding the complexities and nuances of human behavior and experience. Unlike quantitative research methods, which rely on numerical data and statistical analysis, qualitative methods focus on the meanings and interpretations of the data. In this essay, I will explore how psychologists can best use qualitative methods in research, focusing on the reliability and validity of qualitative research methods, and referring to empirical research papers published in the period 2003-2005. One of the key..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1063,7 +1063,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateBA2]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"The mystery of Roanoke is one of the most intriguing unsolved mysteries in history. In 1587, John White, an artist and cartographer, led an expedition of 115 men, women, and children to the New World to establish a colony in the New World. The purpose of the colony was to establish a profitable source of natural resources and to find a new route to Asia. The expedition was sponsored by Sir Walter Raleigh, who was eager to find new resources and to establish a foothold in the New..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1090,8 +1090,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceBA0]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) Here is a sample text: The world's best burger is now at your fingertips! Enjoy your juicy and fresh burgers at Burger Delight, your new favourite destination. Experience the delicious taste of freshly grilled burgers made from high-quality beef. Our expert chefs create mouthwatering meals that will satisfy your cravings and leave you wanting more! Try...
-2) The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
+1) This essay should cover all aspects of the problem, including the role of states and international organizations. Refugees are people who are forced to leave their homes due to various reasons like war, natural disaster, political instability, or persecution. The issue of refugees has become a major global problem in recent years due to the growing...
+2) IntroductionThe concept of burden-sharing in the context of forced migration raises a host of questions that ultimately spring from the question of what to do and how to deal with 'strangers' in our midst. In forced migration these 'strangers' arrive seeking safe haven, and particularly in cases of sudden mass influxes, place burdens and strains on
 
 [[PageBreak]]
 
@@ -1106,9 +1106,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) Here is a sample text: The world's best burger is now at your fingertips! Enjoy your juicy and fresh burgers at Burger Delight, your new favourite destination. Experience the delicious taste of freshly grilled burgers made from high-quality beef. Our expert chefs create mouthwatering meals that will satisfy your cravings and leave you wanting more! Try...
+1) This essay should cover all aspects of the problem, including the role of states and international organizations. Refugees are people who are forced to leave their homes due to various reasons like war, natural disaster, political instability, or persecution. The issue of refugees has become a major global problem in recent years due to the growing...
 
-2) The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
+2) IntroductionThe concept of burden-sharing in the context of forced migration raises a host of questions that ultimately spring from the question of what to do and how to deal with 'strangers' in our midst. In forced migration these 'strangers' arrive seeking safe haven, and particularly in cases of sudden mass influxes, place burdens and strains on
 
 [[PageBreak]]
 
@@ -1118,8 +1118,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA1]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) It was a dark and stormy night in London when I had a terrifying experience. I was walking home from a friend's house in the Hackney area. The heavy rain was falling and the strong wind was blowing so hard that it made it difficult to see and hear anything. I was wearing a thin coat...
-2) Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
+1) (Note: Answer should be around 800-1000 words). Qualitative research methods offer a valuable approach to understanding the complexities and nuances of human behavior and experience. Unlike quantitative research methods, which rely on numerical data and statistical analysis, qualitative methods focus on the meanings and interpretations of the data. In this essay, I will explore how psychologists...
+2) Unlike quantitative methods of research, the issues concerning the quality of qualitative research are less clear cut. Indeed, qualitative research in itself has had difficulty in finding its place within psychological methodology, and continues to be considered by some as an unacceptable way of conducting objective research. In this essay, I aim to briefly consider the
 
 [[PageBreak]]
 
@@ -1134,9 +1134,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) It was a dark and stormy night in London when I had a terrifying experience. I was walking home from a friend's house in the Hackney area. The heavy rain was falling and the strong wind was blowing so hard that it made it difficult to see and hear anything. I was wearing a thin coat...
+1) (Note: Answer should be around 800-1000 words). Qualitative research methods offer a valuable approach to understanding the complexities and nuances of human behavior and experience. Unlike quantitative research methods, which rely on numerical data and statistical analysis, qualitative methods focus on the meanings and interpretations of the data. In this essay, I will explore how psychologists...
 
-2) Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
+2) Unlike quantitative methods of research, the issues concerning the quality of qualitative research are less clear cut. Indeed, qualitative research in itself has had difficulty in finding its place within psychological methodology, and continues to be considered by some as an unacceptable way of conducting objective research. In this essay, I aim to briefly consider the
 
 [[PageBreak]]
 
@@ -1146,8 +1146,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA2]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
-2) Using 5 transitional phrases in your words. Meanwhile, I remember the time when I was a teenager. It was dark and stormy outside. However, I was so excited because my friends and I were planning a camping trip in the mountains. Unfortunately, we decided to set up our tents in a place that was not recommended....
+1) This essay will attempt to account for the failure of the English colonists to settle on the island of Roanoke on three separate occasions in the 1580s. There are a large number of important reasons for this, many of which were interlinked, but the essay will argue that there were four primary explanations, namely, poor relations
+2) The mystery of Roanoke is one of the most intriguing unsolved mysteries in history. In 1587, John White, an artist and cartographer, led an expedition of 115 men, women, and children to the New World to establish a colony in the New World. The purpose of the colony was to establish a profitable source of natural...
 
 [[PageBreak]]
 
@@ -1162,9 +1162,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
+1) This essay will attempt to account for the failure of the English colonists to settle on the island of Roanoke on three separate occasions in the 1580s. There are a large number of important reasons for this, many of which were interlinked, but the essay will argue that there were four primary explanations, namely, poor relations
 
-2) Using 5 transitional phrases in your words. Meanwhile, I remember the time when I was a teenager. It was dark and stormy outside. However, I was so excited because my friends and I were planning a camping trip in the mountains. Unfortunately, we decided to set up our tents in a place that was not recommended....
+2) The mystery of Roanoke is one of the most intriguing unsolved mysteries in history. In 1587, John White, an artist and cartographer, led an expedition of 115 men, women, and children to the New World to establish a colony in the New World. The purpose of the colony was to establish a profitable source of natural...
 
 [[PageBreak]]
 
@@ -1176,7 +1176,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: RateBA3]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"Discuss the comparative criminal justice systems of England and Wales, France, and Germany, focusing on the prosecution and investigation roles in each system. Your essay should make the advantages and disadvantages of each system. The Royal Commission on Criminal Justice, established in 1991 in England and Wales, highlighted the importance of an independent prosecutor. This was in contrast to the practices in France and Germany, where prosecutors were involved in the pre-trial phase and also had powers to dispose of cases without the need for a trial. In..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1203,7 +1203,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateBA4]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"You are a university student. Write an essay on the topic 'One of the most important observations in a corpus-based description of English is that patterns and meanings are connected'- Discuss. The study of English has undergone a significant shift with the advent of corpus linguistics. Unlike traditional descriptive linguistics which focused on isolated language items and their individual characteristics, corpus-based description takes into account the intricate relationships between language patterns and their meanings. This essay will discuss how the connection between patterns and meanings is a crucial..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1230,7 +1230,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateBA5]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"(30 marks) The emergence of collective bargaining on the company level has significantly impacted the role of employers' organisations in several European countries. Collective bargaining, a form of negotiation between employers and employees, has traditionally been a feature of national industrial relations systems. However, with the increasing trend of decentralisation, employers' organisations have faced challenges in maintaining their traditional roles. In Germany, collective bargaining has shifted significantly towards the company level. According to a study by the German Trade Union Federation (DGB), in 2018, only 26% of collective..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1257,8 +1257,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceBA3]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
-2) Missing Text...
+1) IntroductionThe pre-trial phase in criminal procedure is considered vital in determining the outcome of a case. Public prosecutors are a central feature of this phase, considered as "the gateway" to criminal justice; they play a crucial role in crime control, enforcement and punishment, as will become apparent. Prosecutors in various jurisdictions possess widely different powers, yet
+2) Discuss the comparative criminal justice systems of England and Wales, France, and Germany, focusing on the prosecution and investigation roles in each system. Your essay should make the advantages and disadvantages of each system. The Royal Commission on Criminal Justice, established in 1991 in England and Wales, highlighted the importance of an independent prosecutor. This was...
 
 [[PageBreak]]
 
@@ -1273,9 +1273,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
+1) IntroductionThe pre-trial phase in criminal procedure is considered vital in determining the outcome of a case. Public prosecutors are a central feature of this phase, considered as "the gateway" to criminal justice; they play a crucial role in crime control, enforcement and punishment, as will become apparent. Prosecutors in various jurisdictions possess widely different powers, yet
 
-2) Missing Text...
+2) Discuss the comparative criminal justice systems of England and Wales, France, and Germany, focusing on the prosecution and investigation roles in each system. Your essay should make the advantages and disadvantages of each system. The Royal Commission on Criminal Justice, established in 1991 in England and Wales, highlighted the importance of an independent prosecutor. This was...
 
 [[PageBreak]]
 
@@ -1285,8 +1285,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA4]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) Missing Text...
-2) Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
+1) You are a university student. Write an essay on the topic 'One of the most important observations in a corpus-based description of English is that patterns and meanings are connected'- Discuss. The study of English has undergone a significant shift with the advent of corpus linguistics. Unlike traditional descriptive linguistics which focused on isolated language items...
+2) Hunston and Francis define a pattern as "all the words and structures which are regularly associated with the word and which contribute to its meaning." Sinclair and many other corpus linguists propose that all language is patterned. This brings forward the concept of 'fixed phrases' and this essay will discuss the relation of these with meaning.
 
 [[PageBreak]]
 
@@ -1301,9 +1301,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) Missing Text...
+1) You are a university student. Write an essay on the topic 'One of the most important observations in a corpus-based description of English is that patterns and meanings are connected'- Discuss. The study of English has undergone a significant shift with the advent of corpus linguistics. Unlike traditional descriptive linguistics which focused on isolated language items...
 
-2) Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
+2) Hunston and Francis define a pattern as "all the words and structures which are regularly associated with the word and which contribute to its meaning." Sinclair and many other corpus linguists propose that all language is patterned. This brings forward the concept of 'fixed phrases' and this essay will discuss the relation of these with meaning.
 
 [[PageBreak]]
 
@@ -1313,8 +1313,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA5]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) If your list is realistic and practical, it is more likely that you will achieve your goals. In order to make our dreams come true, we need to be realistic about them. We have to think carefully about what we want to do. Then, write it down on a list. This list is called a 'to-do'...
-2) If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
+1) (30 marks) The emergence of collective bargaining on the company level has significantly impacted the role of employers' organisations in several European countries. Collective bargaining, a form of negotiation between employers and employees, has traditionally been a feature of national industrial relations systems. However, with the increasing trend of decentralisation, employers' organisations have faced challenges in...
+2) Introduction Employers' organisations, alongside trade unions and the state (the influence of which is defined by the country-specific system of industrial relations) constitute the institution of 'social partners' - the major actors in providing the framework of employment relations in European states. Employers' organisations (or associations) are described according to an EIRO comparative study as the
 
 [[PageBreak]]
 
@@ -1329,9 +1329,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) If your list is realistic and practical, it is more likely that you will achieve your goals. In order to make our dreams come true, we need to be realistic about them. We have to think carefully about what we want to do. Then, write it down on a list. This list is called a 'to-do'...
+1) (30 marks) The emergence of collective bargaining on the company level has significantly impacted the role of employers' organisations in several European countries. Collective bargaining, a form of negotiation between employers and employees, has traditionally been a feature of national industrial relations systems. However, with the increasing trend of decentralisation, employers' organisations have faced challenges in...
 
-2) If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
+2) Introduction Employers' organisations, alongside trade unions and the state (the influence of which is defined by the country-specific system of industrial relations) constitute the institution of 'social partners' - the major actors in providing the framework of employment relations in European states. Employers' organisations (or associations) are described according to an EIRO comparative study as the
 
 [[PageBreak]]
 
@@ -1343,7 +1343,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: RateBA6]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"## Trapped in Ignorance: Husbandry Failure and Reptile Health Reptiles, with their fascinating adaptations and enigmatic allure, have captured the imagination of countless individuals. However, the allure of exotic pets can often be accompanied by a misguided sense of ease. The reality is that captive reptile husbandry necessitates a profound understanding of their specific needs, and a failure to meet these requirements often translates into a cascade of health problems. The vast majority of these health issues are directly attributable to improper husbandry techniques. This encompasses a wide..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1370,7 +1370,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateBA7]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"A Window To The World: Exploring Childhood Wonder in Kit Wright’s “The Magic Box” Kit Wright’s “The Magic Box” is a deceptively simple poem that transports the reader back to the heart of childhood wonder. Through the lens of a child’s experience with a seemingly ordinary box, Wright illuminates the transformative power of imagination and the innate curiosity that drives a young mind. The poem's rhythmic cadence and vivid imagery create a sense of nostalgia and rekindle a yearning for the joy of unbridled creativity that often fades..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1397,7 +1397,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateBA8]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"## The Scalpel and the Status Quo: Medicine's Rise and Its Implications for Women Across Class Lines The rise of medicine as a profession in the 19th and 20th centuries is a complex tale, interwoven with threads of advancement, inequality, and the inherent tensions between scientific progress and societal norms. While medicine brought significant benefits to humanity, its emergence had profound, often contradictory, implications for women, particularly across different class strata. For middle-class women, the rise of medicine fostered new avenues for intellectual and economic engagement. The burgeoning..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1424,8 +1424,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceBA6]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) ## Crafting the Perfect Catchphrase: A Blurb's Secret Weapon As a B1 English learner, I've discovered the power of words in advertising. A simple blurb, that tiny paragraph packed with information and personality, can capture attention and make you want to buy something. Writing a good blurb is like brewing the perfect cup of tea. You...
-2) The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
+1) ## Trapped in Ignorance: Husbandry Failure and Reptile Health Reptiles, with their fascinating adaptations and enigmatic allure, have captured the imagination of countless individuals. However, the allure of exotic pets can often be accompanied by a misguided sense of ease. The reality is that captive reptile husbandry necessitates a profound understanding of their specific needs, and...
+2) The needs of reptiles vary greatly as they have evolved to fit into very different niches; some come from desert areas so need hot dry environments in captivity as it is in the wild. Others may come from tropical rainforest areas so need humid warm environments to live in. As these animals are ectothermic, their thermoregulation
 
 [[PageBreak]]
 
@@ -1440,9 +1440,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) ## Crafting the Perfect Catchphrase: A Blurb's Secret Weapon As a B1 English learner, I've discovered the power of words in advertising. A simple blurb, that tiny paragraph packed with information and personality, can capture attention and make you want to buy something. Writing a good blurb is like brewing the perfect cup of tea. You...
+1) ## Trapped in Ignorance: Husbandry Failure and Reptile Health Reptiles, with their fascinating adaptations and enigmatic allure, have captured the imagination of countless individuals. However, the allure of exotic pets can often be accompanied by a misguided sense of ease. The reality is that captive reptile husbandry necessitates a profound understanding of their specific needs, and...
 
-2) The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
+2) The needs of reptiles vary greatly as they have evolved to fit into very different niches; some come from desert areas so need hot dry environments in captivity as it is in the wild. Others may come from tropical rainforest areas so need humid warm environments to live in. As these animals are ectothermic, their thermoregulation
 
 [[PageBreak]]
 
@@ -1452,8 +1452,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA7]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
-2) ## The Night the Wind Whispered Secrets I had never been particularly afraid of storms. Sure, the rain drumming on the roof could be a bit noisy, and the wind sometimes rattled the windows, but I always found a strange comfort in the power of nature. Until that night. The storm came suddenly, a dark wall...
+1) Through "The Magic Box", Kit Wright gives access to his intimacy, his deep secrets and desires. Our analysis of his poem will focus on two major points: the apparently disappointing effect of the title, and the unusual disposition of the poem as a whole. Usually, the aim of a title is to set the tone and
+2) A Window To The World: Exploring Childhood Wonder in Kit Wright’s “The Magic Box” Kit Wright’s “The Magic Box” is a deceptively simple poem that transports the reader back to the heart of childhood wonder. Through the lens of a child’s experience with a seemingly ordinary box, Wright illuminates the transformative power of imagination and the...
 
 [[PageBreak]]
 
@@ -1468,9 +1468,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
+1) Through "The Magic Box", Kit Wright gives access to his intimacy, his deep secrets and desires. Our analysis of his poem will focus on two major points: the apparently disappointing effect of the title, and the unusual disposition of the poem as a whole. Usually, the aim of a title is to set the tone and
 
-2) ## The Night the Wind Whispered Secrets I had never been particularly afraid of storms. Sure, the rain drumming on the roof could be a bit noisy, and the wind sometimes rattled the windows, but I always found a strange comfort in the power of nature. Until that night. The storm came suddenly, a dark wall...
+2) A Window To The World: Exploring Childhood Wonder in Kit Wright’s “The Magic Box” Kit Wright’s “The Magic Box” is a deceptively simple poem that transports the reader back to the heart of childhood wonder. Through the lens of a child’s experience with a seemingly ordinary box, Wright illuminates the transformative power of imagination and the...
 
 [[PageBreak]]
 
@@ -1480,8 +1480,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA8]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
-2) The screech of the brakes ripped through the silence of the night, jolting me awake. My heart pounded against my ribs, a frantic drumbeat keeping pace with the roaring sound of the truck engine. I had been dozing in the back seat of my father's pickup truck, heading back home after a late dinner at a...
+1) Since the fourteenth century the practice of medicine has become a profession, and more importantly, a male-dominated profession. Previously medicine was seen as a female duty, however all areas of medicine have been professionalized over the centuries, and slowly become male-dominated, even the practice of obstetrics, which until the twentieth century, was still viewed as a
+2) ## The Scalpel and the Status Quo: Medicine's Rise and Its Implications for Women Across Class Lines The rise of medicine as a profession in the 19th and 20th centuries is a complex tale, interwoven with threads of advancement, inequality, and the inherent tensions between scientific progress and societal norms. While medicine brought significant benefits to...
 
 [[PageBreak]]
 
@@ -1496,9 +1496,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
+1) Since the fourteenth century the practice of medicine has become a profession, and more importantly, a male-dominated profession. Previously medicine was seen as a female duty, however all areas of medicine have been professionalized over the centuries, and slowly become male-dominated, even the practice of obstetrics, which until the twentieth century, was still viewed as a
 
-2) The screech of the brakes ripped through the silence of the night, jolting me awake. My heart pounded against my ribs, a frantic drumbeat keeping pace with the roaring sound of the truck engine. I had been dozing in the back seat of my father's pickup truck, heading back home after a late dinner at a...
+2) ## The Scalpel and the Status Quo: Medicine's Rise and Its Implications for Women Across Class Lines The rise of medicine as a profession in the 19th and 20th centuries is a complex tale, interwoven with threads of advancement, inequality, and the inherent tensions between scientific progress and societal norms. While medicine brought significant benefits to...
 
 [[PageBreak]]
 
@@ -1510,7 +1510,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: RateBA9]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"The rain was coming down in sheets, blurring the streetlights into hazy halos. I was huddled under the awning of a small cafe, watching the world dissolve into a canvas of greys and yellows. My phone buzzed in my pocket, another reminder of the essay staring me in the face. Deadlines loomed, exams loomed, and suddenly, the vast, sprawling field of knowledge seemed to contract, shrinking to the size of this anxious space. It was easy to get lost in the fear, the overwhelming feeling of being adrift..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1537,7 +1537,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateBA10]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"China's spectacular economic ascent since the late 20th century has sparked intense debate within academic circles and beyond. A central question surrounding this growth is whether it disproves the popular notion that economic liberalisation inevitably leads to political liberalisation. This essay aims to analyze China's case, arguing that while the correlation between economic liberalization and political liberalisation is undeniable, China's unique context and strategic choices present a compelling counterexample, suggesting that the relationship is not necessarily causal and can be decoupled. The popular understanding, often referred to as..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1564,7 +1564,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateBA11]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"* Please ensure your ideas are well-developed and supported with evidence from the social contract. **Is Rousseau’s Social Contract More Convincingly Seen as a Text of Liberal, or of Totalitarian Democracy?** Jean-Jacques Rousseau’s seminal work, *The Social Contract*, presents a compelling yet controversial vision of political organization. Is it, as some argue, a foundational text of **liberal democracy**, emphasizing individual rights and limited government, or does it, as others contend, foreshadow **totalitarian tendencies** with its absolute sovereignty and potential for suppression of dissent? While elements of both perspectives..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1591,8 +1591,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceBA9]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) Missing Text...
-2) To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
+1) The rain was coming down in sheets, blurring the streetlights into hazy halos. I was huddled under the awning of a small cafe, watching the world dissolve into a canvas of greys and yellows. My phone buzzed in my pocket, another reminder of the essay staring me in the face. Deadlines loomed, exams loomed, and suddenly,...
+2) From the late eighteenth until the early nineteenth century, typically known as the 'Romantic' period in the history of literature, nature was used by poets to express to reader's notions and ideas that could not be expressed in the restricted 'rational' terms of conventional forms of writing which had preceded them. This previous preoccupation with rational
 
 [[PageBreak]]
 
@@ -1607,9 +1607,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) Missing Text...
+1) The rain was coming down in sheets, blurring the streetlights into hazy halos. I was huddled under the awning of a small cafe, watching the world dissolve into a canvas of greys and yellows. My phone buzzed in my pocket, another reminder of the essay staring me in the face. Deadlines loomed, exams loomed, and suddenly,...
 
-2) To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
+2) From the late eighteenth until the early nineteenth century, typically known as the 'Romantic' period in the history of literature, nature was used by poets to express to reader's notions and ideas that could not be expressed in the restricted 'rational' terms of conventional forms of writing which had preceded them. This previous preoccupation with rational
 
 [[PageBreak]]
 
@@ -1619,8 +1619,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA10]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
-2) Missing Text...
+1) INTRODUCTIONIn 1922 Bertrand Russell presciently recognised China's growing importance, that the whole world "will be vitally affected by the development of Chinese affairs, which may well prove a decisive factor, for good or evil, during the next two centuries". Russell, recognising China's essential differences to the West, asks whether China can retain its 'virtues' without being
+2) China's spectacular economic ascent since the late 20th century has sparked intense debate within academic circles and beyond. A central question surrounding this growth is whether it disproves the popular notion that economic liberalisation inevitably leads to political liberalisation. This essay aims to analyze China's case, arguing that while the correlation between economic liberalization and political...
 
 [[PageBreak]]
 
@@ -1635,9 +1635,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
+1) INTRODUCTIONIn 1922 Bertrand Russell presciently recognised China's growing importance, that the whole world "will be vitally affected by the development of Chinese affairs, which may well prove a decisive factor, for good or evil, during the next two centuries". Russell, recognising China's essential differences to the West, asks whether China can retain its 'virtues' without being
 
-2) Missing Text...
+2) China's spectacular economic ascent since the late 20th century has sparked intense debate within academic circles and beyond. A central question surrounding this growth is whether it disproves the popular notion that economic liberalisation inevitably leads to political liberalisation. This essay aims to analyze China's case, arguing that while the correlation between economic liberalization and political...
 
 [[PageBreak]]
 
@@ -1647,8 +1647,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA11]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
-2) Making a 'To Do' List of Dreams At B1 level, I'm just starting to feel comfortable expressing myself in English. But my dreams, they go beyond any language barrier! They are powerful, exciting, and sometimes even a little scary. So, I thought to myself, why not write them down, make a 'to do' list of my...
+1) Rousseau has always been typified as an intellectual outsider; it was, however, only in the twentieth century that his socio-political theory came to be seen as a threat to the individual's liberty. Emphasis thereby is often laid on his concept of a 'general will', through which personal liberty is handed over to the collective. 'The citizens
+2) * Please ensure your ideas are well-developed and supported with evidence from the social contract. **Is Rousseau’s Social Contract More Convincingly Seen as a Text of Liberal, or of Totalitarian Democracy?** Jean-Jacques Rousseau’s seminal work, *The Social Contract*, presents a compelling yet controversial vision of political organization. Is it, as some argue, a foundational text of...
 
 [[PageBreak]]
 
@@ -1663,9 +1663,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
+1) Rousseau has always been typified as an intellectual outsider; it was, however, only in the twentieth century that his socio-political theory came to be seen as a threat to the individual's liberty. Emphasis thereby is often laid on his concept of a 'general will', through which personal liberty is handed over to the collective. 'The citizens
 
-2) Making a 'To Do' List of Dreams At B1 level, I'm just starting to feel comfortable expressing myself in English. But my dreams, they go beyond any language barrier! They are powerful, exciting, and sometimes even a little scary. So, I thought to myself, why not write them down, make a 'to do' list of my...
+2) * Please ensure your ideas are well-developed and supported with evidence from the social contract. **Is Rousseau’s Social Contract More Convincingly Seen as a Text of Liberal, or of Totalitarian Democracy?** Jean-Jacques Rousseau’s seminal work, *The Social Contract*, presents a compelling yet controversial vision of political organization. Is it, as some argue, a foundational text of...
 
 [[PageBreak]]
 
@@ -1677,7 +1677,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: RateBA12]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"Title: An Organisational Behaviour Essay: Critically discussing the benefits and drawbacks of "strong" organisational cultures Introduction Organisational culture refers to the shared beliefs, values, and behaviours that characterise an organisation (Schein, 1985). A'strong' organisational culture is one in which these elements are deeply ingrained and highly visible, influencing decision-making, operations, and employee behaviour (Camera & Mael, 1992). This essay aims to critically discuss the benefits and drawbacks of strong organisational cultures, exploring their impact on productivity, employee motivation, and innovation. Benefits of Strong Organisational Cultures 1. Increased Efficiency:..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1704,7 +1704,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateBA13]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"Title: The Decision to Procreate: A Feminist Perspective Introduction The question of why women have children, or why some choose not to, is a complex issue that intertwines personal, societal, and cultural factors. This essay aims to explore the reasons behind these decisions from a feminist perspective, emphasizing the importance of autonomy, agency, and the socio-economic implications for women. Body Historically, women's lives have been defined by their reproductive roles. However, the feminist movement has challenged this narrative, advocating for women's rights to control their bodies and lives...."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1731,7 +1731,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateBA14]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"Title: Revisability of Logic: A Perspective on the Subject/Object-Oriented Conception Introduction In the realm of philosophy and logic, the question of the revisability of logic has been a subject of intense debate. One approach to understanding this issue is through the lens of a subject/object-oriented conception of logic. This essay aims to explore this perspective and argue that a subject/object-oriented conception of logic does indeed admit to the revisability of logic. Subject-Oriented Logic and its Implications Subject-oriented logic, as proposed by Søren Brier, emphasizes the concept of the..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1758,8 +1758,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceBA12]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) Title: Writing an Advertising Blurb: Tips for English Learners at B1 Level Introduction: Hello, dear English learners! In today's world, understanding advertising is essential. One important part of advertising is the "blurb," a brief description that sells a product or service. Let's explore the basics of writing an effective advertising blurb, especially for those at the...
-2) The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
+1) Title: An Organisational Behaviour Essay: Critically discussing the benefits and drawbacks of "strong" organisational cultures Introduction Organisational culture refers to the shared beliefs, values, and behaviours that characterise an organisation (Schein, 1985). A'strong' organisational culture is one in which these elements are deeply ingrained and highly visible, influencing decision-making, operations, and employee behaviour (Camera & Mael,...
+2) 1. IntroductionOrganisational culture influences individual and group behaviour and it can be managed to facilitate success within groups and organisations. There has been academic debate whether highly integrated organisational culture, "strong" organisational culture is a key factor in success. It can be argued that stimulation of individuals within the organisation to high performance and contribution to
 
 [[PageBreak]]
 
@@ -1774,9 +1774,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) Title: Writing an Advertising Blurb: Tips for English Learners at B1 Level Introduction: Hello, dear English learners! In today's world, understanding advertising is essential. One important part of advertising is the "blurb," a brief description that sells a product or service. Let's explore the basics of writing an effective advertising blurb, especially for those at the...
+1) Title: An Organisational Behaviour Essay: Critically discussing the benefits and drawbacks of "strong" organisational cultures Introduction Organisational culture refers to the shared beliefs, values, and behaviours that characterise an organisation (Schein, 1985). A'strong' organisational culture is one in which these elements are deeply ingrained and highly visible, influencing decision-making, operations, and employee behaviour (Camera & Mael,...
 
-2) The transformer translator is the state-of-the-art translator, developed to help you with your translations. It is palm-size and weights only 10 ozs! It translates 500 phrases into 50 languages and has also a section on body language. It includes a world time zone clock, a currency converter and a head set. To inform you about the
+2) 1. IntroductionOrganisational culture influences individual and group behaviour and it can be managed to facilitate success within groups and organisations. There has been academic debate whether highly integrated organisational culture, "strong" organisational culture is a key factor in success. It can be argued that stimulation of individuals within the organisation to high performance and contribution to
 
 [[PageBreak]]
 
@@ -1786,8 +1786,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA13]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
-2) Title: A Harrowing Encounter with a Wild Bear In the vast, tranquil forest of Whispering Woods, I found myself one day, lost and alone. It was as if the entire world was asleep, cloaked in the dark embrace of the night. I, however, was wide-awake, my heart pounding in my chest like a scared little bird....
+1) Much more reproductive choice is now available to women, with the ability to chose whether or not to have children, when to have them and in what context, now a reproductive right given to women. This, combined with shifting social and economic opportunities for women, has lead to an increase in the number of childless women,
+2) Title: The Decision to Procreate: A Feminist Perspective Introduction The question of why women have children, or why some choose not to, is a complex issue that intertwines personal, societal, and cultural factors. This essay aims to explore the reasons behind these decisions from a feminist perspective, emphasizing the importance of autonomy, agency, and the socio-economic...
 
 [[PageBreak]]
 
@@ -1802,9 +1802,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) Dear Sir or Madam, This accident is about my friend. She has had a terrifying day. It was happened in the morning when she was going to work. Everything is so nice. But when she was approaching the corner at elm and Fourth, she saw a young couple get out of a running car. suddenly they
+1) Much more reproductive choice is now available to women, with the ability to chose whether or not to have children, when to have them and in what context, now a reproductive right given to women. This, combined with shifting social and economic opportunities for women, has lead to an increase in the number of childless women,
 
-2) Title: A Harrowing Encounter with a Wild Bear In the vast, tranquil forest of Whispering Woods, I found myself one day, lost and alone. It was as if the entire world was asleep, cloaked in the dark embrace of the night. I, however, was wide-awake, my heart pounding in my chest like a scared little bird....
+2) Title: The Decision to Procreate: A Feminist Perspective Introduction The question of why women have children, or why some choose not to, is a complex issue that intertwines personal, societal, and cultural factors. This essay aims to explore the reasons behind these decisions from a feminist perspective, emphasizing the importance of autonomy, agency, and the socio-economic...
 
 [[PageBreak]]
 
@@ -1814,8 +1814,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA14]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) Title: A Night to Remember - My Encounter with a Ghost Everyone has had a terrifying experience in their life. For me, it was during a summer vacation in an old house in the countryside. At that time, I was still living in England and had just finished my B1 English course. On the night of...
-2) In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
+1) Title: Revisability of Logic: A Perspective on the Subject/Object-Oriented Conception Introduction In the realm of philosophy and logic, the question of the revisability of logic has been a subject of intense debate. One approach to understanding this issue is through the lens of a subject/object-oriented conception of logic. This essay aims to explore this perspective and...
+2) IntroductionIn "What Achilles said to the tortoise" Lewis Carroll asks for a way to make clear the inherent "truth" of logical or analytic statements to an observer insensitive to logical intuition. Achilles showed that this cannot be accomplished by adding instructive premises to an argument. Rather, the "truth" of a valid argument is said to be
 
 [[PageBreak]]
 
@@ -1830,9 +1830,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) Title: A Night to Remember - My Encounter with a Ghost Everyone has had a terrifying experience in their life. For me, it was during a summer vacation in an old house in the countryside. At that time, I was still living in England and had just finished my B1 English course. On the night of...
+1) Title: Revisability of Logic: A Perspective on the Subject/Object-Oriented Conception Introduction In the realm of philosophy and logic, the question of the revisability of logic has been a subject of intense debate. One approach to understanding this issue is through the lens of a subject/object-oriented conception of logic. This essay aims to explore this perspective and...
 
-2) In the morning, there was a young couple get out of a car at the corner of elm and Fourth. They started to vandalize the local newsagent. They were breaking the window and throwing paint on the store front. A young lady, named Meg, tried to stop them. suddenly the female saboteur pushed a gun into
+2) IntroductionIn "What Achilles said to the tortoise" Lewis Carroll asks for a way to make clear the inherent "truth" of logical or analytic statements to an observer insensitive to logical intuition. Achilles showed that this cannot be accomplished by adding instructive premises to an argument. Rather, the "truth" of a valid argument is said to be
 
 [[PageBreak]]
 
@@ -1844,7 +1844,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: RateBA15]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"In this essay, I will discuss the syntactic rules for expressing quantification in both negative and interrogative clauses in contemporary English. a) Negative Clauses: English has various syntactic structures for expressing negation, such as using 'not', 'no', and 'never'. However, quantification in negative clauses is expressed differently depending on the type of quantifier used. For instance, general quantifiers like'many', 'few','several' cannot be directly negated without a change in the structure of the sentence. Instead, we use phrases like 'not many', 'not a few', or 'hardly any' to negate..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1871,7 +1871,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateBA16]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"In your essay, discuss the following points: 1. Definition of Monopoly 2. Factors that lead to inefficiency in monopoly 3. Counterarguments and conditions that may lead to efficiency in monopoly 4. Government intervention and its impact on resource allocation in monopolies. Title: The Impact of Factors on Resource Allocation Efficiency in Monopolistic Markets Introduction Monopoly, a market structure characterized by a single seller dominating an industry, is often associated with inefficient resource allocation. This essay will discuss the factors that contribute to this inefficiency, counterarguments that may lead..."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1898,7 +1898,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: RateBA17]]
 Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): 
 
-"Missing Text..."
+"The Avebury monument complex, located in Wiltshire, England, is a fascinating and awe-inspiring prehistoric site that dates back to approximately 2800-2400 BC. The Avebury complex consists of three main parts: a large henge (a circular bank with an internal ditch) containing a stone circle, an avenue of stones, and a number of smaller circles and barrows. The suggested functions for these monumental structures are diverse, encompassing religious, ritualistic, astronomical, and socio-political aspects. The central stone circle within the henge is the most iconic feature of the Avebury complex...."
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1925,8 +1925,8 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceBA15]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) Missing Text...
-2) To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
+1) In this essay, I will discuss the syntactic rules for expressing quantification in both negative and interrogative clauses in contemporary English. a) Negative Clauses: English has various syntactic structures for expressing negation, such as using 'not', 'no', and 'never'. However, quantification in negative clauses is expressed differently depending on the type of quantifier used. For instance,...
+2) IntroductionThe notion of quantification empowers language by providing the facility to generalise from specific individual instances of an attribute to a collection, or quantity, of instances which share that same attribute. In Linguistics, the term 'quantifier' is used to cover all expressions of contrasts in quantity which range from determiners and pronominal items such as all
 
 [[PageBreak]]
 
@@ -1941,9 +1941,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) Missing Text...
+1) In this essay, I will discuss the syntactic rules for expressing quantification in both negative and interrogative clauses in contemporary English. a) Negative Clauses: English has various syntactic structures for expressing negation, such as using 'not', 'no', and 'never'. However, quantification in negative clauses is expressed differently depending on the type of quantifier used. For instance,...
 
-2) To company Blue cruise Alaska I've been through this letter, complain about the trip made by this company. first of all, my room was dirty and full of ants. The captain was unfriendly and always lated. I did not see wildlife. The boat was too slow. also, we had to pay extra charges along the way.
+2) IntroductionThe notion of quantification empowers language by providing the facility to generalise from specific individual instances of an attribute to a collection, or quantity, of instances which share that same attribute. In Linguistics, the term 'quantifier' is used to cover all expressions of contrasts in quantity which range from determiners and pronominal items such as all
 
 [[PageBreak]]
 
@@ -1953,8 +1953,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA16]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) Missing Text...
-2) Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
+1) In your essay, discuss the following points: 1. Definition of Monopoly 2. Factors that lead to inefficiency in monopoly 3. Counterarguments and conditions that may lead to efficiency in monopoly 4. Government intervention and its impact on resource allocation in monopolies. Title: The Impact of Factors on Resource Allocation Efficiency in Monopolistic Markets Introduction Monopoly, a...
+2) An efficient allocation of resources as defined by Pareto is an allocation such that the only way to make one individual better off is to make another worse off. A pure monopoly, which is a single supplier to a market, will not reach this outcome, unlike perfect competition that is synonymous with efficiency. This is because
 
 [[PageBreak]]
 
@@ -1969,9 +1969,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) Missing Text...
+1) In your essay, discuss the following points: 1. Definition of Monopoly 2. Factors that lead to inefficiency in monopoly 3. Counterarguments and conditions that may lead to efficiency in monopoly 4. Government intervention and its impact on resource allocation in monopolies. Title: The Impact of Factors on Resource Allocation Efficiency in Monopolistic Markets Introduction Monopoly, a...
 
-2) Hi, Steve Gibson! Thank you for your suggestions about skydiving for me. I've signed my waiver, so I'm going to be assigned an instructor. I should learn how to pack, open the parachute, how to jump, how to keep calm in the sky (the last one is very important for me) with him. Of course, I
+2) An efficient allocation of resources as defined by Pareto is an allocation such that the only way to make one individual better off is to make another worse off. A pure monopoly, which is a single supplier to a market, will not reach this outcome, unlike perfect competition that is synonymous with efficiency. This is because
 
 [[PageBreak]]
 
@@ -1981,8 +1981,8 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA17]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
-2) Title: Making a 'To-Do' List of My Dreams Hello everyone! Today, I would like to talk about an interesting and inspiring topic: Making a 'To-Do' list of dreams. Dreams are like a compass that guides us towards our desired destination in life. Here are some steps to create a list of dreams that will inspire and...
+1) The various Neolithic monuments that appear around the area of Avebury have been a matter of debate between archaeologists for hundreds of years as to what could have been their past function. The monuments are important because, as Pollard and Reynolds have written, "monuments are often taken as defining the period, marking the first major human
+2) The Avebury monument complex, located in Wiltshire, England, is a fascinating and awe-inspiring prehistoric site that dates back to approximately 2800-2400 BC. The Avebury complex consists of three main parts: a large henge (a circular bank with an internal ditch) containing a stone circle, an avenue of stones, and a number of smaller circles and barrows....
 
 [[PageBreak]]
 
@@ -1997,9 +1997,9 @@ Why does the text option you chose sound more or less human-like? Please write a
 Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):
 
 
-1) If I had one day to live, I would leave my office and I'd go to a dance battle. I would like to win it and celebrate the win on the most beautiful beach in the world. I'd get there all my friends together and I'd organize a lounge party. I believe that if you have
+1) The various Neolithic monuments that appear around the area of Avebury have been a matter of debate between archaeologists for hundreds of years as to what could have been their past function. The monuments are important because, as Pollard and Reynolds have written, "monuments are often taken as defining the period, marking the first major human
 
-2) Title: Making a 'To-Do' List of My Dreams Hello everyone! Today, I would like to talk about an interesting and inspiring topic: Making a 'To-Do' list of dreams. Dreams are like a compass that guides us towards our desired destination in life. Here are some steps to create a list of dreams that will inspire and...
+2) The Avebury monument complex, located in Wiltshire, England, is a fascinating and awe-inspiring prehistoric site that dates back to approximately 2800-2400 BC. The Avebury complex consists of three main parts: a large henge (a circular bank with an internal ditch) containing a stone circle, an avenue of stones, and a number of smaller circles and barrows....
 
 [[PageBreak]]
 
