@@ -2,7 +2,7 @@ from pathlib import Path
 import pandas as pd
 import tqdm
 
-unfilterd_corpus = Path('/home/nuvolari/GitHub/thesis-llm-corpus/combine-partials/final_corpus.csv').resolve()
+unfilterd_corpus = Path('/home/nuvolari/GitHub/thesis-survey/final-fullcorpus/final_corpus_cleaned.csv').resolve()
 corpus_df = pd.read_csv(unfilterd_corpus, dtype=str)
 
 wordlist_filepath = Path('/home/nuvolari/GitHub/thesis-survey/final-fullcorpus/LDNOOBW-en.txt').resolve()
