@@ -140,11 +140,15 @@ def form_rateq_item(llm_text: str, index: int, source_corp: str) -> str:
 
     # Form question texts.
     # the new line characters don't affect import. Just make the txt file more readable.
-    itemq_rate = f"Rate the text between 1 (definitely AI generated) and 4 (definitely human generated): \n\n\"{llm_text}\""
+    itemq_rate = f"Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated)."
     itemq_why = f"Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful."
     itemq_rewrite = f'Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.'
 
     composition = f"""
+[[Question:DB]]
+[[ID: Rate{source_corp}{index}ratetext]]
+"{llm_text}"
+
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: Rate{source_corp}{index}]]
 {itemq_rate}
@@ -156,11 +160,19 @@ def form_rateq_item(llm_text: str, index: int, source_corp: str) -> str:
 
 [[PageBreak]]
 
+[[Question:DB]]
+[[ID: Rate{source_corp}{index}whytext]]
+"{llm_text}"
+
 [[Question:TE:Essay]]
 [[ID: Rate{source_corp}{index}why]]
 {itemq_why}
 
 [[PageBreak]]
+
+[[Question:DB]]
+[[ID: Rate{source_corp}{index}rwtext]]
+"{llm_text}"
 
 [[Question:TE:Essay]]
 [[ID: Rate{source_corp}{index}rewrite]]
@@ -177,7 +189,7 @@ def form_choiceq_item(human_text: str, llm_text: str, index: int, source_corp: s
     """
 
     # Clean llm_text. Only first 56 words are used.
-    llm_text = llm_text.strip().replace("\n", " ")
+    llm_text = llm_text.strip().replace("\n", " ").replace('"', "")
     llm_text = " ".join(llm_text.split()[:56]) + "..."
 
     # Clean human_text. Only first 56 words are used, if it even reaches that amount.
@@ -203,10 +215,18 @@ def form_choiceq_item(human_text: str, llm_text: str, index: int, source_corp: s
 [[ID: Choice{source_corp}{index}]]
 {itemq_choice}
 [[Choices]]
-1) {opt1}
-2) {opt2}
+1) "{opt1}"
+2) "{opt2}"
 
 [[PageBreak]]
+
+[[Question:DB]]
+[[ID: Choice{source_corp}{index}opt1whytext]]
+Text 1: "{opt1}"
+
+[[Question:DB]]
+[[ID: Choice{source_corp}{index}opt2whytext]]
+Text 2: "{opt2}"
 
 [[Question:TE:Essay]]
 [[ID: Choice{source_corp}{index}why]]
@@ -214,13 +234,17 @@ def form_choiceq_item(human_text: str, llm_text: str, index: int, source_corp: s
 
 [[PageBreak]]
 
+[[Question:DB]]
+[[ID: Choice{source_corp}{index}opt1rwtext]]
+Text 1: "{opt1}"
+
+[[Question:DB]]
+[[ID: Choice{source_corp}{index}opt2rwtext]]
+Text 2: "{opt2}"
+
 [[Question:TE:Essay]]
 [[ID: Choice{source_corp}{index}rewrite]]
 {itemq_rewrite}
-
-1) {opt1}
-
-2) {opt2}
 
 [[PageBreak]]
 """
