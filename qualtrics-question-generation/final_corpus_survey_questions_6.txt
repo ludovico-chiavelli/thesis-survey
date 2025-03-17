@@ -127,14 +127,14 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceBA7]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "Yet, upon closer examination, the practice of gift-giving transcends its material value, acting as a complex social phenomenon that reveals much about the broader social organization of participating cultures. Analysing attitudes towards gifts and exchanges exposes underlying power dynamics, social hierarchies, obligations, and even notions of reciprocity. One striking example is the practice of **presentism** found..."
+1) "Yet, upon closer examination, the practice of gift-giving transcends its material value, acting as a complex social phenomenon that reveals much about the broader social organization of participating cultures. Analysing attitudes towards gifts and exchanges exposes underlying power dynamics, social hierarchies, obligations, and even notions of reciprocity. One striking example is the practice of presentism found..."
 2) "Gifts and exchange are integral to everyday life, for special occasions such as birthdays, doing well at a particular sport and religious festivities such as Christmas, baptism, confirmation and many more. Even on a day-to-day scale exchanges are taking place all the time in the form of telephone calls, letters, dances, dinner parties and just conversations"
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceBA7opt1whytext]]
-Text 1: "Yet, upon closer examination, the practice of gift-giving transcends its material value, acting as a complex social phenomenon that reveals much about the broader social organization of participating cultures. Analysing attitudes towards gifts and exchanges exposes underlying power dynamics, social hierarchies, obligations, and even notions of reciprocity. One striking example is the practice of **presentism** found..."
+Text 1: "Yet, upon closer examination, the practice of gift-giving transcends its material value, acting as a complex social phenomenon that reveals much about the broader social organization of participating cultures. Analysing attitudes towards gifts and exchanges exposes underlying power dynamics, social hierarchies, obligations, and even notions of reciprocity. One striking example is the practice of presentism found..."
 
 [[Question:DB]]
 [[ID: ChoiceBA7opt2whytext]]
@@ -148,7 +148,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceBA7opt1rwtext]]
-Text 1: "Yet, upon closer examination, the practice of gift-giving transcends its material value, acting as a complex social phenomenon that reveals much about the broader social organization of participating cultures. Analysing attitudes towards gifts and exchanges exposes underlying power dynamics, social hierarchies, obligations, and even notions of reciprocity. One striking example is the practice of **presentism** found..."
+Text 1: "Yet, upon closer examination, the practice of gift-giving transcends its material value, acting as a complex social phenomenon that reveals much about the broader social organization of participating cultures. Analysing attitudes towards gifts and exchanges exposes underlying power dynamics, social hierarchies, obligations, and even notions of reciprocity. One striking example is the practice of presentism found..."
 
 [[Question:DB]]
 [[ID: ChoiceBA7opt2rwtext]]

@@ -166,7 +166,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "'Politics is about the uneven distribution of power in society - how the struggle for power is conducted'. Stoker and Marsh here highlight the general consensus that power is central to the study of politics. 'Power is to political analysis what the economy is to economics' writes Hay. However, there remains much debate concerning the nature"
-2) "**Essay:** The definition of political power is the ability to make choices and get others to do things that they would not otherwise do. This is the case because in politics, people often use their authority or influence to get others to conform to their wishes or follow certain rules or guidelines that are set by..."
+2) "Essay: The definition of political power is the ability to make choices and get others to do things that they would not otherwise do. This is the case because in politics, people often use their authority or influence to get others to conform to their wishes or follow certain rules or guidelines that are set by..."
 
 [[PageBreak]]
 
@@ -176,7 +176,7 @@ Text 1: "'Politics is about the uneven distribution of power in society - how th
 
 [[Question:DB]]
 [[ID: ChoiceBA0opt2whytext]]
-Text 2: "**Essay:** The definition of political power is the ability to make choices and get others to do things that they would not otherwise do. This is the case because in politics, people often use their authority or influence to get others to conform to their wishes or follow certain rules or guidelines that are set by..."
+Text 2: "Essay: The definition of political power is the ability to make choices and get others to do things that they would not otherwise do. This is the case because in politics, people often use their authority or influence to get others to conform to their wishes or follow certain rules or guidelines that are set by..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA0why]]
@@ -190,7 +190,7 @@ Text 1: "'Politics is about the uneven distribution of power in society - how th
 
 [[Question:DB]]
 [[ID: ChoiceBA0opt2rwtext]]
-Text 2: "**Essay:** The definition of political power is the ability to make choices and get others to do things that they would not otherwise do. This is the case because in politics, people often use their authority or influence to get others to conform to their wishes or follow certain rules or guidelines that are set by..."
+Text 2: "Essay: The definition of political power is the ability to make choices and get others to do things that they would not otherwise do. This is the case because in politics, people often use their authority or influence to get others to conform to their wishes or follow certain rules or guidelines that are set by..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA0rewrite]]

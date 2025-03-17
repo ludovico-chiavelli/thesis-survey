@@ -9,7 +9,7 @@ Read the text below.
 
 [[Question:DB]]
 [[ID: RateEF9ratetext]]
-"eBay As a B1 English learner, I've delved into the world of online shopping. Two giants stand out: Amazon and eBay. Both offer a vast selection and convenience, but are they truly equal? **Amazon**, the undeniable king of convenience, boasts a user-friendly interface and speedy delivery. I can buy almost anything, from books to electronics, with a few clicks. Prime membership provides further benefits like free two-day shipping and streaming services, making it a compelling option for frequent shoppers. **eBay**, on the other hand, thrives on its unique..."
+"eBay As a B1 English learner, I've delved into the world of online shopping. Two giants stand out: Amazon and eBay. Both offer a vast selection and convenience, but are they truly equal? Amazon, the undeniable king of convenience, boasts a user-friendly interface and speedy delivery. I can buy almost anything, from books to electronics, with a few clicks. Prime membership provides further benefits like free two-day shipping and streaming services, making it a compelling option for frequent shoppers. eBay, on the other hand, thrives on its unique..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateEF9]]
@@ -24,7 +24,7 @@ Rate the text between 1 (definitely AI generated) and 4 (definitely human genera
 
 [[Question:DB]]
 [[ID: RateEF9whytext]]
-"eBay As a B1 English learner, I've delved into the world of online shopping. Two giants stand out: Amazon and eBay. Both offer a vast selection and convenience, but are they truly equal? **Amazon**, the undeniable king of convenience, boasts a user-friendly interface and speedy delivery. I can buy almost anything, from books to electronics, with a few clicks. Prime membership provides further benefits like free two-day shipping and streaming services, making it a compelling option for frequent shoppers. **eBay**, on the other hand, thrives on its unique..."
+"eBay As a B1 English learner, I've delved into the world of online shopping. Two giants stand out: Amazon and eBay. Both offer a vast selection and convenience, but are they truly equal? Amazon, the undeniable king of convenience, boasts a user-friendly interface and speedy delivery. I can buy almost anything, from books to electronics, with a few clicks. Prime membership provides further benefits like free two-day shipping and streaming services, making it a compelling option for frequent shoppers. eBay, on the other hand, thrives on its unique..."
 
 [[Question:TE:Essay]]
 [[ID: RateEF9why]]
@@ -34,7 +34,7 @@ Why does the text sound more or less human-like? Please write at least one sente
 
 [[Question:DB]]
 [[ID: RateEF9rwtext]]
-"eBay As a B1 English learner, I've delved into the world of online shopping. Two giants stand out: Amazon and eBay. Both offer a vast selection and convenience, but are they truly equal? **Amazon**, the undeniable king of convenience, boasts a user-friendly interface and speedy delivery. I can buy almost anything, from books to electronics, with a few clicks. Prime membership provides further benefits like free two-day shipping and streaming services, making it a compelling option for frequent shoppers. **eBay**, on the other hand, thrives on its unique..."
+"eBay As a B1 English learner, I've delved into the world of online shopping. Two giants stand out: Amazon and eBay. Both offer a vast selection and convenience, but are they truly equal? Amazon, the undeniable king of convenience, boasts a user-friendly interface and speedy delivery. I can buy almost anything, from books to electronics, with a few clicks. Prime membership provides further benefits like free two-day shipping and streaming services, making it a compelling option for frequent shoppers. eBay, on the other hand, thrives on its unique..."
 
 [[Question:TE:Essay]]
 [[ID: RateEF9rewrite]]
@@ -89,7 +89,7 @@ Read the text below.
 
 [[Question:DB]]
 [[ID: RateEF10ratetext]]
-"But remember, stating your issue clearly and politely can often lead to a positive resolution. Firstly, **be specific**. Avoid vague complaints like "Your service is terrible." Instead, describe the exact problem and when it happened. For example, "On October 15th, I ordered a phone online, but it arrived damaged." Next, **keep it polite**. Even if you're frustrated, using respectful language is crucial. Start with a formal greeting like "Dear [Name]," and avoid using overly emotional or aggressive words. Clearly state **what you want**. Do you need a refund?..."
+"But remember, stating your issue clearly and politely can often lead to a positive resolution. Firstly, be specific. Avoid vague complaints like "Your service is terrible." Instead, describe the exact problem and when it happened. For example, "On October 15th, I ordered a phone online, but it arrived damaged." Next, keep it polite. Even if you're frustrated, using respectful language is crucial. Start with a formal greeting like "Dear [Name]," and avoid using overly emotional or aggressive words. Clearly state what you want. Do you need a refund?..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateEF10]]
@@ -104,7 +104,7 @@ Rate the text between 1 (definitely AI generated) and 4 (definitely human genera
 
 [[Question:DB]]
 [[ID: RateEF10whytext]]
-"But remember, stating your issue clearly and politely can often lead to a positive resolution. Firstly, **be specific**. Avoid vague complaints like "Your service is terrible." Instead, describe the exact problem and when it happened. For example, "On October 15th, I ordered a phone online, but it arrived damaged." Next, **keep it polite**. Even if you're frustrated, using respectful language is crucial. Start with a formal greeting like "Dear [Name]," and avoid using overly emotional or aggressive words. Clearly state **what you want**. Do you need a refund?..."
+"But remember, stating your issue clearly and politely can often lead to a positive resolution. Firstly, be specific. Avoid vague complaints like "Your service is terrible." Instead, describe the exact problem and when it happened. For example, "On October 15th, I ordered a phone online, but it arrived damaged." Next, keep it polite. Even if you're frustrated, using respectful language is crucial. Start with a formal greeting like "Dear [Name]," and avoid using overly emotional or aggressive words. Clearly state what you want. Do you need a refund?..."
 
 [[Question:TE:Essay]]
 [[ID: RateEF10why]]
@@ -114,7 +114,7 @@ Why does the text sound more or less human-like? Please write at least one sente
 
 [[Question:DB]]
 [[ID: RateEF10rwtext]]
-"But remember, stating your issue clearly and politely can often lead to a positive resolution. Firstly, **be specific**. Avoid vague complaints like "Your service is terrible." Instead, describe the exact problem and when it happened. For example, "On October 15th, I ordered a phone online, but it arrived damaged." Next, **keep it polite**. Even if you're frustrated, using respectful language is crucial. Start with a formal greeting like "Dear [Name]," and avoid using overly emotional or aggressive words. Clearly state **what you want**. Do you need a refund?..."
+"But remember, stating your issue clearly and politely can often lead to a positive resolution. Firstly, be specific. Avoid vague complaints like "Your service is terrible." Instead, describe the exact problem and when it happened. For example, "On October 15th, I ordered a phone online, but it arrived damaged." Next, keep it polite. Even if you're frustrated, using respectful language is crucial. Start with a formal greeting like "Dear [Name]," and avoid using overly emotional or aggressive words. Clearly state what you want. Do you need a refund?..."
 
 [[Question:TE:Essay]]
 [[ID: RateEF10rewrite]]
@@ -128,7 +128,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "Terms of reference HR Director requested this report on general employee satisfaction within the company. procedure A survey was prepared and conducted by 120 employees of all the sections, 10% of the company. 1.employee package: number of vacation days, sick days, overtime 2.working environment: office equipment, clear understanding of aims and objectives, and appraisal system. 3.Company"
-2) "However, with a clear structure and some helpful tips, it doesn't have to be overwhelming. Here's a breakdown of how you can approach writing this report at a B1 level: **1. Understand the Purpose:** First, ask yourself why this report is being written. Is it to identify areas of improvement, celebrate successes, or inform management about..."
+2) "However, with a clear structure and some helpful tips, it doesn't have to be overwhelming. Here's a breakdown of how you can approach writing this report at a B1 level: 1. Understand the Purpose: First, ask yourself why this report is being written. Is it to identify areas of improvement, celebrate successes, or inform management about..."
 
 [[PageBreak]]
 
@@ -138,7 +138,7 @@ Text 1: "Terms of reference HR Director requested this report on general employe
 
 [[Question:DB]]
 [[ID: ChoiceEF9opt2whytext]]
-Text 2: "However, with a clear structure and some helpful tips, it doesn't have to be overwhelming. Here's a breakdown of how you can approach writing this report at a B1 level: **1. Understand the Purpose:** First, ask yourself why this report is being written. Is it to identify areas of improvement, celebrate successes, or inform management about..."
+Text 2: "However, with a clear structure and some helpful tips, it doesn't have to be overwhelming. Here's a breakdown of how you can approach writing this report at a B1 level: 1. Understand the Purpose: First, ask yourself why this report is being written. Is it to identify areas of improvement, celebrate successes, or inform management about..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF9why]]
@@ -152,7 +152,7 @@ Text 1: "Terms of reference HR Director requested this report on general employe
 
 [[Question:DB]]
 [[ID: ChoiceEF9opt2rwtext]]
-Text 2: "However, with a clear structure and some helpful tips, it doesn't have to be overwhelming. Here's a breakdown of how you can approach writing this report at a B1 level: **1. Understand the Purpose:** First, ask yourself why this report is being written. Is it to identify areas of improvement, celebrate successes, or inform management about..."
+Text 2: "However, with a clear structure and some helpful tips, it doesn't have to be overwhelming. Here's a breakdown of how you can approach writing this report at a B1 level: 1. Understand the Purpose: First, ask yourself why this report is being written. Is it to identify areas of improvement, celebrate successes, or inform management about..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF9rewrite]]
@@ -165,14 +165,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA9]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "However, the reality of health is deeply intertwined with social factors, resulting in stark disparities known as health inequalities. These inequalities refer to the unfair and avoidable differences in health outcomes and access to healthcare experienced by diverse social groups. Several factors contribute to these inequities. **Poverty** acts as a significant barrier, limiting access to nutritious..."
+1) "However, the reality of health is deeply intertwined with social factors, resulting in stark disparities known as health inequalities. These inequalities refer to the unfair and avoidable differences in health outcomes and access to healthcare experienced by diverse social groups. Several factors contribute to these inequities. Poverty acts as a significant barrier, limiting access to nutritious..."
 2) "Health inequalities are the systematic differences in health and illness that exist between individuals within a population. In the UK they were first seriously addressed with the publication of the Black report in 1980 1, the recommendations of which were largely ignored by successive Conservative Governments. Following their election win in 1997 the New Labour Government"
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceBA9opt1whytext]]
-Text 1: "However, the reality of health is deeply intertwined with social factors, resulting in stark disparities known as health inequalities. These inequalities refer to the unfair and avoidable differences in health outcomes and access to healthcare experienced by diverse social groups. Several factors contribute to these inequities. **Poverty** acts as a significant barrier, limiting access to nutritious..."
+Text 1: "However, the reality of health is deeply intertwined with social factors, resulting in stark disparities known as health inequalities. These inequalities refer to the unfair and avoidable differences in health outcomes and access to healthcare experienced by diverse social groups. Several factors contribute to these inequities. Poverty acts as a significant barrier, limiting access to nutritious..."
 
 [[Question:DB]]
 [[ID: ChoiceBA9opt2whytext]]
@@ -186,7 +186,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceBA9opt1rwtext]]
-Text 1: "However, the reality of health is deeply intertwined with social factors, resulting in stark disparities known as health inequalities. These inequalities refer to the unfair and avoidable differences in health outcomes and access to healthcare experienced by diverse social groups. Several factors contribute to these inequities. **Poverty** acts as a significant barrier, limiting access to nutritious..."
+Text 1: "However, the reality of health is deeply intertwined with social factors, resulting in stark disparities known as health inequalities. These inequalities refer to the unfair and avoidable differences in health outcomes and access to healthcare experienced by diverse social groups. Several factors contribute to these inequities. Poverty acts as a significant barrier, limiting access to nutritious..."
 
 [[Question:DB]]
 [[ID: ChoiceBA9opt2rwtext]]
@@ -204,7 +204,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "Dear Sir, Since I've been living ## Chateau Street, I've had to endure the following problems: The roof is leaking, one handle came off a door and the drains are clogged. Despite the threat to go to the consumer protection laws office to complain, I'm still waiting for an answer about the issues. Would you please"
-2) "This deposit is essentially an insurance for the landlord in case you damage the property beyond normal wear and tear. They might also hold back for unpaid rent or cleaning costs. While it's understandable that landlords need this protection, it's important to know your rights and how to get your money back. **Here are some steps..."
+2) "This deposit is essentially an insurance for the landlord in case you damage the property beyond normal wear and tear. They might also hold back for unpaid rent or cleaning costs. While it's understandable that landlords need this protection, it's important to know your rights and how to get your money back. Here are some steps..."
 
 [[PageBreak]]
 
@@ -214,7 +214,7 @@ Text 1: "Dear Sir, Since I've been living ## Chateau Street, I've had to endure 
 
 [[Question:DB]]
 [[ID: ChoiceEF10opt2whytext]]
-Text 2: "This deposit is essentially an insurance for the landlord in case you damage the property beyond normal wear and tear. They might also hold back for unpaid rent or cleaning costs. While it's understandable that landlords need this protection, it's important to know your rights and how to get your money back. **Here are some steps..."
+Text 2: "This deposit is essentially an insurance for the landlord in case you damage the property beyond normal wear and tear. They might also hold back for unpaid rent or cleaning costs. While it's understandable that landlords need this protection, it's important to know your rights and how to get your money back. Here are some steps..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF10why]]
@@ -228,7 +228,7 @@ Text 1: "Dear Sir, Since I've been living ## Chateau Street, I've had to endure 
 
 [[Question:DB]]
 [[ID: ChoiceEF10opt2rwtext]]
-Text 2: "This deposit is essentially an insurance for the landlord in case you damage the property beyond normal wear and tear. They might also hold back for unpaid rent or cleaning costs. While it's understandable that landlords need this protection, it's important to know your rights and how to get your money back. **Here are some steps..."
+Text 2: "This deposit is essentially an insurance for the landlord in case you damage the property beyond normal wear and tear. They might also hold back for unpaid rent or cleaning costs. While it's understandable that landlords need this protection, it's important to know your rights and how to get your money back. Here are some steps..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF10rewrite]]
