@@ -127,14 +127,14 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceEF0]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "Dear Miss Janice, I'm writing to say how terribly sorry I am that I made many interrogating questions like how much cost you about your property and personal effects as these things come into my sight. Also, I put my foot in it by questioning how much you earn. Even though it was a first meeting"
+1) "Dear Miss Janice, I'm writing to say how terribly sorry I am that I made many interrogating questions like how much cost you about your property and personal effects as these things come into my sight. Also, I put my foot in it by questioning how much you earn. Even though it was a first meeting..."
 2) "Writing an apology note is a way to show your regret for doing something wrong to someone. It is a way to say sorry and to explain why you did what you did. Apologies are very important in relationships because they help to make things right again between people. When you write an apology note, it..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceEF0opt1whytext]]
-Text 1: "Dear Miss Janice, I'm writing to say how terribly sorry I am that I made many interrogating questions like how much cost you about your property and personal effects as these things come into my sight. Also, I put my foot in it by questioning how much you earn. Even though it was a first meeting"
+Text 1: "Dear Miss Janice, I'm writing to say how terribly sorry I am that I made many interrogating questions like how much cost you about your property and personal effects as these things come into my sight. Also, I put my foot in it by questioning how much you earn. Even though it was a first meeting..."
 
 [[Question:DB]]
 [[ID: ChoiceEF0opt2whytext]]
@@ -148,7 +148,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceEF0opt1rwtext]]
-Text 1: "Dear Miss Janice, I'm writing to say how terribly sorry I am that I made many interrogating questions like how much cost you about your property and personal effects as these things come into my sight. Also, I put my foot in it by questioning how much you earn. Even though it was a first meeting"
+Text 1: "Dear Miss Janice, I'm writing to say how terribly sorry I am that I made many interrogating questions like how much cost you about your property and personal effects as these things come into my sight. Also, I put my foot in it by questioning how much you earn. Even though it was a first meeting..."
 
 [[Question:DB]]
 [[ID: ChoiceEF0opt2rwtext]]
@@ -165,14 +165,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA0]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "'Politics is about the uneven distribution of power in society - how the struggle for power is conducted'. Stoker and Marsh here highlight the general consensus that power is central to the study of politics. 'Power is to political analysis what the economy is to economics' writes Hay. However, there remains much debate concerning the nature"
+1) "'Politics is about the uneven distribution of power in society - how the struggle for power is conducted'. Stoker and Marsh here highlight the general consensus that power is central to the study of politics. 'Power is to political analysis what the economy is to economics' writes Hay. However, there remains much debate concerning the nature..."
 2) "Essay: The definition of political power is the ability to make choices and get others to do things that they would not otherwise do. This is the case because in politics, people often use their authority or influence to get others to conform to their wishes or follow certain rules or guidelines that are set by..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceBA0opt1whytext]]
-Text 1: "'Politics is about the uneven distribution of power in society - how the struggle for power is conducted'. Stoker and Marsh here highlight the general consensus that power is central to the study of politics. 'Power is to political analysis what the economy is to economics' writes Hay. However, there remains much debate concerning the nature"
+Text 1: "'Politics is about the uneven distribution of power in society - how the struggle for power is conducted'. Stoker and Marsh here highlight the general consensus that power is central to the study of politics. 'Power is to political analysis what the economy is to economics' writes Hay. However, there remains much debate concerning the nature..."
 
 [[Question:DB]]
 [[ID: ChoiceBA0opt2whytext]]
@@ -186,7 +186,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceBA0opt1rwtext]]
-Text 1: "'Politics is about the uneven distribution of power in society - how the struggle for power is conducted'. Stoker and Marsh here highlight the general consensus that power is central to the study of politics. 'Power is to political analysis what the economy is to economics' writes Hay. However, there remains much debate concerning the nature"
+Text 1: "'Politics is about the uneven distribution of power in society - how the struggle for power is conducted'. Stoker and Marsh here highlight the general consensus that power is central to the study of politics. 'Power is to political analysis what the economy is to economics' writes Hay. However, there remains much debate concerning the nature..."
 
 [[Question:DB]]
 [[ID: ChoiceBA0opt2rwtext]]
@@ -203,14 +203,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF1]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "A survey had been conducted in the UK to find out about people's attitudes to voices and British English accents. So, 5,000 people's took part in the survey. To summarize the findings from the survey, we had: when asked if they change their voices depending on whom they are talking to, 81% of them said yes."
+1) "A survey had been conducted in the UK to find out about people's attitudes to voices and British English accents. So, 5,000 people's took part in the survey. To summarize the findings from the survey, we had: when asked if they change their voices depending on whom they are talking to, 81% of them said yes...."
 2) "The survey asked respondents about their eating habits in order to identify the impact of diet on the health. The results showed that 75% of people considered themselves to be meat-eaters, 15% considered themselves to be vegetarians, 5% considered themselves to be vegans, and 5% had other dietary preferences. The data revealed that meat-eaters were more..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceEF1opt1whytext]]
-Text 1: "A survey had been conducted in the UK to find out about people's attitudes to voices and British English accents. So, 5,000 people's took part in the survey. To summarize the findings from the survey, we had: when asked if they change their voices depending on whom they are talking to, 81% of them said yes."
+Text 1: "A survey had been conducted in the UK to find out about people's attitudes to voices and British English accents. So, 5,000 people's took part in the survey. To summarize the findings from the survey, we had: when asked if they change their voices depending on whom they are talking to, 81% of them said yes...."
 
 [[Question:DB]]
 [[ID: ChoiceEF1opt2whytext]]
@@ -224,7 +224,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceEF1opt1rwtext]]
-Text 1: "A survey had been conducted in the UK to find out about people's attitudes to voices and British English accents. So, 5,000 people's took part in the survey. To summarize the findings from the survey, we had: when asked if they change their voices depending on whom they are talking to, 81% of them said yes."
+Text 1: "A survey had been conducted in the UK to find out about people's attitudes to voices and British English accents. So, 5,000 people's took part in the survey. To summarize the findings from the survey, we had: when asked if they change their voices depending on whom they are talking to, 81% of them said yes...."
 
 [[Question:DB]]
 [[ID: ChoiceEF1opt2rwtext]]
@@ -363,14 +363,14 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceBA1]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "Victorian notions of women's madness were largely influenced by the Victorian Domestic Ideology; paramount during the nineteenth century in defining gender roles, responsibilities and acceptable behaviour. This primarily concerned the middle classes, establishing ideals of womanhood and femininity that were arguably damaging both to those directly targeted as well as other groups within Victorian society striving"
+1) "Victorian notions of women's madness were largely influenced by the Victorian Domestic Ideology; paramount during the nineteenth century in defining gender roles, responsibilities and acceptable behaviour. This primarily concerned the middle classes, establishing ideals of womanhood and femininity that were arguably damaging both to those directly targeted as well as other groups within Victorian society striving..."
 2) "Write an essay on the topic Consider how Victorian notions of women's madness affected the lives of women in class specific ways. Use a case study to illustrate your argument. The Victorian era was marked by the strict social norms and rigid class structures. The women of the time were subjected to various forms of oppression,..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceBA1opt1whytext]]
-Text 1: "Victorian notions of women's madness were largely influenced by the Victorian Domestic Ideology; paramount during the nineteenth century in defining gender roles, responsibilities and acceptable behaviour. This primarily concerned the middle classes, establishing ideals of womanhood and femininity that were arguably damaging both to those directly targeted as well as other groups within Victorian society striving"
+Text 1: "Victorian notions of women's madness were largely influenced by the Victorian Domestic Ideology; paramount during the nineteenth century in defining gender roles, responsibilities and acceptable behaviour. This primarily concerned the middle classes, establishing ideals of womanhood and femininity that were arguably damaging both to those directly targeted as well as other groups within Victorian society striving..."
 
 [[Question:DB]]
 [[ID: ChoiceBA1opt2whytext]]
@@ -384,7 +384,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceBA1opt1rwtext]]
-Text 1: "Victorian notions of women's madness were largely influenced by the Victorian Domestic Ideology; paramount during the nineteenth century in defining gender roles, responsibilities and acceptable behaviour. This primarily concerned the middle classes, establishing ideals of womanhood and femininity that were arguably damaging both to those directly targeted as well as other groups within Victorian society striving"
+Text 1: "Victorian notions of women's madness were largely influenced by the Victorian Domestic Ideology; paramount during the nineteenth century in defining gender roles, responsibilities and acceptable behaviour. This primarily concerned the middle classes, establishing ideals of womanhood and femininity that were arguably damaging both to those directly targeted as well as other groups within Victorian society striving..."
 
 [[Question:DB]]
 [[ID: ChoiceBA1opt2rwtext]]
@@ -401,14 +401,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF2]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "I'm a firm believer that solar energy would be beneficial to our city as our city isn't by a river or located in a windy area. Moreover, there are a lot of sunny days in central Europe which we can use to transform sun rays into energy. A major advantage is that people usually have bigger"
+1) "I'm a firm believer that solar energy would be beneficial to our city as our city isn't by a river or located in a windy area. Moreover, there are a lot of sunny days in central Europe which we can use to transform sun rays into energy. A major advantage is that people usually have bigger..."
 2) "One way of doing this is to choose renewable energy sources. There are several options available. Three popular ones are wind, solar and hydroelectric energy. In my opinion, hydroelectric energy is more environmentally friendly than the other two options. First of all, hydroelectric power plants produce no pollution. As a result, the air and water around..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceEF2opt1whytext]]
-Text 1: "I'm a firm believer that solar energy would be beneficial to our city as our city isn't by a river or located in a windy area. Moreover, there are a lot of sunny days in central Europe which we can use to transform sun rays into energy. A major advantage is that people usually have bigger"
+Text 1: "I'm a firm believer that solar energy would be beneficial to our city as our city isn't by a river or located in a windy area. Moreover, there are a lot of sunny days in central Europe which we can use to transform sun rays into energy. A major advantage is that people usually have bigger..."
 
 [[Question:DB]]
 [[ID: ChoiceEF2opt2whytext]]
@@ -422,7 +422,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceEF2opt1rwtext]]
-Text 1: "I'm a firm believer that solar energy would be beneficial to our city as our city isn't by a river or located in a windy area. Moreover, there are a lot of sunny days in central Europe which we can use to transform sun rays into energy. A major advantage is that people usually have bigger"
+Text 1: "I'm a firm believer that solar energy would be beneficial to our city as our city isn't by a river or located in a windy area. Moreover, there are a lot of sunny days in central Europe which we can use to transform sun rays into energy. A major advantage is that people usually have bigger..."
 
 [[Question:DB]]
 [[ID: ChoiceEF2opt2rwtext]]
@@ -439,14 +439,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA2]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "It has long been recognised that emotions exert powerful effects on memory, and that what we feel can strongly influence what we remember. The types of effects that emotion can have on memory differ markedly, depending on the precise conditions of encoding and retrieval (Eich, Kihlstrom, Bower, Forgas & Miedenthal, 2000). Differences in emphasis during encoding,"
+1) "It has long been recognised that emotions exert powerful effects on memory, and that what we feel can strongly influence what we remember. The types of effects that emotion can have on memory differ markedly, depending on the precise conditions of encoding and retrieval (Eich, Kihlstrom, Bower, Forgas & Miedenthal, 2000). Differences in emphasis during encoding,..."
 2) "Humans have the ability to recollect past experiences, events, and encounters, which is known as memory. It is a complex and multifaceted phenomenon that plays a significant role in shaping an individual's understanding of the world. While memories can be influenced by various factors such as sensory information, attention, and emotions, it is essential to acknowledge..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceBA2opt1whytext]]
-Text 1: "It has long been recognised that emotions exert powerful effects on memory, and that what we feel can strongly influence what we remember. The types of effects that emotion can have on memory differ markedly, depending on the precise conditions of encoding and retrieval (Eich, Kihlstrom, Bower, Forgas & Miedenthal, 2000). Differences in emphasis during encoding,"
+Text 1: "It has long been recognised that emotions exert powerful effects on memory, and that what we feel can strongly influence what we remember. The types of effects that emotion can have on memory differ markedly, depending on the precise conditions of encoding and retrieval (Eich, Kihlstrom, Bower, Forgas & Miedenthal, 2000). Differences in emphasis during encoding,..."
 
 [[Question:DB]]
 [[ID: ChoiceBA2opt2whytext]]
@@ -460,7 +460,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceBA2opt1rwtext]]
-Text 1: "It has long been recognised that emotions exert powerful effects on memory, and that what we feel can strongly influence what we remember. The types of effects that emotion can have on memory differ markedly, depending on the precise conditions of encoding and retrieval (Eich, Kihlstrom, Bower, Forgas & Miedenthal, 2000). Differences in emphasis during encoding,"
+Text 1: "It has long been recognised that emotions exert powerful effects on memory, and that what we feel can strongly influence what we remember. The types of effects that emotion can have on memory differ markedly, depending on the precise conditions of encoding and retrieval (Eich, Kihlstrom, Bower, Forgas & Miedenthal, 2000). Differences in emphasis during encoding,..."
 
 [[Question:DB]]
 [[ID: ChoiceBA2opt2rwtext]]
@@ -599,14 +599,14 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceEF3]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "Hi, my name is Marcelo Ziliotto. I was born in Porto Alegre, Rio grande do Sun, Brazil. I still live here, because I love too much where I born. Now, I'm living with my wife. Our second child will born in the next january, and we know that will be a girl. We choose a name"
+1) "Hi, my name is Marcelo Ziliotto. I was born in Porto Alegre, Rio grande do Sun, Brazil. I still live here, because I love too much where I born. Now, I'm living with my wife. Our second child will born in the next january, and we know that will be a girl. We choose a name..."
 2) "They were hard to understand and the textbook was not interesting for me. So I began to look for English language resources on the internet. One day, I discovered a blog about the English language. I was very happy to read interesting articles, exercises and watch videos about the grammar rules, idiomatic expressions and the daily..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceEF3opt1whytext]]
-Text 1: "Hi, my name is Marcelo Ziliotto. I was born in Porto Alegre, Rio grande do Sun, Brazil. I still live here, because I love too much where I born. Now, I'm living with my wife. Our second child will born in the next january, and we know that will be a girl. We choose a name"
+Text 1: "Hi, my name is Marcelo Ziliotto. I was born in Porto Alegre, Rio grande do Sun, Brazil. I still live here, because I love too much where I born. Now, I'm living with my wife. Our second child will born in the next january, and we know that will be a girl. We choose a name..."
 
 [[Question:DB]]
 [[ID: ChoiceEF3opt2whytext]]
@@ -620,7 +620,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceEF3opt1rwtext]]
-Text 1: "Hi, my name is Marcelo Ziliotto. I was born in Porto Alegre, Rio grande do Sun, Brazil. I still live here, because I love too much where I born. Now, I'm living with my wife. Our second child will born in the next january, and we know that will be a girl. We choose a name"
+Text 1: "Hi, my name is Marcelo Ziliotto. I was born in Porto Alegre, Rio grande do Sun, Brazil. I still live here, because I love too much where I born. Now, I'm living with my wife. Our second child will born in the next january, and we know that will be a girl. We choose a name..."
 
 [[Question:DB]]
 [[ID: ChoiceEF3opt2rwtext]]
@@ -638,7 +638,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "0 Introduction The development of information and communication technology (ICT) has revolutionized the education sector, enabling the delivery of e-learning (electronic learning). The concept of e-learning has been rapidly adopted by universities worldwide, as it offers a wide range of benefits such as flexible learning schedules, reduced travel time and costs, and access to quality learning..."
-2) "There are many references these days to e-something and this essay looks in particular at what e-learning is and how it can be used in the learning environment. The relevance of e-learning to meeting today's employment skills and the identification of which skills are sought after by employers are investigated. Not forgetting government policies, these are"
+2) "There are many references these days to e-something and this essay looks in particular at what e-learning is and how it can be used in the learning environment. The relevance of e-learning to meeting today's employment skills and the identification of which skills are sought after by employers are investigated. Not forgetting government policies, these are..."
 
 [[PageBreak]]
 
@@ -648,7 +648,7 @@ Text 1: "0 Introduction The development of information and communication technol
 
 [[Question:DB]]
 [[ID: ChoiceBA3opt2whytext]]
-Text 2: "There are many references these days to e-something and this essay looks in particular at what e-learning is and how it can be used in the learning environment. The relevance of e-learning to meeting today's employment skills and the identification of which skills are sought after by employers are investigated. Not forgetting government policies, these are"
+Text 2: "There are many references these days to e-something and this essay looks in particular at what e-learning is and how it can be used in the learning environment. The relevance of e-learning to meeting today's employment skills and the identification of which skills are sought after by employers are investigated. Not forgetting government policies, these are..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA3why]]
@@ -662,7 +662,7 @@ Text 1: "0 Introduction The development of information and communication technol
 
 [[Question:DB]]
 [[ID: ChoiceBA3opt2rwtext]]
-Text 2: "There are many references these days to e-something and this essay looks in particular at what e-learning is and how it can be used in the learning environment. The relevance of e-learning to meeting today's employment skills and the identification of which skills are sought after by employers are investigated. Not forgetting government policies, these are"
+Text 2: "There are many references these days to e-something and this essay looks in particular at what e-learning is and how it can be used in the learning environment. The relevance of e-learning to meeting today's employment skills and the identification of which skills are sought after by employers are investigated. Not forgetting government policies, these are..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA3rewrite]]
@@ -675,14 +675,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF4]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "If you are wondering how will your life be in 2033, here are some clues of what you might find. check them out! If you work for a big company, you'll most probably work at home. maybe one or two days at the enterprise's offices. Be prepared for making your own schedule and dealing with the"
+1) "If you are wondering how will your life be in 2033, here are some clues of what you might find. check them out! If you work for a big company, you'll most probably work at home. maybe one or two days at the enterprise's offices. Be prepared for making your own schedule and dealing with the..."
 2) "In the future, it is expected that remote work will become more common. Therefore, people may choose to live in locations with a high quality of life, such as countries with a low cost of living, beautiful scenery, or access to the ocean. As a result, people may also have the opportunity to work in their..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceEF4opt1whytext]]
-Text 1: "If you are wondering how will your life be in 2033, here are some clues of what you might find. check them out! If you work for a big company, you'll most probably work at home. maybe one or two days at the enterprise's offices. Be prepared for making your own schedule and dealing with the"
+Text 1: "If you are wondering how will your life be in 2033, here are some clues of what you might find. check them out! If you work for a big company, you'll most probably work at home. maybe one or two days at the enterprise's offices. Be prepared for making your own schedule and dealing with the..."
 
 [[Question:DB]]
 [[ID: ChoiceEF4opt2whytext]]
@@ -696,7 +696,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceEF4opt1rwtext]]
-Text 1: "If you are wondering how will your life be in 2033, here are some clues of what you might find. check them out! If you work for a big company, you'll most probably work at home. maybe one or two days at the enterprise's offices. Be prepared for making your own schedule and dealing with the"
+Text 1: "If you are wondering how will your life be in 2033, here are some clues of what you might find. check them out! If you work for a big company, you'll most probably work at home. maybe one or two days at the enterprise's offices. Be prepared for making your own schedule and dealing with the..."
 
 [[Question:DB]]
 [[ID: ChoiceEF4opt2rwtext]]
@@ -836,7 +836,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "The proliferation of financial crises since the 1970s has raised concerns about the stability of the global economy. The International Monetary Fund (IMF) has been criticized for its role in these crises, with some arguing that it has exacerbated the problem. In this essay, we will examine the causes of financial crises and the role of..."
-2) "Since the 1970s, financial crises have undoubtedly increased in frequency. Apart from the incredibly unstable interwar period, the period since then has seen an unprecedented amount of crises. Financial liberalization has been widely blamed for the crises of recent times by popular commentators, but as will be shown, this is by no means the only factor."
+2) "Since the 1970s, financial crises have undoubtedly increased in frequency. Apart from the incredibly unstable interwar period, the period since then has seen an unprecedented amount of crises. Financial liberalization has been widely blamed for the crises of recent times by popular commentators, but as will be shown, this is by no means the only factor...."
 
 [[PageBreak]]
 
@@ -846,7 +846,7 @@ Text 1: "The proliferation of financial crises since the 1970s has raised concer
 
 [[Question:DB]]
 [[ID: ChoiceBA4opt2whytext]]
-Text 2: "Since the 1970s, financial crises have undoubtedly increased in frequency. Apart from the incredibly unstable interwar period, the period since then has seen an unprecedented amount of crises. Financial liberalization has been widely blamed for the crises of recent times by popular commentators, but as will be shown, this is by no means the only factor."
+Text 2: "Since the 1970s, financial crises have undoubtedly increased in frequency. Apart from the incredibly unstable interwar period, the period since then has seen an unprecedented amount of crises. Financial liberalization has been widely blamed for the crises of recent times by popular commentators, but as will be shown, this is by no means the only factor...."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA4why]]
@@ -860,7 +860,7 @@ Text 1: "The proliferation of financial crises since the 1970s has raised concer
 
 [[Question:DB]]
 [[ID: ChoiceBA4opt2rwtext]]
-Text 2: "Since the 1970s, financial crises have undoubtedly increased in frequency. Apart from the incredibly unstable interwar period, the period since then has seen an unprecedented amount of crises. Financial liberalization has been widely blamed for the crises of recent times by popular commentators, but as will be shown, this is by no means the only factor."
+Text 2: "Since the 1970s, financial crises have undoubtedly increased in frequency. Apart from the incredibly unstable interwar period, the period since then has seen an unprecedented amount of crises. Financial liberalization has been widely blamed for the crises of recent times by popular commentators, but as will be shown, this is by no means the only factor...."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA4rewrite]]
@@ -874,7 +874,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "Examples of renewable energy sources include solar power, wind power, hydro power, and geothermal energy. In this essay, I think we should choose solar power as our main source of energy because it is clean, abundant and cost-effective. First, solar power is clean. It does not produce pollution like fossil fuels and causes damage to the..."
-2) "I'm a firm supporter of the idea that construction of a new building shouldn't begin without considering its environmental impact and the income it could give. In my opinion, my town could benefit from three different sources of renewable energy: solar power, wind power, and biomass recycling. solar energy has always been considered as a good,"
+2) "I'm a firm supporter of the idea that construction of a new building shouldn't begin without considering its environmental impact and the income it could give. In my opinion, my town could benefit from three different sources of renewable energy: solar power, wind power, and biomass recycling. solar energy has always been considered as a good,..."
 
 [[PageBreak]]
 
@@ -884,7 +884,7 @@ Text 1: "Examples of renewable energy sources include solar power, wind power, h
 
 [[Question:DB]]
 [[ID: ChoiceEF5opt2whytext]]
-Text 2: "I'm a firm supporter of the idea that construction of a new building shouldn't begin without considering its environmental impact and the income it could give. In my opinion, my town could benefit from three different sources of renewable energy: solar power, wind power, and biomass recycling. solar energy has always been considered as a good,"
+Text 2: "I'm a firm supporter of the idea that construction of a new building shouldn't begin without considering its environmental impact and the income it could give. In my opinion, my town could benefit from three different sources of renewable energy: solar power, wind power, and biomass recycling. solar energy has always been considered as a good,..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF5why]]
@@ -898,7 +898,7 @@ Text 1: "Examples of renewable energy sources include solar power, wind power, h
 
 [[Question:DB]]
 [[ID: ChoiceEF5opt2rwtext]]
-Text 2: "I'm a firm supporter of the idea that construction of a new building shouldn't begin without considering its environmental impact and the income it could give. In my opinion, my town could benefit from three different sources of renewable energy: solar power, wind power, and biomass recycling. solar energy has always been considered as a good,"
+Text 2: "I'm a firm supporter of the idea that construction of a new building shouldn't begin without considering its environmental impact and the income it could give. In my opinion, my town could benefit from three different sources of renewable energy: solar power, wind power, and biomass recycling. solar energy has always been considered as a good,..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF5rewrite]]
@@ -911,14 +911,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA5]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "The development of feminist thought and action in Japan is distinct from that of its emergence in the West, more specifically within the United States and Britain. Though influenced by Western politics, the development of feminism in Japan was also initiated by numerous other social and political factors that affected the political climate at that specific"
+1) "The development of feminist thought and action in Japan is distinct from that of its emergence in the West, more specifically within the United States and Britain. Though influenced by Western politics, the development of feminism in Japan was also initiated by numerous other social and political factors that affected the political climate at that specific..."
 2) "In this essay, we will outline the key events and developments that led to the emergence and evolution of feminism in Japan. In the Meiji period (1868-1912), Japan underwent a period of rapid modernization, driven by the government's desire to establish a modern, Western-style state. This modernization process brought about significant changes in the roles and..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceBA5opt1whytext]]
-Text 1: "The development of feminist thought and action in Japan is distinct from that of its emergence in the West, more specifically within the United States and Britain. Though influenced by Western politics, the development of feminism in Japan was also initiated by numerous other social and political factors that affected the political climate at that specific"
+Text 1: "The development of feminist thought and action in Japan is distinct from that of its emergence in the West, more specifically within the United States and Britain. Though influenced by Western politics, the development of feminism in Japan was also initiated by numerous other social and political factors that affected the political climate at that specific..."
 
 [[Question:DB]]
 [[ID: ChoiceBA5opt2whytext]]
@@ -932,7 +932,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceBA5opt1rwtext]]
-Text 1: "The development of feminist thought and action in Japan is distinct from that of its emergence in the West, more specifically within the United States and Britain. Though influenced by Western politics, the development of feminism in Japan was also initiated by numerous other social and political factors that affected the political climate at that specific"
+Text 1: "The development of feminist thought and action in Japan is distinct from that of its emergence in the West, more specifically within the United States and Britain. Though influenced by Western politics, the development of feminism in Japan was also initiated by numerous other social and political factors that affected the political climate at that specific..."
 
 [[Question:DB]]
 [[ID: ChoiceBA5opt2rwtext]]
@@ -1071,14 +1071,14 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceEF6]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "Hi Steve! I have read the insurance policy and I knew my responsibilities about my tandem jump like a volunteer. I will sign the waiver and send to you as soon as possible to start my instructions of how to use the equipment. But I have another doubts. After I will be trained, I Have to"
+1) "Hi Steve! I have read the insurance policy and I knew my responsibilities about my tandem jump like a volunteer. I will sign the waiver and send to you as soon as possible to start my instructions of how to use the equipment. But I have another doubts. After I will be trained, I Have to..."
 2) "Now, at B1 English level, I find myself facing a daunting page in front of me: the skydiving waiver. It's a legal document, written in clear, precise English. I can understand most of it: release of liability, assumption of risk, emergency procedures. But even though I grasp the meaning, my stomach still feels like it's doing..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceEF6opt1whytext]]
-Text 1: "Hi Steve! I have read the insurance policy and I knew my responsibilities about my tandem jump like a volunteer. I will sign the waiver and send to you as soon as possible to start my instructions of how to use the equipment. But I have another doubts. After I will be trained, I Have to"
+Text 1: "Hi Steve! I have read the insurance policy and I knew my responsibilities about my tandem jump like a volunteer. I will sign the waiver and send to you as soon as possible to start my instructions of how to use the equipment. But I have another doubts. After I will be trained, I Have to..."
 
 [[Question:DB]]
 [[ID: ChoiceEF6opt2whytext]]
@@ -1092,7 +1092,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceEF6opt1rwtext]]
-Text 1: "Hi Steve! I have read the insurance policy and I knew my responsibilities about my tandem jump like a volunteer. I will sign the waiver and send to you as soon as possible to start my instructions of how to use the equipment. But I have another doubts. After I will be trained, I Have to"
+Text 1: "Hi Steve! I have read the insurance policy and I knew my responsibilities about my tandem jump like a volunteer. I will sign the waiver and send to you as soon as possible to start my instructions of how to use the equipment. But I have another doubts. After I will be trained, I Have to..."
 
 [[Question:DB]]
 [[ID: ChoiceEF6opt2rwtext]]
@@ -1109,14 +1109,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA6]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "Esteban Trueba can be considered to be one of the main characters in 'The House of the Spirits'. This is because he is one of the few dominant male characters that are written about in the novel. Esteban is obsessive, violent, and materialistic. He devotes his life to his business and political careers, determined first to"
+1) "Esteban Trueba can be considered to be one of the main characters in 'The House of the Spirits'. This is because he is one of the few dominant male characters that are written about in the novel. Esteban is obsessive, violent, and materialistic. He devotes his life to his business and political careers, determined first to..."
 2) "Yet, despite this widespread influence, the lives of enslaved Africans remained drastically different from those granted freedom. This begs the question: why, despite its emphasis on equality and compassion, did Christianity fail to have a significant, transformative impact on the lives of slaves by the mid-18th century? One key factor was the inherent contradiction between the..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceBA6opt1whytext]]
-Text 1: "Esteban Trueba can be considered to be one of the main characters in 'The House of the Spirits'. This is because he is one of the few dominant male characters that are written about in the novel. Esteban is obsessive, violent, and materialistic. He devotes his life to his business and political careers, determined first to"
+Text 1: "Esteban Trueba can be considered to be one of the main characters in 'The House of the Spirits'. This is because he is one of the few dominant male characters that are written about in the novel. Esteban is obsessive, violent, and materialistic. He devotes his life to his business and political careers, determined first to..."
 
 [[Question:DB]]
 [[ID: ChoiceBA6opt2whytext]]
@@ -1130,7 +1130,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceBA6opt1rwtext]]
-Text 1: "Esteban Trueba can be considered to be one of the main characters in 'The House of the Spirits'. This is because he is one of the few dominant male characters that are written about in the novel. Esteban is obsessive, violent, and materialistic. He devotes his life to his business and political careers, determined first to"
+Text 1: "Esteban Trueba can be considered to be one of the main characters in 'The House of the Spirits'. This is because he is one of the few dominant male characters that are written about in the novel. Esteban is obsessive, violent, and materialistic. He devotes his life to his business and political careers, determined first to..."
 
 [[Question:DB]]
 [[ID: ChoiceBA6opt2rwtext]]
@@ -1148,7 +1148,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "We had been working with them for months, showcasing our innovative software solutions. Now, the time had come for them to experience the West Coast magic firsthand. The team, led by Ms. Tanaka, arrived on a bright, sunny Monday morning. We made sure their stay was as comfortable as possible with personalized itineraries and comfortable accommodations...."
-2) "Dear Mr/Ms XX, I'm Cindy, HR supervisor in Husqvarna hangzhou company. firstly, please allow me to show our warm welcome to all of you.And then I will list some business etiquette, just for your reference. 1)A handshake is a usual form of greeting. 2)Tips are unnecessary whenever you go to restaurant or shopping mall. 3)Whenever you"
+2) "Dear Mr/Ms XX, I'm Cindy, HR supervisor in Husqvarna hangzhou company. firstly, please allow me to show our warm welcome to all of you.And then I will list some business etiquette, just for your reference. 1)A handshake is a usual form of greeting. 2)Tips are unnecessary whenever you go to restaurant or shopping mall. 3)Whenever you..."
 
 [[PageBreak]]
 
@@ -1158,7 +1158,7 @@ Text 1: "We had been working with them for months, showcasing our innovative sof
 
 [[Question:DB]]
 [[ID: ChoiceEF7opt2whytext]]
-Text 2: "Dear Mr/Ms XX, I'm Cindy, HR supervisor in Husqvarna hangzhou company. firstly, please allow me to show our warm welcome to all of you.And then I will list some business etiquette, just for your reference. 1)A handshake is a usual form of greeting. 2)Tips are unnecessary whenever you go to restaurant or shopping mall. 3)Whenever you"
+Text 2: "Dear Mr/Ms XX, I'm Cindy, HR supervisor in Husqvarna hangzhou company. firstly, please allow me to show our warm welcome to all of you.And then I will list some business etiquette, just for your reference. 1)A handshake is a usual form of greeting. 2)Tips are unnecessary whenever you go to restaurant or shopping mall. 3)Whenever you..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF7why]]
@@ -1172,7 +1172,7 @@ Text 1: "We had been working with them for months, showcasing our innovative sof
 
 [[Question:DB]]
 [[ID: ChoiceEF7opt2rwtext]]
-Text 2: "Dear Mr/Ms XX, I'm Cindy, HR supervisor in Husqvarna hangzhou company. firstly, please allow me to show our warm welcome to all of you.And then I will list some business etiquette, just for your reference. 1)A handshake is a usual form of greeting. 2)Tips are unnecessary whenever you go to restaurant or shopping mall. 3)Whenever you"
+Text 2: "Dear Mr/Ms XX, I'm Cindy, HR supervisor in Husqvarna hangzhou company. firstly, please allow me to show our warm welcome to all of you.And then I will list some business etiquette, just for your reference. 1)A handshake is a usual form of greeting. 2)Tips are unnecessary whenever you go to restaurant or shopping mall. 3)Whenever you..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF7rewrite]]
@@ -1308,7 +1308,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "Yet, upon closer examination, the practice of gift-giving transcends its material value, acting as a complex social phenomenon that reveals much about the broader social organization of participating cultures. Analysing attitudes towards gifts and exchanges exposes underlying power dynamics, social hierarchies, obligations, and even notions of reciprocity. One striking example is the practice of presentism found..."
-2) "Gifts and exchange are integral to everyday life, for special occasions such as birthdays, doing well at a particular sport and religious festivities such as Christmas, baptism, confirmation and many more. Even on a day-to-day scale exchanges are taking place all the time in the form of telephone calls, letters, dances, dinner parties and just conversations"
+2) "Gifts and exchange are integral to everyday life, for special occasions such as birthdays, doing well at a particular sport and religious festivities such as Christmas, baptism, confirmation and many more. Even on a day-to-day scale exchanges are taking place all the time in the form of telephone calls, letters, dances, dinner parties and just conversations..."
 
 [[PageBreak]]
 
@@ -1318,7 +1318,7 @@ Text 1: "Yet, upon closer examination, the practice of gift-giving transcends it
 
 [[Question:DB]]
 [[ID: ChoiceBA7opt2whytext]]
-Text 2: "Gifts and exchange are integral to everyday life, for special occasions such as birthdays, doing well at a particular sport and religious festivities such as Christmas, baptism, confirmation and many more. Even on a day-to-day scale exchanges are taking place all the time in the form of telephone calls, letters, dances, dinner parties and just conversations"
+Text 2: "Gifts and exchange are integral to everyday life, for special occasions such as birthdays, doing well at a particular sport and religious festivities such as Christmas, baptism, confirmation and many more. Even on a day-to-day scale exchanges are taking place all the time in the form of telephone calls, letters, dances, dinner parties and just conversations..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA7why]]
@@ -1332,7 +1332,7 @@ Text 1: "Yet, upon closer examination, the practice of gift-giving transcends it
 
 [[Question:DB]]
 [[ID: ChoiceBA7opt2rwtext]]
-Text 2: "Gifts and exchange are integral to everyday life, for special occasions such as birthdays, doing well at a particular sport and religious festivities such as Christmas, baptism, confirmation and many more. Even on a day-to-day scale exchanges are taking place all the time in the form of telephone calls, letters, dances, dinner parties and just conversations"
+Text 2: "Gifts and exchange are integral to everyday life, for special occasions such as birthdays, doing well at a particular sport and religious festivities such as Christmas, baptism, confirmation and many more. Even on a day-to-day scale exchanges are taking place all the time in the form of telephone calls, letters, dances, dinner parties and just conversations..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA7rewrite]]
@@ -1346,7 +1346,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "My friends and I decided to hike to a scenic viewpoint, but the weather turned quickly. The sun disappeared, and the wind howled through the trees, sending shivers down my spine. It started to rain heavily, and soon the path became muddy and slippery. As we climbed, the visibility decreased, and we lost our way. Fear..."
-2) "When Meg came out from the coffee shop, she saw a young couple get out of a car. She was surprised when they suddenly began vandalizing the local newsagent. She decided to go over to them to see if she could get them to stop. suddenly the young woman came at her waving a gun. The"
+2) "When Meg came out from the coffee shop, she saw a young couple get out of a car. She was surprised when they suddenly began vandalizing the local newsagent. She decided to go over to them to see if she could get them to stop. suddenly the young woman came at her waving a gun. The..."
 
 [[PageBreak]]
 
@@ -1356,7 +1356,7 @@ Text 1: "My friends and I decided to hike to a scenic viewpoint, but the weather
 
 [[Question:DB]]
 [[ID: ChoiceEF8opt2whytext]]
-Text 2: "When Meg came out from the coffee shop, she saw a young couple get out of a car. She was surprised when they suddenly began vandalizing the local newsagent. She decided to go over to them to see if she could get them to stop. suddenly the young woman came at her waving a gun. The"
+Text 2: "When Meg came out from the coffee shop, she saw a young couple get out of a car. She was surprised when they suddenly began vandalizing the local newsagent. She decided to go over to them to see if she could get them to stop. suddenly the young woman came at her waving a gun. The..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF8why]]
@@ -1370,7 +1370,7 @@ Text 1: "My friends and I decided to hike to a scenic viewpoint, but the weather
 
 [[Question:DB]]
 [[ID: ChoiceEF8opt2rwtext]]
-Text 2: "When Meg came out from the coffee shop, she saw a young couple get out of a car. She was surprised when they suddenly began vandalizing the local newsagent. She decided to go over to them to see if she could get them to stop. suddenly the young woman came at her waving a gun. The"
+Text 2: "When Meg came out from the coffee shop, she saw a young couple get out of a car. She was surprised when they suddenly began vandalizing the local newsagent. She decided to go over to them to see if she could get them to stop. suddenly the young woman came at her waving a gun. The..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF8rewrite]]
@@ -1384,7 +1384,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "While their initial goal was to strengthen royal control and increase revenue, these reforms unwittingly sowed the seeds of discontent and fostered a sense of shared identity among the colonies, setting the stage for future independence movements. Initially, the Bourbon reforms aimed to address the declining power of Spain and the waning grip on its vast..."
-2) "The change of dynasty in Spain at the turn of the 18 th century from Habsburg to Bourbon became a significant milestone for the future of Spanish America. Philip of Anjou, the grandson of Louis XIV of France in 1713, succeeded Charles II, the last of the Habsburg line. Spain's weak economical and military situation, the"
+2) "The change of dynasty in Spain at the turn of the 18 th century from Habsburg to Bourbon became a significant milestone for the future of Spanish America. Philip of Anjou, the grandson of Louis XIV of France in 1713, succeeded Charles II, the last of the Habsburg line. Spain's weak economical and military situation, the..."
 
 [[PageBreak]]
 
@@ -1394,7 +1394,7 @@ Text 1: "While their initial goal was to strengthen royal control and increase r
 
 [[Question:DB]]
 [[ID: ChoiceBA8opt2whytext]]
-Text 2: "The change of dynasty in Spain at the turn of the 18 th century from Habsburg to Bourbon became a significant milestone for the future of Spanish America. Philip of Anjou, the grandson of Louis XIV of France in 1713, succeeded Charles II, the last of the Habsburg line. Spain's weak economical and military situation, the"
+Text 2: "The change of dynasty in Spain at the turn of the 18 th century from Habsburg to Bourbon became a significant milestone for the future of Spanish America. Philip of Anjou, the grandson of Louis XIV of France in 1713, succeeded Charles II, the last of the Habsburg line. Spain's weak economical and military situation, the..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA8why]]
@@ -1408,7 +1408,7 @@ Text 1: "While their initial goal was to strengthen royal control and increase r
 
 [[Question:DB]]
 [[ID: ChoiceBA8opt2rwtext]]
-Text 2: "The change of dynasty in Spain at the turn of the 18 th century from Habsburg to Bourbon became a significant milestone for the future of Spanish America. Philip of Anjou, the grandson of Louis XIV of France in 1713, succeeded Charles II, the last of the Habsburg line. Spain's weak economical and military situation, the"
+Text 2: "The change of dynasty in Spain at the turn of the 18 th century from Habsburg to Bourbon became a significant milestone for the future of Spanish America. Philip of Anjou, the grandson of Louis XIV of France in 1713, succeeded Charles II, the last of the Habsburg line. Spain's weak economical and military situation, the..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA8rewrite]]
@@ -1543,14 +1543,14 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceEF9]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "Terms of reference HR Director requested this report on general employee satisfaction within the company. procedure A survey was prepared and conducted by 120 employees of all the sections, 10% of the company. 1.employee package: number of vacation days, sick days, overtime 2.working environment: office equipment, clear understanding of aims and objectives, and appraisal system. 3.Company"
+1) "Terms of reference HR Director requested this report on general employee satisfaction within the company. procedure A survey was prepared and conducted by 120 employees of all the sections, 10% of the company. 1.employee package: number of vacation days, sick days, overtime 2.working environment: office equipment, clear understanding of aims and objectives, and appraisal system. 3.Company..."
 2) "However, with a clear structure and some helpful tips, it doesn't have to be overwhelming. Here's a breakdown of how you can approach writing this report at a B1 level: 1. Understand the Purpose: First, ask yourself why this report is being written. Is it to identify areas of improvement, celebrate successes, or inform management about..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceEF9opt1whytext]]
-Text 1: "Terms of reference HR Director requested this report on general employee satisfaction within the company. procedure A survey was prepared and conducted by 120 employees of all the sections, 10% of the company. 1.employee package: number of vacation days, sick days, overtime 2.working environment: office equipment, clear understanding of aims and objectives, and appraisal system. 3.Company"
+Text 1: "Terms of reference HR Director requested this report on general employee satisfaction within the company. procedure A survey was prepared and conducted by 120 employees of all the sections, 10% of the company. 1.employee package: number of vacation days, sick days, overtime 2.working environment: office equipment, clear understanding of aims and objectives, and appraisal system. 3.Company..."
 
 [[Question:DB]]
 [[ID: ChoiceEF9opt2whytext]]
@@ -1564,7 +1564,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceEF9opt1rwtext]]
-Text 1: "Terms of reference HR Director requested this report on general employee satisfaction within the company. procedure A survey was prepared and conducted by 120 employees of all the sections, 10% of the company. 1.employee package: number of vacation days, sick days, overtime 2.working environment: office equipment, clear understanding of aims and objectives, and appraisal system. 3.Company"
+Text 1: "Terms of reference HR Director requested this report on general employee satisfaction within the company. procedure A survey was prepared and conducted by 120 employees of all the sections, 10% of the company. 1.employee package: number of vacation days, sick days, overtime 2.working environment: office equipment, clear understanding of aims and objectives, and appraisal system. 3.Company..."
 
 [[Question:DB]]
 [[ID: ChoiceEF9opt2rwtext]]
@@ -1582,7 +1582,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "However, the reality of health is deeply intertwined with social factors, resulting in stark disparities known as health inequalities. These inequalities refer to the unfair and avoidable differences in health outcomes and access to healthcare experienced by diverse social groups. Several factors contribute to these inequities. Poverty acts as a significant barrier, limiting access to nutritious..."
-2) "Health inequalities are the systematic differences in health and illness that exist between individuals within a population. In the UK they were first seriously addressed with the publication of the Black report in 1980 1, the recommendations of which were largely ignored by successive Conservative Governments. Following their election win in 1997 the New Labour Government"
+2) "Health inequalities are the systematic differences in health and illness that exist between individuals within a population. In the UK they were first seriously addressed with the publication of the Black report in 1980 1, the recommendations of which were largely ignored by successive Conservative Governments. Following their election win in 1997 the New Labour Government..."
 
 [[PageBreak]]
 
@@ -1592,7 +1592,7 @@ Text 1: "However, the reality of health is deeply intertwined with social factor
 
 [[Question:DB]]
 [[ID: ChoiceBA9opt2whytext]]
-Text 2: "Health inequalities are the systematic differences in health and illness that exist between individuals within a population. In the UK they were first seriously addressed with the publication of the Black report in 1980 1, the recommendations of which were largely ignored by successive Conservative Governments. Following their election win in 1997 the New Labour Government"
+Text 2: "Health inequalities are the systematic differences in health and illness that exist between individuals within a population. In the UK they were first seriously addressed with the publication of the Black report in 1980 1, the recommendations of which were largely ignored by successive Conservative Governments. Following their election win in 1997 the New Labour Government..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA9why]]
@@ -1606,7 +1606,7 @@ Text 1: "However, the reality of health is deeply intertwined with social factor
 
 [[Question:DB]]
 [[ID: ChoiceBA9opt2rwtext]]
-Text 2: "Health inequalities are the systematic differences in health and illness that exist between individuals within a population. In the UK they were first seriously addressed with the publication of the Black report in 1980 1, the recommendations of which were largely ignored by successive Conservative Governments. Following their election win in 1997 the New Labour Government"
+Text 2: "Health inequalities are the systematic differences in health and illness that exist between individuals within a population. In the UK they were first seriously addressed with the publication of the Black report in 1980 1, the recommendations of which were largely ignored by successive Conservative Governments. Following their election win in 1997 the New Labour Government..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA9rewrite]]
@@ -1619,14 +1619,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF10]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "Dear Sir, Since I've been living ## Chateau Street, I've had to endure the following problems: The roof is leaking, one handle came off a door and the drains are clogged. Despite the threat to go to the consumer protection laws office to complain, I'm still waiting for an answer about the issues. Would you please"
+1) "Dear Sir, Since I've been living ## Chateau Street, I've had to endure the following problems: The roof is leaking, one handle came off a door and the drains are clogged. Despite the threat to go to the consumer protection laws office to complain, I'm still waiting for an answer about the issues. Would you please..."
 2) "This deposit is essentially an insurance for the landlord in case you damage the property beyond normal wear and tear. They might also hold back for unpaid rent or cleaning costs. While it's understandable that landlords need this protection, it's important to know your rights and how to get your money back. Here are some steps..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceEF10opt1whytext]]
-Text 1: "Dear Sir, Since I've been living ## Chateau Street, I've had to endure the following problems: The roof is leaking, one handle came off a door and the drains are clogged. Despite the threat to go to the consumer protection laws office to complain, I'm still waiting for an answer about the issues. Would you please"
+Text 1: "Dear Sir, Since I've been living ## Chateau Street, I've had to endure the following problems: The roof is leaking, one handle came off a door and the drains are clogged. Despite the threat to go to the consumer protection laws office to complain, I'm still waiting for an answer about the issues. Would you please..."
 
 [[Question:DB]]
 [[ID: ChoiceEF10opt2whytext]]
@@ -1640,7 +1640,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceEF10opt1rwtext]]
-Text 1: "Dear Sir, Since I've been living ## Chateau Street, I've had to endure the following problems: The roof is leaking, one handle came off a door and the drains are clogged. Despite the threat to go to the consumer protection laws office to complain, I'm still waiting for an answer about the issues. Would you please"
+Text 1: "Dear Sir, Since I've been living ## Chateau Street, I've had to endure the following problems: The roof is leaking, one handle came off a door and the drains are clogged. Despite the threat to go to the consumer protection laws office to complain, I'm still waiting for an answer about the issues. Would you please..."
 
 [[Question:DB]]
 [[ID: ChoiceEF10opt2rwtext]]
@@ -1780,7 +1780,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "His seminal work, The Anarchical Society, challenged traditional notions of the international system as inherently chaotic and conflictual. Instead, Bull argued that international society, despite the absence of a central authority, had evolved its own distinctive norms, principles, and institutions that fostered stability and cooperation among states. This essay will explore Bull's key contributions to the..."
-2) "AbstractHedley Bull's state-centric theory of international politics offers an insight into how change can occur in international relations. The tension between order and justice represented in his work marks a sophisticated interpretation of one of the perennial conundrums that belies international politics. Bull conceived of order as the best way to ensure basic justice, that is"
+2) "AbstractHedley Bull's state-centric theory of international politics offers an insight into how change can occur in international relations. The tension between order and justice represented in his work marks a sophisticated interpretation of one of the perennial conundrums that belies international politics. Bull conceived of order as the best way to ensure basic justice, that is..."
 
 [[PageBreak]]
 
@@ -1790,7 +1790,7 @@ Text 1: "His seminal work, The Anarchical Society, challenged traditional notion
 
 [[Question:DB]]
 [[ID: ChoiceBA10opt2whytext]]
-Text 2: "AbstractHedley Bull's state-centric theory of international politics offers an insight into how change can occur in international relations. The tension between order and justice represented in his work marks a sophisticated interpretation of one of the perennial conundrums that belies international politics. Bull conceived of order as the best way to ensure basic justice, that is"
+Text 2: "AbstractHedley Bull's state-centric theory of international politics offers an insight into how change can occur in international relations. The tension between order and justice represented in his work marks a sophisticated interpretation of one of the perennial conundrums that belies international politics. Bull conceived of order as the best way to ensure basic justice, that is..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA10why]]
@@ -1804,7 +1804,7 @@ Text 1: "His seminal work, The Anarchical Society, challenged traditional notion
 
 [[Question:DB]]
 [[ID: ChoiceBA10opt2rwtext]]
-Text 2: "AbstractHedley Bull's state-centric theory of international politics offers an insight into how change can occur in international relations. The tension between order and justice represented in his work marks a sophisticated interpretation of one of the perennial conundrums that belies international politics. Bull conceived of order as the best way to ensure basic justice, that is"
+Text 2: "AbstractHedley Bull's state-centric theory of international politics offers an insight into how change can occur in international relations. The tension between order and justice represented in his work marks a sophisticated interpretation of one of the perennial conundrums that belies international politics. Bull conceived of order as the best way to ensure basic justice, that is..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA10rewrite]]
@@ -1818,7 +1818,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "We decided to go on a hike to a remote peak, but we got caught in a sudden thunderstorm. As the rain started to fall, the weather changed dramatically. The sky turned dark grey, the wind picked up, and the temperature dropped sharply. Thick clouds rolled in, obscuring the path ahead. We were scared because we..."
-2) "vandalism in the local newsagents! yesterday, a young woman leaved from a Coffee not with a coffee in one hand and her laptop and in the other, her handbag over the shoulder when she heard a big noise on the corner. She saw a young couple outside their car - left engining turning and stereo playing"
+2) "vandalism in the local newsagents! yesterday, a young woman leaved from a Coffee not with a coffee in one hand and her laptop and in the other, her handbag over the shoulder when she heard a big noise on the corner. She saw a young couple outside their car - left engining turning and stereo playing..."
 
 [[PageBreak]]
 
@@ -1828,7 +1828,7 @@ Text 1: "We decided to go on a hike to a remote peak, but we got caught in a sud
 
 [[Question:DB]]
 [[ID: ChoiceEF11opt2whytext]]
-Text 2: "vandalism in the local newsagents! yesterday, a young woman leaved from a Coffee not with a coffee in one hand and her laptop and in the other, her handbag over the shoulder when she heard a big noise on the corner. She saw a young couple outside their car - left engining turning and stereo playing"
+Text 2: "vandalism in the local newsagents! yesterday, a young woman leaved from a Coffee not with a coffee in one hand and her laptop and in the other, her handbag over the shoulder when she heard a big noise on the corner. She saw a young couple outside their car - left engining turning and stereo playing..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF11why]]
@@ -1842,7 +1842,7 @@ Text 1: "We decided to go on a hike to a remote peak, but we got caught in a sud
 
 [[Question:DB]]
 [[ID: ChoiceEF11opt2rwtext]]
-Text 2: "vandalism in the local newsagents! yesterday, a young woman leaved from a Coffee not with a coffee in one hand and her laptop and in the other, her handbag over the shoulder when she heard a big noise on the corner. She saw a young couple outside their car - left engining turning and stereo playing"
+Text 2: "vandalism in the local newsagents! yesterday, a young woman leaved from a Coffee not with a coffee in one hand and her laptop and in the other, her handbag over the shoulder when she heard a big noise on the corner. She saw a young couple outside their car - left engining turning and stereo playing..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF11rewrite]]
@@ -1855,14 +1855,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA11]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "Deposition of artefacts (often valuable metalwork), or hoarding as it is more commonly known, within the landscape is a well known and studied aspect of prehistoric behaviour and culture. Deposits are found in many varied locales and are disposed of in different manners; they consist of myriad artefact typologies as well as cover a wide range"
+1) "Deposition of artefacts (often valuable metalwork), or hoarding as it is more commonly known, within the landscape is a well known and studied aspect of prehistoric behaviour and culture. Deposits are found in many varied locales and are disposed of in different manners; they consist of myriad artefact typologies as well as cover a wide range..."
 2) "A central question in this narrative is understanding the deposition of metallurgical remains - the deliberate or incidental accumulation of metal objects, slag, and waste - both in wet and dry contexts. Through careful analysis and interpretation of these deposits, archaeologists have pieced together a compelling picture of European metallurgy's evolution. Wet contexts, characterized by waterlogged..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceBA11opt1whytext]]
-Text 1: "Deposition of artefacts (often valuable metalwork), or hoarding as it is more commonly known, within the landscape is a well known and studied aspect of prehistoric behaviour and culture. Deposits are found in many varied locales and are disposed of in different manners; they consist of myriad artefact typologies as well as cover a wide range"
+Text 1: "Deposition of artefacts (often valuable metalwork), or hoarding as it is more commonly known, within the landscape is a well known and studied aspect of prehistoric behaviour and culture. Deposits are found in many varied locales and are disposed of in different manners; they consist of myriad artefact typologies as well as cover a wide range..."
 
 [[Question:DB]]
 [[ID: ChoiceBA11opt2whytext]]
@@ -1876,7 +1876,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceBA11opt1rwtext]]
-Text 1: "Deposition of artefacts (often valuable metalwork), or hoarding as it is more commonly known, within the landscape is a well known and studied aspect of prehistoric behaviour and culture. Deposits are found in many varied locales and are disposed of in different manners; they consist of myriad artefact typologies as well as cover a wide range"
+Text 1: "Deposition of artefacts (often valuable metalwork), or hoarding as it is more commonly known, within the landscape is a well known and studied aspect of prehistoric behaviour and culture. Deposits are found in many varied locales and are disposed of in different manners; they consist of myriad artefact typologies as well as cover a wide range..."
 
 [[Question:DB]]
 [[ID: ChoiceBA11opt2rwtext]]
@@ -2016,7 +2016,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "I am writing to extend my heartfelt congratulations on your recent achievement. Being honored with the [Award name] is a truly remarkable feat and I am absolutely thrilled for you. I have always known you to be an exceptional individual, full of talent and dedication. Your hard work and perseverance have finally paid off. To receive..."
-2) "Dear Mary, congratulations on graduating from University! I'm very proud of you. You'd like to thank your wonderful, inspiring, amazing family first. You would never been able to win an award without them. If you're successful, you owe all your achievement to them. They love you and support you, and always have the perfect words of"
+2) "Dear Mary, congratulations on graduating from University! I'm very proud of you. You'd like to thank your wonderful, inspiring, amazing family first. You would never been able to win an award without them. If you're successful, you owe all your achievement to them. They love you and support you, and always have the perfect words of..."
 
 [[PageBreak]]
 
@@ -2026,7 +2026,7 @@ Text 1: "I am writing to extend my heartfelt congratulations on your recent achi
 
 [[Question:DB]]
 [[ID: ChoiceEF12opt2whytext]]
-Text 2: "Dear Mary, congratulations on graduating from University! I'm very proud of you. You'd like to thank your wonderful, inspiring, amazing family first. You would never been able to win an award without them. If you're successful, you owe all your achievement to them. They love you and support you, and always have the perfect words of"
+Text 2: "Dear Mary, congratulations on graduating from University! I'm very proud of you. You'd like to thank your wonderful, inspiring, amazing family first. You would never been able to win an award without them. If you're successful, you owe all your achievement to them. They love you and support you, and always have the perfect words of..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF12why]]
@@ -2040,7 +2040,7 @@ Text 1: "I am writing to extend my heartfelt congratulations on your recent achi
 
 [[Question:DB]]
 [[ID: ChoiceEF12opt2rwtext]]
-Text 2: "Dear Mary, congratulations on graduating from University! I'm very proud of you. You'd like to thank your wonderful, inspiring, amazing family first. You would never been able to win an award without them. If you're successful, you owe all your achievement to them. They love you and support you, and always have the perfect words of"
+Text 2: "Dear Mary, congratulations on graduating from University! I'm very proud of you. You'd like to thank your wonderful, inspiring, amazing family first. You would never been able to win an award without them. If you're successful, you owe all your achievement to them. They love you and support you, and always have the perfect words of..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF12rewrite]]
@@ -2053,14 +2053,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA12]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "It is certain that everyone in the world is able to speak at least one language but every individual would not always use the exact same vocabulary or speak in a similar way in most language. Moreover use of language is different depending on certain groups of identity in particular gender differences between male and female"
+1) "It is certain that everyone in the world is able to speak at least one language but every individual would not always use the exact same vocabulary or speak in a similar way in most language. Moreover use of language is different depending on certain groups of identity in particular gender differences between male and female..."
 2) "Title: The Significance of Language in Constructing Identity and Its Reflection in Personal Experience Introduction Language plays a pivotal role in society, serving not only as a medium for communication but also as a crucial tool in shaping individual and collective identities. It's through language that we express thoughts, emotions, and experiences, thereby defining ourselves and..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceBA12opt1whytext]]
-Text 1: "It is certain that everyone in the world is able to speak at least one language but every individual would not always use the exact same vocabulary or speak in a similar way in most language. Moreover use of language is different depending on certain groups of identity in particular gender differences between male and female"
+Text 1: "It is certain that everyone in the world is able to speak at least one language but every individual would not always use the exact same vocabulary or speak in a similar way in most language. Moreover use of language is different depending on certain groups of identity in particular gender differences between male and female..."
 
 [[Question:DB]]
 [[ID: ChoiceBA12opt2whytext]]
@@ -2074,7 +2074,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceBA12opt1rwtext]]
-Text 1: "It is certain that everyone in the world is able to speak at least one language but every individual would not always use the exact same vocabulary or speak in a similar way in most language. Moreover use of language is different depending on certain groups of identity in particular gender differences between male and female"
+Text 1: "It is certain that everyone in the world is able to speak at least one language but every individual would not always use the exact same vocabulary or speak in a similar way in most language. Moreover use of language is different depending on certain groups of identity in particular gender differences between male and female..."
 
 [[Question:DB]]
 [[ID: ChoiceBA12opt2rwtext]]
@@ -2091,14 +2091,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF13]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "bello Bobby, It seems you have some difficulties choosing the right direction of your life. I would like to warn you about the possibility of really negative consequences you behavior may cause. Look, everyone from us has difficult times. And it is crucially important not to make any actions you may regret about afterwards. Don't panic!"
+1) "bello Bobby, It seems you have some difficulties choosing the right direction of your life. I would like to warn you about the possibility of really negative consequences you behavior may cause. Look, everyone from us has difficult times. And it is crucially important not to make any actions you may regret about afterwards. Don't panic!..."
 2) "I've been thinking a lot about our conversation the other day, and I felt it was important to share my thoughts with you. First, I want to express my concern about the plan you have been discussing. I understand that it may seem exciting or even necessary, but I believe there are potential risks involved that..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceEF13opt1whytext]]
-Text 1: "bello Bobby, It seems you have some difficulties choosing the right direction of your life. I would like to warn you about the possibility of really negative consequences you behavior may cause. Look, everyone from us has difficult times. And it is crucially important not to make any actions you may regret about afterwards. Don't panic!"
+Text 1: "bello Bobby, It seems you have some difficulties choosing the right direction of your life. I would like to warn you about the possibility of really negative consequences you behavior may cause. Look, everyone from us has difficult times. And it is crucially important not to make any actions you may regret about afterwards. Don't panic!..."
 
 [[Question:DB]]
 [[ID: ChoiceEF13opt2whytext]]
@@ -2112,7 +2112,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceEF13opt1rwtext]]
-Text 1: "bello Bobby, It seems you have some difficulties choosing the right direction of your life. I would like to warn you about the possibility of really negative consequences you behavior may cause. Look, everyone from us has difficult times. And it is crucially important not to make any actions you may regret about afterwards. Don't panic!"
+Text 1: "bello Bobby, It seems you have some difficulties choosing the right direction of your life. I would like to warn you about the possibility of really negative consequences you behavior may cause. Look, everyone from us has difficult times. And it is crucially important not to make any actions you may regret about afterwards. Don't panic!..."
 
 [[Question:DB]]
 [[ID: ChoiceEF13opt2rwtext]]
@@ -2252,7 +2252,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "Presidential Reconstruction, the first phase of the Reconstruction period, aimed to resolve these issues by reintegrating the Southern states into the Union and enabling African Americans to rebuild their lives. However, the limitations of Presidential Reconstruction, coupled with the lack of commitment to a lasting solution for the former slaves, ultimately culminated in its failure. Body..."
-2) "'To bind up the nations wounds' and 'to do all which may achieve and cherish a just and lasting peace'. This was how Lincoln viewed the aim of reconstruction at the end of the civil war, but there were many different beliefs as to the aim of reconstruction and an equal amount of ideas of how"
+2) "'To bind up the nations wounds' and 'to do all which may achieve and cherish a just and lasting peace'. This was how Lincoln viewed the aim of reconstruction at the end of the civil war, but there were many different beliefs as to the aim of reconstruction and an equal amount of ideas of how..."
 
 [[PageBreak]]
 
@@ -2262,7 +2262,7 @@ Text 1: "Presidential Reconstruction, the first phase of the Reconstruction peri
 
 [[Question:DB]]
 [[ID: ChoiceBA13opt2whytext]]
-Text 2: "'To bind up the nations wounds' and 'to do all which may achieve and cherish a just and lasting peace'. This was how Lincoln viewed the aim of reconstruction at the end of the civil war, but there were many different beliefs as to the aim of reconstruction and an equal amount of ideas of how"
+Text 2: "'To bind up the nations wounds' and 'to do all which may achieve and cherish a just and lasting peace'. This was how Lincoln viewed the aim of reconstruction at the end of the civil war, but there were many different beliefs as to the aim of reconstruction and an equal amount of ideas of how..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA13why]]
@@ -2276,7 +2276,7 @@ Text 1: "Presidential Reconstruction, the first phase of the Reconstruction peri
 
 [[Question:DB]]
 [[ID: ChoiceBA13opt2rwtext]]
-Text 2: "'To bind up the nations wounds' and 'to do all which may achieve and cherish a just and lasting peace'. This was how Lincoln viewed the aim of reconstruction at the end of the civil war, but there were many different beliefs as to the aim of reconstruction and an equal amount of ideas of how"
+Text 2: "'To bind up the nations wounds' and 'to do all which may achieve and cherish a just and lasting peace'. This was how Lincoln viewed the aim of reconstruction at the end of the civil war, but there were many different beliefs as to the aim of reconstruction and an equal amount of ideas of how..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA13rewrite]]
@@ -2290,7 +2290,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "Here is a step-by-step guide to help you through the process. First, you need to decide on the reason for renting out your room. It could be for financial reasons or to accommodate a friend or family member. Whichever the case, be clear in your mind about your intentions. Next, assess your property to determine its..."
-2) "looking for a new apartment? You are in the right place! focalized in better place of Pacific eight is all what you want and need! With pain in your neck? spend your nights sleeping in a small sofa? Here you have three beautiful and comfortable bedrooms. you never saw beautiful rooms like that, I guess. Have"
+2) "looking for a new apartment? You are in the right place! focalized in better place of Pacific eight is all what you want and need! With pain in your neck? spend your nights sleeping in a small sofa? Here you have three beautiful and comfortable bedrooms. you never saw beautiful rooms like that, I guess. Have..."
 
 [[PageBreak]]
 
@@ -2300,7 +2300,7 @@ Text 1: "Here is a step-by-step guide to help you through the process. First, yo
 
 [[Question:DB]]
 [[ID: ChoiceEF14opt2whytext]]
-Text 2: "looking for a new apartment? You are in the right place! focalized in better place of Pacific eight is all what you want and need! With pain in your neck? spend your nights sleeping in a small sofa? Here you have three beautiful and comfortable bedrooms. you never saw beautiful rooms like that, I guess. Have"
+Text 2: "looking for a new apartment? You are in the right place! focalized in better place of Pacific eight is all what you want and need! With pain in your neck? spend your nights sleeping in a small sofa? Here you have three beautiful and comfortable bedrooms. you never saw beautiful rooms like that, I guess. Have..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF14why]]
@@ -2314,7 +2314,7 @@ Text 1: "Here is a step-by-step guide to help you through the process. First, yo
 
 [[Question:DB]]
 [[ID: ChoiceEF14opt2rwtext]]
-Text 2: "looking for a new apartment? You are in the right place! focalized in better place of Pacific eight is all what you want and need! With pain in your neck? spend your nights sleeping in a small sofa? Here you have three beautiful and comfortable bedrooms. you never saw beautiful rooms like that, I guess. Have"
+Text 2: "looking for a new apartment? You are in the right place! focalized in better place of Pacific eight is all what you want and need! With pain in your neck? spend your nights sleeping in a small sofa? Here you have three beautiful and comfortable bedrooms. you never saw beautiful rooms like that, I guess. Have..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF14rewrite]]
@@ -2327,14 +2327,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA14]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "Rousseau put huge significance and value onto the concept of freedom, it was something he thought everyone desperately needed as a fundamental part of their humanity. Yet in his theory he demands individuals submit to the state and, more importantly to the immutable general will which acts for the benefit of all society and thus logically"
+1) "Rousseau put huge significance and value onto the concept of freedom, it was something he thought everyone desperately needed as a fundamental part of their humanity. Yet in his theory he demands individuals submit to the state and, more importantly to the immutable general will which acts for the benefit of all society and thus logically..."
 2) "Title: An Examination of the Impact of Rousseau's Social Contract on Individual Freedom Introduction Jean-Jacques Rousseau's Social Contract is a philosophical treatise that seeks to address the problem of governance and the role of the state in society. Rousseau presents an argument that individuals willingly concede a portion of their natural freedom to establish a social..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceBA14opt1whytext]]
-Text 1: "Rousseau put huge significance and value onto the concept of freedom, it was something he thought everyone desperately needed as a fundamental part of their humanity. Yet in his theory he demands individuals submit to the state and, more importantly to the immutable general will which acts for the benefit of all society and thus logically"
+Text 1: "Rousseau put huge significance and value onto the concept of freedom, it was something he thought everyone desperately needed as a fundamental part of their humanity. Yet in his theory he demands individuals submit to the state and, more importantly to the immutable general will which acts for the benefit of all society and thus logically..."
 
 [[Question:DB]]
 [[ID: ChoiceBA14opt2whytext]]
@@ -2348,7 +2348,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceBA14opt1rwtext]]
-Text 1: "Rousseau put huge significance and value onto the concept of freedom, it was something he thought everyone desperately needed as a fundamental part of their humanity. Yet in his theory he demands individuals submit to the state and, more importantly to the immutable general will which acts for the benefit of all society and thus logically"
+Text 1: "Rousseau put huge significance and value onto the concept of freedom, it was something he thought everyone desperately needed as a fundamental part of their humanity. Yet in his theory he demands individuals submit to the state and, more importantly to the immutable general will which acts for the benefit of all society and thus logically..."
 
 [[Question:DB]]
 [[ID: ChoiceBA14opt2rwtext]]
@@ -2488,7 +2488,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "This country, with its rich history and vibrant culture, never ceases to amaze me. However, the most memorable event was my journey to the Great Wall of China. The Great Wall of China, a marvel of engineering and perseverance, is a sight to behold. The day I visited, the sky was clear, and a gentle breeze..."
-2) "Dear Tim, Nice to hear from you, it is really a long time for us to write a letter to each other. Yes, I am busy on business trip these days.But I think James and you had a very funny trip in Japan. Last month, I also went travelling with my colleagues in Anti,Zhejiang province. We"
+2) "Dear Tim, Nice to hear from you, it is really a long time for us to write a letter to each other. Yes, I am busy on business trip these days.But I think James and you had a very funny trip in Japan. Last month, I also went travelling with my colleagues in Anti,Zhejiang province. We..."
 
 [[PageBreak]]
 
@@ -2498,7 +2498,7 @@ Text 1: "This country, with its rich history and vibrant culture, never ceases t
 
 [[Question:DB]]
 [[ID: ChoiceEF15opt2whytext]]
-Text 2: "Dear Tim, Nice to hear from you, it is really a long time for us to write a letter to each other. Yes, I am busy on business trip these days.But I think James and you had a very funny trip in Japan. Last month, I also went travelling with my colleagues in Anti,Zhejiang province. We"
+Text 2: "Dear Tim, Nice to hear from you, it is really a long time for us to write a letter to each other. Yes, I am busy on business trip these days.But I think James and you had a very funny trip in Japan. Last month, I also went travelling with my colleagues in Anti,Zhejiang province. We..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF15why]]
@@ -2512,7 +2512,7 @@ Text 1: "This country, with its rich history and vibrant culture, never ceases t
 
 [[Question:DB]]
 [[ID: ChoiceEF15opt2rwtext]]
-Text 2: "Dear Tim, Nice to hear from you, it is really a long time for us to write a letter to each other. Yes, I am busy on business trip these days.But I think James and you had a very funny trip in Japan. Last month, I also went travelling with my colleagues in Anti,Zhejiang province. We"
+Text 2: "Dear Tim, Nice to hear from you, it is really a long time for us to write a letter to each other. Yes, I am busy on business trip these days.But I think James and you had a very funny trip in Japan. Last month, I also went travelling with my colleagues in Anti,Zhejiang province. We..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF15rewrite]]
@@ -2525,14 +2525,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA15]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "Britain's trade with the European Union (EU) has grown from just over 40% of the country's total trade, in 1973, to 55% when we joined. Membership of the EU is central to stability, growth and employment: the UK stands to benefit from an enlarged Europe that is more integrated into the global economy. The Euro is"
+1) "Britain's trade with the European Union (EU) has grown from just over 40% of the country's total trade, in 1973, to 55% when we joined. Membership of the EU is central to stability, growth and employment: the UK stands to benefit from an enlarged Europe that is more integrated into the global economy. The Euro is..."
 2) "While the Euro's merits, such as increased trade and strengthened political unity, are appealing, the disparities between the UK's housing market and the Euro's economic fundamentals present substantial obstacles. This essay will delve into the ways in which the UK housing market functions, highlighting its role in perpetuating economic instability and impeding Britain's entrance into the..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceBA15opt1whytext]]
-Text 1: "Britain's trade with the European Union (EU) has grown from just over 40% of the country's total trade, in 1973, to 55% when we joined. Membership of the EU is central to stability, growth and employment: the UK stands to benefit from an enlarged Europe that is more integrated into the global economy. The Euro is"
+Text 1: "Britain's trade with the European Union (EU) has grown from just over 40% of the country's total trade, in 1973, to 55% when we joined. Membership of the EU is central to stability, growth and employment: the UK stands to benefit from an enlarged Europe that is more integrated into the global economy. The Euro is..."
 
 [[Question:DB]]
 [[ID: ChoiceBA15opt2whytext]]
@@ -2546,7 +2546,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceBA15opt1rwtext]]
-Text 1: "Britain's trade with the European Union (EU) has grown from just over 40% of the country's total trade, in 1973, to 55% when we joined. Membership of the EU is central to stability, growth and employment: the UK stands to benefit from an enlarged Europe that is more integrated into the global economy. The Euro is"
+Text 1: "Britain's trade with the European Union (EU) has grown from just over 40% of the country's total trade, in 1973, to 55% when we joined. Membership of the EU is central to stability, growth and employment: the UK stands to benefit from an enlarged Europe that is more integrated into the global economy. The Euro is..."
 
 [[Question:DB]]
 [[ID: ChoiceBA15opt2rwtext]]
@@ -2563,14 +2563,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF16]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "If I had the opportunity to ask a dream, whatever this meaning, I'd ask just to achieve my objectives related to my career. I simply think that we just to focus in our profession, not just by the money, but by the social function that we need to exercise. therewith I think that a variety of"
+1) "If I had the opportunity to ask a dream, whatever this meaning, I'd ask just to achieve my objectives related to my career. I simply think that we just to focus in our profession, not just by the money, but by the social function that we need to exercise. therewith I think that a variety of..."
 2) "They are the visions that inspire us, stimulating our minds and sparking our imagination. In this writing, I will present a 'to-do' list of my dreams, which I hope will serve as a map to guide me towards personal fulfillment and self-actualization. 1. Learn a musical instrument: Picking up a musical instrument has always been a..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceEF16opt1whytext]]
-Text 1: "If I had the opportunity to ask a dream, whatever this meaning, I'd ask just to achieve my objectives related to my career. I simply think that we just to focus in our profession, not just by the money, but by the social function that we need to exercise. therewith I think that a variety of"
+Text 1: "If I had the opportunity to ask a dream, whatever this meaning, I'd ask just to achieve my objectives related to my career. I simply think that we just to focus in our profession, not just by the money, but by the social function that we need to exercise. therewith I think that a variety of..."
 
 [[Question:DB]]
 [[ID: ChoiceEF16opt2whytext]]
@@ -2584,7 +2584,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceEF16opt1rwtext]]
-Text 1: "If I had the opportunity to ask a dream, whatever this meaning, I'd ask just to achieve my objectives related to my career. I simply think that we just to focus in our profession, not just by the money, but by the social function that we need to exercise. therewith I think that a variety of"
+Text 1: "If I had the opportunity to ask a dream, whatever this meaning, I'd ask just to achieve my objectives related to my career. I simply think that we just to focus in our profession, not just by the money, but by the social function that we need to exercise. therewith I think that a variety of..."
 
 [[Question:DB]]
 [[ID: ChoiceEF16opt2rwtext]]
@@ -2723,14 +2723,14 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceBA16]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "1. IntroductionDeixis is an essential element in a language as all the languages have a tendency to economically express meanings and it will be redundant and inconvenient to repeat the names of places, time and people within the same context; therefore, deixis is a universal phenomenon as Huang (2005) has also mentioned. Among its three basic"
+1) "1. IntroductionDeixis is an essential element in a language as all the languages have a tendency to economically express meanings and it will be redundant and inconvenient to repeat the names of places, time and people within the same context; therefore, deixis is a universal phenomenon as Huang (2005) has also mentioned. Among its three basic..."
 2) "One such linguistic feature that marks a distinct divide between Northern and Southern Chinese dialects is the use of the postposition Zanmen (之imen). This essay aims to delve into the historical use of Zanmen in Northern Chinese, its significance, and its subsequent disappearance in Southern Chinese dialects. body Origin and Significance in Northern Chinese The Zanmen..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceBA16opt1whytext]]
-Text 1: "1. IntroductionDeixis is an essential element in a language as all the languages have a tendency to economically express meanings and it will be redundant and inconvenient to repeat the names of places, time and people within the same context; therefore, deixis is a universal phenomenon as Huang (2005) has also mentioned. Among its three basic"
+Text 1: "1. IntroductionDeixis is an essential element in a language as all the languages have a tendency to economically express meanings and it will be redundant and inconvenient to repeat the names of places, time and people within the same context; therefore, deixis is a universal phenomenon as Huang (2005) has also mentioned. Among its three basic..."
 
 [[Question:DB]]
 [[ID: ChoiceBA16opt2whytext]]
@@ -2744,7 +2744,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceBA16opt1rwtext]]
-Text 1: "1. IntroductionDeixis is an essential element in a language as all the languages have a tendency to economically express meanings and it will be redundant and inconvenient to repeat the names of places, time and people within the same context; therefore, deixis is a universal phenomenon as Huang (2005) has also mentioned. Among its three basic"
+Text 1: "1. IntroductionDeixis is an essential element in a language as all the languages have a tendency to economically express meanings and it will be redundant and inconvenient to repeat the names of places, time and people within the same context; therefore, deixis is a universal phenomenon as Huang (2005) has also mentioned. Among its three basic..."
 
 [[Question:DB]]
 [[ID: ChoiceBA16opt2rwtext]]
@@ -2762,7 +2762,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "In this article, we will discuss the steps and important points to consider when renting out a room to tenants. 1. Preparation: First, make sure your home is ready for renting. You should clean the room thoroughly and repair any damages, such as leaking faucets or cracks in the walls. It is essential to create a..."
-2) "Welcome home! Would you like to feel the fresh air of the mountains and see the ocean? You can do that living in a Tudor style home in Campos city. The kitchen has a beautiful and functional breakfast bar and granite counters, besides of the stainless steel appliances. The walls are bright color painted with wood"
+2) "Welcome home! Would you like to feel the fresh air of the mountains and see the ocean? You can do that living in a Tudor style home in Campos city. The kitchen has a beautiful and functional breakfast bar and granite counters, besides of the stainless steel appliances. The walls are bright color painted with wood..."
 
 [[PageBreak]]
 
@@ -2772,7 +2772,7 @@ Text 1: "In this article, we will discuss the steps and important points to cons
 
 [[Question:DB]]
 [[ID: ChoiceEF17opt2whytext]]
-Text 2: "Welcome home! Would you like to feel the fresh air of the mountains and see the ocean? You can do that living in a Tudor style home in Campos city. The kitchen has a beautiful and functional breakfast bar and granite counters, besides of the stainless steel appliances. The walls are bright color painted with wood"
+Text 2: "Welcome home! Would you like to feel the fresh air of the mountains and see the ocean? You can do that living in a Tudor style home in Campos city. The kitchen has a beautiful and functional breakfast bar and granite counters, besides of the stainless steel appliances. The walls are bright color painted with wood..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF17why]]
@@ -2786,7 +2786,7 @@ Text 1: "In this article, we will discuss the steps and important points to cons
 
 [[Question:DB]]
 [[ID: ChoiceEF17opt2rwtext]]
-Text 2: "Welcome home! Would you like to feel the fresh air of the mountains and see the ocean? You can do that living in a Tudor style home in Campos city. The kitchen has a beautiful and functional breakfast bar and granite counters, besides of the stainless steel appliances. The walls are bright color painted with wood"
+Text 2: "Welcome home! Would you like to feel the fresh air of the mountains and see the ocean? You can do that living in a Tudor style home in Campos city. The kitchen has a beautiful and functional breakfast bar and granite counters, besides of the stainless steel appliances. The walls are bright color painted with wood..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF17rewrite]]
@@ -2800,7 +2800,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "One of the common methods employed to safeguard such loans is the floating charge, a flexible form of security that allows the charged assets to be used in the ordinary course of business. However, despite its convenience and adaptability, the floating charge falls short of being an ideal security for credit extended to companies, particularly small..."
-2) "INTRODUCTIONThe floating charge is a useful security - it enables companies to raise more debt finance secured against their fluctuating assets such as trading stock. However, the recent legal developments have been to the detriment of the floating charge holders. Although the Enterprise Act (EA) 2002, the Companies Act (CA) 2006 and the House of Lords"
+2) "INTRODUCTIONThe floating charge is a useful security - it enables companies to raise more debt finance secured against their fluctuating assets such as trading stock. However, the recent legal developments have been to the detriment of the floating charge holders. Although the Enterprise Act (EA) 2002, the Companies Act (CA) 2006 and the House of Lords..."
 
 [[PageBreak]]
 
@@ -2810,7 +2810,7 @@ Text 1: "One of the common methods employed to safeguard such loans is the float
 
 [[Question:DB]]
 [[ID: ChoiceBA17opt2whytext]]
-Text 2: "INTRODUCTIONThe floating charge is a useful security - it enables companies to raise more debt finance secured against their fluctuating assets such as trading stock. However, the recent legal developments have been to the detriment of the floating charge holders. Although the Enterprise Act (EA) 2002, the Companies Act (CA) 2006 and the House of Lords"
+Text 2: "INTRODUCTIONThe floating charge is a useful security - it enables companies to raise more debt finance secured against their fluctuating assets such as trading stock. However, the recent legal developments have been to the detriment of the floating charge holders. Although the Enterprise Act (EA) 2002, the Companies Act (CA) 2006 and the House of Lords..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA17why]]
@@ -2824,7 +2824,7 @@ Text 1: "One of the common methods employed to safeguard such loans is the float
 
 [[Question:DB]]
 [[ID: ChoiceBA17opt2rwtext]]
-Text 2: "INTRODUCTIONThe floating charge is a useful security - it enables companies to raise more debt finance secured against their fluctuating assets such as trading stock. However, the recent legal developments have been to the detriment of the floating charge holders. Although the Enterprise Act (EA) 2002, the Companies Act (CA) 2006 and the House of Lords"
+Text 2: "INTRODUCTIONThe floating charge is a useful security - it enables companies to raise more debt finance secured against their fluctuating assets such as trading stock. However, the recent legal developments have been to the detriment of the floating charge holders. Although the Enterprise Act (EA) 2002, the Companies Act (CA) 2006 and the House of Lords..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA17rewrite]]

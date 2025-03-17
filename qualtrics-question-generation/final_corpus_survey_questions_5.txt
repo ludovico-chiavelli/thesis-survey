@@ -127,14 +127,14 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceEF6]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "Hi Steve! I have read the insurance policy and I knew my responsibilities about my tandem jump like a volunteer. I will sign the waiver and send to you as soon as possible to start my instructions of how to use the equipment. But I have another doubts. After I will be trained, I Have to"
+1) "Hi Steve! I have read the insurance policy and I knew my responsibilities about my tandem jump like a volunteer. I will sign the waiver and send to you as soon as possible to start my instructions of how to use the equipment. But I have another doubts. After I will be trained, I Have to..."
 2) "Now, at B1 English level, I find myself facing a daunting page in front of me: the skydiving waiver. It's a legal document, written in clear, precise English. I can understand most of it: release of liability, assumption of risk, emergency procedures. But even though I grasp the meaning, my stomach still feels like it's doing..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceEF6opt1whytext]]
-Text 1: "Hi Steve! I have read the insurance policy and I knew my responsibilities about my tandem jump like a volunteer. I will sign the waiver and send to you as soon as possible to start my instructions of how to use the equipment. But I have another doubts. After I will be trained, I Have to"
+Text 1: "Hi Steve! I have read the insurance policy and I knew my responsibilities about my tandem jump like a volunteer. I will sign the waiver and send to you as soon as possible to start my instructions of how to use the equipment. But I have another doubts. After I will be trained, I Have to..."
 
 [[Question:DB]]
 [[ID: ChoiceEF6opt2whytext]]
@@ -148,7 +148,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceEF6opt1rwtext]]
-Text 1: "Hi Steve! I have read the insurance policy and I knew my responsibilities about my tandem jump like a volunteer. I will sign the waiver and send to you as soon as possible to start my instructions of how to use the equipment. But I have another doubts. After I will be trained, I Have to"
+Text 1: "Hi Steve! I have read the insurance policy and I knew my responsibilities about my tandem jump like a volunteer. I will sign the waiver and send to you as soon as possible to start my instructions of how to use the equipment. But I have another doubts. After I will be trained, I Have to..."
 
 [[Question:DB]]
 [[ID: ChoiceEF6opt2rwtext]]
@@ -165,14 +165,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA6]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "Esteban Trueba can be considered to be one of the main characters in 'The House of the Spirits'. This is because he is one of the few dominant male characters that are written about in the novel. Esteban is obsessive, violent, and materialistic. He devotes his life to his business and political careers, determined first to"
+1) "Esteban Trueba can be considered to be one of the main characters in 'The House of the Spirits'. This is because he is one of the few dominant male characters that are written about in the novel. Esteban is obsessive, violent, and materialistic. He devotes his life to his business and political careers, determined first to..."
 2) "Yet, despite this widespread influence, the lives of enslaved Africans remained drastically different from those granted freedom. This begs the question: why, despite its emphasis on equality and compassion, did Christianity fail to have a significant, transformative impact on the lives of slaves by the mid-18th century? One key factor was the inherent contradiction between the..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceBA6opt1whytext]]
-Text 1: "Esteban Trueba can be considered to be one of the main characters in 'The House of the Spirits'. This is because he is one of the few dominant male characters that are written about in the novel. Esteban is obsessive, violent, and materialistic. He devotes his life to his business and political careers, determined first to"
+Text 1: "Esteban Trueba can be considered to be one of the main characters in 'The House of the Spirits'. This is because he is one of the few dominant male characters that are written about in the novel. Esteban is obsessive, violent, and materialistic. He devotes his life to his business and political careers, determined first to..."
 
 [[Question:DB]]
 [[ID: ChoiceBA6opt2whytext]]
@@ -186,7 +186,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceBA6opt1rwtext]]
-Text 1: "Esteban Trueba can be considered to be one of the main characters in 'The House of the Spirits'. This is because he is one of the few dominant male characters that are written about in the novel. Esteban is obsessive, violent, and materialistic. He devotes his life to his business and political careers, determined first to"
+Text 1: "Esteban Trueba can be considered to be one of the main characters in 'The House of the Spirits'. This is because he is one of the few dominant male characters that are written about in the novel. Esteban is obsessive, violent, and materialistic. He devotes his life to his business and political careers, determined first to..."
 
 [[Question:DB]]
 [[ID: ChoiceBA6opt2rwtext]]
@@ -204,7 +204,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "We had been working with them for months, showcasing our innovative software solutions. Now, the time had come for them to experience the West Coast magic firsthand. The team, led by Ms. Tanaka, arrived on a bright, sunny Monday morning. We made sure their stay was as comfortable as possible with personalized itineraries and comfortable accommodations...."
-2) "Dear Mr/Ms XX, I'm Cindy, HR supervisor in Husqvarna hangzhou company. firstly, please allow me to show our warm welcome to all of you.And then I will list some business etiquette, just for your reference. 1)A handshake is a usual form of greeting. 2)Tips are unnecessary whenever you go to restaurant or shopping mall. 3)Whenever you"
+2) "Dear Mr/Ms XX, I'm Cindy, HR supervisor in Husqvarna hangzhou company. firstly, please allow me to show our warm welcome to all of you.And then I will list some business etiquette, just for your reference. 1)A handshake is a usual form of greeting. 2)Tips are unnecessary whenever you go to restaurant or shopping mall. 3)Whenever you..."
 
 [[PageBreak]]
 
@@ -214,7 +214,7 @@ Text 1: "We had been working with them for months, showcasing our innovative sof
 
 [[Question:DB]]
 [[ID: ChoiceEF7opt2whytext]]
-Text 2: "Dear Mr/Ms XX, I'm Cindy, HR supervisor in Husqvarna hangzhou company. firstly, please allow me to show our warm welcome to all of you.And then I will list some business etiquette, just for your reference. 1)A handshake is a usual form of greeting. 2)Tips are unnecessary whenever you go to restaurant or shopping mall. 3)Whenever you"
+Text 2: "Dear Mr/Ms XX, I'm Cindy, HR supervisor in Husqvarna hangzhou company. firstly, please allow me to show our warm welcome to all of you.And then I will list some business etiquette, just for your reference. 1)A handshake is a usual form of greeting. 2)Tips are unnecessary whenever you go to restaurant or shopping mall. 3)Whenever you..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF7why]]
@@ -228,7 +228,7 @@ Text 1: "We had been working with them for months, showcasing our innovative sof
 
 [[Question:DB]]
 [[ID: ChoiceEF7opt2rwtext]]
-Text 2: "Dear Mr/Ms XX, I'm Cindy, HR supervisor in Husqvarna hangzhou company. firstly, please allow me to show our warm welcome to all of you.And then I will list some business etiquette, just for your reference. 1)A handshake is a usual form of greeting. 2)Tips are unnecessary whenever you go to restaurant or shopping mall. 3)Whenever you"
+Text 2: "Dear Mr/Ms XX, I'm Cindy, HR supervisor in Husqvarna hangzhou company. firstly, please allow me to show our warm welcome to all of you.And then I will list some business etiquette, just for your reference. 1)A handshake is a usual form of greeting. 2)Tips are unnecessary whenever you go to restaurant or shopping mall. 3)Whenever you..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF7rewrite]]

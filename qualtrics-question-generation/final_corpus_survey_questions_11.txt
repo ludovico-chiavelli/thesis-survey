@@ -128,7 +128,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "This country, with its rich history and vibrant culture, never ceases to amaze me. However, the most memorable event was my journey to the Great Wall of China. The Great Wall of China, a marvel of engineering and perseverance, is a sight to behold. The day I visited, the sky was clear, and a gentle breeze..."
-2) "Dear Tim, Nice to hear from you, it is really a long time for us to write a letter to each other. Yes, I am busy on business trip these days.But I think James and you had a very funny trip in Japan. Last month, I also went travelling with my colleagues in Anti,Zhejiang province. We"
+2) "Dear Tim, Nice to hear from you, it is really a long time for us to write a letter to each other. Yes, I am busy on business trip these days.But I think James and you had a very funny trip in Japan. Last month, I also went travelling with my colleagues in Anti,Zhejiang province. We..."
 
 [[PageBreak]]
 
@@ -138,7 +138,7 @@ Text 1: "This country, with its rich history and vibrant culture, never ceases t
 
 [[Question:DB]]
 [[ID: ChoiceEF15opt2whytext]]
-Text 2: "Dear Tim, Nice to hear from you, it is really a long time for us to write a letter to each other. Yes, I am busy on business trip these days.But I think James and you had a very funny trip in Japan. Last month, I also went travelling with my colleagues in Anti,Zhejiang province. We"
+Text 2: "Dear Tim, Nice to hear from you, it is really a long time for us to write a letter to each other. Yes, I am busy on business trip these days.But I think James and you had a very funny trip in Japan. Last month, I also went travelling with my colleagues in Anti,Zhejiang province. We..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF15why]]
@@ -152,7 +152,7 @@ Text 1: "This country, with its rich history and vibrant culture, never ceases t
 
 [[Question:DB]]
 [[ID: ChoiceEF15opt2rwtext]]
-Text 2: "Dear Tim, Nice to hear from you, it is really a long time for us to write a letter to each other. Yes, I am busy on business trip these days.But I think James and you had a very funny trip in Japan. Last month, I also went travelling with my colleagues in Anti,Zhejiang province. We"
+Text 2: "Dear Tim, Nice to hear from you, it is really a long time for us to write a letter to each other. Yes, I am busy on business trip these days.But I think James and you had a very funny trip in Japan. Last month, I also went travelling with my colleagues in Anti,Zhejiang province. We..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF15rewrite]]
@@ -165,14 +165,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA15]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "Britain's trade with the European Union (EU) has grown from just over 40% of the country's total trade, in 1973, to 55% when we joined. Membership of the EU is central to stability, growth and employment: the UK stands to benefit from an enlarged Europe that is more integrated into the global economy. The Euro is"
+1) "Britain's trade with the European Union (EU) has grown from just over 40% of the country's total trade, in 1973, to 55% when we joined. Membership of the EU is central to stability, growth and employment: the UK stands to benefit from an enlarged Europe that is more integrated into the global economy. The Euro is..."
 2) "While the Euro's merits, such as increased trade and strengthened political unity, are appealing, the disparities between the UK's housing market and the Euro's economic fundamentals present substantial obstacles. This essay will delve into the ways in which the UK housing market functions, highlighting its role in perpetuating economic instability and impeding Britain's entrance into the..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceBA15opt1whytext]]
-Text 1: "Britain's trade with the European Union (EU) has grown from just over 40% of the country's total trade, in 1973, to 55% when we joined. Membership of the EU is central to stability, growth and employment: the UK stands to benefit from an enlarged Europe that is more integrated into the global economy. The Euro is"
+Text 1: "Britain's trade with the European Union (EU) has grown from just over 40% of the country's total trade, in 1973, to 55% when we joined. Membership of the EU is central to stability, growth and employment: the UK stands to benefit from an enlarged Europe that is more integrated into the global economy. The Euro is..."
 
 [[Question:DB]]
 [[ID: ChoiceBA15opt2whytext]]
@@ -186,7 +186,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceBA15opt1rwtext]]
-Text 1: "Britain's trade with the European Union (EU) has grown from just over 40% of the country's total trade, in 1973, to 55% when we joined. Membership of the EU is central to stability, growth and employment: the UK stands to benefit from an enlarged Europe that is more integrated into the global economy. The Euro is"
+Text 1: "Britain's trade with the European Union (EU) has grown from just over 40% of the country's total trade, in 1973, to 55% when we joined. Membership of the EU is central to stability, growth and employment: the UK stands to benefit from an enlarged Europe that is more integrated into the global economy. The Euro is..."
 
 [[Question:DB]]
 [[ID: ChoiceBA15opt2rwtext]]
@@ -203,14 +203,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF16]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "If I had the opportunity to ask a dream, whatever this meaning, I'd ask just to achieve my objectives related to my career. I simply think that we just to focus in our profession, not just by the money, but by the social function that we need to exercise. therewith I think that a variety of"
+1) "If I had the opportunity to ask a dream, whatever this meaning, I'd ask just to achieve my objectives related to my career. I simply think that we just to focus in our profession, not just by the money, but by the social function that we need to exercise. therewith I think that a variety of..."
 2) "They are the visions that inspire us, stimulating our minds and sparking our imagination. In this writing, I will present a 'to-do' list of my dreams, which I hope will serve as a map to guide me towards personal fulfillment and self-actualization. 1. Learn a musical instrument: Picking up a musical instrument has always been a..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceEF16opt1whytext]]
-Text 1: "If I had the opportunity to ask a dream, whatever this meaning, I'd ask just to achieve my objectives related to my career. I simply think that we just to focus in our profession, not just by the money, but by the social function that we need to exercise. therewith I think that a variety of"
+Text 1: "If I had the opportunity to ask a dream, whatever this meaning, I'd ask just to achieve my objectives related to my career. I simply think that we just to focus in our profession, not just by the money, but by the social function that we need to exercise. therewith I think that a variety of..."
 
 [[Question:DB]]
 [[ID: ChoiceEF16opt2whytext]]
@@ -224,7 +224,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceEF16opt1rwtext]]
-Text 1: "If I had the opportunity to ask a dream, whatever this meaning, I'd ask just to achieve my objectives related to my career. I simply think that we just to focus in our profession, not just by the money, but by the social function that we need to exercise. therewith I think that a variety of"
+Text 1: "If I had the opportunity to ask a dream, whatever this meaning, I'd ask just to achieve my objectives related to my career. I simply think that we just to focus in our profession, not just by the money, but by the social function that we need to exercise. therewith I think that a variety of..."
 
 [[Question:DB]]
 [[ID: ChoiceEF16opt2rwtext]]

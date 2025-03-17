@@ -127,14 +127,14 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceBA16]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "1. IntroductionDeixis is an essential element in a language as all the languages have a tendency to economically express meanings and it will be redundant and inconvenient to repeat the names of places, time and people within the same context; therefore, deixis is a universal phenomenon as Huang (2005) has also mentioned. Among its three basic"
+1) "1. IntroductionDeixis is an essential element in a language as all the languages have a tendency to economically express meanings and it will be redundant and inconvenient to repeat the names of places, time and people within the same context; therefore, deixis is a universal phenomenon as Huang (2005) has also mentioned. Among its three basic..."
 2) "One such linguistic feature that marks a distinct divide between Northern and Southern Chinese dialects is the use of the postposition Zanmen (之imen). This essay aims to delve into the historical use of Zanmen in Northern Chinese, its significance, and its subsequent disappearance in Southern Chinese dialects. body Origin and Significance in Northern Chinese The Zanmen..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceBA16opt1whytext]]
-Text 1: "1. IntroductionDeixis is an essential element in a language as all the languages have a tendency to economically express meanings and it will be redundant and inconvenient to repeat the names of places, time and people within the same context; therefore, deixis is a universal phenomenon as Huang (2005) has also mentioned. Among its three basic"
+Text 1: "1. IntroductionDeixis is an essential element in a language as all the languages have a tendency to economically express meanings and it will be redundant and inconvenient to repeat the names of places, time and people within the same context; therefore, deixis is a universal phenomenon as Huang (2005) has also mentioned. Among its three basic..."
 
 [[Question:DB]]
 [[ID: ChoiceBA16opt2whytext]]
@@ -148,7 +148,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceBA16opt1rwtext]]
-Text 1: "1. IntroductionDeixis is an essential element in a language as all the languages have a tendency to economically express meanings and it will be redundant and inconvenient to repeat the names of places, time and people within the same context; therefore, deixis is a universal phenomenon as Huang (2005) has also mentioned. Among its three basic"
+Text 1: "1. IntroductionDeixis is an essential element in a language as all the languages have a tendency to economically express meanings and it will be redundant and inconvenient to repeat the names of places, time and people within the same context; therefore, deixis is a universal phenomenon as Huang (2005) has also mentioned. Among its three basic..."
 
 [[Question:DB]]
 [[ID: ChoiceBA16opt2rwtext]]
@@ -166,7 +166,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "In this article, we will discuss the steps and important points to consider when renting out a room to tenants. 1. Preparation: First, make sure your home is ready for renting. You should clean the room thoroughly and repair any damages, such as leaking faucets or cracks in the walls. It is essential to create a..."
-2) "Welcome home! Would you like to feel the fresh air of the mountains and see the ocean? You can do that living in a Tudor style home in Campos city. The kitchen has a beautiful and functional breakfast bar and granite counters, besides of the stainless steel appliances. The walls are bright color painted with wood"
+2) "Welcome home! Would you like to feel the fresh air of the mountains and see the ocean? You can do that living in a Tudor style home in Campos city. The kitchen has a beautiful and functional breakfast bar and granite counters, besides of the stainless steel appliances. The walls are bright color painted with wood..."
 
 [[PageBreak]]
 
@@ -176,7 +176,7 @@ Text 1: "In this article, we will discuss the steps and important points to cons
 
 [[Question:DB]]
 [[ID: ChoiceEF17opt2whytext]]
-Text 2: "Welcome home! Would you like to feel the fresh air of the mountains and see the ocean? You can do that living in a Tudor style home in Campos city. The kitchen has a beautiful and functional breakfast bar and granite counters, besides of the stainless steel appliances. The walls are bright color painted with wood"
+Text 2: "Welcome home! Would you like to feel the fresh air of the mountains and see the ocean? You can do that living in a Tudor style home in Campos city. The kitchen has a beautiful and functional breakfast bar and granite counters, besides of the stainless steel appliances. The walls are bright color painted with wood..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF17why]]
@@ -190,7 +190,7 @@ Text 1: "In this article, we will discuss the steps and important points to cons
 
 [[Question:DB]]
 [[ID: ChoiceEF17opt2rwtext]]
-Text 2: "Welcome home! Would you like to feel the fresh air of the mountains and see the ocean? You can do that living in a Tudor style home in Campos city. The kitchen has a beautiful and functional breakfast bar and granite counters, besides of the stainless steel appliances. The walls are bright color painted with wood"
+Text 2: "Welcome home! Would you like to feel the fresh air of the mountains and see the ocean? You can do that living in a Tudor style home in Campos city. The kitchen has a beautiful and functional breakfast bar and granite counters, besides of the stainless steel appliances. The walls are bright color painted with wood..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF17rewrite]]
@@ -204,7 +204,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "One of the common methods employed to safeguard such loans is the floating charge, a flexible form of security that allows the charged assets to be used in the ordinary course of business. However, despite its convenience and adaptability, the floating charge falls short of being an ideal security for credit extended to companies, particularly small..."
-2) "INTRODUCTIONThe floating charge is a useful security - it enables companies to raise more debt finance secured against their fluctuating assets such as trading stock. However, the recent legal developments have been to the detriment of the floating charge holders. Although the Enterprise Act (EA) 2002, the Companies Act (CA) 2006 and the House of Lords"
+2) "INTRODUCTIONThe floating charge is a useful security - it enables companies to raise more debt finance secured against their fluctuating assets such as trading stock. However, the recent legal developments have been to the detriment of the floating charge holders. Although the Enterprise Act (EA) 2002, the Companies Act (CA) 2006 and the House of Lords..."
 
 [[PageBreak]]
 
@@ -214,7 +214,7 @@ Text 1: "One of the common methods employed to safeguard such loans is the float
 
 [[Question:DB]]
 [[ID: ChoiceBA17opt2whytext]]
-Text 2: "INTRODUCTIONThe floating charge is a useful security - it enables companies to raise more debt finance secured against their fluctuating assets such as trading stock. However, the recent legal developments have been to the detriment of the floating charge holders. Although the Enterprise Act (EA) 2002, the Companies Act (CA) 2006 and the House of Lords"
+Text 2: "INTRODUCTIONThe floating charge is a useful security - it enables companies to raise more debt finance secured against their fluctuating assets such as trading stock. However, the recent legal developments have been to the detriment of the floating charge holders. Although the Enterprise Act (EA) 2002, the Companies Act (CA) 2006 and the House of Lords..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA17why]]
@@ -228,7 +228,7 @@ Text 1: "One of the common methods employed to safeguard such loans is the float
 
 [[Question:DB]]
 [[ID: ChoiceBA17opt2rwtext]]
-Text 2: "INTRODUCTIONThe floating charge is a useful security - it enables companies to raise more debt finance secured against their fluctuating assets such as trading stock. However, the recent legal developments have been to the detriment of the floating charge holders. Although the Enterprise Act (EA) 2002, the Companies Act (CA) 2006 and the House of Lords"
+Text 2: "INTRODUCTIONThe floating charge is a useful security - it enables companies to raise more debt finance secured against their fluctuating assets such as trading stock. However, the recent legal developments have been to the detriment of the floating charge holders. Although the Enterprise Act (EA) 2002, the Companies Act (CA) 2006 and the House of Lords..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA17rewrite]]

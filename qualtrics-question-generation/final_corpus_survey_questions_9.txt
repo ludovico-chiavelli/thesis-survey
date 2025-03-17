@@ -128,7 +128,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "I am writing to extend my heartfelt congratulations on your recent achievement. Being honored with the [Award name] is a truly remarkable feat and I am absolutely thrilled for you. I have always known you to be an exceptional individual, full of talent and dedication. Your hard work and perseverance have finally paid off. To receive..."
-2) "Dear Mary, congratulations on graduating from University! I'm very proud of you. You'd like to thank your wonderful, inspiring, amazing family first. You would never been able to win an award without them. If you're successful, you owe all your achievement to them. They love you and support you, and always have the perfect words of"
+2) "Dear Mary, congratulations on graduating from University! I'm very proud of you. You'd like to thank your wonderful, inspiring, amazing family first. You would never been able to win an award without them. If you're successful, you owe all your achievement to them. They love you and support you, and always have the perfect words of..."
 
 [[PageBreak]]
 
@@ -138,7 +138,7 @@ Text 1: "I am writing to extend my heartfelt congratulations on your recent achi
 
 [[Question:DB]]
 [[ID: ChoiceEF12opt2whytext]]
-Text 2: "Dear Mary, congratulations on graduating from University! I'm very proud of you. You'd like to thank your wonderful, inspiring, amazing family first. You would never been able to win an award without them. If you're successful, you owe all your achievement to them. They love you and support you, and always have the perfect words of"
+Text 2: "Dear Mary, congratulations on graduating from University! I'm very proud of you. You'd like to thank your wonderful, inspiring, amazing family first. You would never been able to win an award without them. If you're successful, you owe all your achievement to them. They love you and support you, and always have the perfect words of..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF12why]]
@@ -152,7 +152,7 @@ Text 1: "I am writing to extend my heartfelt congratulations on your recent achi
 
 [[Question:DB]]
 [[ID: ChoiceEF12opt2rwtext]]
-Text 2: "Dear Mary, congratulations on graduating from University! I'm very proud of you. You'd like to thank your wonderful, inspiring, amazing family first. You would never been able to win an award without them. If you're successful, you owe all your achievement to them. They love you and support you, and always have the perfect words of"
+Text 2: "Dear Mary, congratulations on graduating from University! I'm very proud of you. You'd like to thank your wonderful, inspiring, amazing family first. You would never been able to win an award without them. If you're successful, you owe all your achievement to them. They love you and support you, and always have the perfect words of..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF12rewrite]]
@@ -165,14 +165,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA12]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "It is certain that everyone in the world is able to speak at least one language but every individual would not always use the exact same vocabulary or speak in a similar way in most language. Moreover use of language is different depending on certain groups of identity in particular gender differences between male and female"
+1) "It is certain that everyone in the world is able to speak at least one language but every individual would not always use the exact same vocabulary or speak in a similar way in most language. Moreover use of language is different depending on certain groups of identity in particular gender differences between male and female..."
 2) "Title: The Significance of Language in Constructing Identity and Its Reflection in Personal Experience Introduction Language plays a pivotal role in society, serving not only as a medium for communication but also as a crucial tool in shaping individual and collective identities. It's through language that we express thoughts, emotions, and experiences, thereby defining ourselves and..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceBA12opt1whytext]]
-Text 1: "It is certain that everyone in the world is able to speak at least one language but every individual would not always use the exact same vocabulary or speak in a similar way in most language. Moreover use of language is different depending on certain groups of identity in particular gender differences between male and female"
+Text 1: "It is certain that everyone in the world is able to speak at least one language but every individual would not always use the exact same vocabulary or speak in a similar way in most language. Moreover use of language is different depending on certain groups of identity in particular gender differences between male and female..."
 
 [[Question:DB]]
 [[ID: ChoiceBA12opt2whytext]]
@@ -186,7 +186,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceBA12opt1rwtext]]
-Text 1: "It is certain that everyone in the world is able to speak at least one language but every individual would not always use the exact same vocabulary or speak in a similar way in most language. Moreover use of language is different depending on certain groups of identity in particular gender differences between male and female"
+Text 1: "It is certain that everyone in the world is able to speak at least one language but every individual would not always use the exact same vocabulary or speak in a similar way in most language. Moreover use of language is different depending on certain groups of identity in particular gender differences between male and female..."
 
 [[Question:DB]]
 [[ID: ChoiceBA12opt2rwtext]]
@@ -203,14 +203,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF13]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "bello Bobby, It seems you have some difficulties choosing the right direction of your life. I would like to warn you about the possibility of really negative consequences you behavior may cause. Look, everyone from us has difficult times. And it is crucially important not to make any actions you may regret about afterwards. Don't panic!"
+1) "bello Bobby, It seems you have some difficulties choosing the right direction of your life. I would like to warn you about the possibility of really negative consequences you behavior may cause. Look, everyone from us has difficult times. And it is crucially important not to make any actions you may regret about afterwards. Don't panic!..."
 2) "I've been thinking a lot about our conversation the other day, and I felt it was important to share my thoughts with you. First, I want to express my concern about the plan you have been discussing. I understand that it may seem exciting or even necessary, but I believe there are potential risks involved that..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceEF13opt1whytext]]
-Text 1: "bello Bobby, It seems you have some difficulties choosing the right direction of your life. I would like to warn you about the possibility of really negative consequences you behavior may cause. Look, everyone from us has difficult times. And it is crucially important not to make any actions you may regret about afterwards. Don't panic!"
+Text 1: "bello Bobby, It seems you have some difficulties choosing the right direction of your life. I would like to warn you about the possibility of really negative consequences you behavior may cause. Look, everyone from us has difficult times. And it is crucially important not to make any actions you may regret about afterwards. Don't panic!..."
 
 [[Question:DB]]
 [[ID: ChoiceEF13opt2whytext]]
@@ -224,7 +224,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceEF13opt1rwtext]]
-Text 1: "bello Bobby, It seems you have some difficulties choosing the right direction of your life. I would like to warn you about the possibility of really negative consequences you behavior may cause. Look, everyone from us has difficult times. And it is crucially important not to make any actions you may regret about afterwards. Don't panic!"
+Text 1: "bello Bobby, It seems you have some difficulties choosing the right direction of your life. I would like to warn you about the possibility of really negative consequences you behavior may cause. Look, everyone from us has difficult times. And it is crucially important not to make any actions you may regret about afterwards. Don't panic!..."
 
 [[Question:DB]]
 [[ID: ChoiceEF13opt2rwtext]]

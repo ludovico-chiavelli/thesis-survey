@@ -127,14 +127,14 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceEF0]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "Dear Miss Janice, I'm writing to say how terribly sorry I am that I made many interrogating questions like how much cost you about your property and personal effects as these things come into my sight. Also, I put my foot in it by questioning how much you earn. Even though it was a first meeting"
+1) "Dear Miss Janice, I'm writing to say how terribly sorry I am that I made many interrogating questions like how much cost you about your property and personal effects as these things come into my sight. Also, I put my foot in it by questioning how much you earn. Even though it was a first meeting..."
 2) "Writing an apology note is a way to show your regret for doing something wrong to someone. It is a way to say sorry and to explain why you did what you did. Apologies are very important in relationships because they help to make things right again between people. When you write an apology note, it..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceEF0opt1whytext]]
-Text 1: "Dear Miss Janice, I'm writing to say how terribly sorry I am that I made many interrogating questions like how much cost you about your property and personal effects as these things come into my sight. Also, I put my foot in it by questioning how much you earn. Even though it was a first meeting"
+Text 1: "Dear Miss Janice, I'm writing to say how terribly sorry I am that I made many interrogating questions like how much cost you about your property and personal effects as these things come into my sight. Also, I put my foot in it by questioning how much you earn. Even though it was a first meeting..."
 
 [[Question:DB]]
 [[ID: ChoiceEF0opt2whytext]]
@@ -148,7 +148,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceEF0opt1rwtext]]
-Text 1: "Dear Miss Janice, I'm writing to say how terribly sorry I am that I made many interrogating questions like how much cost you about your property and personal effects as these things come into my sight. Also, I put my foot in it by questioning how much you earn. Even though it was a first meeting"
+Text 1: "Dear Miss Janice, I'm writing to say how terribly sorry I am that I made many interrogating questions like how much cost you about your property and personal effects as these things come into my sight. Also, I put my foot in it by questioning how much you earn. Even though it was a first meeting..."
 
 [[Question:DB]]
 [[ID: ChoiceEF0opt2rwtext]]
@@ -165,14 +165,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA0]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "'Politics is about the uneven distribution of power in society - how the struggle for power is conducted'. Stoker and Marsh here highlight the general consensus that power is central to the study of politics. 'Power is to political analysis what the economy is to economics' writes Hay. However, there remains much debate concerning the nature"
+1) "'Politics is about the uneven distribution of power in society - how the struggle for power is conducted'. Stoker and Marsh here highlight the general consensus that power is central to the study of politics. 'Power is to political analysis what the economy is to economics' writes Hay. However, there remains much debate concerning the nature..."
 2) "Essay: The definition of political power is the ability to make choices and get others to do things that they would not otherwise do. This is the case because in politics, people often use their authority or influence to get others to conform to their wishes or follow certain rules or guidelines that are set by..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceBA0opt1whytext]]
-Text 1: "'Politics is about the uneven distribution of power in society - how the struggle for power is conducted'. Stoker and Marsh here highlight the general consensus that power is central to the study of politics. 'Power is to political analysis what the economy is to economics' writes Hay. However, there remains much debate concerning the nature"
+Text 1: "'Politics is about the uneven distribution of power in society - how the struggle for power is conducted'. Stoker and Marsh here highlight the general consensus that power is central to the study of politics. 'Power is to political analysis what the economy is to economics' writes Hay. However, there remains much debate concerning the nature..."
 
 [[Question:DB]]
 [[ID: ChoiceBA0opt2whytext]]
@@ -186,7 +186,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceBA0opt1rwtext]]
-Text 1: "'Politics is about the uneven distribution of power in society - how the struggle for power is conducted'. Stoker and Marsh here highlight the general consensus that power is central to the study of politics. 'Power is to political analysis what the economy is to economics' writes Hay. However, there remains much debate concerning the nature"
+Text 1: "'Politics is about the uneven distribution of power in society - how the struggle for power is conducted'. Stoker and Marsh here highlight the general consensus that power is central to the study of politics. 'Power is to political analysis what the economy is to economics' writes Hay. However, there remains much debate concerning the nature..."
 
 [[Question:DB]]
 [[ID: ChoiceBA0opt2rwtext]]
@@ -203,14 +203,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF1]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "A survey had been conducted in the UK to find out about people's attitudes to voices and British English accents. So, 5,000 people's took part in the survey. To summarize the findings from the survey, we had: when asked if they change their voices depending on whom they are talking to, 81% of them said yes."
+1) "A survey had been conducted in the UK to find out about people's attitudes to voices and British English accents. So, 5,000 people's took part in the survey. To summarize the findings from the survey, we had: when asked if they change their voices depending on whom they are talking to, 81% of them said yes...."
 2) "The survey asked respondents about their eating habits in order to identify the impact of diet on the health. The results showed that 75% of people considered themselves to be meat-eaters, 15% considered themselves to be vegetarians, 5% considered themselves to be vegans, and 5% had other dietary preferences. The data revealed that meat-eaters were more..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceEF1opt1whytext]]
-Text 1: "A survey had been conducted in the UK to find out about people's attitudes to voices and British English accents. So, 5,000 people's took part in the survey. To summarize the findings from the survey, we had: when asked if they change their voices depending on whom they are talking to, 81% of them said yes."
+Text 1: "A survey had been conducted in the UK to find out about people's attitudes to voices and British English accents. So, 5,000 people's took part in the survey. To summarize the findings from the survey, we had: when asked if they change their voices depending on whom they are talking to, 81% of them said yes...."
 
 [[Question:DB]]
 [[ID: ChoiceEF1opt2whytext]]
@@ -224,7 +224,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceEF1opt1rwtext]]
-Text 1: "A survey had been conducted in the UK to find out about people's attitudes to voices and British English accents. So, 5,000 people's took part in the survey. To summarize the findings from the survey, we had: when asked if they change their voices depending on whom they are talking to, 81% of them said yes."
+Text 1: "A survey had been conducted in the UK to find out about people's attitudes to voices and British English accents. So, 5,000 people's took part in the survey. To summarize the findings from the survey, we had: when asked if they change their voices depending on whom they are talking to, 81% of them said yes...."
 
 [[Question:DB]]
 [[ID: ChoiceEF1opt2rwtext]]

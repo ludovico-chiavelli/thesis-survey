@@ -127,14 +127,14 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 [[ID: ChoiceEF3]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "Hi, my name is Marcelo Ziliotto. I was born in Porto Alegre, Rio grande do Sun, Brazil. I still live here, because I love too much where I born. Now, I'm living with my wife. Our second child will born in the next january, and we know that will be a girl. We choose a name"
+1) "Hi, my name is Marcelo Ziliotto. I was born in Porto Alegre, Rio grande do Sun, Brazil. I still live here, because I love too much where I born. Now, I'm living with my wife. Our second child will born in the next january, and we know that will be a girl. We choose a name..."
 2) "They were hard to understand and the textbook was not interesting for me. So I began to look for English language resources on the internet. One day, I discovered a blog about the English language. I was very happy to read interesting articles, exercises and watch videos about the grammar rules, idiomatic expressions and the daily..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceEF3opt1whytext]]
-Text 1: "Hi, my name is Marcelo Ziliotto. I was born in Porto Alegre, Rio grande do Sun, Brazil. I still live here, because I love too much where I born. Now, I'm living with my wife. Our second child will born in the next january, and we know that will be a girl. We choose a name"
+Text 1: "Hi, my name is Marcelo Ziliotto. I was born in Porto Alegre, Rio grande do Sun, Brazil. I still live here, because I love too much where I born. Now, I'm living with my wife. Our second child will born in the next january, and we know that will be a girl. We choose a name..."
 
 [[Question:DB]]
 [[ID: ChoiceEF3opt2whytext]]
@@ -148,7 +148,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceEF3opt1rwtext]]
-Text 1: "Hi, my name is Marcelo Ziliotto. I was born in Porto Alegre, Rio grande do Sun, Brazil. I still live here, because I love too much where I born. Now, I'm living with my wife. Our second child will born in the next january, and we know that will be a girl. We choose a name"
+Text 1: "Hi, my name is Marcelo Ziliotto. I was born in Porto Alegre, Rio grande do Sun, Brazil. I still live here, because I love too much where I born. Now, I'm living with my wife. Our second child will born in the next january, and we know that will be a girl. We choose a name..."
 
 [[Question:DB]]
 [[ID: ChoiceEF3opt2rwtext]]
@@ -166,7 +166,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "0 Introduction The development of information and communication technology (ICT) has revolutionized the education sector, enabling the delivery of e-learning (electronic learning). The concept of e-learning has been rapidly adopted by universities worldwide, as it offers a wide range of benefits such as flexible learning schedules, reduced travel time and costs, and access to quality learning..."
-2) "There are many references these days to e-something and this essay looks in particular at what e-learning is and how it can be used in the learning environment. The relevance of e-learning to meeting today's employment skills and the identification of which skills are sought after by employers are investigated. Not forgetting government policies, these are"
+2) "There are many references these days to e-something and this essay looks in particular at what e-learning is and how it can be used in the learning environment. The relevance of e-learning to meeting today's employment skills and the identification of which skills are sought after by employers are investigated. Not forgetting government policies, these are..."
 
 [[PageBreak]]
 
@@ -176,7 +176,7 @@ Text 1: "0 Introduction The development of information and communication technol
 
 [[Question:DB]]
 [[ID: ChoiceBA3opt2whytext]]
-Text 2: "There are many references these days to e-something and this essay looks in particular at what e-learning is and how it can be used in the learning environment. The relevance of e-learning to meeting today's employment skills and the identification of which skills are sought after by employers are investigated. Not forgetting government policies, these are"
+Text 2: "There are many references these days to e-something and this essay looks in particular at what e-learning is and how it can be used in the learning environment. The relevance of e-learning to meeting today's employment skills and the identification of which skills are sought after by employers are investigated. Not forgetting government policies, these are..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA3why]]
@@ -190,7 +190,7 @@ Text 1: "0 Introduction The development of information and communication technol
 
 [[Question:DB]]
 [[ID: ChoiceBA3opt2rwtext]]
-Text 2: "There are many references these days to e-something and this essay looks in particular at what e-learning is and how it can be used in the learning environment. The relevance of e-learning to meeting today's employment skills and the identification of which skills are sought after by employers are investigated. Not forgetting government policies, these are"
+Text 2: "There are many references these days to e-something and this essay looks in particular at what e-learning is and how it can be used in the learning environment. The relevance of e-learning to meeting today's employment skills and the identification of which skills are sought after by employers are investigated. Not forgetting government policies, these are..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA3rewrite]]
@@ -203,14 +203,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceEF4]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "If you are wondering how will your life be in 2033, here are some clues of what you might find. check them out! If you work for a big company, you'll most probably work at home. maybe one or two days at the enterprise's offices. Be prepared for making your own schedule and dealing with the"
+1) "If you are wondering how will your life be in 2033, here are some clues of what you might find. check them out! If you work for a big company, you'll most probably work at home. maybe one or two days at the enterprise's offices. Be prepared for making your own schedule and dealing with the..."
 2) "In the future, it is expected that remote work will become more common. Therefore, people may choose to live in locations with a high quality of life, such as countries with a low cost of living, beautiful scenery, or access to the ocean. As a result, people may also have the opportunity to work in their..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceEF4opt1whytext]]
-Text 1: "If you are wondering how will your life be in 2033, here are some clues of what you might find. check them out! If you work for a big company, you'll most probably work at home. maybe one or two days at the enterprise's offices. Be prepared for making your own schedule and dealing with the"
+Text 1: "If you are wondering how will your life be in 2033, here are some clues of what you might find. check them out! If you work for a big company, you'll most probably work at home. maybe one or two days at the enterprise's offices. Be prepared for making your own schedule and dealing with the..."
 
 [[Question:DB]]
 [[ID: ChoiceEF4opt2whytext]]
@@ -224,7 +224,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceEF4opt1rwtext]]
-Text 1: "If you are wondering how will your life be in 2033, here are some clues of what you might find. check them out! If you work for a big company, you'll most probably work at home. maybe one or two days at the enterprise's offices. Be prepared for making your own schedule and dealing with the"
+Text 1: "If you are wondering how will your life be in 2033, here are some clues of what you might find. check them out! If you work for a big company, you'll most probably work at home. maybe one or two days at the enterprise's offices. Be prepared for making your own schedule and dealing with the..."
 
 [[Question:DB]]
 [[ID: ChoiceEF4opt2rwtext]]

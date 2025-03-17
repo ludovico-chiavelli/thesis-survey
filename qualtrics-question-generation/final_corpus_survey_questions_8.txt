@@ -128,7 +128,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "His seminal work, The Anarchical Society, challenged traditional notions of the international system as inherently chaotic and conflictual. Instead, Bull argued that international society, despite the absence of a central authority, had evolved its own distinctive norms, principles, and institutions that fostered stability and cooperation among states. This essay will explore Bull's key contributions to the..."
-2) "AbstractHedley Bull's state-centric theory of international politics offers an insight into how change can occur in international relations. The tension between order and justice represented in his work marks a sophisticated interpretation of one of the perennial conundrums that belies international politics. Bull conceived of order as the best way to ensure basic justice, that is"
+2) "AbstractHedley Bull's state-centric theory of international politics offers an insight into how change can occur in international relations. The tension between order and justice represented in his work marks a sophisticated interpretation of one of the perennial conundrums that belies international politics. Bull conceived of order as the best way to ensure basic justice, that is..."
 
 [[PageBreak]]
 
@@ -138,7 +138,7 @@ Text 1: "His seminal work, The Anarchical Society, challenged traditional notion
 
 [[Question:DB]]
 [[ID: ChoiceBA10opt2whytext]]
-Text 2: "AbstractHedley Bull's state-centric theory of international politics offers an insight into how change can occur in international relations. The tension between order and justice represented in his work marks a sophisticated interpretation of one of the perennial conundrums that belies international politics. Bull conceived of order as the best way to ensure basic justice, that is"
+Text 2: "AbstractHedley Bull's state-centric theory of international politics offers an insight into how change can occur in international relations. The tension between order and justice represented in his work marks a sophisticated interpretation of one of the perennial conundrums that belies international politics. Bull conceived of order as the best way to ensure basic justice, that is..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA10why]]
@@ -152,7 +152,7 @@ Text 1: "His seminal work, The Anarchical Society, challenged traditional notion
 
 [[Question:DB]]
 [[ID: ChoiceBA10opt2rwtext]]
-Text 2: "AbstractHedley Bull's state-centric theory of international politics offers an insight into how change can occur in international relations. The tension between order and justice represented in his work marks a sophisticated interpretation of one of the perennial conundrums that belies international politics. Bull conceived of order as the best way to ensure basic justice, that is"
+Text 2: "AbstractHedley Bull's state-centric theory of international politics offers an insight into how change can occur in international relations. The tension between order and justice represented in his work marks a sophisticated interpretation of one of the perennial conundrums that belies international politics. Bull conceived of order as the best way to ensure basic justice, that is..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA10rewrite]]
@@ -166,7 +166,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "We decided to go on a hike to a remote peak, but we got caught in a sudden thunderstorm. As the rain started to fall, the weather changed dramatically. The sky turned dark grey, the wind picked up, and the temperature dropped sharply. Thick clouds rolled in, obscuring the path ahead. We were scared because we..."
-2) "vandalism in the local newsagents! yesterday, a young woman leaved from a Coffee not with a coffee in one hand and her laptop and in the other, her handbag over the shoulder when she heard a big noise on the corner. She saw a young couple outside their car - left engining turning and stereo playing"
+2) "vandalism in the local newsagents! yesterday, a young woman leaved from a Coffee not with a coffee in one hand and her laptop and in the other, her handbag over the shoulder when she heard a big noise on the corner. She saw a young couple outside their car - left engining turning and stereo playing..."
 
 [[PageBreak]]
 
@@ -176,7 +176,7 @@ Text 1: "We decided to go on a hike to a remote peak, but we got caught in a sud
 
 [[Question:DB]]
 [[ID: ChoiceEF11opt2whytext]]
-Text 2: "vandalism in the local newsagents! yesterday, a young woman leaved from a Coffee not with a coffee in one hand and her laptop and in the other, her handbag over the shoulder when she heard a big noise on the corner. She saw a young couple outside their car - left engining turning and stereo playing"
+Text 2: "vandalism in the local newsagents! yesterday, a young woman leaved from a Coffee not with a coffee in one hand and her laptop and in the other, her handbag over the shoulder when she heard a big noise on the corner. She saw a young couple outside their car - left engining turning and stereo playing..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF11why]]
@@ -190,7 +190,7 @@ Text 1: "We decided to go on a hike to a remote peak, but we got caught in a sud
 
 [[Question:DB]]
 [[ID: ChoiceEF11opt2rwtext]]
-Text 2: "vandalism in the local newsagents! yesterday, a young woman leaved from a Coffee not with a coffee in one hand and her laptop and in the other, her handbag over the shoulder when she heard a big noise on the corner. She saw a young couple outside their car - left engining turning and stereo playing"
+Text 2: "vandalism in the local newsagents! yesterday, a young woman leaved from a Coffee not with a coffee in one hand and her laptop and in the other, her handbag over the shoulder when she heard a big noise on the corner. She saw a young couple outside their car - left engining turning and stereo playing..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF11rewrite]]
@@ -203,14 +203,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA11]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "Deposition of artefacts (often valuable metalwork), or hoarding as it is more commonly known, within the landscape is a well known and studied aspect of prehistoric behaviour and culture. Deposits are found in many varied locales and are disposed of in different manners; they consist of myriad artefact typologies as well as cover a wide range"
+1) "Deposition of artefacts (often valuable metalwork), or hoarding as it is more commonly known, within the landscape is a well known and studied aspect of prehistoric behaviour and culture. Deposits are found in many varied locales and are disposed of in different manners; they consist of myriad artefact typologies as well as cover a wide range..."
 2) "A central question in this narrative is understanding the deposition of metallurgical remains - the deliberate or incidental accumulation of metal objects, slag, and waste - both in wet and dry contexts. Through careful analysis and interpretation of these deposits, archaeologists have pieced together a compelling picture of European metallurgy's evolution. Wet contexts, characterized by waterlogged..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceBA11opt1whytext]]
-Text 1: "Deposition of artefacts (often valuable metalwork), or hoarding as it is more commonly known, within the landscape is a well known and studied aspect of prehistoric behaviour and culture. Deposits are found in many varied locales and are disposed of in different manners; they consist of myriad artefact typologies as well as cover a wide range"
+Text 1: "Deposition of artefacts (often valuable metalwork), or hoarding as it is more commonly known, within the landscape is a well known and studied aspect of prehistoric behaviour and culture. Deposits are found in many varied locales and are disposed of in different manners; they consist of myriad artefact typologies as well as cover a wide range..."
 
 [[Question:DB]]
 [[ID: ChoiceBA11opt2whytext]]
@@ -224,7 +224,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceBA11opt1rwtext]]
-Text 1: "Deposition of artefacts (often valuable metalwork), or hoarding as it is more commonly known, within the landscape is a well known and studied aspect of prehistoric behaviour and culture. Deposits are found in many varied locales and are disposed of in different manners; they consist of myriad artefact typologies as well as cover a wide range"
+Text 1: "Deposition of artefacts (often valuable metalwork), or hoarding as it is more commonly known, within the landscape is a well known and studied aspect of prehistoric behaviour and culture. Deposits are found in many varied locales and are disposed of in different manners; they consist of myriad artefact typologies as well as cover a wide range..."
 
 [[Question:DB]]
 [[ID: ChoiceBA11opt2rwtext]]

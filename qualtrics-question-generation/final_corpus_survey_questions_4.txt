@@ -128,7 +128,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "The proliferation of financial crises since the 1970s has raised concerns about the stability of the global economy. The International Monetary Fund (IMF) has been criticized for its role in these crises, with some arguing that it has exacerbated the problem. In this essay, we will examine the causes of financial crises and the role of..."
-2) "Since the 1970s, financial crises have undoubtedly increased in frequency. Apart from the incredibly unstable interwar period, the period since then has seen an unprecedented amount of crises. Financial liberalization has been widely blamed for the crises of recent times by popular commentators, but as will be shown, this is by no means the only factor."
+2) "Since the 1970s, financial crises have undoubtedly increased in frequency. Apart from the incredibly unstable interwar period, the period since then has seen an unprecedented amount of crises. Financial liberalization has been widely blamed for the crises of recent times by popular commentators, but as will be shown, this is by no means the only factor...."
 
 [[PageBreak]]
 
@@ -138,7 +138,7 @@ Text 1: "The proliferation of financial crises since the 1970s has raised concer
 
 [[Question:DB]]
 [[ID: ChoiceBA4opt2whytext]]
-Text 2: "Since the 1970s, financial crises have undoubtedly increased in frequency. Apart from the incredibly unstable interwar period, the period since then has seen an unprecedented amount of crises. Financial liberalization has been widely blamed for the crises of recent times by popular commentators, but as will be shown, this is by no means the only factor."
+Text 2: "Since the 1970s, financial crises have undoubtedly increased in frequency. Apart from the incredibly unstable interwar period, the period since then has seen an unprecedented amount of crises. Financial liberalization has been widely blamed for the crises of recent times by popular commentators, but as will be shown, this is by no means the only factor...."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA4why]]
@@ -152,7 +152,7 @@ Text 1: "The proliferation of financial crises since the 1970s has raised concer
 
 [[Question:DB]]
 [[ID: ChoiceBA4opt2rwtext]]
-Text 2: "Since the 1970s, financial crises have undoubtedly increased in frequency. Apart from the incredibly unstable interwar period, the period since then has seen an unprecedented amount of crises. Financial liberalization has been widely blamed for the crises of recent times by popular commentators, but as will be shown, this is by no means the only factor."
+Text 2: "Since the 1970s, financial crises have undoubtedly increased in frequency. Apart from the incredibly unstable interwar period, the period since then has seen an unprecedented amount of crises. Financial liberalization has been widely blamed for the crises of recent times by popular commentators, but as will be shown, this is by no means the only factor...."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA4rewrite]]
@@ -166,7 +166,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "Examples of renewable energy sources include solar power, wind power, hydro power, and geothermal energy. In this essay, I think we should choose solar power as our main source of energy because it is clean, abundant and cost-effective. First, solar power is clean. It does not produce pollution like fossil fuels and causes damage to the..."
-2) "I'm a firm supporter of the idea that construction of a new building shouldn't begin without considering its environmental impact and the income it could give. In my opinion, my town could benefit from three different sources of renewable energy: solar power, wind power, and biomass recycling. solar energy has always been considered as a good,"
+2) "I'm a firm supporter of the idea that construction of a new building shouldn't begin without considering its environmental impact and the income it could give. In my opinion, my town could benefit from three different sources of renewable energy: solar power, wind power, and biomass recycling. solar energy has always been considered as a good,..."
 
 [[PageBreak]]
 
@@ -176,7 +176,7 @@ Text 1: "Examples of renewable energy sources include solar power, wind power, h
 
 [[Question:DB]]
 [[ID: ChoiceEF5opt2whytext]]
-Text 2: "I'm a firm supporter of the idea that construction of a new building shouldn't begin without considering its environmental impact and the income it could give. In my opinion, my town could benefit from three different sources of renewable energy: solar power, wind power, and biomass recycling. solar energy has always been considered as a good,"
+Text 2: "I'm a firm supporter of the idea that construction of a new building shouldn't begin without considering its environmental impact and the income it could give. In my opinion, my town could benefit from three different sources of renewable energy: solar power, wind power, and biomass recycling. solar energy has always been considered as a good,..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF5why]]
@@ -190,7 +190,7 @@ Text 1: "Examples of renewable energy sources include solar power, wind power, h
 
 [[Question:DB]]
 [[ID: ChoiceEF5opt2rwtext]]
-Text 2: "I'm a firm supporter of the idea that construction of a new building shouldn't begin without considering its environmental impact and the income it could give. In my opinion, my town could benefit from three different sources of renewable energy: solar power, wind power, and biomass recycling. solar energy has always been considered as a good,"
+Text 2: "I'm a firm supporter of the idea that construction of a new building shouldn't begin without considering its environmental impact and the income it could give. In my opinion, my town could benefit from three different sources of renewable energy: solar power, wind power, and biomass recycling. solar energy has always been considered as a good,..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF5rewrite]]
@@ -203,14 +203,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA5]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "The development of feminist thought and action in Japan is distinct from that of its emergence in the West, more specifically within the United States and Britain. Though influenced by Western politics, the development of feminism in Japan was also initiated by numerous other social and political factors that affected the political climate at that specific"
+1) "The development of feminist thought and action in Japan is distinct from that of its emergence in the West, more specifically within the United States and Britain. Though influenced by Western politics, the development of feminism in Japan was also initiated by numerous other social and political factors that affected the political climate at that specific..."
 2) "In this essay, we will outline the key events and developments that led to the emergence and evolution of feminism in Japan. In the Meiji period (1868-1912), Japan underwent a period of rapid modernization, driven by the government's desire to establish a modern, Western-style state. This modernization process brought about significant changes in the roles and..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceBA5opt1whytext]]
-Text 1: "The development of feminist thought and action in Japan is distinct from that of its emergence in the West, more specifically within the United States and Britain. Though influenced by Western politics, the development of feminism in Japan was also initiated by numerous other social and political factors that affected the political climate at that specific"
+Text 1: "The development of feminist thought and action in Japan is distinct from that of its emergence in the West, more specifically within the United States and Britain. Though influenced by Western politics, the development of feminism in Japan was also initiated by numerous other social and political factors that affected the political climate at that specific..."
 
 [[Question:DB]]
 [[ID: ChoiceBA5opt2whytext]]
@@ -224,7 +224,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceBA5opt1rwtext]]
-Text 1: "The development of feminist thought and action in Japan is distinct from that of its emergence in the West, more specifically within the United States and Britain. Though influenced by Western politics, the development of feminism in Japan was also initiated by numerous other social and political factors that affected the political climate at that specific"
+Text 1: "The development of feminist thought and action in Japan is distinct from that of its emergence in the West, more specifically within the United States and Britain. Though influenced by Western politics, the development of feminism in Japan was also initiated by numerous other social and political factors that affected the political climate at that specific..."
 
 [[Question:DB]]
 [[ID: ChoiceBA5opt2rwtext]]

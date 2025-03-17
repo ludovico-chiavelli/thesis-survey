@@ -128,7 +128,7 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "Presidential Reconstruction, the first phase of the Reconstruction period, aimed to resolve these issues by reintegrating the Southern states into the Union and enabling African Americans to rebuild their lives. However, the limitations of Presidential Reconstruction, coupled with the lack of commitment to a lasting solution for the former slaves, ultimately culminated in its failure. Body..."
-2) "'To bind up the nations wounds' and 'to do all which may achieve and cherish a just and lasting peace'. This was how Lincoln viewed the aim of reconstruction at the end of the civil war, but there were many different beliefs as to the aim of reconstruction and an equal amount of ideas of how"
+2) "'To bind up the nations wounds' and 'to do all which may achieve and cherish a just and lasting peace'. This was how Lincoln viewed the aim of reconstruction at the end of the civil war, but there were many different beliefs as to the aim of reconstruction and an equal amount of ideas of how..."
 
 [[PageBreak]]
 
@@ -138,7 +138,7 @@ Text 1: "Presidential Reconstruction, the first phase of the Reconstruction peri
 
 [[Question:DB]]
 [[ID: ChoiceBA13opt2whytext]]
-Text 2: "'To bind up the nations wounds' and 'to do all which may achieve and cherish a just and lasting peace'. This was how Lincoln viewed the aim of reconstruction at the end of the civil war, but there were many different beliefs as to the aim of reconstruction and an equal amount of ideas of how"
+Text 2: "'To bind up the nations wounds' and 'to do all which may achieve and cherish a just and lasting peace'. This was how Lincoln viewed the aim of reconstruction at the end of the civil war, but there were many different beliefs as to the aim of reconstruction and an equal amount of ideas of how..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA13why]]
@@ -152,7 +152,7 @@ Text 1: "Presidential Reconstruction, the first phase of the Reconstruction peri
 
 [[Question:DB]]
 [[ID: ChoiceBA13opt2rwtext]]
-Text 2: "'To bind up the nations wounds' and 'to do all which may achieve and cherish a just and lasting peace'. This was how Lincoln viewed the aim of reconstruction at the end of the civil war, but there were many different beliefs as to the aim of reconstruction and an equal amount of ideas of how"
+Text 2: "'To bind up the nations wounds' and 'to do all which may achieve and cherish a just and lasting peace'. This was how Lincoln viewed the aim of reconstruction at the end of the civil war, but there were many different beliefs as to the aim of reconstruction and an equal amount of ideas of how..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA13rewrite]]
@@ -166,7 +166,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "Here is a step-by-step guide to help you through the process. First, you need to decide on the reason for renting out your room. It could be for financial reasons or to accommodate a friend or family member. Whichever the case, be clear in your mind about your intentions. Next, assess your property to determine its..."
-2) "looking for a new apartment? You are in the right place! focalized in better place of Pacific eight is all what you want and need! With pain in your neck? spend your nights sleeping in a small sofa? Here you have three beautiful and comfortable bedrooms. you never saw beautiful rooms like that, I guess. Have"
+2) "looking for a new apartment? You are in the right place! focalized in better place of Pacific eight is all what you want and need! With pain in your neck? spend your nights sleeping in a small sofa? Here you have three beautiful and comfortable bedrooms. you never saw beautiful rooms like that, I guess. Have..."
 
 [[PageBreak]]
 
@@ -176,7 +176,7 @@ Text 1: "Here is a step-by-step guide to help you through the process. First, yo
 
 [[Question:DB]]
 [[ID: ChoiceEF14opt2whytext]]
-Text 2: "looking for a new apartment? You are in the right place! focalized in better place of Pacific eight is all what you want and need! With pain in your neck? spend your nights sleeping in a small sofa? Here you have three beautiful and comfortable bedrooms. you never saw beautiful rooms like that, I guess. Have"
+Text 2: "looking for a new apartment? You are in the right place! focalized in better place of Pacific eight is all what you want and need! With pain in your neck? spend your nights sleeping in a small sofa? Here you have three beautiful and comfortable bedrooms. you never saw beautiful rooms like that, I guess. Have..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF14why]]
@@ -190,7 +190,7 @@ Text 1: "Here is a step-by-step guide to help you through the process. First, yo
 
 [[Question:DB]]
 [[ID: ChoiceEF14opt2rwtext]]
-Text 2: "looking for a new apartment? You are in the right place! focalized in better place of Pacific eight is all what you want and need! With pain in your neck? spend your nights sleeping in a small sofa? Here you have three beautiful and comfortable bedrooms. you never saw beautiful rooms like that, I guess. Have"
+Text 2: "looking for a new apartment? You are in the right place! focalized in better place of Pacific eight is all what you want and need! With pain in your neck? spend your nights sleeping in a small sofa? Here you have three beautiful and comfortable bedrooms. you never saw beautiful rooms like that, I guess. Have..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceEF14rewrite]]
@@ -203,14 +203,14 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 [[ID: ChoiceBA14]]
 Pick which text sounds more AI-generated.
 [[Choices]]
-1) "Rousseau put huge significance and value onto the concept of freedom, it was something he thought everyone desperately needed as a fundamental part of their humanity. Yet in his theory he demands individuals submit to the state and, more importantly to the immutable general will which acts for the benefit of all society and thus logically"
+1) "Rousseau put huge significance and value onto the concept of freedom, it was something he thought everyone desperately needed as a fundamental part of their humanity. Yet in his theory he demands individuals submit to the state and, more importantly to the immutable general will which acts for the benefit of all society and thus logically..."
 2) "Title: An Examination of the Impact of Rousseau's Social Contract on Individual Freedom Introduction Jean-Jacques Rousseau's Social Contract is a philosophical treatise that seeks to address the problem of governance and the role of the state in society. Rousseau presents an argument that individuals willingly concede a portion of their natural freedom to establish a social..."
 
 [[PageBreak]]
 
 [[Question:DB]]
 [[ID: ChoiceBA14opt1whytext]]
-Text 1: "Rousseau put huge significance and value onto the concept of freedom, it was something he thought everyone desperately needed as a fundamental part of their humanity. Yet in his theory he demands individuals submit to the state and, more importantly to the immutable general will which acts for the benefit of all society and thus logically"
+Text 1: "Rousseau put huge significance and value onto the concept of freedom, it was something he thought everyone desperately needed as a fundamental part of their humanity. Yet in his theory he demands individuals submit to the state and, more importantly to the immutable general will which acts for the benefit of all society and thus logically..."
 
 [[Question:DB]]
 [[ID: ChoiceBA14opt2whytext]]
@@ -224,7 +224,7 @@ Why does the text option you chose sound more or less human-like? Please write a
 
 [[Question:DB]]
 [[ID: ChoiceBA14opt1rwtext]]
-Text 1: "Rousseau put huge significance and value onto the concept of freedom, it was something he thought everyone desperately needed as a fundamental part of their humanity. Yet in his theory he demands individuals submit to the state and, more importantly to the immutable general will which acts for the benefit of all society and thus logically"
+Text 1: "Rousseau put huge significance and value onto the concept of freedom, it was something he thought everyone desperately needed as a fundamental part of their humanity. Yet in his theory he demands individuals submit to the state and, more importantly to the immutable general will which acts for the benefit of all society and thus logically..."
 
 [[Question:DB]]
 [[ID: ChoiceBA14opt2rwtext]]

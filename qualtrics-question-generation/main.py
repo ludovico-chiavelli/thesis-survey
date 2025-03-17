@@ -223,7 +223,7 @@ def form_choiceq_item(human_text: str, llm_text: str, index: int, source_corp: s
     # Clean human_text. Only first 56 words are used, if it even reaches that amount.
     human_text = human_text.strip().replace("\n", " ")
     max_len = min(56, len(human_text.split()))
-    human_text = " ".join(human_text.split()[:max_len])
+    human_text = " ".join(human_text.split()[:max_len]) + "..."
 
     # Shuffle the order of the texts.
     options = [human_text, llm_text]
