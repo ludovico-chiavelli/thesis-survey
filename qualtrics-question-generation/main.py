@@ -52,10 +52,10 @@ def main():
     }
 
     # Sample rate question pool.
-    ef_rateq_pool, bawe_rateq_pool = sample_rateq_pool(corpus_df, seed=random.seed())
+    ef_rateq_pool, bawe_rateq_pool = sample_rateq_pool(corpus_df, seed=random.randint(0, 10))
 
     # Sample choice question pool.
-    ef_choiceq_pool, bawe_choiceq_pool = sample_choiceq_pool(corpus_df, seed=random.seed())
+    ef_choiceq_pool, bawe_choiceq_pool = sample_choiceq_pool(corpus_df, seed=random.randint(0, 10))
 
     # Form rate question items.
     rateq_items = []
