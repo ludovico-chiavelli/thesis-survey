@@ -16,10 +16,6 @@ corpus_df.dropna(subset=['MODEL_TEXT', 'HUMAN_TEXT'], inplace=True)
 corpus_df['MODEL_TEXT'] = corpus_df['MODEL_TEXT'].apply(lambda x: re.sub(r'<[^>]*>', '', x))
 corpus_df['HUMAN_TEXT'] = corpus_df['HUMAN_TEXT'].apply(lambda x: re.sub(r'<[^>]*>', '', x))
 
-# Remove leading and trailing whitespace from the text.
-corpus_df['MODEL_TEXT'] = corpus_df['MODEL_TEXT'].apply(lambda x: x.strip())
-corpus_df['HUMAN_TEXT'] = corpus_df['HUMAN_TEXT'].apply(lambda x: x.strip())
-
 # Remove The first sentence of MODEL_TEXT. If the text is at least 2 sentences long.
 # This is done to remove an intrsuction sentence that is present in all texts due to model misbehaviour.
 
@@ -32,6 +28,9 @@ def remove_first_sentence(text):
 
 corpus_df['MODEL_TEXT'] = corpus_df['MODEL_TEXT'].apply(remove_first_sentence)
 
+# Remove leading and trailing whitespace from the text.
+corpus_df['MODEL_TEXT'] = corpus_df['MODEL_TEXT'].apply(lambda x: x.strip())
+corpus_df['HUMAN_TEXT'] = corpus_df['HUMAN_TEXT'].apply(lambda x: x.strip())
 
 
 # Save the cleaned dataframe to a new file.
