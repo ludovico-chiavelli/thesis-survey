@@ -22,13 +22,34 @@ def main():
     # print(form_choiceq_item("This is a human text.", "This is an AI-generated text.", 1))
 
     # Load the final corpus.
-    final_corpus_file = Path('/home/nuvolari/GitHub/thesis-survey/final-fullcorpus/final_corpus_filtered_texts.csv').resolve()
+    final_corpus_file = Path('/home/nuvolari/GitHub/thesis-survey/final-fullcorpus/final_corpus_cleaned_first_sentence_removed.csv').resolve()
     corpus_df = pd.read_csv(final_corpus_file, dtype=str)
     
     # # temporary.Check for missing values and fill them with a default string if necessary
     # corpus_df['LLAMA_TEXT'].fillna('Missing Text', inplace=True)
     # corpus_df['GEMMA_TEXT'].fillna('Missing Text', inplace=True)
     # corpus_df['MISTRAL_TEXT'].fillna('Missing Text', inplace=True)
+
+    # Fixed indeces to select the same texts for all participants. These are taken from the final_corpus by hand, at my discretion.
+    # If viewing excel, remember that the row numbers are 0-indexed and that when loading a csv the header is not counted as a row. 
+    # So add 2 to the row number in the csv to get the row number in the excel file.
+    rateq_indeces = {
+        "ef_llama_entries": [0, 1, 2],
+        "ef_gemma_entries": [],
+        "ef_mistral_entries": [],
+        "ba_llama_entries": [],
+        "ba_gemma_entries": [],
+        "ba_mistral_entries": []
+    }
+
+    choiceq_indeces = {
+        "ef_llama_entries": [],
+        "ef_gemma_entries": [],
+        "ef_mistral_entries": [],
+        "ba_llama_entries": [],
+        "ba_gemma_entries": [],
+        "ba_mistral_entries": []
+    }
 
     # Sample rate question pool.
     ef_rateq_pool, bawe_rateq_pool = sample_rateq_pool(corpus_df, seed=random.seed())
