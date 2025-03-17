@@ -4,12 +4,16 @@
 
 
 [[Question:DB]]
+[[ID: ReadEF0]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateEF0ratetext]]
 "In order to find out the opinions of people about this issue, I think it would be good to do a survey. Doing a survey about discrimination would be a very good idea. This is how I would make the questions. The first question I would ask is: Do you think discrimination happens a lot in our country? I would give them three options, no, yes, not sure. By asking this question, I can see the people's attitude towards discrimination in our country. The second question is: What..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateEF0]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -41,12 +45,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadEF1]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateEF1ratetext]]
 "As we all know, starting a new business is challenging. If you want to get some money from investors, you need a clear plan for your business. In this case, making a business proposal is really important. A proposal is a document that explains why your business is a good investment opportunity. Firstly, in a business proposal, you should introduce your business idea. Describe the problem your business is going to solve, and how you are going to solve it. Explain the goals of your business and what..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateEF1]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -78,12 +86,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadEF2]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateEF2ratetext]]
 "Please make sure to write at least 250 words. To apply for sponsorship, you will need to get an approval from your university for your study plan and the sponsorship amount requested. Here is the step-by-step procedure. Firstly, you need to make sure that your study plan is complete and correct. You must have already chosen your courses and degree programs and have a clear idea of what you want to study. You should write down your study plan in a clear and concise manner, highlighting your academic..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateEF2]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -237,12 +249,16 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 
 
 [[Question:DB]]
+[[ID: ReadEF3]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateEF3ratetext]]
 "A contract is a legally binding agreement between two or more people. Breach of contract occurs when a person or company fails to do what was agreed in the contract. This can be a serious matter. If one party doesn't keep their promises, the other party can take legal action. This may involve going to court. It is often a lengthy and expensive process. To prevent breaches of contract, both parties should carefully read the contract before signing. They should also be sure that they understand what they..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateEF3]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -274,12 +290,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadEF4]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateEF4ratetext]]
 "But do you know that you can rent out your room as well? You can earn a bit of extra cash by renting out your room. But it is important that you follow some rules. First, check your local laws. Because in some countries, there are specific laws and regulations that you must follow when renting out a room. You should also decide if you want to rent out your room to a friend, a family member, or a stranger. This is a personal decision and you have..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateEF4]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -311,12 +331,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadEF5]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateEF5ratetext]]
 "You want it to be attractive and informative for your visitors. To start, it is important to know who are the visitors. You need to know what they are interested in and what they want to learn about. Are they students? Children? Tourists? The purpose of the brochure is to encourage them to visit the museum, so you need to make it interesting for them. You also need to know the museum's collection. What kind of art or artifacts are there? What are the main themes and periods..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateEF5]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -470,12 +494,16 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 
 
 [[Question:DB]]
+[[ID: ReadEF6]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateEF6ratetext]]
 "As someone who is still learning English, I was initially hesitant to join, but the opportunity to develop my leadership skills was too good to pass up. The course itself was incredibly well-structured, with a mix of interactive exercises, group discussions, and guest lectures from inspiring leaders. I particularly enjoyed the role-playing activities, which allowed me to practice my communication skills in a safe and supportive environment. One of the most valuable aspects of the course was the diversity of the participants. We came from different backgrounds, cultures,..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateEF6]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -507,12 +535,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadEF7]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateEF7ratetext]]
 "When rejecting an application, proposal, or idea, it's important to be both firm and polite. A well-written rejection letter can make all the difference, leaving a positive impression even in a negative situation. Firstly, it's crucial to be clear and concise. Avoid beating around the bush. Thank the recipient for their interest and clearly state that you are unable to accept their request. Provide a brief and honest reason, but avoid being overly critical or going into excessive detail. Secondly, maintain a professional and respectful tone. Use formal..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateEF7]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -544,12 +576,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadEF8]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateEF8ratetext]]
 "It's about providing constructive criticism in a way that is helpful, respectful, and focused on improvement. First, remember to be specific. Instead of saying "Your presentation was good," try saying "I really liked how you used visual aids to illustrate your points. It made the information easier to understand." Next, be timely. Feedback is most effective when it's given soon after the event or task. This helps the colleague remember the situation and makes the feedback more relevant. Finally, focus on the behaviour, not the person. Avoid making..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateEF8]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -703,12 +739,16 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 
 
 [[Question:DB]]
+[[ID: ReadEF9]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateEF9ratetext]]
 "eBay As a B1 English learner, I've delved into the world of online shopping. Two giants stand out: Amazon and eBay. Both offer a vast selection and convenience, but are they truly equal? **Amazon**, the undeniable king of convenience, boasts a user-friendly interface and speedy delivery. I can buy almost anything, from books to electronics, with a few clicks. Prime membership provides further benefits like free two-day shipping and streaming services, making it a compelling option for frequent shoppers. **eBay**, on the other hand, thrives on its unique..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateEF9]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -740,12 +780,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadEF10]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateEF10ratetext]]
 "But remember, stating your issue clearly and politely can often lead to a positive resolution. Firstly, **be specific**. Avoid vague complaints like "Your service is terrible." Instead, describe the exact problem and when it happened. For example, "On October 15th, I ordered a phone online, but it arrived damaged." Next, **keep it polite**. Even if you're frustrated, using respectful language is crucial. Start with a formal greeting like "Dear [Name]," and avoid using overly emotional or aggressive words. Clearly state **what you want**. Do you need a refund?..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateEF10]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -777,12 +821,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadEF11]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateEF11ratetext]]
 "But what happens when one party fails to uphold their end of the bargain? This is known as a breach of contract, and it can leave you feeling frustrated and unsure of what to do next. As a B1 English learner, navigating this situation can be daunting, but understanding your rights and options is crucial. First, carefully review the contract itself. Look for specific clauses outlining the consequences of a breach and the remedies available to the injured party. This may include financial compensation, performance of the contracted..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateEF11]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -936,12 +984,16 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 
 
 [[Question:DB]]
+[[ID: ReadEF12]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateEF12ratetext]]
 "A written warning is a document that informs an employee about their unacceptable behavior or performance at work. It's a formal way for a manager or supervisor to address issues, and it's crucial for maintaining a productive work environment. Written warnings usually include: 1. The date and time of the meeting where the warning was issued. 2. A clear description of the unacceptable behavior or performance, and why it's a problem. 3. The expected behaviors or standards to be met in the future. 4. The consequences if the..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateEF12]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -973,12 +1025,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadEF13]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateEF13ratetext]]
 "As English learners and aspiring professionals, it's essential to familiarize ourselves with the vocabulary and expressions used in various industries. Let's dive into it! Firstly, it is necessary to understand the unique requirements and preferences of affluent clients. The definition of 'wealthy client' may vary, but for the sake of this discussion, we will consider them as those with substantial financial resources who seek high-end, luxurious properties. The first step in finding a home for a wealthy client is to establish a strong relationship built on trust, professionalism,..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateEF13]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1010,12 +1066,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadEF14]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateEF14ratetext]]
 "This guide will be a valuable resource for people who prefer to use home remedies for minor health issues. Let's dive into it! Step 1: Research Start by thoroughly researching common household items that can be used as natural remedies. Some examples include garlic, honey, and lemon, which have various medicinal properties. Don't forget to verify the sources of your information to ensure accuracy. Step 2: Organize Next, organize your findings by categorizing the remedies based on their uses, such as relieving coughs, healing wounds, or treating colds...."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateEF14]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1169,12 +1229,16 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 
 
 [[Question:DB]]
+[[ID: ReadEF15]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateEF15ratetext]]
 "It is the pinnacle of a well-crafted joke and leaves the audience with a sense of satisfaction and amusement. As an English learner at B1 level, you may find it challenging to delve into the intricacies of stand-up comedy, but remember, even a simple and clever punch line can make a lasting impression. First, it is essential to understand what a punch line is. A punch line is the final line of a joke, which provides the surprise or humor. It often concludes a setup or build-up of..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateEF15]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1206,12 +1270,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadEF16]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateEF16ratetext]]
 "I always loved to write stories, poems, and essays. Recently, I found out about a national writing competition for non-native English speakers. I immediately decided to take part in it. To prepare myself for the competition, I spent a lot of time researching the competition's requirements and guidelines. I also asked my English teacher for her feedback on my writing skills and asked her to help me polish my language. Additionally, I practiced writing daily, trying to improve my vocabulary and grammar. The competition deadline was approaching, and..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateEF16]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1243,12 +1311,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadEF17]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateEF17ratetext]]
 "One effective way to achieve this goal is by creating an engaging brochure. A well-written brochure can entice potential visitors and provide them with essential information about the museum. Below is a guide for writing a captivating brochure for your museum. 1. Grab the readers' attention The opening line of your brochure should intrigue the reader and make them want to learn more. Use interesting facts, questions, or engaging statements to catch their attention. For example: “The secrets of ancient civilizations are waiting for you at our museum!”..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateEF17]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1402,12 +1474,16 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 
 
 [[Question:DB]]
+[[ID: ReadBA0]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateBA0ratetext]]
 "Decentralisation refers to the process of transferring power, authority and resources from a central government or institution to local communities, individuals, or smaller-scale institutions. This essay will explore the concept of decentralisation, its positive aspects, as well as potential risks and negative consequences. Firstly, decentralisation can be seen as a response to the growing dissatisfaction with the traditional top-down, authoritarian approach to governance. In this approach, a central government or institution holds all the power and makes decisions on behalf of the people. However, this has led to..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateBA0]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1439,12 +1515,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadBA1]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateBA1ratetext]]
 ") The purpose of this analysis is to study the concept of pragmatics in a real-life context. Pragmatics is the study of how we communicate in context and the interpretation of meaning that arises from context, interaction and culture. The script I have chosen is 'The One Where Ross is Fine' from Season 10 of Friends. In this essay, I will attempt to show how Ross's words in this episode can be seen as pragmatic because they are shaped by the context of the conversation, his interaction with..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateBA1]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1476,12 +1556,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadBA2]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateBA2ratetext]]
 "The Iliad and the Odyssey are the two epic poems attributed to the ancient Greek poet Homer. These works are some of the most enduring and influential pieces of literature in the Western canon. While the poems are filled with human characters and stories, the gods play a significant role in shaping the course of events and the experiences of the mortals. In this essay, we will explore the contribution of the role of the gods to the Iliad and the Odyssey, examining how they function within the..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateBA2]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1635,12 +1719,16 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 
 
 [[Question:DB]]
+[[ID: ReadBA3]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateBA3ratetext]]
 "Lenore Walker. The term was used to describe the psychological symptoms exhibited by women who have been subjected to prolonged physical and emotional abuse by their partners. The 'battered woman syndrome' refers to a pattern of behavioral and psychological characteristics exhibited by victims of domestic violence. It includes feelings of isolation, self-blame, and powerlessness. These symptoms can lead to extreme physical and emotional abuse, which can eventually lead to a state of self-defense where the woman may feel compelled to use violence to protect herself. Historically, the concept..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateBA3]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1672,12 +1760,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadBA4]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateBA4ratetext]]
 "People's lives are constructed by their beliefs and the assumptions that come with them. As a student, at the beginning of my course, I believed that social reality is created by society through a combination of collective beliefs and actions. However, after completing the course and engaging with various texts and debates, I have developed a different perspective. I now believe that social reality is constructed by individuals, and their individual actions and interactions. This is because our experiences, understanding, and perception of reality are all subjective. It..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateBA4]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1709,12 +1801,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadBA5]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateBA5ratetext]]
 "In George Orwell's classic dystopian novel 1984, the totalitarian regime exercises control over language as a means of exerting power over the population. As the protagonist Winston Smith observes, 'The English language was coming under a deadly attack. In its place [the regime] was fostering a debased form of Russian, a kind of pidgin English, easy to learn and not very expressive' (Orwell, 1949, p. 22). Orwell illustrates that language is not merely a reflection of relationships of power, but rather a tool used by those in power..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateBA5]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1868,12 +1964,16 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 
 
 [[Question:DB]]
+[[ID: ReadBA6]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateBA6ratetext]]
 "But why did Americans, in particular, embrace this ambitious architectural pursuit? The answer lies within a complex interplay of economic prosperity, rapid urbanization, and a distinctive cultural spirit of innovation and progress. During the late 19th and early 20th centuries, the United States experienced an unprecedented era of industrialization and economic growth. Massive fortunes were amassed, leading to an influx of capital and a surging demand for office space in rapidly expanding cities like New York, Chicago, and Philadelphia. Traditional, low-rise buildings simply could not accommodate the burgeoning..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateBA6]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1905,12 +2005,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadBA7]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateBA7ratetext]]
 "The show's success lies not only in its witty dialogue but also in the subtle nuances of communication conveyed through pragmatic analysis. This essay will delve into a specific script from "Friends," examining how the characters’ pragmatic choices contribute to the humor, conflict, and overall meaning of the scene. The chosen script focuses on the episode "The One Where Ross Finds Out" (Season 5). In this scene, Ross has suspicions about Rachel dating Mark, his annoying coworker. Rachel, unaware of Ross's knowledge, playfully describes Mark as "a pretty..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateBA7]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -1942,12 +2046,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadBA8]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateBA8ratetext]]
 "It shivers with a sense of the transgressive, a yearning for the forbidden. Yet, asking whether The Gothic is *always* subversive requires careful consideration. While the genre often challenges societal norms and power structures, it can also reinforce them, blurring the line between rebellion and complicity. Certainly, Gothic literature has a long history of offering critique. Horace Walpole's *The Castle of Otranto*, considered the first Gothic novel, presents a crumbling aristocracy under threat from a mysterious force, mirroring anxieties about societal upheaval in 18th-century England. Mary Shelley’s *Frankenstein*..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateBA8]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -2101,12 +2209,16 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 
 
 [[Question:DB]]
+[[ID: ReadBA9]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateBA9ratetext]]
 "Yet, declaring it the definitive source of meaning would be akin to viewing a single thread and concluding it holds the entire tapestry together. Meaning, in its essence, is not static or singular; it is fluid, dynamic, and perpetually shaped through a network of discursive dialogues. The text, though serving as a significant catalyst, is merely one voice in a chorus, incomplete without the interpretations, reactions, and re-interpretations woven by its readers and the broader social context. Fundamentally, the act of reading itself is a dialogue. We bring..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateBA9]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -2138,12 +2250,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadBA10]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateBA10ratetext]]
 "D. Ross's deontological ethics, arguing that particularism presents a more plausible alternative. While Ross advocates for a universal moral framework encompassing distinct prima facie duties, Dancy contends that these general duties are insufficient in capturing the complexity of real-world moral dilemmas. He proposes particularism, a view emphasizing the importance of context and specific situations in ethical decision-making, as a more nuanced and truthful reflection of moral reality. Dancy's primary criticism of Ross's deontology stems from the inherent tension between universal duties and their practical applications. Ross outlines several..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateBA10]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -2175,12 +2291,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadBA11]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateBA11ratetext]]
 "## The Fumbled Bridge: Examining the Failure of the CMS Wellington Valley Mission The fate of the Church Missionary Society's (CMS) Wellington Valley Mission between 1822 and 1833 serves as a poignant reminder of the complexities of cultural translation and the limitations of imposing foreign solutions in a new context. While the mission's objective, the evangelization and education ofIndigenous Australians, was undeniably noble, its execution was ultimately marred by a confluence of factors, leading to a dismal failure. One primary contributor to this failure was an inherent lack..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateBA11]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -2334,12 +2454,16 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 
 
 [[Question:DB]]
+[[ID: ReadBA12]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateBA12ratetext]]
 "This essay will investigate the myriad ways through which aphasia contributes to our comprehension of the linguistic localisation in the cerebral cortex, underscoring the intricate neurological underpinnings of human language. Body Firstly, aphasia provides a clear-cut illustration of the left-lateralisation of language functions in the human brain. When language abilities are impaired due to damage in the left hemisphere, it is compelling evidence supporting Broca's and Wernicke's theories of left hemisphere specialisation for language processing. The distinct language patterns, such as Bro..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateBA12]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -2371,12 +2495,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadBA13]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateBA13ratetext]]
 "Title: The Controversial Advocacy for a Smoking Ban in Public Places: An Objective Examination of its Pros and Cons Introduction The debate surrounding the prohibition of smoking in public places is a contentious issue, eliciting a myriad of reactions from different stakeholders. While some argue that it invades personal freedom, others contend that it is a necessary measure to safeguard public health. This essay will delve into the debate, weighing the arguments for and against a smoking ban in public places, before presenting a reasonable conclusion. Pros of..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateBA13]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -2408,12 +2536,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadBA14]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateBA14ratetext]]
 "One such perspective is presented by Kenichi Ohmae, who argues that the nation states have been reduced to mere "bit actors" in the global economy. Although there is some truth to Ohmae's statement, it is a oversimplification of the complex relationship between the nation states and the global economy. On one hand, Ohmae's statement is supported by the growing integration and interdependence of the global economy. Multinational corporations (MNCs) have become powerful actors in the global market, transcending national borders and setting their own terms for business. The..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateBA14]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -2567,12 +2699,16 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 
 
 [[Question:DB]]
+[[ID: ReadBA15]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateBA15ratetext]]
 "This essay delves into the significance of communication and meetings in the industrial context, and discusses their impact on productivity, decision-making, and overall organizational success. In the fast-paced and ever-changing business environment, communication serves as the lifeline for a thriving industrial enterprise. Effective communication enables efficient exchange of ideas, fostering collaboration and cooperation among employees, departments, and even various organizations within a supply chain. This open dialogue not only expedites the decision-making process but also nurtures a strong team spirit. In an industry characterized by intricate processes, stringent..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateBA15]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -2604,12 +2740,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadBA16]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateBA16ratetext]]
 "Locke, in his essay "Some Thoughts Concerning Education," posed a question that appears to challenge the rationality of human behavior, asking, "Why should men who were afraid of polecats and foxes arrange to be devoured by lions?" This essay will delve into Hobbes' response to this question, using his theory of the state of nature as a basis for understanding the motivations behind such seemingly irrational actions. Body John Locke's query suggests a paradoxical situation in which men, despite fearing smaller predators..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateBA16]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
@@ -2641,12 +2781,16 @@ Please rewrite the text so that it sounds more human-like, if you rated it anyth
 
 
 [[Question:DB]]
+[[ID: ReadBA17]]
+Read the text below.
+
+[[Question:DB]]
 [[ID: RateBA17ratetext]]
 "Partnerships play a vital role in this interdependence, as they foster collaboration, shared responsibilities, and resource allocation. This essay will delve into the examples of partnerships, their challenges, and the outcomes of successful collaborations in the health and social care sector. A prime example of partnerships that contribute to the provision of health and social care can be observed in community-based initiatives. For instance, the collaboration between local healthcare providers, social service agencies, schools, and non-governmental organizations can collect..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateBA17]]
-Rate the above text between 1 (definitely AI generated) and 4 (definitely human generated).
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
 [[Choices]]
 1 - Definitely AI
 2 - Likely AI
