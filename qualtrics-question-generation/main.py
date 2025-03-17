@@ -58,29 +58,17 @@ def main():
     ef_choiceq_pool, bawe_choiceq_pool = sample_choiceq_pool(corpus_df, seed=random.randint(0, 10))
 
     # Form rate question items.
-
-    # Create pool of alternating ef and bawe choice question items.
-    rateq_pool = []
-    for i in range(len(ef_rateq_pool)): # ef_rateq_pool and bawe_rateq_pool have the same length.
-        rateq_pool.append(ef_rateq_pool[i])
-        rateq_pool.append(bawe_rateq_pool[i])
-
     rateq_items = []
-    for i, text in enumerate(rateq_pool):
+    for i, text in enumerate(ef_rateq_pool):
         rateq_items.append(form_rateq_item(text, i, source_corp="EF"))
+    for i, text in enumerate(bawe_rateq_pool):
         rateq_items.append(form_rateq_item(text, i, source_corp="BA"))
 
     # Form choice question items.
-
-    # Create pool of alternating ef and bawe choice question items.
-    choiceq_pool = []
-    for i in range(len(ef_choiceq_pool)): # ef_choiceq_pool and bawe_choiceq_pool have the same length.
-        choiceq_pool.append(ef_choiceq_pool[i])
-        choiceq_pool.append(bawe_choiceq_pool[i])
-
     choiceq_items = []
-    for index, item in enumerate(choiceq_pool):
+    for index, item in enumerate(ef_choiceq_pool):
         choiceq_items.append(form_choiceq_item(item[0], item[1], index, source_corp="EF"))
+    for index, item in enumerate(bawe_choiceq_pool):
         choiceq_items.append(form_choiceq_item(item[0], item[1], index, source_corp="BA"))
     
     # Save the items to a file. Each Rate and Choice items are in groups of 3 and 3 respectively within one block. So 1 block has 6 questions all separated by a pagebreak.
