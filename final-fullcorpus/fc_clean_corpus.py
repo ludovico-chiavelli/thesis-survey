@@ -16,7 +16,26 @@ corpus_df.dropna(subset=['MODEL_TEXT', 'HUMAN_TEXT'], inplace=True)
 corpus_df['MODEL_TEXT'] = corpus_df['MODEL_TEXT'].apply(lambda x: re.sub(r'<[^>]*>', '', x))
 corpus_df['HUMAN_TEXT'] = corpus_df['HUMAN_TEXT'].apply(lambda x: re.sub(r'<[^>]*>', '', x))
 
+# Remove leading and trailing whitespace from the text.
+corpus_df['MODEL_TEXT'] = corpus_df['MODEL_TEXT'].apply(lambda x: x.strip())
+corpus_df['HUMAN_TEXT'] = corpus_df['HUMAN_TEXT'].apply(lambda x: x.strip())
+
+# Remove The first sentence of MODEL_TEXT and HUMAN_TEXT. If the text is at least 2 sentences long.
+# This is done to remove an intrsuction sentence that is present in all texts due to model misbehaviour.
+
+def remove_first_sentence(text):
+    sentences = text.split('.')
+    if len(sentences) > 1:
+        return '.'.join(sentences[1:])
+    else:
+        return text
+
+corpus_df['MODEL_TEXT'] = corpus_df['MODEL_TEXT'].apply(remove_first_sentence)
+corpus_df['HUMAN_TEXT'] = corpus_df['HUMAN_TEXT'].apply(remove_first_sentence)
+
+
+
 # Save the cleaned dataframe to a new file.
-file_name = 'final_corpus_cleaned.csv'
+file_name = 'final_corpus_cleaned_first_sentence_removed.csv'
 corpus_df.to_csv(file_name, index=False)
 print(f"Cleaned corpus saved to {file_name}")
