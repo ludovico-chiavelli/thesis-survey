@@ -17,7 +17,7 @@ mn_to_fn = {
 
 def main():
     # Set the seed for reproducibility
-    random.seed(42)
+    random.seed(24)
     # print(form_rateq_item("This is a test text.", 1))
     # print(form_choiceq_item("This is a human text.", "This is an AI-generated text.", 1))
 
@@ -31,10 +31,10 @@ def main():
     # corpus_df['MISTRAL_TEXT'].fillna('Missing Text', inplace=True)
 
     # Sample rate question pool.
-    ef_rateq_pool, bawe_rateq_pool = sample_rateq_pool(corpus_df, seed=42)
+    ef_rateq_pool, bawe_rateq_pool = sample_rateq_pool(corpus_df, seed=random.seed())
 
     # Sample choice question pool.
-    ef_choiceq_pool, bawe_choiceq_pool = sample_choiceq_pool(corpus_df, seed=42)
+    ef_choiceq_pool, bawe_choiceq_pool = sample_choiceq_pool(corpus_df, seed=random.seed())
 
     # Form rate question items.
     rateq_items = []
@@ -71,14 +71,14 @@ def sample_rateq_pool(corpus_df: pd.DataFrame, seed: int) -> Tuple[list, list]:
     bawe_rows = corpus_df[corpus_df['CORPUS'] == 'BAWE']
 
     # Sample 6 texts from each LLM model for EFCAMDAT entries. Use column MODEL_NAME to get the LLM text.
-    ef_llama_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["llama"]]["MODEL_TEXT"].sample(n=6, random_state=seed).tolist()
-    ef_gemma_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["gemma"]]["MODEL_TEXT"].sample(n=6, random_state=seed).tolist()
-    ef_mistral_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["mistral"]]["MODEL_TEXT"].sample(n=6, random_state=seed).tolist()
+    ef_llama_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["llama"]]["MODEL_TEXT"].sample(n=6, random_state=seed, replace=False).tolist()
+    ef_gemma_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["gemma"]]["MODEL_TEXT"].sample(n=6, random_state=seed, replace=False).tolist()
+    ef_mistral_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["mistral"]]["MODEL_TEXT"].sample(n=6, random_state=seed, replace=False).tolist()
 
     # Sample 6 texts from each LLM model for BAWE entries. Use column MODEL_NAME to get the LLM text.
-    bawe_llama_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["llama"]]["MODEL_TEXT"].sample(n=6, random_state=seed).tolist()
-    bawe_gemma_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["gemma"]]["MODEL_TEXT"].sample(n=6, random_state=seed).tolist()
-    bawe_mistral_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["mistral"]]["MODEL_TEXT"].sample(n=6, random_state=seed).tolist()
+    bawe_llama_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["llama"]]["MODEL_TEXT"].sample(n=6, random_state=seed, replace=False).tolist()
+    bawe_gemma_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["gemma"]]["MODEL_TEXT"].sample(n=6, random_state=seed, replace=False).tolist()
+    bawe_mistral_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["mistral"]]["MODEL_TEXT"].sample(n=6, random_state=seed, replace=False).tolist()
 
     # Combine all ef entries into one list.
     ef_entries = ef_llama_entries + ef_gemma_entries + ef_mistral_entries
@@ -100,14 +100,14 @@ def sample_choiceq_pool(corpus_df: pd.DataFrame, seed: int) -> Tuple[list[Tuple[
     bawe_rows = corpus_df[corpus_df['CORPUS'] == 'BAWE']
 
     # Sample 6 human and LLM text pairs from each LLM model for EFCAMDAT entries. Use column MODEL_NAME to get the LLM text.
-    ef_llama_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["llama"]][["HUMAN_TEXT", "MODEL_TEXT"]].sample(n=6, random_state=seed)
-    ef_gemma_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["gemma"]][["HUMAN_TEXT", "MODEL_TEXT"]].sample(n=6, random_state=seed)
-    ef_mistral_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["mistral"]][["HUMAN_TEXT", "MODEL_TEXT"]].sample(n=6, random_state=seed)
+    ef_llama_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["llama"]][["HUMAN_TEXT", "MODEL_TEXT"]].sample(n=6, random_state=seed, replace=False)
+    ef_gemma_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["gemma"]][["HUMAN_TEXT", "MODEL_TEXT"]].sample(n=6, random_state=seed, replace=False)
+    ef_mistral_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["mistral"]][["HUMAN_TEXT", "MODEL_TEXT"]].sample(n=6, random_state=seed, replace=False)
 
     # Sample 6 human and LLM text pairs from each LLM model for BAWE entries. Use column MODEL_NAME to get the LLM text.
-    bawe_llama_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["llama"]][["HUMAN_TEXT", "MODEL_TEXT"]].sample(n=6, random_state=seed)
-    bawe_gemma_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["gemma"]][["HUMAN_TEXT", "MODEL_TEXT"]].sample(n=6, random_state=seed)
-    bawe_mistral_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["mistral"]][["HUMAN_TEXT", "MODEL_TEXT"]].sample(n=6, random_state=seed)
+    bawe_llama_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["llama"]][["HUMAN_TEXT", "MODEL_TEXT"]].sample(n=6, random_state=seed, replace=False)
+    bawe_gemma_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["gemma"]][["HUMAN_TEXT", "MODEL_TEXT"]].sample(n=6, random_state=seed, replace=False)
+    bawe_mistral_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["mistral"]][["HUMAN_TEXT", "MODEL_TEXT"]].sample(n=6, random_state=seed, replace=False)
 
     # Combine all ef entries into one list. Make a list of tuples with (human_text, llama_text) pairs.
     ef_model_entries = [ef_llama_entries, ef_gemma_entries, ef_mistral_entries]
@@ -122,8 +122,6 @@ def sample_choiceq_pool(corpus_df: pd.DataFrame, seed: int) -> Tuple[list[Tuple[
     for model_entries in bawe_model_entries:
         for index, row in model_entries.iterrows():
             bawe_entries.append((row["HUMAN_TEXT"], row["MODEL_TEXT"]))
-    
-    
 
     return ef_entries, bawe_entries
 
@@ -250,6 +248,69 @@ Text 2: "{opt2}"
 """
 
     return composition
+
+def select_rateq_pool(corpus_df: pd.DataFrame, indices: list) -> Tuple[list, list]:
+    """
+    Select LLM text from the corpus for rate question pool based on provided indices.
+    """
+
+    # Select texts from the corpus based on provided indices.
+    ef_rows = corpus_df[corpus_df['CORPUS'] == 'EFCAMDAT']
+    bawe_rows = corpus_df[corpus_df['CORPUS'] == 'BAWE']
+
+    # Select texts from each LLM model for EFCAMDAT entries using provided indices.
+    ef_llama_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["llama"]].iloc[indices]["MODEL_TEXT"].tolist()
+    ef_gemma_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["gemma"]].iloc[indices]["MODEL_TEXT"].tolist()
+    ef_mistral_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["mistral"]].iloc[indices]["MODEL_TEXT"].tolist()
+
+    # Select texts from each LLM model for BAWE entries using provided indices.
+    bawe_llama_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["llama"]].iloc[indices]["MODEL_TEXT"].tolist()
+    bawe_gemma_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["gemma"]].iloc[indices]["MODEL_TEXT"].tolist()
+    bawe_mistral_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["mistral"]].iloc[indices]["MODEL_TEXT"].tolist()
+
+    # Combine all ef entries into one list.
+    ef_entries = ef_llama_entries + ef_gemma_entries + ef_mistral_entries
+
+    # Combine all bawe entries into one list.
+    bawe_entries = bawe_llama_entries + bawe_gemma_entries + bawe_mistral_entries
+
+    return ef_entries, bawe_entries
+
+
+def select_choiceq_pool(corpus_df: pd.DataFrame, indices: list) -> Tuple[list[Tuple[str, str]], list[Tuple[str, str]]]:
+    """
+    Select LLM text from the corpus for choice question pool based on provided indices.
+    """
+
+    # Select human-LLM text pairs from the corpus based on provided indices.
+    ef_rows = corpus_df[corpus_df['CORPUS'] == 'EFCAMDAT']
+    bawe_rows = corpus_df[corpus_df['CORPUS'] == 'BAWE']
+
+    # Select human and LLM text pairs from each LLM model for EFCAMDAT entries using provided indices.
+    ef_llama_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["llama"]].iloc[indices][["HUMAN_TEXT", "MODEL_TEXT"]]
+    ef_gemma_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["gemma"]].iloc[indices][["HUMAN_TEXT", "MODEL_TEXT"]]
+    ef_mistral_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["mistral"]].iloc[indices][["HUMAN_TEXT", "MODEL_TEXT"]]
+
+    # Select human and LLM text pairs from each LLM model for BAWE entries using provided indices.
+    bawe_llama_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["llama"]].iloc[indices][["HUMAN_TEXT", "MODEL_TEXT"]]
+    bawe_gemma_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["gemma"]].iloc[indices][["HUMAN_TEXT", "MODEL_TEXT"]]
+    bawe_mistral_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["mistral"]].iloc[indices][["HUMAN_TEXT", "MODEL_TEXT"]]
+
+    # Combine all ef entries into one list. Make a list of tuples with (human_text, llama_text) pairs.
+    ef_model_entries = [ef_llama_entries, ef_gemma_entries, ef_mistral_entries]
+    bawe_model_entries = [bawe_llama_entries, bawe_gemma_entries, bawe_mistral_entries]
+
+    ef_entries = []
+    bawe_entries = []
+
+    for model_entries in ef_model_entries:
+        for index, row in model_entries.iterrows():
+            ef_entries.append((row["HUMAN_TEXT"], row["MODEL_TEXT"]))
+    for model_entries in bawe_model_entries:
+        for index, row in model_entries.iterrows():
+            bawe_entries.append((row["HUMAN_TEXT"], row["MODEL_TEXT"]))
+
+    return ef_entries, bawe_entries
 
 
 if __name__ == '__main__':
