@@ -59,17 +59,15 @@ def main():
 
     # Form rate question items.
     rateq_items = []
-    for i, text in enumerate(ef_rateq_pool):
-        rateq_items.append(form_rateq_item(text, i, source_corp="EF"))
-    for i, text in enumerate(bawe_rateq_pool):
-        rateq_items.append(form_rateq_item(text, i, source_corp="BA"))
+    for i in range(len(ef_rateq_pool)): # ef_rateq_pool is same length as bawe_rateq_pool
+        rateq_items.append(form_rateq_item(ef_rateq_pool[i], i, source_corp="EF"))
+        rateq_items.append(form_rateq_item(bawe_rateq_pool[i], i, source_corp="BA"))
 
     # Form choice question items.
     choiceq_items = []
-    for index, item in enumerate(ef_choiceq_pool):
-        choiceq_items.append(form_choiceq_item(item[0], item[1], index, source_corp="EF"))
-    for index, item in enumerate(bawe_choiceq_pool):
-        choiceq_items.append(form_choiceq_item(item[0], item[1], index, source_corp="BA"))
+    for i in range(len(ef_choiceq_pool)): # ef_choiceq_pool is same length as bawe_choiceq_pool
+        choiceq_items.append(form_choiceq_item(ef_choiceq_pool[i][0], ef_choiceq_pool[i][1], i, source_corp="EF"))
+        choiceq_items.append(form_choiceq_item(bawe_choiceq_pool[i][0], bawe_choiceq_pool[i][1], i, source_corp="BA"))
     
     # Save the items to a file. Each Rate and Choice items are in groups of 3 and 3 respectively within one block. So 1 block has 6 questions all separated by a pagebreak.
     with open('final_corpus_survey_questions.txt', 'w') as file:
