@@ -1,0 +1,238 @@
+[[AdvancedFormat]]
+
+[[Block: Survey Set 10]]
+
+
+[[Question:DB]]
+[[ID: ReadBA13]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateBA13ratetext]]
+"Title: The Controversial Advocacy for a Smoking Ban in Public Places: An Objective Examination of its Pros and Cons Introduction The debate surrounding the prohibition of smoking in public places is a contentious issue, eliciting a myriad of reactions from different stakeholders. While some argue that it invades personal freedom, others contend that it is a necessary measure to safeguard public health. This essay will delve into the debate, weighing the arguments for and against a smoking ban in public places, before presenting a reasonable conclusion. Pros of..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateBA13]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA13whytext]]
+"Title: The Controversial Advocacy for a Smoking Ban in Public Places: An Objective Examination of its Pros and Cons Introduction The debate surrounding the prohibition of smoking in public places is a contentious issue, eliciting a myriad of reactions from different stakeholders. While some argue that it invades personal freedom, others contend that it is a necessary measure to safeguard public health. This essay will delve into the debate, weighing the arguments for and against a smoking ban in public places, before presenting a reasonable conclusion. Pros of..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA13why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA13rwtext]]
+"Title: The Controversial Advocacy for a Smoking Ban in Public Places: An Objective Examination of its Pros and Cons Introduction The debate surrounding the prohibition of smoking in public places is a contentious issue, eliciting a myriad of reactions from different stakeholders. While some argue that it invades personal freedom, others contend that it is a necessary measure to safeguard public health. This essay will delve into the debate, weighing the arguments for and against a smoking ban in public places, before presenting a reasonable conclusion. Pros of..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA13rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:DB]]
+[[ID: ReadEF14]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateEF14ratetext]]
+"This guide will be a valuable resource for people who prefer to use home remedies for minor health issues. Let's dive into it! Step 1: Research Start by thoroughly researching common household items that can be used as natural remedies. Some examples include garlic, honey, and lemon, which have various medicinal properties. Don't forget to verify the sources of your information to ensure accuracy. Step 2: Organize Next, organize your findings by categorizing the remedies based on their uses, such as relieving coughs, healing wounds, or treating colds...."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateEF14]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF14whytext]]
+"This guide will be a valuable resource for people who prefer to use home remedies for minor health issues. Let's dive into it! Step 1: Research Start by thoroughly researching common household items that can be used as natural remedies. Some examples include garlic, honey, and lemon, which have various medicinal properties. Don't forget to verify the sources of your information to ensure accuracy. Step 2: Organize Next, organize your findings by categorizing the remedies based on their uses, such as relieving coughs, healing wounds, or treating colds...."
+
+[[Question:TE:Essay]]
+[[ID: RateEF14why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF14rwtext]]
+"This guide will be a valuable resource for people who prefer to use home remedies for minor health issues. Let's dive into it! Step 1: Research Start by thoroughly researching common household items that can be used as natural remedies. Some examples include garlic, honey, and lemon, which have various medicinal properties. Don't forget to verify the sources of your information to ensure accuracy. Step 2: Organize Next, organize your findings by categorizing the remedies based on their uses, such as relieving coughs, healing wounds, or treating colds...."
+
+[[Question:TE:Essay]]
+[[ID: RateEF14rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:DB]]
+[[ID: ReadBA14]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateBA14ratetext]]
+"One such perspective is presented by Kenichi Ohmae, who argues that the nation states have been reduced to mere "bit actors" in the global economy. Although there is some truth to Ohmae's statement, it is a oversimplification of the complex relationship between the nation states and the global economy. On one hand, Ohmae's statement is supported by the growing integration and interdependence of the global economy. Multinational corporations (MNCs) have become powerful actors in the global market, transcending national borders and setting their own terms for business. The..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateBA14]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA14whytext]]
+"One such perspective is presented by Kenichi Ohmae, who argues that the nation states have been reduced to mere "bit actors" in the global economy. Although there is some truth to Ohmae's statement, it is a oversimplification of the complex relationship between the nation states and the global economy. On one hand, Ohmae's statement is supported by the growing integration and interdependence of the global economy. Multinational corporations (MNCs) have become powerful actors in the global market, transcending national borders and setting their own terms for business. The..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA14why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA14rwtext]]
+"One such perspective is presented by Kenichi Ohmae, who argues that the nation states have been reduced to mere "bit actors" in the global economy. Although there is some truth to Ohmae's statement, it is a oversimplification of the complex relationship between the nation states and the global economy. On one hand, Ohmae's statement is supported by the growing integration and interdependence of the global economy. Multinational corporations (MNCs) have become powerful actors in the global market, transcending national borders and setting their own terms for business. The..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA14rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceBA13]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "Presidential Reconstruction, the first phase of the Reconstruction period, aimed to resolve these issues by reintegrating the Southern states into the Union and enabling African Americans to rebuild their lives. However, the limitations of Presidential Reconstruction, coupled with the lack of commitment to a lasting solution for the former slaves, ultimately culminated in its failure. Body..."
+2) "'To bind up the nations wounds' and 'to do all which may achieve and cherish a just and lasting peace'. This was how Lincoln viewed the aim of reconstruction at the end of the civil war, but there were many different beliefs as to the aim of reconstruction and an equal amount of ideas of how"
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA13opt1whytext]]
+Text 1: "Presidential Reconstruction, the first phase of the Reconstruction period, aimed to resolve these issues by reintegrating the Southern states into the Union and enabling African Americans to rebuild their lives. However, the limitations of Presidential Reconstruction, coupled with the lack of commitment to a lasting solution for the former slaves, ultimately culminated in its failure. Body..."
+
+[[Question:DB]]
+[[ID: ChoiceBA13opt2whytext]]
+Text 2: "'To bind up the nations wounds' and 'to do all which may achieve and cherish a just and lasting peace'. This was how Lincoln viewed the aim of reconstruction at the end of the civil war, but there were many different beliefs as to the aim of reconstruction and an equal amount of ideas of how"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA13why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA13opt1rwtext]]
+Text 1: "Presidential Reconstruction, the first phase of the Reconstruction period, aimed to resolve these issues by reintegrating the Southern states into the Union and enabling African Americans to rebuild their lives. However, the limitations of Presidential Reconstruction, coupled with the lack of commitment to a lasting solution for the former slaves, ultimately culminated in its failure. Body..."
+
+[[Question:DB]]
+[[ID: ChoiceBA13opt2rwtext]]
+Text 2: "'To bind up the nations wounds' and 'to do all which may achieve and cherish a just and lasting peace'. This was how Lincoln viewed the aim of reconstruction at the end of the civil war, but there were many different beliefs as to the aim of reconstruction and an equal amount of ideas of how"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA13rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceEF14]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "Here is a step-by-step guide to help you through the process. First, you need to decide on the reason for renting out your room. It could be for financial reasons or to accommodate a friend or family member. Whichever the case, be clear in your mind about your intentions. Next, assess your property to determine its..."
+2) "looking for a new apartment? You are in the right place! focalized in better place of Pacific eight is all what you want and need! With pain in your neck? spend your nights sleeping in a small sofa? Here you have three beautiful and comfortable bedrooms. you never saw beautiful rooms like that, I guess. Have"
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF14opt1whytext]]
+Text 1: "Here is a step-by-step guide to help you through the process. First, you need to decide on the reason for renting out your room. It could be for financial reasons or to accommodate a friend or family member. Whichever the case, be clear in your mind about your intentions. Next, assess your property to determine its..."
+
+[[Question:DB]]
+[[ID: ChoiceEF14opt2whytext]]
+Text 2: "looking for a new apartment? You are in the right place! focalized in better place of Pacific eight is all what you want and need! With pain in your neck? spend your nights sleeping in a small sofa? Here you have three beautiful and comfortable bedrooms. you never saw beautiful rooms like that, I guess. Have"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF14why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF14opt1rwtext]]
+Text 1: "Here is a step-by-step guide to help you through the process. First, you need to decide on the reason for renting out your room. It could be for financial reasons or to accommodate a friend or family member. Whichever the case, be clear in your mind about your intentions. Next, assess your property to determine its..."
+
+[[Question:DB]]
+[[ID: ChoiceEF14opt2rwtext]]
+Text 2: "looking for a new apartment? You are in the right place! focalized in better place of Pacific eight is all what you want and need! With pain in your neck? spend your nights sleeping in a small sofa? Here you have three beautiful and comfortable bedrooms. you never saw beautiful rooms like that, I guess. Have"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF14rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceBA14]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "Rousseau put huge significance and value onto the concept of freedom, it was something he thought everyone desperately needed as a fundamental part of their humanity. Yet in his theory he demands individuals submit to the state and, more importantly to the immutable general will which acts for the benefit of all society and thus logically"
+2) "Title: An Examination of the Impact of Rousseau's Social Contract on Individual Freedom Introduction Jean-Jacques Rousseau's Social Contract is a philosophical treatise that seeks to address the problem of governance and the role of the state in society. Rousseau presents an argument that individuals willingly concede a portion of their natural freedom to establish a social..."
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA14opt1whytext]]
+Text 1: "Rousseau put huge significance and value onto the concept of freedom, it was something he thought everyone desperately needed as a fundamental part of their humanity. Yet in his theory he demands individuals submit to the state and, more importantly to the immutable general will which acts for the benefit of all society and thus logically"
+
+[[Question:DB]]
+[[ID: ChoiceBA14opt2whytext]]
+Text 2: "Title: An Examination of the Impact of Rousseau's Social Contract on Individual Freedom Introduction Jean-Jacques Rousseau's Social Contract is a philosophical treatise that seeks to address the problem of governance and the role of the state in society. Rousseau presents an argument that individuals willingly concede a portion of their natural freedom to establish a social..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA14why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA14opt1rwtext]]
+Text 1: "Rousseau put huge significance and value onto the concept of freedom, it was something he thought everyone desperately needed as a fundamental part of their humanity. Yet in his theory he demands individuals submit to the state and, more importantly to the immutable general will which acts for the benefit of all society and thus logically"
+
+[[Question:DB]]
+[[ID: ChoiceBA14opt2rwtext]]
+Text 2: "Title: An Examination of the Impact of Rousseau's Social Contract on Individual Freedom Introduction Jean-Jacques Rousseau's Social Contract is a philosophical treatise that seeks to address the problem of governance and the role of the state in society. Rousseau presents an argument that individuals willingly concede a portion of their natural freedom to establish a social..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA14rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+

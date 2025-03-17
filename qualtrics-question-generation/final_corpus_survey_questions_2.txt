@@ -1,0 +1,238 @@
+[[AdvancedFormat]]
+
+[[Block: Survey Set 2]]
+
+
+[[Question:DB]]
+[[ID: ReadBA1]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateBA1ratetext]]
+") The purpose of this analysis is to study the concept of pragmatics in a real-life context. Pragmatics is the study of how we communicate in context and the interpretation of meaning that arises from context, interaction and culture. The script I have chosen is 'The One Where Ross is Fine' from Season 10 of Friends. In this essay, I will attempt to show how Ross's words in this episode can be seen as pragmatic because they are shaped by the context of the conversation, his interaction with..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateBA1]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA1whytext]]
+") The purpose of this analysis is to study the concept of pragmatics in a real-life context. Pragmatics is the study of how we communicate in context and the interpretation of meaning that arises from context, interaction and culture. The script I have chosen is 'The One Where Ross is Fine' from Season 10 of Friends. In this essay, I will attempt to show how Ross's words in this episode can be seen as pragmatic because they are shaped by the context of the conversation, his interaction with..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA1why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA1rwtext]]
+") The purpose of this analysis is to study the concept of pragmatics in a real-life context. Pragmatics is the study of how we communicate in context and the interpretation of meaning that arises from context, interaction and culture. The script I have chosen is 'The One Where Ross is Fine' from Season 10 of Friends. In this essay, I will attempt to show how Ross's words in this episode can be seen as pragmatic because they are shaped by the context of the conversation, his interaction with..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA1rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:DB]]
+[[ID: ReadEF2]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateEF2ratetext]]
+"Please make sure to write at least 250 words. To apply for sponsorship, you will need to get an approval from your university for your study plan and the sponsorship amount requested. Here is the step-by-step procedure. Firstly, you need to make sure that your study plan is complete and correct. You must have already chosen your courses and degree programs and have a clear idea of what you want to study. You should write down your study plan in a clear and concise manner, highlighting your academic..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateEF2]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF2whytext]]
+"Please make sure to write at least 250 words. To apply for sponsorship, you will need to get an approval from your university for your study plan and the sponsorship amount requested. Here is the step-by-step procedure. Firstly, you need to make sure that your study plan is complete and correct. You must have already chosen your courses and degree programs and have a clear idea of what you want to study. You should write down your study plan in a clear and concise manner, highlighting your academic..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF2why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF2rwtext]]
+"Please make sure to write at least 250 words. To apply for sponsorship, you will need to get an approval from your university for your study plan and the sponsorship amount requested. Here is the step-by-step procedure. Firstly, you need to make sure that your study plan is complete and correct. You must have already chosen your courses and degree programs and have a clear idea of what you want to study. You should write down your study plan in a clear and concise manner, highlighting your academic..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF2rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:DB]]
+[[ID: ReadBA2]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateBA2ratetext]]
+"The Iliad and the Odyssey are the two epic poems attributed to the ancient Greek poet Homer. These works are some of the most enduring and influential pieces of literature in the Western canon. While the poems are filled with human characters and stories, the gods play a significant role in shaping the course of events and the experiences of the mortals. In this essay, we will explore the contribution of the role of the gods to the Iliad and the Odyssey, examining how they function within the..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateBA2]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA2whytext]]
+"The Iliad and the Odyssey are the two epic poems attributed to the ancient Greek poet Homer. These works are some of the most enduring and influential pieces of literature in the Western canon. While the poems are filled with human characters and stories, the gods play a significant role in shaping the course of events and the experiences of the mortals. In this essay, we will explore the contribution of the role of the gods to the Iliad and the Odyssey, examining how they function within the..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA2why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA2rwtext]]
+"The Iliad and the Odyssey are the two epic poems attributed to the ancient Greek poet Homer. These works are some of the most enduring and influential pieces of literature in the Western canon. While the poems are filled with human characters and stories, the gods play a significant role in shaping the course of events and the experiences of the mortals. In this essay, we will explore the contribution of the role of the gods to the Iliad and the Odyssey, examining how they function within the..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA2rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceBA1]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "Victorian notions of women's madness were largely influenced by the Victorian Domestic Ideology; paramount during the nineteenth century in defining gender roles, responsibilities and acceptable behaviour. This primarily concerned the middle classes, establishing ideals of womanhood and femininity that were arguably damaging both to those directly targeted as well as other groups within Victorian society striving"
+2) "Write an essay on the topic Consider how Victorian notions of women's madness affected the lives of women in class specific ways. Use a case study to illustrate your argument. The Victorian era was marked by the strict social norms and rigid class structures. The women of the time were subjected to various forms of oppression,..."
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA1opt1whytext]]
+Text 1: "Victorian notions of women's madness were largely influenced by the Victorian Domestic Ideology; paramount during the nineteenth century in defining gender roles, responsibilities and acceptable behaviour. This primarily concerned the middle classes, establishing ideals of womanhood and femininity that were arguably damaging both to those directly targeted as well as other groups within Victorian society striving"
+
+[[Question:DB]]
+[[ID: ChoiceBA1opt2whytext]]
+Text 2: "Write an essay on the topic Consider how Victorian notions of women's madness affected the lives of women in class specific ways. Use a case study to illustrate your argument. The Victorian era was marked by the strict social norms and rigid class structures. The women of the time were subjected to various forms of oppression,..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA1why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA1opt1rwtext]]
+Text 1: "Victorian notions of women's madness were largely influenced by the Victorian Domestic Ideology; paramount during the nineteenth century in defining gender roles, responsibilities and acceptable behaviour. This primarily concerned the middle classes, establishing ideals of womanhood and femininity that were arguably damaging both to those directly targeted as well as other groups within Victorian society striving"
+
+[[Question:DB]]
+[[ID: ChoiceBA1opt2rwtext]]
+Text 2: "Write an essay on the topic Consider how Victorian notions of women's madness affected the lives of women in class specific ways. Use a case study to illustrate your argument. The Victorian era was marked by the strict social norms and rigid class structures. The women of the time were subjected to various forms of oppression,..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA1rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceEF2]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "I'm a firm believer that solar energy would be beneficial to our city as our city isn't by a river or located in a windy area. Moreover, there are a lot of sunny days in central Europe which we can use to transform sun rays into energy. A major advantage is that people usually have bigger"
+2) "One way of doing this is to choose renewable energy sources. There are several options available. Three popular ones are wind, solar and hydroelectric energy. In my opinion, hydroelectric energy is more environmentally friendly than the other two options. First of all, hydroelectric power plants produce no pollution. As a result, the air and water around..."
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF2opt1whytext]]
+Text 1: "I'm a firm believer that solar energy would be beneficial to our city as our city isn't by a river or located in a windy area. Moreover, there are a lot of sunny days in central Europe which we can use to transform sun rays into energy. A major advantage is that people usually have bigger"
+
+[[Question:DB]]
+[[ID: ChoiceEF2opt2whytext]]
+Text 2: "One way of doing this is to choose renewable energy sources. There are several options available. Three popular ones are wind, solar and hydroelectric energy. In my opinion, hydroelectric energy is more environmentally friendly than the other two options. First of all, hydroelectric power plants produce no pollution. As a result, the air and water around..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF2why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF2opt1rwtext]]
+Text 1: "I'm a firm believer that solar energy would be beneficial to our city as our city isn't by a river or located in a windy area. Moreover, there are a lot of sunny days in central Europe which we can use to transform sun rays into energy. A major advantage is that people usually have bigger"
+
+[[Question:DB]]
+[[ID: ChoiceEF2opt2rwtext]]
+Text 2: "One way of doing this is to choose renewable energy sources. There are several options available. Three popular ones are wind, solar and hydroelectric energy. In my opinion, hydroelectric energy is more environmentally friendly than the other two options. First of all, hydroelectric power plants produce no pollution. As a result, the air and water around..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF2rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceBA2]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "It has long been recognised that emotions exert powerful effects on memory, and that what we feel can strongly influence what we remember. The types of effects that emotion can have on memory differ markedly, depending on the precise conditions of encoding and retrieval (Eich, Kihlstrom, Bower, Forgas & Miedenthal, 2000). Differences in emphasis during encoding,"
+2) "Humans have the ability to recollect past experiences, events, and encounters, which is known as memory. It is a complex and multifaceted phenomenon that plays a significant role in shaping an individual's understanding of the world. While memories can be influenced by various factors such as sensory information, attention, and emotions, it is essential to acknowledge..."
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA2opt1whytext]]
+Text 1: "It has long been recognised that emotions exert powerful effects on memory, and that what we feel can strongly influence what we remember. The types of effects that emotion can have on memory differ markedly, depending on the precise conditions of encoding and retrieval (Eich, Kihlstrom, Bower, Forgas & Miedenthal, 2000). Differences in emphasis during encoding,"
+
+[[Question:DB]]
+[[ID: ChoiceBA2opt2whytext]]
+Text 2: "Humans have the ability to recollect past experiences, events, and encounters, which is known as memory. It is a complex and multifaceted phenomenon that plays a significant role in shaping an individual's understanding of the world. While memories can be influenced by various factors such as sensory information, attention, and emotions, it is essential to acknowledge..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA2why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA2opt1rwtext]]
+Text 1: "It has long been recognised that emotions exert powerful effects on memory, and that what we feel can strongly influence what we remember. The types of effects that emotion can have on memory differ markedly, depending on the precise conditions of encoding and retrieval (Eich, Kihlstrom, Bower, Forgas & Miedenthal, 2000). Differences in emphasis during encoding,"
+
+[[Question:DB]]
+[[ID: ChoiceBA2opt2rwtext]]
+Text 2: "Humans have the ability to recollect past experiences, events, and encounters, which is known as memory. It is a complex and multifaceted phenomenon that plays a significant role in shaping an individual's understanding of the world. While memories can be influenced by various factors such as sensory information, attention, and emotions, it is essential to acknowledge..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA2rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+

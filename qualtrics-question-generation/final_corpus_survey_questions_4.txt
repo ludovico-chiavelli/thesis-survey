@@ -1,0 +1,238 @@
+[[AdvancedFormat]]
+
+[[Block: Survey Set 4]]
+
+
+[[Question:DB]]
+[[ID: ReadBA4]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateBA4ratetext]]
+"People's lives are constructed by their beliefs and the assumptions that come with them. As a student, at the beginning of my course, I believed that social reality is created by society through a combination of collective beliefs and actions. However, after completing the course and engaging with various texts and debates, I have developed a different perspective. I now believe that social reality is constructed by individuals, and their individual actions and interactions. This is because our experiences, understanding, and perception of reality are all subjective. It..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateBA4]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA4whytext]]
+"People's lives are constructed by their beliefs and the assumptions that come with them. As a student, at the beginning of my course, I believed that social reality is created by society through a combination of collective beliefs and actions. However, after completing the course and engaging with various texts and debates, I have developed a different perspective. I now believe that social reality is constructed by individuals, and their individual actions and interactions. This is because our experiences, understanding, and perception of reality are all subjective. It..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA4why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA4rwtext]]
+"People's lives are constructed by their beliefs and the assumptions that come with them. As a student, at the beginning of my course, I believed that social reality is created by society through a combination of collective beliefs and actions. However, after completing the course and engaging with various texts and debates, I have developed a different perspective. I now believe that social reality is constructed by individuals, and their individual actions and interactions. This is because our experiences, understanding, and perception of reality are all subjective. It..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA4rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:DB]]
+[[ID: ReadEF5]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateEF5ratetext]]
+"You want it to be attractive and informative for your visitors. To start, it is important to know who are the visitors. You need to know what they are interested in and what they want to learn about. Are they students? Children? Tourists? The purpose of the brochure is to encourage them to visit the museum, so you need to make it interesting for them. You also need to know the museum's collection. What kind of art or artifacts are there? What are the main themes and periods..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateEF5]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF5whytext]]
+"You want it to be attractive and informative for your visitors. To start, it is important to know who are the visitors. You need to know what they are interested in and what they want to learn about. Are they students? Children? Tourists? The purpose of the brochure is to encourage them to visit the museum, so you need to make it interesting for them. You also need to know the museum's collection. What kind of art or artifacts are there? What are the main themes and periods..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF5why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF5rwtext]]
+"You want it to be attractive and informative for your visitors. To start, it is important to know who are the visitors. You need to know what they are interested in and what they want to learn about. Are they students? Children? Tourists? The purpose of the brochure is to encourage them to visit the museum, so you need to make it interesting for them. You also need to know the museum's collection. What kind of art or artifacts are there? What are the main themes and periods..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF5rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:DB]]
+[[ID: ReadBA5]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateBA5ratetext]]
+"In George Orwell's classic dystopian novel 1984, the totalitarian regime exercises control over language as a means of exerting power over the population. As the protagonist Winston Smith observes, 'The English language was coming under a deadly attack. In its place [the regime] was fostering a debased form of Russian, a kind of pidgin English, easy to learn and not very expressive' (Orwell, 1949, p. 22). Orwell illustrates that language is not merely a reflection of relationships of power, but rather a tool used by those in power..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateBA5]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA5whytext]]
+"In George Orwell's classic dystopian novel 1984, the totalitarian regime exercises control over language as a means of exerting power over the population. As the protagonist Winston Smith observes, 'The English language was coming under a deadly attack. In its place [the regime] was fostering a debased form of Russian, a kind of pidgin English, easy to learn and not very expressive' (Orwell, 1949, p. 22). Orwell illustrates that language is not merely a reflection of relationships of power, but rather a tool used by those in power..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA5why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA5rwtext]]
+"In George Orwell's classic dystopian novel 1984, the totalitarian regime exercises control over language as a means of exerting power over the population. As the protagonist Winston Smith observes, 'The English language was coming under a deadly attack. In its place [the regime] was fostering a debased form of Russian, a kind of pidgin English, easy to learn and not very expressive' (Orwell, 1949, p. 22). Orwell illustrates that language is not merely a reflection of relationships of power, but rather a tool used by those in power..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA5rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceBA4]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "The proliferation of financial crises since the 1970s has raised concerns about the stability of the global economy. The International Monetary Fund (IMF) has been criticized for its role in these crises, with some arguing that it has exacerbated the problem. In this essay, we will examine the causes of financial crises and the role of..."
+2) "Since the 1970s, financial crises have undoubtedly increased in frequency. Apart from the incredibly unstable interwar period, the period since then has seen an unprecedented amount of crises. Financial liberalization has been widely blamed for the crises of recent times by popular commentators, but as will be shown, this is by no means the only factor."
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA4opt1whytext]]
+Text 1: "The proliferation of financial crises since the 1970s has raised concerns about the stability of the global economy. The International Monetary Fund (IMF) has been criticized for its role in these crises, with some arguing that it has exacerbated the problem. In this essay, we will examine the causes of financial crises and the role of..."
+
+[[Question:DB]]
+[[ID: ChoiceBA4opt2whytext]]
+Text 2: "Since the 1970s, financial crises have undoubtedly increased in frequency. Apart from the incredibly unstable interwar period, the period since then has seen an unprecedented amount of crises. Financial liberalization has been widely blamed for the crises of recent times by popular commentators, but as will be shown, this is by no means the only factor."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA4why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA4opt1rwtext]]
+Text 1: "The proliferation of financial crises since the 1970s has raised concerns about the stability of the global economy. The International Monetary Fund (IMF) has been criticized for its role in these crises, with some arguing that it has exacerbated the problem. In this essay, we will examine the causes of financial crises and the role of..."
+
+[[Question:DB]]
+[[ID: ChoiceBA4opt2rwtext]]
+Text 2: "Since the 1970s, financial crises have undoubtedly increased in frequency. Apart from the incredibly unstable interwar period, the period since then has seen an unprecedented amount of crises. Financial liberalization has been widely blamed for the crises of recent times by popular commentators, but as will be shown, this is by no means the only factor."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA4rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceEF5]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "Examples of renewable energy sources include solar power, wind power, hydro power, and geothermal energy. In this essay, I think we should choose solar power as our main source of energy because it is clean, abundant and cost-effective. First, solar power is clean. It does not produce pollution like fossil fuels and causes damage to the..."
+2) "I'm a firm supporter of the idea that construction of a new building shouldn't begin without considering its environmental impact and the income it could give. In my opinion, my town could benefit from three different sources of renewable energy: solar power, wind power, and biomass recycling. solar energy has always been considered as a good,"
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF5opt1whytext]]
+Text 1: "Examples of renewable energy sources include solar power, wind power, hydro power, and geothermal energy. In this essay, I think we should choose solar power as our main source of energy because it is clean, abundant and cost-effective. First, solar power is clean. It does not produce pollution like fossil fuels and causes damage to the..."
+
+[[Question:DB]]
+[[ID: ChoiceEF5opt2whytext]]
+Text 2: "I'm a firm supporter of the idea that construction of a new building shouldn't begin without considering its environmental impact and the income it could give. In my opinion, my town could benefit from three different sources of renewable energy: solar power, wind power, and biomass recycling. solar energy has always been considered as a good,"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF5why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF5opt1rwtext]]
+Text 1: "Examples of renewable energy sources include solar power, wind power, hydro power, and geothermal energy. In this essay, I think we should choose solar power as our main source of energy because it is clean, abundant and cost-effective. First, solar power is clean. It does not produce pollution like fossil fuels and causes damage to the..."
+
+[[Question:DB]]
+[[ID: ChoiceEF5opt2rwtext]]
+Text 2: "I'm a firm supporter of the idea that construction of a new building shouldn't begin without considering its environmental impact and the income it could give. In my opinion, my town could benefit from three different sources of renewable energy: solar power, wind power, and biomass recycling. solar energy has always been considered as a good,"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF5rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceBA5]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "The development of feminist thought and action in Japan is distinct from that of its emergence in the West, more specifically within the United States and Britain. Though influenced by Western politics, the development of feminism in Japan was also initiated by numerous other social and political factors that affected the political climate at that specific"
+2) "In this essay, we will outline the key events and developments that led to the emergence and evolution of feminism in Japan. In the Meiji period (1868-1912), Japan underwent a period of rapid modernization, driven by the government's desire to establish a modern, Western-style state. This modernization process brought about significant changes in the roles and..."
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA5opt1whytext]]
+Text 1: "The development of feminist thought and action in Japan is distinct from that of its emergence in the West, more specifically within the United States and Britain. Though influenced by Western politics, the development of feminism in Japan was also initiated by numerous other social and political factors that affected the political climate at that specific"
+
+[[Question:DB]]
+[[ID: ChoiceBA5opt2whytext]]
+Text 2: "In this essay, we will outline the key events and developments that led to the emergence and evolution of feminism in Japan. In the Meiji period (1868-1912), Japan underwent a period of rapid modernization, driven by the government's desire to establish a modern, Western-style state. This modernization process brought about significant changes in the roles and..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA5why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA5opt1rwtext]]
+Text 1: "The development of feminist thought and action in Japan is distinct from that of its emergence in the West, more specifically within the United States and Britain. Though influenced by Western politics, the development of feminism in Japan was also initiated by numerous other social and political factors that affected the political climate at that specific"
+
+[[Question:DB]]
+[[ID: ChoiceBA5opt2rwtext]]
+Text 2: "In this essay, we will outline the key events and developments that led to the emergence and evolution of feminism in Japan. In the Meiji period (1868-1912), Japan underwent a period of rapid modernization, driven by the government's desire to establish a modern, Western-style state. This modernization process brought about significant changes in the roles and..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA5rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+

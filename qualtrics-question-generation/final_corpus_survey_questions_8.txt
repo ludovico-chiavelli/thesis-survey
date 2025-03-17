@@ -1,0 +1,238 @@
+[[AdvancedFormat]]
+
+[[Block: Survey Set 8]]
+
+
+[[Question:DB]]
+[[ID: ReadBA10]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateBA10ratetext]]
+"D. Ross's deontological ethics, arguing that particularism presents a more plausible alternative. While Ross advocates for a universal moral framework encompassing distinct prima facie duties, Dancy contends that these general duties are insufficient in capturing the complexity of real-world moral dilemmas. He proposes particularism, a view emphasizing the importance of context and specific situations in ethical decision-making, as a more nuanced and truthful reflection of moral reality. Dancy's primary criticism of Ross's deontology stems from the inherent tension between universal duties and their practical applications. Ross outlines several..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateBA10]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA10whytext]]
+"D. Ross's deontological ethics, arguing that particularism presents a more plausible alternative. While Ross advocates for a universal moral framework encompassing distinct prima facie duties, Dancy contends that these general duties are insufficient in capturing the complexity of real-world moral dilemmas. He proposes particularism, a view emphasizing the importance of context and specific situations in ethical decision-making, as a more nuanced and truthful reflection of moral reality. Dancy's primary criticism of Ross's deontology stems from the inherent tension between universal duties and their practical applications. Ross outlines several..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA10why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA10rwtext]]
+"D. Ross's deontological ethics, arguing that particularism presents a more plausible alternative. While Ross advocates for a universal moral framework encompassing distinct prima facie duties, Dancy contends that these general duties are insufficient in capturing the complexity of real-world moral dilemmas. He proposes particularism, a view emphasizing the importance of context and specific situations in ethical decision-making, as a more nuanced and truthful reflection of moral reality. Dancy's primary criticism of Ross's deontology stems from the inherent tension between universal duties and their practical applications. Ross outlines several..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA10rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:DB]]
+[[ID: ReadEF11]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateEF11ratetext]]
+"But what happens when one party fails to uphold their end of the bargain? This is known as a breach of contract, and it can leave you feeling frustrated and unsure of what to do next. As a B1 English learner, navigating this situation can be daunting, but understanding your rights and options is crucial. First, carefully review the contract itself. Look for specific clauses outlining the consequences of a breach and the remedies available to the injured party. This may include financial compensation, performance of the contracted..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateEF11]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF11whytext]]
+"But what happens when one party fails to uphold their end of the bargain? This is known as a breach of contract, and it can leave you feeling frustrated and unsure of what to do next. As a B1 English learner, navigating this situation can be daunting, but understanding your rights and options is crucial. First, carefully review the contract itself. Look for specific clauses outlining the consequences of a breach and the remedies available to the injured party. This may include financial compensation, performance of the contracted..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF11why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF11rwtext]]
+"But what happens when one party fails to uphold their end of the bargain? This is known as a breach of contract, and it can leave you feeling frustrated and unsure of what to do next. As a B1 English learner, navigating this situation can be daunting, but understanding your rights and options is crucial. First, carefully review the contract itself. Look for specific clauses outlining the consequences of a breach and the remedies available to the injured party. This may include financial compensation, performance of the contracted..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF11rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:DB]]
+[[ID: ReadBA11]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateBA11ratetext]]
+"## The Fumbled Bridge: Examining the Failure of the CMS Wellington Valley Mission The fate of the Church Missionary Society's (CMS) Wellington Valley Mission between 1822 and 1833 serves as a poignant reminder of the complexities of cultural translation and the limitations of imposing foreign solutions in a new context. While the mission's objective, the evangelization and education ofIndigenous Australians, was undeniably noble, its execution was ultimately marred by a confluence of factors, leading to a dismal failure. One primary contributor to this failure was an inherent lack..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateBA11]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA11whytext]]
+"## The Fumbled Bridge: Examining the Failure of the CMS Wellington Valley Mission The fate of the Church Missionary Society's (CMS) Wellington Valley Mission between 1822 and 1833 serves as a poignant reminder of the complexities of cultural translation and the limitations of imposing foreign solutions in a new context. While the mission's objective, the evangelization and education ofIndigenous Australians, was undeniably noble, its execution was ultimately marred by a confluence of factors, leading to a dismal failure. One primary contributor to this failure was an inherent lack..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA11why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA11rwtext]]
+"## The Fumbled Bridge: Examining the Failure of the CMS Wellington Valley Mission The fate of the Church Missionary Society's (CMS) Wellington Valley Mission between 1822 and 1833 serves as a poignant reminder of the complexities of cultural translation and the limitations of imposing foreign solutions in a new context. While the mission's objective, the evangelization and education ofIndigenous Australians, was undeniably noble, its execution was ultimately marred by a confluence of factors, leading to a dismal failure. One primary contributor to this failure was an inherent lack..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA11rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceBA10]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "His seminal work, The Anarchical Society, challenged traditional notions of the international system as inherently chaotic and conflictual. Instead, Bull argued that international society, despite the absence of a central authority, had evolved its own distinctive norms, principles, and institutions that fostered stability and cooperation among states. This essay will explore Bull's key contributions to the..."
+2) "AbstractHedley Bull's state-centric theory of international politics offers an insight into how change can occur in international relations. The tension between order and justice represented in his work marks a sophisticated interpretation of one of the perennial conundrums that belies international politics. Bull conceived of order as the best way to ensure basic justice, that is"
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA10opt1whytext]]
+Text 1: "His seminal work, The Anarchical Society, challenged traditional notions of the international system as inherently chaotic and conflictual. Instead, Bull argued that international society, despite the absence of a central authority, had evolved its own distinctive norms, principles, and institutions that fostered stability and cooperation among states. This essay will explore Bull's key contributions to the..."
+
+[[Question:DB]]
+[[ID: ChoiceBA10opt2whytext]]
+Text 2: "AbstractHedley Bull's state-centric theory of international politics offers an insight into how change can occur in international relations. The tension between order and justice represented in his work marks a sophisticated interpretation of one of the perennial conundrums that belies international politics. Bull conceived of order as the best way to ensure basic justice, that is"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA10why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA10opt1rwtext]]
+Text 1: "His seminal work, The Anarchical Society, challenged traditional notions of the international system as inherently chaotic and conflictual. Instead, Bull argued that international society, despite the absence of a central authority, had evolved its own distinctive norms, principles, and institutions that fostered stability and cooperation among states. This essay will explore Bull's key contributions to the..."
+
+[[Question:DB]]
+[[ID: ChoiceBA10opt2rwtext]]
+Text 2: "AbstractHedley Bull's state-centric theory of international politics offers an insight into how change can occur in international relations. The tension between order and justice represented in his work marks a sophisticated interpretation of one of the perennial conundrums that belies international politics. Bull conceived of order as the best way to ensure basic justice, that is"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA10rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceEF11]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "We decided to go on a hike to a remote peak, but we got caught in a sudden thunderstorm. As the rain started to fall, the weather changed dramatically. The sky turned dark grey, the wind picked up, and the temperature dropped sharply. Thick clouds rolled in, obscuring the path ahead. We were scared because we..."
+2) "vandalism in the local newsagents! yesterday, a young woman leaved from a Coffee not with a coffee in one hand and her laptop and in the other, her handbag over the shoulder when she heard a big noise on the corner. She saw a young couple outside their car - left engining turning and stereo playing"
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF11opt1whytext]]
+Text 1: "We decided to go on a hike to a remote peak, but we got caught in a sudden thunderstorm. As the rain started to fall, the weather changed dramatically. The sky turned dark grey, the wind picked up, and the temperature dropped sharply. Thick clouds rolled in, obscuring the path ahead. We were scared because we..."
+
+[[Question:DB]]
+[[ID: ChoiceEF11opt2whytext]]
+Text 2: "vandalism in the local newsagents! yesterday, a young woman leaved from a Coffee not with a coffee in one hand and her laptop and in the other, her handbag over the shoulder when she heard a big noise on the corner. She saw a young couple outside their car - left engining turning and stereo playing"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF11why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF11opt1rwtext]]
+Text 1: "We decided to go on a hike to a remote peak, but we got caught in a sudden thunderstorm. As the rain started to fall, the weather changed dramatically. The sky turned dark grey, the wind picked up, and the temperature dropped sharply. Thick clouds rolled in, obscuring the path ahead. We were scared because we..."
+
+[[Question:DB]]
+[[ID: ChoiceEF11opt2rwtext]]
+Text 2: "vandalism in the local newsagents! yesterday, a young woman leaved from a Coffee not with a coffee in one hand and her laptop and in the other, her handbag over the shoulder when she heard a big noise on the corner. She saw a young couple outside their car - left engining turning and stereo playing"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF11rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceBA11]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "Deposition of artefacts (often valuable metalwork), or hoarding as it is more commonly known, within the landscape is a well known and studied aspect of prehistoric behaviour and culture. Deposits are found in many varied locales and are disposed of in different manners; they consist of myriad artefact typologies as well as cover a wide range"
+2) "A central question in this narrative is understanding the deposition of metallurgical remains - the deliberate or incidental accumulation of metal objects, slag, and waste - both in wet and dry contexts. Through careful analysis and interpretation of these deposits, archaeologists have pieced together a compelling picture of European metallurgy's evolution. Wet contexts, characterized by waterlogged..."
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA11opt1whytext]]
+Text 1: "Deposition of artefacts (often valuable metalwork), or hoarding as it is more commonly known, within the landscape is a well known and studied aspect of prehistoric behaviour and culture. Deposits are found in many varied locales and are disposed of in different manners; they consist of myriad artefact typologies as well as cover a wide range"
+
+[[Question:DB]]
+[[ID: ChoiceBA11opt2whytext]]
+Text 2: "A central question in this narrative is understanding the deposition of metallurgical remains - the deliberate or incidental accumulation of metal objects, slag, and waste - both in wet and dry contexts. Through careful analysis and interpretation of these deposits, archaeologists have pieced together a compelling picture of European metallurgy's evolution. Wet contexts, characterized by waterlogged..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA11why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA11opt1rwtext]]
+Text 1: "Deposition of artefacts (often valuable metalwork), or hoarding as it is more commonly known, within the landscape is a well known and studied aspect of prehistoric behaviour and culture. Deposits are found in many varied locales and are disposed of in different manners; they consist of myriad artefact typologies as well as cover a wide range"
+
+[[Question:DB]]
+[[ID: ChoiceBA11opt2rwtext]]
+Text 2: "A central question in this narrative is understanding the deposition of metallurgical remains - the deliberate or incidental accumulation of metal objects, slag, and waste - both in wet and dry contexts. Through careful analysis and interpretation of these deposits, archaeologists have pieced together a compelling picture of European metallurgy's evolution. Wet contexts, characterized by waterlogged..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA11rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+

@@ -1,0 +1,238 @@
+[[AdvancedFormat]]
+
+[[Block: Survey Set 6]]
+
+
+[[Question:DB]]
+[[ID: ReadBA7]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateBA7ratetext]]
+"The show's success lies not only in its witty dialogue but also in the subtle nuances of communication conveyed through pragmatic analysis. This essay will delve into a specific script from "Friends," examining how the characters’ pragmatic choices contribute to the humor, conflict, and overall meaning of the scene. The chosen script focuses on the episode "The One Where Ross Finds Out" (Season 5). In this scene, Ross has suspicions about Rachel dating Mark, his annoying coworker. Rachel, unaware of Ross's knowledge, playfully describes Mark as "a pretty..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateBA7]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA7whytext]]
+"The show's success lies not only in its witty dialogue but also in the subtle nuances of communication conveyed through pragmatic analysis. This essay will delve into a specific script from "Friends," examining how the characters’ pragmatic choices contribute to the humor, conflict, and overall meaning of the scene. The chosen script focuses on the episode "The One Where Ross Finds Out" (Season 5). In this scene, Ross has suspicions about Rachel dating Mark, his annoying coworker. Rachel, unaware of Ross's knowledge, playfully describes Mark as "a pretty..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA7why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA7rwtext]]
+"The show's success lies not only in its witty dialogue but also in the subtle nuances of communication conveyed through pragmatic analysis. This essay will delve into a specific script from "Friends," examining how the characters’ pragmatic choices contribute to the humor, conflict, and overall meaning of the scene. The chosen script focuses on the episode "The One Where Ross Finds Out" (Season 5). In this scene, Ross has suspicions about Rachel dating Mark, his annoying coworker. Rachel, unaware of Ross's knowledge, playfully describes Mark as "a pretty..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA7rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:DB]]
+[[ID: ReadEF8]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateEF8ratetext]]
+"It's about providing constructive criticism in a way that is helpful, respectful, and focused on improvement. First, remember to be specific. Instead of saying "Your presentation was good," try saying "I really liked how you used visual aids to illustrate your points. It made the information easier to understand." Next, be timely. Feedback is most effective when it's given soon after the event or task. This helps the colleague remember the situation and makes the feedback more relevant. Finally, focus on the behaviour, not the person. Avoid making..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateEF8]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF8whytext]]
+"It's about providing constructive criticism in a way that is helpful, respectful, and focused on improvement. First, remember to be specific. Instead of saying "Your presentation was good," try saying "I really liked how you used visual aids to illustrate your points. It made the information easier to understand." Next, be timely. Feedback is most effective when it's given soon after the event or task. This helps the colleague remember the situation and makes the feedback more relevant. Finally, focus on the behaviour, not the person. Avoid making..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF8why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF8rwtext]]
+"It's about providing constructive criticism in a way that is helpful, respectful, and focused on improvement. First, remember to be specific. Instead of saying "Your presentation was good," try saying "I really liked how you used visual aids to illustrate your points. It made the information easier to understand." Next, be timely. Feedback is most effective when it's given soon after the event or task. This helps the colleague remember the situation and makes the feedback more relevant. Finally, focus on the behaviour, not the person. Avoid making..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF8rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:DB]]
+[[ID: ReadBA8]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateBA8ratetext]]
+"It shivers with a sense of the transgressive, a yearning for the forbidden. Yet, asking whether The Gothic is *always* subversive requires careful consideration. While the genre often challenges societal norms and power structures, it can also reinforce them, blurring the line between rebellion and complicity. Certainly, Gothic literature has a long history of offering critique. Horace Walpole's *The Castle of Otranto*, considered the first Gothic novel, presents a crumbling aristocracy under threat from a mysterious force, mirroring anxieties about societal upheaval in 18th-century England. Mary Shelley’s *Frankenstein*..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateBA8]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA8whytext]]
+"It shivers with a sense of the transgressive, a yearning for the forbidden. Yet, asking whether The Gothic is *always* subversive requires careful consideration. While the genre often challenges societal norms and power structures, it can also reinforce them, blurring the line between rebellion and complicity. Certainly, Gothic literature has a long history of offering critique. Horace Walpole's *The Castle of Otranto*, considered the first Gothic novel, presents a crumbling aristocracy under threat from a mysterious force, mirroring anxieties about societal upheaval in 18th-century England. Mary Shelley’s *Frankenstein*..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA8why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA8rwtext]]
+"It shivers with a sense of the transgressive, a yearning for the forbidden. Yet, asking whether The Gothic is *always* subversive requires careful consideration. While the genre often challenges societal norms and power structures, it can also reinforce them, blurring the line between rebellion and complicity. Certainly, Gothic literature has a long history of offering critique. Horace Walpole's *The Castle of Otranto*, considered the first Gothic novel, presents a crumbling aristocracy under threat from a mysterious force, mirroring anxieties about societal upheaval in 18th-century England. Mary Shelley’s *Frankenstein*..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA8rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceBA7]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "Yet, upon closer examination, the practice of gift-giving transcends its material value, acting as a complex social phenomenon that reveals much about the broader social organization of participating cultures. Analysing attitudes towards gifts and exchanges exposes underlying power dynamics, social hierarchies, obligations, and even notions of reciprocity. One striking example is the practice of **presentism** found..."
+2) "Gifts and exchange are integral to everyday life, for special occasions such as birthdays, doing well at a particular sport and religious festivities such as Christmas, baptism, confirmation and many more. Even on a day-to-day scale exchanges are taking place all the time in the form of telephone calls, letters, dances, dinner parties and just conversations"
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA7opt1whytext]]
+Text 1: "Yet, upon closer examination, the practice of gift-giving transcends its material value, acting as a complex social phenomenon that reveals much about the broader social organization of participating cultures. Analysing attitudes towards gifts and exchanges exposes underlying power dynamics, social hierarchies, obligations, and even notions of reciprocity. One striking example is the practice of **presentism** found..."
+
+[[Question:DB]]
+[[ID: ChoiceBA7opt2whytext]]
+Text 2: "Gifts and exchange are integral to everyday life, for special occasions such as birthdays, doing well at a particular sport and religious festivities such as Christmas, baptism, confirmation and many more. Even on a day-to-day scale exchanges are taking place all the time in the form of telephone calls, letters, dances, dinner parties and just conversations"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA7why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA7opt1rwtext]]
+Text 1: "Yet, upon closer examination, the practice of gift-giving transcends its material value, acting as a complex social phenomenon that reveals much about the broader social organization of participating cultures. Analysing attitudes towards gifts and exchanges exposes underlying power dynamics, social hierarchies, obligations, and even notions of reciprocity. One striking example is the practice of **presentism** found..."
+
+[[Question:DB]]
+[[ID: ChoiceBA7opt2rwtext]]
+Text 2: "Gifts and exchange are integral to everyday life, for special occasions such as birthdays, doing well at a particular sport and religious festivities such as Christmas, baptism, confirmation and many more. Even on a day-to-day scale exchanges are taking place all the time in the form of telephone calls, letters, dances, dinner parties and just conversations"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA7rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceEF8]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "My friends and I decided to hike to a scenic viewpoint, but the weather turned quickly. The sun disappeared, and the wind howled through the trees, sending shivers down my spine. It started to rain heavily, and soon the path became muddy and slippery. As we climbed, the visibility decreased, and we lost our way. Fear..."
+2) "When Meg came out from the coffee shop, she saw a young couple get out of a car. She was surprised when they suddenly began vandalizing the local newsagent. She decided to go over to them to see if she could get them to stop. suddenly the young woman came at her waving a gun. The"
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF8opt1whytext]]
+Text 1: "My friends and I decided to hike to a scenic viewpoint, but the weather turned quickly. The sun disappeared, and the wind howled through the trees, sending shivers down my spine. It started to rain heavily, and soon the path became muddy and slippery. As we climbed, the visibility decreased, and we lost our way. Fear..."
+
+[[Question:DB]]
+[[ID: ChoiceEF8opt2whytext]]
+Text 2: "When Meg came out from the coffee shop, she saw a young couple get out of a car. She was surprised when they suddenly began vandalizing the local newsagent. She decided to go over to them to see if she could get them to stop. suddenly the young woman came at her waving a gun. The"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF8why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF8opt1rwtext]]
+Text 1: "My friends and I decided to hike to a scenic viewpoint, but the weather turned quickly. The sun disappeared, and the wind howled through the trees, sending shivers down my spine. It started to rain heavily, and soon the path became muddy and slippery. As we climbed, the visibility decreased, and we lost our way. Fear..."
+
+[[Question:DB]]
+[[ID: ChoiceEF8opt2rwtext]]
+Text 2: "When Meg came out from the coffee shop, she saw a young couple get out of a car. She was surprised when they suddenly began vandalizing the local newsagent. She decided to go over to them to see if she could get them to stop. suddenly the young woman came at her waving a gun. The"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF8rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceBA8]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "While their initial goal was to strengthen royal control and increase revenue, these reforms unwittingly sowed the seeds of discontent and fostered a sense of shared identity among the colonies, setting the stage for future independence movements. Initially, the Bourbon reforms aimed to address the declining power of Spain and the waning grip on its vast..."
+2) "The change of dynasty in Spain at the turn of the 18 th century from Habsburg to Bourbon became a significant milestone for the future of Spanish America. Philip of Anjou, the grandson of Louis XIV of France in 1713, succeeded Charles II, the last of the Habsburg line. Spain's weak economical and military situation, the"
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA8opt1whytext]]
+Text 1: "While their initial goal was to strengthen royal control and increase revenue, these reforms unwittingly sowed the seeds of discontent and fostered a sense of shared identity among the colonies, setting the stage for future independence movements. Initially, the Bourbon reforms aimed to address the declining power of Spain and the waning grip on its vast..."
+
+[[Question:DB]]
+[[ID: ChoiceBA8opt2whytext]]
+Text 2: "The change of dynasty in Spain at the turn of the 18 th century from Habsburg to Bourbon became a significant milestone for the future of Spanish America. Philip of Anjou, the grandson of Louis XIV of France in 1713, succeeded Charles II, the last of the Habsburg line. Spain's weak economical and military situation, the"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA8why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA8opt1rwtext]]
+Text 1: "While their initial goal was to strengthen royal control and increase revenue, these reforms unwittingly sowed the seeds of discontent and fostered a sense of shared identity among the colonies, setting the stage for future independence movements. Initially, the Bourbon reforms aimed to address the declining power of Spain and the waning grip on its vast..."
+
+[[Question:DB]]
+[[ID: ChoiceBA8opt2rwtext]]
+Text 2: "The change of dynasty in Spain at the turn of the 18 th century from Habsburg to Bourbon became a significant milestone for the future of Spanish America. Philip of Anjou, the grandson of Louis XIV of France in 1713, succeeded Charles II, the last of the Habsburg line. Spain's weak economical and military situation, the"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA8rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+

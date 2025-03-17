@@ -1,0 +1,238 @@
+[[AdvancedFormat]]
+
+[[Block: Survey Set 3]]
+
+
+[[Question:DB]]
+[[ID: ReadEF3]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateEF3ratetext]]
+"A contract is a legally binding agreement between two or more people. Breach of contract occurs when a person or company fails to do what was agreed in the contract. This can be a serious matter. If one party doesn't keep their promises, the other party can take legal action. This may involve going to court. It is often a lengthy and expensive process. To prevent breaches of contract, both parties should carefully read the contract before signing. They should also be sure that they understand what they..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateEF3]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF3whytext]]
+"A contract is a legally binding agreement between two or more people. Breach of contract occurs when a person or company fails to do what was agreed in the contract. This can be a serious matter. If one party doesn't keep their promises, the other party can take legal action. This may involve going to court. It is often a lengthy and expensive process. To prevent breaches of contract, both parties should carefully read the contract before signing. They should also be sure that they understand what they..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF3why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF3rwtext]]
+"A contract is a legally binding agreement between two or more people. Breach of contract occurs when a person or company fails to do what was agreed in the contract. This can be a serious matter. If one party doesn't keep their promises, the other party can take legal action. This may involve going to court. It is often a lengthy and expensive process. To prevent breaches of contract, both parties should carefully read the contract before signing. They should also be sure that they understand what they..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF3rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:DB]]
+[[ID: ReadBA3]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateBA3ratetext]]
+"Lenore Walker. The term was used to describe the psychological symptoms exhibited by women who have been subjected to prolonged physical and emotional abuse by their partners. The 'battered woman syndrome' refers to a pattern of behavioral and psychological characteristics exhibited by victims of domestic violence. It includes feelings of isolation, self-blame, and powerlessness. These symptoms can lead to extreme physical and emotional abuse, which can eventually lead to a state of self-defense where the woman may feel compelled to use violence to protect herself. Historically, the concept..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateBA3]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA3whytext]]
+"Lenore Walker. The term was used to describe the psychological symptoms exhibited by women who have been subjected to prolonged physical and emotional abuse by their partners. The 'battered woman syndrome' refers to a pattern of behavioral and psychological characteristics exhibited by victims of domestic violence. It includes feelings of isolation, self-blame, and powerlessness. These symptoms can lead to extreme physical and emotional abuse, which can eventually lead to a state of self-defense where the woman may feel compelled to use violence to protect herself. Historically, the concept..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA3why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA3rwtext]]
+"Lenore Walker. The term was used to describe the psychological symptoms exhibited by women who have been subjected to prolonged physical and emotional abuse by their partners. The 'battered woman syndrome' refers to a pattern of behavioral and psychological characteristics exhibited by victims of domestic violence. It includes feelings of isolation, self-blame, and powerlessness. These symptoms can lead to extreme physical and emotional abuse, which can eventually lead to a state of self-defense where the woman may feel compelled to use violence to protect herself. Historically, the concept..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA3rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:DB]]
+[[ID: ReadEF4]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateEF4ratetext]]
+"But do you know that you can rent out your room as well? You can earn a bit of extra cash by renting out your room. But it is important that you follow some rules. First, check your local laws. Because in some countries, there are specific laws and regulations that you must follow when renting out a room. You should also decide if you want to rent out your room to a friend, a family member, or a stranger. This is a personal decision and you have..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateEF4]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF4whytext]]
+"But do you know that you can rent out your room as well? You can earn a bit of extra cash by renting out your room. But it is important that you follow some rules. First, check your local laws. Because in some countries, there are specific laws and regulations that you must follow when renting out a room. You should also decide if you want to rent out your room to a friend, a family member, or a stranger. This is a personal decision and you have..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF4why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF4rwtext]]
+"But do you know that you can rent out your room as well? You can earn a bit of extra cash by renting out your room. But it is important that you follow some rules. First, check your local laws. Because in some countries, there are specific laws and regulations that you must follow when renting out a room. You should also decide if you want to rent out your room to a friend, a family member, or a stranger. This is a personal decision and you have..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF4rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceEF3]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "Hi, my name is Marcelo Ziliotto. I was born in Porto Alegre, Rio grande do Sun, Brazil. I still live here, because I love too much where I born. Now, I'm living with my wife. Our second child will born in the next january, and we know that will be a girl. We choose a name"
+2) "They were hard to understand and the textbook was not interesting for me. So I began to look for English language resources on the internet. One day, I discovered a blog about the English language. I was very happy to read interesting articles, exercises and watch videos about the grammar rules, idiomatic expressions and the daily..."
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF3opt1whytext]]
+Text 1: "Hi, my name is Marcelo Ziliotto. I was born in Porto Alegre, Rio grande do Sun, Brazil. I still live here, because I love too much where I born. Now, I'm living with my wife. Our second child will born in the next january, and we know that will be a girl. We choose a name"
+
+[[Question:DB]]
+[[ID: ChoiceEF3opt2whytext]]
+Text 2: "They were hard to understand and the textbook was not interesting for me. So I began to look for English language resources on the internet. One day, I discovered a blog about the English language. I was very happy to read interesting articles, exercises and watch videos about the grammar rules, idiomatic expressions and the daily..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF3why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF3opt1rwtext]]
+Text 1: "Hi, my name is Marcelo Ziliotto. I was born in Porto Alegre, Rio grande do Sun, Brazil. I still live here, because I love too much where I born. Now, I'm living with my wife. Our second child will born in the next january, and we know that will be a girl. We choose a name"
+
+[[Question:DB]]
+[[ID: ChoiceEF3opt2rwtext]]
+Text 2: "They were hard to understand and the textbook was not interesting for me. So I began to look for English language resources on the internet. One day, I discovered a blog about the English language. I was very happy to read interesting articles, exercises and watch videos about the grammar rules, idiomatic expressions and the daily..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF3rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceBA3]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "0 Introduction The development of information and communication technology (ICT) has revolutionized the education sector, enabling the delivery of e-learning (electronic learning). The concept of e-learning has been rapidly adopted by universities worldwide, as it offers a wide range of benefits such as flexible learning schedules, reduced travel time and costs, and access to quality learning..."
+2) "There are many references these days to e-something and this essay looks in particular at what e-learning is and how it can be used in the learning environment. The relevance of e-learning to meeting today's employment skills and the identification of which skills are sought after by employers are investigated. Not forgetting government policies, these are"
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA3opt1whytext]]
+Text 1: "0 Introduction The development of information and communication technology (ICT) has revolutionized the education sector, enabling the delivery of e-learning (electronic learning). The concept of e-learning has been rapidly adopted by universities worldwide, as it offers a wide range of benefits such as flexible learning schedules, reduced travel time and costs, and access to quality learning..."
+
+[[Question:DB]]
+[[ID: ChoiceBA3opt2whytext]]
+Text 2: "There are many references these days to e-something and this essay looks in particular at what e-learning is and how it can be used in the learning environment. The relevance of e-learning to meeting today's employment skills and the identification of which skills are sought after by employers are investigated. Not forgetting government policies, these are"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA3why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA3opt1rwtext]]
+Text 1: "0 Introduction The development of information and communication technology (ICT) has revolutionized the education sector, enabling the delivery of e-learning (electronic learning). The concept of e-learning has been rapidly adopted by universities worldwide, as it offers a wide range of benefits such as flexible learning schedules, reduced travel time and costs, and access to quality learning..."
+
+[[Question:DB]]
+[[ID: ChoiceBA3opt2rwtext]]
+Text 2: "There are many references these days to e-something and this essay looks in particular at what e-learning is and how it can be used in the learning environment. The relevance of e-learning to meeting today's employment skills and the identification of which skills are sought after by employers are investigated. Not forgetting government policies, these are"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA3rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceEF4]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "If you are wondering how will your life be in 2033, here are some clues of what you might find. check them out! If you work for a big company, you'll most probably work at home. maybe one or two days at the enterprise's offices. Be prepared for making your own schedule and dealing with the"
+2) "In the future, it is expected that remote work will become more common. Therefore, people may choose to live in locations with a high quality of life, such as countries with a low cost of living, beautiful scenery, or access to the ocean. As a result, people may also have the opportunity to work in their..."
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF4opt1whytext]]
+Text 1: "If you are wondering how will your life be in 2033, here are some clues of what you might find. check them out! If you work for a big company, you'll most probably work at home. maybe one or two days at the enterprise's offices. Be prepared for making your own schedule and dealing with the"
+
+[[Question:DB]]
+[[ID: ChoiceEF4opt2whytext]]
+Text 2: "In the future, it is expected that remote work will become more common. Therefore, people may choose to live in locations with a high quality of life, such as countries with a low cost of living, beautiful scenery, or access to the ocean. As a result, people may also have the opportunity to work in their..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF4why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF4opt1rwtext]]
+Text 1: "If you are wondering how will your life be in 2033, here are some clues of what you might find. check them out! If you work for a big company, you'll most probably work at home. maybe one or two days at the enterprise's offices. Be prepared for making your own schedule and dealing with the"
+
+[[Question:DB]]
+[[ID: ChoiceEF4opt2rwtext]]
+Text 2: "In the future, it is expected that remote work will become more common. Therefore, people may choose to live in locations with a high quality of life, such as countries with a low cost of living, beautiful scenery, or access to the ocean. As a result, people may also have the opportunity to work in their..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF4rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+

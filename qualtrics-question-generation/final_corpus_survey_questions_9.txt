@@ -1,0 +1,238 @@
+[[AdvancedFormat]]
+
+[[Block: Survey Set 9]]
+
+
+[[Question:DB]]
+[[ID: ReadEF12]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateEF12ratetext]]
+"A written warning is a document that informs an employee about their unacceptable behavior or performance at work. It's a formal way for a manager or supervisor to address issues, and it's crucial for maintaining a productive work environment. Written warnings usually include: 1. The date and time of the meeting where the warning was issued. 2. A clear description of the unacceptable behavior or performance, and why it's a problem. 3. The expected behaviors or standards to be met in the future. 4. The consequences if the..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateEF12]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF12whytext]]
+"A written warning is a document that informs an employee about their unacceptable behavior or performance at work. It's a formal way for a manager or supervisor to address issues, and it's crucial for maintaining a productive work environment. Written warnings usually include: 1. The date and time of the meeting where the warning was issued. 2. A clear description of the unacceptable behavior or performance, and why it's a problem. 3. The expected behaviors or standards to be met in the future. 4. The consequences if the..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF12why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF12rwtext]]
+"A written warning is a document that informs an employee about their unacceptable behavior or performance at work. It's a formal way for a manager or supervisor to address issues, and it's crucial for maintaining a productive work environment. Written warnings usually include: 1. The date and time of the meeting where the warning was issued. 2. A clear description of the unacceptable behavior or performance, and why it's a problem. 3. The expected behaviors or standards to be met in the future. 4. The consequences if the..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF12rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:DB]]
+[[ID: ReadBA12]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateBA12ratetext]]
+"This essay will investigate the myriad ways through which aphasia contributes to our comprehension of the linguistic localisation in the cerebral cortex, underscoring the intricate neurological underpinnings of human language. Body Firstly, aphasia provides a clear-cut illustration of the left-lateralisation of language functions in the human brain. When language abilities are impaired due to damage in the left hemisphere, it is compelling evidence supporting Broca's and Wernicke's theories of left hemisphere specialisation for language processing. The distinct language patterns, such as Bro..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateBA12]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA12whytext]]
+"This essay will investigate the myriad ways through which aphasia contributes to our comprehension of the linguistic localisation in the cerebral cortex, underscoring the intricate neurological underpinnings of human language. Body Firstly, aphasia provides a clear-cut illustration of the left-lateralisation of language functions in the human brain. When language abilities are impaired due to damage in the left hemisphere, it is compelling evidence supporting Broca's and Wernicke's theories of left hemisphere specialisation for language processing. The distinct language patterns, such as Bro..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA12why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA12rwtext]]
+"This essay will investigate the myriad ways through which aphasia contributes to our comprehension of the linguistic localisation in the cerebral cortex, underscoring the intricate neurological underpinnings of human language. Body Firstly, aphasia provides a clear-cut illustration of the left-lateralisation of language functions in the human brain. When language abilities are impaired due to damage in the left hemisphere, it is compelling evidence supporting Broca's and Wernicke's theories of left hemisphere specialisation for language processing. The distinct language patterns, such as Bro..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA12rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:DB]]
+[[ID: ReadEF13]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateEF13ratetext]]
+"As English learners and aspiring professionals, it's essential to familiarize ourselves with the vocabulary and expressions used in various industries. Let's dive into it! Firstly, it is necessary to understand the unique requirements and preferences of affluent clients. The definition of 'wealthy client' may vary, but for the sake of this discussion, we will consider them as those with substantial financial resources who seek high-end, luxurious properties. The first step in finding a home for a wealthy client is to establish a strong relationship built on trust, professionalism,..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateEF13]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF13whytext]]
+"As English learners and aspiring professionals, it's essential to familiarize ourselves with the vocabulary and expressions used in various industries. Let's dive into it! Firstly, it is necessary to understand the unique requirements and preferences of affluent clients. The definition of 'wealthy client' may vary, but for the sake of this discussion, we will consider them as those with substantial financial resources who seek high-end, luxurious properties. The first step in finding a home for a wealthy client is to establish a strong relationship built on trust, professionalism,..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF13why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF13rwtext]]
+"As English learners and aspiring professionals, it's essential to familiarize ourselves with the vocabulary and expressions used in various industries. Let's dive into it! Firstly, it is necessary to understand the unique requirements and preferences of affluent clients. The definition of 'wealthy client' may vary, but for the sake of this discussion, we will consider them as those with substantial financial resources who seek high-end, luxurious properties. The first step in finding a home for a wealthy client is to establish a strong relationship built on trust, professionalism,..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF13rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceEF12]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "I am writing to extend my heartfelt congratulations on your recent achievement. Being honored with the [Award name] is a truly remarkable feat and I am absolutely thrilled for you. I have always known you to be an exceptional individual, full of talent and dedication. Your hard work and perseverance have finally paid off. To receive..."
+2) "Dear Mary, congratulations on graduating from University! I'm very proud of you. You'd like to thank your wonderful, inspiring, amazing family first. You would never been able to win an award without them. If you're successful, you owe all your achievement to them. They love you and support you, and always have the perfect words of"
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF12opt1whytext]]
+Text 1: "I am writing to extend my heartfelt congratulations on your recent achievement. Being honored with the [Award name] is a truly remarkable feat and I am absolutely thrilled for you. I have always known you to be an exceptional individual, full of talent and dedication. Your hard work and perseverance have finally paid off. To receive..."
+
+[[Question:DB]]
+[[ID: ChoiceEF12opt2whytext]]
+Text 2: "Dear Mary, congratulations on graduating from University! I'm very proud of you. You'd like to thank your wonderful, inspiring, amazing family first. You would never been able to win an award without them. If you're successful, you owe all your achievement to them. They love you and support you, and always have the perfect words of"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF12why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF12opt1rwtext]]
+Text 1: "I am writing to extend my heartfelt congratulations on your recent achievement. Being honored with the [Award name] is a truly remarkable feat and I am absolutely thrilled for you. I have always known you to be an exceptional individual, full of talent and dedication. Your hard work and perseverance have finally paid off. To receive..."
+
+[[Question:DB]]
+[[ID: ChoiceEF12opt2rwtext]]
+Text 2: "Dear Mary, congratulations on graduating from University! I'm very proud of you. You'd like to thank your wonderful, inspiring, amazing family first. You would never been able to win an award without them. If you're successful, you owe all your achievement to them. They love you and support you, and always have the perfect words of"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF12rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceBA12]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "It is certain that everyone in the world is able to speak at least one language but every individual would not always use the exact same vocabulary or speak in a similar way in most language. Moreover use of language is different depending on certain groups of identity in particular gender differences between male and female"
+2) "Title: The Significance of Language in Constructing Identity and Its Reflection in Personal Experience Introduction Language plays a pivotal role in society, serving not only as a medium for communication but also as a crucial tool in shaping individual and collective identities. It's through language that we express thoughts, emotions, and experiences, thereby defining ourselves and..."
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA12opt1whytext]]
+Text 1: "It is certain that everyone in the world is able to speak at least one language but every individual would not always use the exact same vocabulary or speak in a similar way in most language. Moreover use of language is different depending on certain groups of identity in particular gender differences between male and female"
+
+[[Question:DB]]
+[[ID: ChoiceBA12opt2whytext]]
+Text 2: "Title: The Significance of Language in Constructing Identity and Its Reflection in Personal Experience Introduction Language plays a pivotal role in society, serving not only as a medium for communication but also as a crucial tool in shaping individual and collective identities. It's through language that we express thoughts, emotions, and experiences, thereby defining ourselves and..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA12why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA12opt1rwtext]]
+Text 1: "It is certain that everyone in the world is able to speak at least one language but every individual would not always use the exact same vocabulary or speak in a similar way in most language. Moreover use of language is different depending on certain groups of identity in particular gender differences between male and female"
+
+[[Question:DB]]
+[[ID: ChoiceBA12opt2rwtext]]
+Text 2: "Title: The Significance of Language in Constructing Identity and Its Reflection in Personal Experience Introduction Language plays a pivotal role in society, serving not only as a medium for communication but also as a crucial tool in shaping individual and collective identities. It's through language that we express thoughts, emotions, and experiences, thereby defining ourselves and..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA12rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceEF13]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "bello Bobby, It seems you have some difficulties choosing the right direction of your life. I would like to warn you about the possibility of really negative consequences you behavior may cause. Look, everyone from us has difficult times. And it is crucially important not to make any actions you may regret about afterwards. Don't panic!"
+2) "I've been thinking a lot about our conversation the other day, and I felt it was important to share my thoughts with you. First, I want to express my concern about the plan you have been discussing. I understand that it may seem exciting or even necessary, but I believe there are potential risks involved that..."
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF13opt1whytext]]
+Text 1: "bello Bobby, It seems you have some difficulties choosing the right direction of your life. I would like to warn you about the possibility of really negative consequences you behavior may cause. Look, everyone from us has difficult times. And it is crucially important not to make any actions you may regret about afterwards. Don't panic!"
+
+[[Question:DB]]
+[[ID: ChoiceEF13opt2whytext]]
+Text 2: "I've been thinking a lot about our conversation the other day, and I felt it was important to share my thoughts with you. First, I want to express my concern about the plan you have been discussing. I understand that it may seem exciting or even necessary, but I believe there are potential risks involved that..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF13why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF13opt1rwtext]]
+Text 1: "bello Bobby, It seems you have some difficulties choosing the right direction of your life. I would like to warn you about the possibility of really negative consequences you behavior may cause. Look, everyone from us has difficult times. And it is crucially important not to make any actions you may regret about afterwards. Don't panic!"
+
+[[Question:DB]]
+[[ID: ChoiceEF13opt2rwtext]]
+Text 2: "I've been thinking a lot about our conversation the other day, and I felt it was important to share my thoughts with you. First, I want to express my concern about the plan you have been discussing. I understand that it may seem exciting or even necessary, but I believe there are potential risks involved that..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF13rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+

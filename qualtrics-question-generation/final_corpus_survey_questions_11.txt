@@ -1,0 +1,238 @@
+[[AdvancedFormat]]
+
+[[Block: Survey Set 11]]
+
+
+[[Question:DB]]
+[[ID: ReadEF15]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateEF15ratetext]]
+"It is the pinnacle of a well-crafted joke and leaves the audience with a sense of satisfaction and amusement. As an English learner at B1 level, you may find it challenging to delve into the intricacies of stand-up comedy, but remember, even a simple and clever punch line can make a lasting impression. First, it is essential to understand what a punch line is. A punch line is the final line of a joke, which provides the surprise or humor. It often concludes a setup or build-up of..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateEF15]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF15whytext]]
+"It is the pinnacle of a well-crafted joke and leaves the audience with a sense of satisfaction and amusement. As an English learner at B1 level, you may find it challenging to delve into the intricacies of stand-up comedy, but remember, even a simple and clever punch line can make a lasting impression. First, it is essential to understand what a punch line is. A punch line is the final line of a joke, which provides the surprise or humor. It often concludes a setup or build-up of..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF15why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF15rwtext]]
+"It is the pinnacle of a well-crafted joke and leaves the audience with a sense of satisfaction and amusement. As an English learner at B1 level, you may find it challenging to delve into the intricacies of stand-up comedy, but remember, even a simple and clever punch line can make a lasting impression. First, it is essential to understand what a punch line is. A punch line is the final line of a joke, which provides the surprise or humor. It often concludes a setup or build-up of..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF15rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:DB]]
+[[ID: ReadBA15]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateBA15ratetext]]
+"This essay delves into the significance of communication and meetings in the industrial context, and discusses their impact on productivity, decision-making, and overall organizational success. In the fast-paced and ever-changing business environment, communication serves as the lifeline for a thriving industrial enterprise. Effective communication enables efficient exchange of ideas, fostering collaboration and cooperation among employees, departments, and even various organizations within a supply chain. This open dialogue not only expedites the decision-making process but also nurtures a strong team spirit. In an industry characterized by intricate processes, stringent..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateBA15]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA15whytext]]
+"This essay delves into the significance of communication and meetings in the industrial context, and discusses their impact on productivity, decision-making, and overall organizational success. In the fast-paced and ever-changing business environment, communication serves as the lifeline for a thriving industrial enterprise. Effective communication enables efficient exchange of ideas, fostering collaboration and cooperation among employees, departments, and even various organizations within a supply chain. This open dialogue not only expedites the decision-making process but also nurtures a strong team spirit. In an industry characterized by intricate processes, stringent..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA15why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA15rwtext]]
+"This essay delves into the significance of communication and meetings in the industrial context, and discusses their impact on productivity, decision-making, and overall organizational success. In the fast-paced and ever-changing business environment, communication serves as the lifeline for a thriving industrial enterprise. Effective communication enables efficient exchange of ideas, fostering collaboration and cooperation among employees, departments, and even various organizations within a supply chain. This open dialogue not only expedites the decision-making process but also nurtures a strong team spirit. In an industry characterized by intricate processes, stringent..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA15rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:DB]]
+[[ID: ReadEF16]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateEF16ratetext]]
+"I always loved to write stories, poems, and essays. Recently, I found out about a national writing competition for non-native English speakers. I immediately decided to take part in it. To prepare myself for the competition, I spent a lot of time researching the competition's requirements and guidelines. I also asked my English teacher for her feedback on my writing skills and asked her to help me polish my language. Additionally, I practiced writing daily, trying to improve my vocabulary and grammar. The competition deadline was approaching, and..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateEF16]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF16whytext]]
+"I always loved to write stories, poems, and essays. Recently, I found out about a national writing competition for non-native English speakers. I immediately decided to take part in it. To prepare myself for the competition, I spent a lot of time researching the competition's requirements and guidelines. I also asked my English teacher for her feedback on my writing skills and asked her to help me polish my language. Additionally, I practiced writing daily, trying to improve my vocabulary and grammar. The competition deadline was approaching, and..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF16why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF16rwtext]]
+"I always loved to write stories, poems, and essays. Recently, I found out about a national writing competition for non-native English speakers. I immediately decided to take part in it. To prepare myself for the competition, I spent a lot of time researching the competition's requirements and guidelines. I also asked my English teacher for her feedback on my writing skills and asked her to help me polish my language. Additionally, I practiced writing daily, trying to improve my vocabulary and grammar. The competition deadline was approaching, and..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF16rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceEF15]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "This country, with its rich history and vibrant culture, never ceases to amaze me. However, the most memorable event was my journey to the Great Wall of China. The Great Wall of China, a marvel of engineering and perseverance, is a sight to behold. The day I visited, the sky was clear, and a gentle breeze..."
+2) "Dear Tim, Nice to hear from you, it is really a long time for us to write a letter to each other. Yes, I am busy on business trip these days.But I think James and you had a very funny trip in Japan. Last month, I also went travelling with my colleagues in Anti,Zhejiang province. We"
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF15opt1whytext]]
+Text 1: "This country, with its rich history and vibrant culture, never ceases to amaze me. However, the most memorable event was my journey to the Great Wall of China. The Great Wall of China, a marvel of engineering and perseverance, is a sight to behold. The day I visited, the sky was clear, and a gentle breeze..."
+
+[[Question:DB]]
+[[ID: ChoiceEF15opt2whytext]]
+Text 2: "Dear Tim, Nice to hear from you, it is really a long time for us to write a letter to each other. Yes, I am busy on business trip these days.But I think James and you had a very funny trip in Japan. Last month, I also went travelling with my colleagues in Anti,Zhejiang province. We"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF15why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF15opt1rwtext]]
+Text 1: "This country, with its rich history and vibrant culture, never ceases to amaze me. However, the most memorable event was my journey to the Great Wall of China. The Great Wall of China, a marvel of engineering and perseverance, is a sight to behold. The day I visited, the sky was clear, and a gentle breeze..."
+
+[[Question:DB]]
+[[ID: ChoiceEF15opt2rwtext]]
+Text 2: "Dear Tim, Nice to hear from you, it is really a long time for us to write a letter to each other. Yes, I am busy on business trip these days.But I think James and you had a very funny trip in Japan. Last month, I also went travelling with my colleagues in Anti,Zhejiang province. We"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF15rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceBA15]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "Britain's trade with the European Union (EU) has grown from just over 40% of the country's total trade, in 1973, to 55% when we joined. Membership of the EU is central to stability, growth and employment: the UK stands to benefit from an enlarged Europe that is more integrated into the global economy. The Euro is"
+2) "While the Euro's merits, such as increased trade and strengthened political unity, are appealing, the disparities between the UK's housing market and the Euro's economic fundamentals present substantial obstacles. This essay will delve into the ways in which the UK housing market functions, highlighting its role in perpetuating economic instability and impeding Britain's entrance into the..."
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA15opt1whytext]]
+Text 1: "Britain's trade with the European Union (EU) has grown from just over 40% of the country's total trade, in 1973, to 55% when we joined. Membership of the EU is central to stability, growth and employment: the UK stands to benefit from an enlarged Europe that is more integrated into the global economy. The Euro is"
+
+[[Question:DB]]
+[[ID: ChoiceBA15opt2whytext]]
+Text 2: "While the Euro's merits, such as increased trade and strengthened political unity, are appealing, the disparities between the UK's housing market and the Euro's economic fundamentals present substantial obstacles. This essay will delve into the ways in which the UK housing market functions, highlighting its role in perpetuating economic instability and impeding Britain's entrance into the..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA15why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA15opt1rwtext]]
+Text 1: "Britain's trade with the European Union (EU) has grown from just over 40% of the country's total trade, in 1973, to 55% when we joined. Membership of the EU is central to stability, growth and employment: the UK stands to benefit from an enlarged Europe that is more integrated into the global economy. The Euro is"
+
+[[Question:DB]]
+[[ID: ChoiceBA15opt2rwtext]]
+Text 2: "While the Euro's merits, such as increased trade and strengthened political unity, are appealing, the disparities between the UK's housing market and the Euro's economic fundamentals present substantial obstacles. This essay will delve into the ways in which the UK housing market functions, highlighting its role in perpetuating economic instability and impeding Britain's entrance into the..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA15rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceEF16]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "If I had the opportunity to ask a dream, whatever this meaning, I'd ask just to achieve my objectives related to my career. I simply think that we just to focus in our profession, not just by the money, but by the social function that we need to exercise. therewith I think that a variety of"
+2) "They are the visions that inspire us, stimulating our minds and sparking our imagination. In this writing, I will present a 'to-do' list of my dreams, which I hope will serve as a map to guide me towards personal fulfillment and self-actualization. 1. Learn a musical instrument: Picking up a musical instrument has always been a..."
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF16opt1whytext]]
+Text 1: "If I had the opportunity to ask a dream, whatever this meaning, I'd ask just to achieve my objectives related to my career. I simply think that we just to focus in our profession, not just by the money, but by the social function that we need to exercise. therewith I think that a variety of"
+
+[[Question:DB]]
+[[ID: ChoiceEF16opt2whytext]]
+Text 2: "They are the visions that inspire us, stimulating our minds and sparking our imagination. In this writing, I will present a 'to-do' list of my dreams, which I hope will serve as a map to guide me towards personal fulfillment and self-actualization. 1. Learn a musical instrument: Picking up a musical instrument has always been a..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF16why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF16opt1rwtext]]
+Text 1: "If I had the opportunity to ask a dream, whatever this meaning, I'd ask just to achieve my objectives related to my career. I simply think that we just to focus in our profession, not just by the money, but by the social function that we need to exercise. therewith I think that a variety of"
+
+[[Question:DB]]
+[[ID: ChoiceEF16opt2rwtext]]
+Text 2: "They are the visions that inspire us, stimulating our minds and sparking our imagination. In this writing, I will present a 'to-do' list of my dreams, which I hope will serve as a map to guide me towards personal fulfillment and self-actualization. 1. Learn a musical instrument: Picking up a musical instrument has always been a..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF16rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+

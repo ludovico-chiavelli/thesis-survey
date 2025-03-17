@@ -1,0 +1,238 @@
+[[AdvancedFormat]]
+
+[[Block: Survey Set 12]]
+
+
+[[Question:DB]]
+[[ID: ReadBA16]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateBA16ratetext]]
+"Locke, in his essay "Some Thoughts Concerning Education," posed a question that appears to challenge the rationality of human behavior, asking, "Why should men who were afraid of polecats and foxes arrange to be devoured by lions?" This essay will delve into Hobbes' response to this question, using his theory of the state of nature as a basis for understanding the motivations behind such seemingly irrational actions. Body John Locke's query suggests a paradoxical situation in which men, despite fearing smaller predators..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateBA16]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA16whytext]]
+"Locke, in his essay "Some Thoughts Concerning Education," posed a question that appears to challenge the rationality of human behavior, asking, "Why should men who were afraid of polecats and foxes arrange to be devoured by lions?" This essay will delve into Hobbes' response to this question, using his theory of the state of nature as a basis for understanding the motivations behind such seemingly irrational actions. Body John Locke's query suggests a paradoxical situation in which men, despite fearing smaller predators..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA16why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA16rwtext]]
+"Locke, in his essay "Some Thoughts Concerning Education," posed a question that appears to challenge the rationality of human behavior, asking, "Why should men who were afraid of polecats and foxes arrange to be devoured by lions?" This essay will delve into Hobbes' response to this question, using his theory of the state of nature as a basis for understanding the motivations behind such seemingly irrational actions. Body John Locke's query suggests a paradoxical situation in which men, despite fearing smaller predators..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA16rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:DB]]
+[[ID: ReadEF17]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateEF17ratetext]]
+"One effective way to achieve this goal is by creating an engaging brochure. A well-written brochure can entice potential visitors and provide them with essential information about the museum. Below is a guide for writing a captivating brochure for your museum. 1. Grab the readers' attention The opening line of your brochure should intrigue the reader and make them want to learn more. Use interesting facts, questions, or engaging statements to catch their attention. For example: “The secrets of ancient civilizations are waiting for you at our museum!”..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateEF17]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF17whytext]]
+"One effective way to achieve this goal is by creating an engaging brochure. A well-written brochure can entice potential visitors and provide them with essential information about the museum. Below is a guide for writing a captivating brochure for your museum. 1. Grab the readers' attention The opening line of your brochure should intrigue the reader and make them want to learn more. Use interesting facts, questions, or engaging statements to catch their attention. For example: “The secrets of ancient civilizations are waiting for you at our museum!”..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF17why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF17rwtext]]
+"One effective way to achieve this goal is by creating an engaging brochure. A well-written brochure can entice potential visitors and provide them with essential information about the museum. Below is a guide for writing a captivating brochure for your museum. 1. Grab the readers' attention The opening line of your brochure should intrigue the reader and make them want to learn more. Use interesting facts, questions, or engaging statements to catch their attention. For example: “The secrets of ancient civilizations are waiting for you at our museum!”..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF17rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:DB]]
+[[ID: ReadBA17]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateBA17ratetext]]
+"Partnerships play a vital role in this interdependence, as they foster collaboration, shared responsibilities, and resource allocation. This essay will delve into the examples of partnerships, their challenges, and the outcomes of successful collaborations in the health and social care sector. A prime example of partnerships that contribute to the provision of health and social care can be observed in community-based initiatives. For instance, the collaboration between local healthcare providers, social service agencies, schools, and non-governmental organizations can collect..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateBA17]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA17whytext]]
+"Partnerships play a vital role in this interdependence, as they foster collaboration, shared responsibilities, and resource allocation. This essay will delve into the examples of partnerships, their challenges, and the outcomes of successful collaborations in the health and social care sector. A prime example of partnerships that contribute to the provision of health and social care can be observed in community-based initiatives. For instance, the collaboration between local healthcare providers, social service agencies, schools, and non-governmental organizations can collect..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA17why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA17rwtext]]
+"Partnerships play a vital role in this interdependence, as they foster collaboration, shared responsibilities, and resource allocation. This essay will delve into the examples of partnerships, their challenges, and the outcomes of successful collaborations in the health and social care sector. A prime example of partnerships that contribute to the provision of health and social care can be observed in community-based initiatives. For instance, the collaboration between local healthcare providers, social service agencies, schools, and non-governmental organizations can collect..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA17rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceBA16]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "1. IntroductionDeixis is an essential element in a language as all the languages have a tendency to economically express meanings and it will be redundant and inconvenient to repeat the names of places, time and people within the same context; therefore, deixis is a universal phenomenon as Huang (2005) has also mentioned. Among its three basic"
+2) "One such linguistic feature that marks a distinct divide between Northern and Southern Chinese dialects is the use of the postposition Zanmen (之imen). This essay aims to delve into the historical use of Zanmen in Northern Chinese, its significance, and its subsequent disappearance in Southern Chinese dialects. body Origin and Significance in Northern Chinese The Zanmen..."
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA16opt1whytext]]
+Text 1: "1. IntroductionDeixis is an essential element in a language as all the languages have a tendency to economically express meanings and it will be redundant and inconvenient to repeat the names of places, time and people within the same context; therefore, deixis is a universal phenomenon as Huang (2005) has also mentioned. Among its three basic"
+
+[[Question:DB]]
+[[ID: ChoiceBA16opt2whytext]]
+Text 2: "One such linguistic feature that marks a distinct divide between Northern and Southern Chinese dialects is the use of the postposition Zanmen (之imen). This essay aims to delve into the historical use of Zanmen in Northern Chinese, its significance, and its subsequent disappearance in Southern Chinese dialects. body Origin and Significance in Northern Chinese The Zanmen..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA16why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA16opt1rwtext]]
+Text 1: "1. IntroductionDeixis is an essential element in a language as all the languages have a tendency to economically express meanings and it will be redundant and inconvenient to repeat the names of places, time and people within the same context; therefore, deixis is a universal phenomenon as Huang (2005) has also mentioned. Among its three basic"
+
+[[Question:DB]]
+[[ID: ChoiceBA16opt2rwtext]]
+Text 2: "One such linguistic feature that marks a distinct divide between Northern and Southern Chinese dialects is the use of the postposition Zanmen (之imen). This essay aims to delve into the historical use of Zanmen in Northern Chinese, its significance, and its subsequent disappearance in Southern Chinese dialects. body Origin and Significance in Northern Chinese The Zanmen..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA16rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceEF17]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "In this article, we will discuss the steps and important points to consider when renting out a room to tenants. 1. Preparation: First, make sure your home is ready for renting. You should clean the room thoroughly and repair any damages, such as leaking faucets or cracks in the walls. It is essential to create a..."
+2) "Welcome home! Would you like to feel the fresh air of the mountains and see the ocean? You can do that living in a Tudor style home in Campos city. The kitchen has a beautiful and functional breakfast bar and granite counters, besides of the stainless steel appliances. The walls are bright color painted with wood"
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF17opt1whytext]]
+Text 1: "In this article, we will discuss the steps and important points to consider when renting out a room to tenants. 1. Preparation: First, make sure your home is ready for renting. You should clean the room thoroughly and repair any damages, such as leaking faucets or cracks in the walls. It is essential to create a..."
+
+[[Question:DB]]
+[[ID: ChoiceEF17opt2whytext]]
+Text 2: "Welcome home! Would you like to feel the fresh air of the mountains and see the ocean? You can do that living in a Tudor style home in Campos city. The kitchen has a beautiful and functional breakfast bar and granite counters, besides of the stainless steel appliances. The walls are bright color painted with wood"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF17why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF17opt1rwtext]]
+Text 1: "In this article, we will discuss the steps and important points to consider when renting out a room to tenants. 1. Preparation: First, make sure your home is ready for renting. You should clean the room thoroughly and repair any damages, such as leaking faucets or cracks in the walls. It is essential to create a..."
+
+[[Question:DB]]
+[[ID: ChoiceEF17opt2rwtext]]
+Text 2: "Welcome home! Would you like to feel the fresh air of the mountains and see the ocean? You can do that living in a Tudor style home in Campos city. The kitchen has a beautiful and functional breakfast bar and granite counters, besides of the stainless steel appliances. The walls are bright color painted with wood"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF17rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceBA17]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "One of the common methods employed to safeguard such loans is the floating charge, a flexible form of security that allows the charged assets to be used in the ordinary course of business. However, despite its convenience and adaptability, the floating charge falls short of being an ideal security for credit extended to companies, particularly small..."
+2) "INTRODUCTIONThe floating charge is a useful security - it enables companies to raise more debt finance secured against their fluctuating assets such as trading stock. However, the recent legal developments have been to the detriment of the floating charge holders. Although the Enterprise Act (EA) 2002, the Companies Act (CA) 2006 and the House of Lords"
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA17opt1whytext]]
+Text 1: "One of the common methods employed to safeguard such loans is the floating charge, a flexible form of security that allows the charged assets to be used in the ordinary course of business. However, despite its convenience and adaptability, the floating charge falls short of being an ideal security for credit extended to companies, particularly small..."
+
+[[Question:DB]]
+[[ID: ChoiceBA17opt2whytext]]
+Text 2: "INTRODUCTIONThe floating charge is a useful security - it enables companies to raise more debt finance secured against their fluctuating assets such as trading stock. However, the recent legal developments have been to the detriment of the floating charge holders. Although the Enterprise Act (EA) 2002, the Companies Act (CA) 2006 and the House of Lords"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA17why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA17opt1rwtext]]
+Text 1: "One of the common methods employed to safeguard such loans is the floating charge, a flexible form of security that allows the charged assets to be used in the ordinary course of business. However, despite its convenience and adaptability, the floating charge falls short of being an ideal security for credit extended to companies, particularly small..."
+
+[[Question:DB]]
+[[ID: ChoiceBA17opt2rwtext]]
+Text 2: "INTRODUCTIONThe floating charge is a useful security - it enables companies to raise more debt finance secured against their fluctuating assets such as trading stock. However, the recent legal developments have been to the detriment of the floating charge holders. Although the Enterprise Act (EA) 2002, the Companies Act (CA) 2006 and the House of Lords"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA17rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+

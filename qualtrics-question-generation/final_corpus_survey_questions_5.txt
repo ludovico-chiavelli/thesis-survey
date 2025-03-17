@@ -1,0 +1,238 @@
+[[AdvancedFormat]]
+
+[[Block: Survey Set 5]]
+
+
+[[Question:DB]]
+[[ID: ReadEF6]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateEF6ratetext]]
+"As someone who is still learning English, I was initially hesitant to join, but the opportunity to develop my leadership skills was too good to pass up. The course itself was incredibly well-structured, with a mix of interactive exercises, group discussions, and guest lectures from inspiring leaders. I particularly enjoyed the role-playing activities, which allowed me to practice my communication skills in a safe and supportive environment. One of the most valuable aspects of the course was the diversity of the participants. We came from different backgrounds, cultures,..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateEF6]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF6whytext]]
+"As someone who is still learning English, I was initially hesitant to join, but the opportunity to develop my leadership skills was too good to pass up. The course itself was incredibly well-structured, with a mix of interactive exercises, group discussions, and guest lectures from inspiring leaders. I particularly enjoyed the role-playing activities, which allowed me to practice my communication skills in a safe and supportive environment. One of the most valuable aspects of the course was the diversity of the participants. We came from different backgrounds, cultures,..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF6why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF6rwtext]]
+"As someone who is still learning English, I was initially hesitant to join, but the opportunity to develop my leadership skills was too good to pass up. The course itself was incredibly well-structured, with a mix of interactive exercises, group discussions, and guest lectures from inspiring leaders. I particularly enjoyed the role-playing activities, which allowed me to practice my communication skills in a safe and supportive environment. One of the most valuable aspects of the course was the diversity of the participants. We came from different backgrounds, cultures,..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF6rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:DB]]
+[[ID: ReadBA6]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateBA6ratetext]]
+"But why did Americans, in particular, embrace this ambitious architectural pursuit? The answer lies within a complex interplay of economic prosperity, rapid urbanization, and a distinctive cultural spirit of innovation and progress. During the late 19th and early 20th centuries, the United States experienced an unprecedented era of industrialization and economic growth. Massive fortunes were amassed, leading to an influx of capital and a surging demand for office space in rapidly expanding cities like New York, Chicago, and Philadelphia. Traditional, low-rise buildings simply could not accommodate the burgeoning..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateBA6]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA6whytext]]
+"But why did Americans, in particular, embrace this ambitious architectural pursuit? The answer lies within a complex interplay of economic prosperity, rapid urbanization, and a distinctive cultural spirit of innovation and progress. During the late 19th and early 20th centuries, the United States experienced an unprecedented era of industrialization and economic growth. Massive fortunes were amassed, leading to an influx of capital and a surging demand for office space in rapidly expanding cities like New York, Chicago, and Philadelphia. Traditional, low-rise buildings simply could not accommodate the burgeoning..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA6why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateBA6rwtext]]
+"But why did Americans, in particular, embrace this ambitious architectural pursuit? The answer lies within a complex interplay of economic prosperity, rapid urbanization, and a distinctive cultural spirit of innovation and progress. During the late 19th and early 20th centuries, the United States experienced an unprecedented era of industrialization and economic growth. Massive fortunes were amassed, leading to an influx of capital and a surging demand for office space in rapidly expanding cities like New York, Chicago, and Philadelphia. Traditional, low-rise buildings simply could not accommodate the burgeoning..."
+
+[[Question:TE:Essay]]
+[[ID: RateBA6rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:DB]]
+[[ID: ReadEF7]]
+Read the text below.
+
+[[Question:DB]]
+[[ID: RateEF7ratetext]]
+"When rejecting an application, proposal, or idea, it's important to be both firm and polite. A well-written rejection letter can make all the difference, leaving a positive impression even in a negative situation. Firstly, it's crucial to be clear and concise. Avoid beating around the bush. Thank the recipient for their interest and clearly state that you are unable to accept their request. Provide a brief and honest reason, but avoid being overly critical or going into excessive detail. Secondly, maintain a professional and respectful tone. Use formal..."
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: RateEF7]]
+Rate the text between 1 (definitely AI generated) and 4 (definitely human generated).
+[[Choices]]
+1 - Definitely AI
+2 - Likely AI
+3 - Likely human
+4 - Definitely human
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF7whytext]]
+"When rejecting an application, proposal, or idea, it's important to be both firm and polite. A well-written rejection letter can make all the difference, leaving a positive impression even in a negative situation. Firstly, it's crucial to be clear and concise. Avoid beating around the bush. Thank the recipient for their interest and clearly state that you are unable to accept their request. Provide a brief and honest reason, but avoid being overly critical or going into excessive detail. Secondly, maintain a professional and respectful tone. Use formal..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF7why]]
+Why does the text sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: RateEF7rwtext]]
+"When rejecting an application, proposal, or idea, it's important to be both firm and polite. A well-written rejection letter can make all the difference, leaving a positive impression even in a negative situation. Firstly, it's crucial to be clear and concise. Avoid beating around the bush. Thank the recipient for their interest and clearly state that you are unable to accept their request. Provide a brief and honest reason, but avoid being overly critical or going into excessive detail. Secondly, maintain a professional and respectful tone. Use formal..."
+
+[[Question:TE:Essay]]
+[[ID: RateEF7rewrite]]
+Please rewrite the text so that it sounds more human-like, if you rated it anything below "4 - Definitely human". You may copy and paste the text and then make your edits.
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceEF6]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "Hi Steve! I have read the insurance policy and I knew my responsibilities about my tandem jump like a volunteer. I will sign the waiver and send to you as soon as possible to start my instructions of how to use the equipment. But I have another doubts. After I will be trained, I Have to"
+2) "Now, at B1 English level, I find myself facing a daunting page in front of me: the skydiving waiver. It's a legal document, written in clear, precise English. I can understand most of it: release of liability, assumption of risk, emergency procedures. But even though I grasp the meaning, my stomach still feels like it's doing..."
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF6opt1whytext]]
+Text 1: "Hi Steve! I have read the insurance policy and I knew my responsibilities about my tandem jump like a volunteer. I will sign the waiver and send to you as soon as possible to start my instructions of how to use the equipment. But I have another doubts. After I will be trained, I Have to"
+
+[[Question:DB]]
+[[ID: ChoiceEF6opt2whytext]]
+Text 2: "Now, at B1 English level, I find myself facing a daunting page in front of me: the skydiving waiver. It's a legal document, written in clear, precise English. I can understand most of it: release of liability, assumption of risk, emergency procedures. But even though I grasp the meaning, my stomach still feels like it's doing..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF6why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF6opt1rwtext]]
+Text 1: "Hi Steve! I have read the insurance policy and I knew my responsibilities about my tandem jump like a volunteer. I will sign the waiver and send to you as soon as possible to start my instructions of how to use the equipment. But I have another doubts. After I will be trained, I Have to"
+
+[[Question:DB]]
+[[ID: ChoiceEF6opt2rwtext]]
+Text 2: "Now, at B1 English level, I find myself facing a daunting page in front of me: the skydiving waiver. It's a legal document, written in clear, precise English. I can understand most of it: release of liability, assumption of risk, emergency procedures. But even though I grasp the meaning, my stomach still feels like it's doing..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF6rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceBA6]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "Esteban Trueba can be considered to be one of the main characters in 'The House of the Spirits'. This is because he is one of the few dominant male characters that are written about in the novel. Esteban is obsessive, violent, and materialistic. He devotes his life to his business and political careers, determined first to"
+2) "Yet, despite this widespread influence, the lives of enslaved Africans remained drastically different from those granted freedom. This begs the question: why, despite its emphasis on equality and compassion, did Christianity fail to have a significant, transformative impact on the lives of slaves by the mid-18th century? One key factor was the inherent contradiction between the..."
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA6opt1whytext]]
+Text 1: "Esteban Trueba can be considered to be one of the main characters in 'The House of the Spirits'. This is because he is one of the few dominant male characters that are written about in the novel. Esteban is obsessive, violent, and materialistic. He devotes his life to his business and political careers, determined first to"
+
+[[Question:DB]]
+[[ID: ChoiceBA6opt2whytext]]
+Text 2: "Yet, despite this widespread influence, the lives of enslaved Africans remained drastically different from those granted freedom. This begs the question: why, despite its emphasis on equality and compassion, did Christianity fail to have a significant, transformative impact on the lives of slaves by the mid-18th century? One key factor was the inherent contradiction between the..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA6why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceBA6opt1rwtext]]
+Text 1: "Esteban Trueba can be considered to be one of the main characters in 'The House of the Spirits'. This is because he is one of the few dominant male characters that are written about in the novel. Esteban is obsessive, violent, and materialistic. He devotes his life to his business and political careers, determined first to"
+
+[[Question:DB]]
+[[ID: ChoiceBA6opt2rwtext]]
+Text 2: "Yet, despite this widespread influence, the lives of enslaved Africans remained drastically different from those granted freedom. This begs the question: why, despite its emphasis on equality and compassion, did Christianity fail to have a significant, transformative impact on the lives of slaves by the mid-18th century? One key factor was the inherent contradiction between the..."
+
+[[Question:TE:Essay]]
+[[ID: ChoiceBA6rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: ChoiceEF7]]
+Pick which text sounds more AI-generated.
+[[Choices]]
+1) "We had been working with them for months, showcasing our innovative software solutions. Now, the time had come for them to experience the West Coast magic firsthand. The team, led by Ms. Tanaka, arrived on a bright, sunny Monday morning. We made sure their stay was as comfortable as possible with personalized itineraries and comfortable accommodations...."
+2) "Dear Mr/Ms XX, I'm Cindy, HR supervisor in Husqvarna hangzhou company. firstly, please allow me to show our warm welcome to all of you.And then I will list some business etiquette, just for your reference. 1)A handshake is a usual form of greeting. 2)Tips are unnecessary whenever you go to restaurant or shopping mall. 3)Whenever you"
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF7opt1whytext]]
+Text 1: "We had been working with them for months, showcasing our innovative software solutions. Now, the time had come for them to experience the West Coast magic firsthand. The team, led by Ms. Tanaka, arrived on a bright, sunny Monday morning. We made sure their stay was as comfortable as possible with personalized itineraries and comfortable accommodations...."
+
+[[Question:DB]]
+[[ID: ChoiceEF7opt2whytext]]
+Text 2: "Dear Mr/Ms XX, I'm Cindy, HR supervisor in Husqvarna hangzhou company. firstly, please allow me to show our warm welcome to all of you.And then I will list some business etiquette, just for your reference. 1)A handshake is a usual form of greeting. 2)Tips are unnecessary whenever you go to restaurant or shopping mall. 3)Whenever you"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF7why]]
+Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful.
+
+[[PageBreak]]
+
+[[Question:DB]]
+[[ID: ChoiceEF7opt1rwtext]]
+Text 1: "We had been working with them for months, showcasing our innovative software solutions. Now, the time had come for them to experience the West Coast magic firsthand. The team, led by Ms. Tanaka, arrived on a bright, sunny Monday morning. We made sure their stay was as comfortable as possible with personalized itineraries and comfortable accommodations...."
+
+[[Question:DB]]
+[[ID: ChoiceEF7opt2rwtext]]
+Text 2: "Dear Mr/Ms XX, I'm Cindy, HR supervisor in Husqvarna hangzhou company. firstly, please allow me to show our warm welcome to all of you.And then I will list some business etiquette, just for your reference. 1)A handshake is a usual form of greeting. 2)Tips are unnecessary whenever you go to restaurant or shopping mall. 3)Whenever you"
+
+[[Question:TE:Essay]]
+[[ID: ChoiceEF7rewrite]]
+Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)
+
+[[PageBreak]]
+
