@@ -9,7 +9,7 @@ Read the text below.
 
 [[Question:DB]]
 [[ID: RateBA13ratetext]]
-"Title: The Controversial Advocacy for a Smoking Ban in Public Places: An Objective Examination of its Pros and Cons Introduction The debate surrounding the prohibition of smoking in public places is a contentious issue, eliciting a myriad of reactions from different stakeholders. While some argue that it invades personal freedom, others contend that it is a necessary measure to safeguard public health. This essay will delve into the debate, weighing the arguments for and against a smoking ban in public places, before presenting a reasonable conclusion. Pros of..."
+"The Controversial Advocacy for a Smoking Ban in Public Places: An Objective Examination of its Pros and Cons Introduction The debate surrounding the prohibition of smoking in public places is a contentious issue, eliciting a myriad of reactions from different stakeholders. While some argue that it invades personal freedom, others contend that it is a necessary measure to safeguard public health. This essay will delve into the debate, weighing the arguments for and against a smoking ban in public places, before presenting a reasonable conclusion. Pros of a..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateBA13]]
@@ -24,7 +24,7 @@ Rate the text between 1 (definitely AI generated) and 4 (definitely human genera
 
 [[Question:DB]]
 [[ID: RateBA13whytext]]
-"Title: The Controversial Advocacy for a Smoking Ban in Public Places: An Objective Examination of its Pros and Cons Introduction The debate surrounding the prohibition of smoking in public places is a contentious issue, eliciting a myriad of reactions from different stakeholders. While some argue that it invades personal freedom, others contend that it is a necessary measure to safeguard public health. This essay will delve into the debate, weighing the arguments for and against a smoking ban in public places, before presenting a reasonable conclusion. Pros of..."
+"The Controversial Advocacy for a Smoking Ban in Public Places: An Objective Examination of its Pros and Cons Introduction The debate surrounding the prohibition of smoking in public places is a contentious issue, eliciting a myriad of reactions from different stakeholders. While some argue that it invades personal freedom, others contend that it is a necessary measure to safeguard public health. This essay will delve into the debate, weighing the arguments for and against a smoking ban in public places, before presenting a reasonable conclusion. Pros of a..."
 
 [[Question:TE:Essay]]
 [[ID: RateBA13why]]
@@ -34,7 +34,7 @@ Why does the text sound more or less human-like? Please write at least one sente
 
 [[Question:DB]]
 [[ID: RateBA13rwtext]]
-"Title: The Controversial Advocacy for a Smoking Ban in Public Places: An Objective Examination of its Pros and Cons Introduction The debate surrounding the prohibition of smoking in public places is a contentious issue, eliciting a myriad of reactions from different stakeholders. While some argue that it invades personal freedom, others contend that it is a necessary measure to safeguard public health. This essay will delve into the debate, weighing the arguments for and against a smoking ban in public places, before presenting a reasonable conclusion. Pros of..."
+"The Controversial Advocacy for a Smoking Ban in Public Places: An Objective Examination of its Pros and Cons Introduction The debate surrounding the prohibition of smoking in public places is a contentious issue, eliciting a myriad of reactions from different stakeholders. While some argue that it invades personal freedom, others contend that it is a necessary measure to safeguard public health. This essay will delve into the debate, weighing the arguments for and against a smoking ban in public places, before presenting a reasonable conclusion. Pros of a..."
 
 [[Question:TE:Essay]]
 [[ID: RateBA13rewrite]]
@@ -204,7 +204,7 @@ Please rewrite the text you chose as AI-generated so that it sounds more human-l
 Pick which text sounds more AI-generated.
 [[Choices]]
 1) "Rousseau put huge significance and value onto the concept of freedom, it was something he thought everyone desperately needed as a fundamental part of their humanity. Yet in his theory he demands individuals submit to the state and, more importantly to the immutable general will which acts for the benefit of all society and thus logically..."
-2) "Title: An Examination of the Impact of Rousseau's Social Contract on Individual Freedom Introduction Jean-Jacques Rousseau's Social Contract is a philosophical treatise that seeks to address the problem of governance and the role of the state in society. Rousseau presents an argument that individuals willingly concede a portion of their natural freedom to establish a social..."
+2) "An Examination of the Impact of Rousseau's Social Contract on Individual Freedom Introduction Jean-Jacques Rousseau's Social Contract is a philosophical treatise that seeks to address the problem of governance and the role of the state in society. Rousseau presents an argument that individuals willingly concede a portion of their natural freedom to establish a social contract,..."
 
 [[PageBreak]]
 
@@ -214,7 +214,7 @@ Text 1: "Rousseau put huge significance and value onto the concept of freedom, i
 
 [[Question:DB]]
 [[ID: ChoiceBA14opt2whytext]]
-Text 2: "Title: An Examination of the Impact of Rousseau's Social Contract on Individual Freedom Introduction Jean-Jacques Rousseau's Social Contract is a philosophical treatise that seeks to address the problem of governance and the role of the state in society. Rousseau presents an argument that individuals willingly concede a portion of their natural freedom to establish a social..."
+Text 2: "An Examination of the Impact of Rousseau's Social Contract on Individual Freedom Introduction Jean-Jacques Rousseau's Social Contract is a philosophical treatise that seeks to address the problem of governance and the role of the state in society. Rousseau presents an argument that individuals willingly concede a portion of their natural freedom to establish a social contract,..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA14why]]
@@ -228,7 +228,7 @@ Text 1: "Rousseau put huge significance and value onto the concept of freedom, i
 
 [[Question:DB]]
 [[ID: ChoiceBA14opt2rwtext]]
-Text 2: "Title: An Examination of the Impact of Rousseau's Social Contract on Individual Freedom Introduction Jean-Jacques Rousseau's Social Contract is a philosophical treatise that seeks to address the problem of governance and the role of the state in society. Rousseau presents an argument that individuals willingly concede a portion of their natural freedom to establish a social..."
+Text 2: "An Examination of the Impact of Rousseau's Social Contract on Individual Freedom Introduction Jean-Jacques Rousseau's Social Contract is a philosophical treatise that seeks to address the problem of governance and the role of the state in society. Rousseau presents an argument that individuals willingly concede a portion of their natural freedom to establish a social contract,..."
 
 [[Question:TE:Essay]]
 [[ID: ChoiceBA14rewrite]]

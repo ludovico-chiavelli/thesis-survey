@@ -89,7 +89,7 @@ Read the text below.
 
 [[Question:DB]]
 [[ID: RateBA11ratetext]]
-"## The Fumbled Bridge: Examining the Failure of the CMS Wellington Valley Mission The fate of the Church Missionary Society's (CMS) Wellington Valley Mission between 1822 and 1833 serves as a poignant reminder of the complexities of cultural translation and the limitations of imposing foreign solutions in a new context. While the mission's objective, the evangelization and education ofIndigenous Australians, was undeniably noble, its execution was ultimately marred by a confluence of factors, leading to a dismal failure. One primary contributor to this failure was an inherent lack..."
+"The Fumbled Bridge: Examining the Failure of the CMS Wellington Valley Mission The fate of the Church Missionary Society's (CMS) Wellington Valley Mission between 1822 and 1833 serves as a poignant reminder of the complexities of cultural translation and the limitations of imposing foreign solutions in a new context. While the mission's objective, the evangelization and education ofIndigenous Australians, was undeniably noble, its execution was ultimately marred by a confluence of factors, leading to a dismal failure. One primary contributor to this failure was an inherent lack of..."
 
 [[Question:MC:SingleAnswer:Horizontal]]
 [[ID: RateBA11]]
@@ -104,7 +104,7 @@ Rate the text between 1 (definitely AI generated) and 4 (definitely human genera
 
 [[Question:DB]]
 [[ID: RateBA11whytext]]
-"## The Fumbled Bridge: Examining the Failure of the CMS Wellington Valley Mission The fate of the Church Missionary Society's (CMS) Wellington Valley Mission between 1822 and 1833 serves as a poignant reminder of the complexities of cultural translation and the limitations of imposing foreign solutions in a new context. While the mission's objective, the evangelization and education ofIndigenous Australians, was undeniably noble, its execution was ultimately marred by a confluence of factors, leading to a dismal failure. One primary contributor to this failure was an inherent lack..."
+"The Fumbled Bridge: Examining the Failure of the CMS Wellington Valley Mission The fate of the Church Missionary Society's (CMS) Wellington Valley Mission between 1822 and 1833 serves as a poignant reminder of the complexities of cultural translation and the limitations of imposing foreign solutions in a new context. While the mission's objective, the evangelization and education ofIndigenous Australians, was undeniably noble, its execution was ultimately marred by a confluence of factors, leading to a dismal failure. One primary contributor to this failure was an inherent lack of..."
 
 [[Question:TE:Essay]]
 [[ID: RateBA11why]]
@@ -114,7 +114,7 @@ Why does the text sound more or less human-like? Please write at least one sente
 
 [[Question:DB]]
 [[ID: RateBA11rwtext]]
-"## The Fumbled Bridge: Examining the Failure of the CMS Wellington Valley Mission The fate of the Church Missionary Society's (CMS) Wellington Valley Mission between 1822 and 1833 serves as a poignant reminder of the complexities of cultural translation and the limitations of imposing foreign solutions in a new context. While the mission's objective, the evangelization and education ofIndigenous Australians, was undeniably noble, its execution was ultimately marred by a confluence of factors, leading to a dismal failure. One primary contributor to this failure was an inherent lack..."
+"The Fumbled Bridge: Examining the Failure of the CMS Wellington Valley Mission The fate of the Church Missionary Society's (CMS) Wellington Valley Mission between 1822 and 1833 serves as a poignant reminder of the complexities of cultural translation and the limitations of imposing foreign solutions in a new context. While the mission's objective, the evangelization and education ofIndigenous Australians, was undeniably noble, its execution was ultimately marred by a confluence of factors, leading to a dismal failure. One primary contributor to this failure was an inherent lack of..."
 
 [[Question:TE:Essay]]
 [[ID: RateBA11rewrite]]
