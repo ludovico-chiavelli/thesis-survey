@@ -28,6 +28,10 @@ def remove_first_sentence(text):
 
 corpus_df['MODEL_TEXT'] = corpus_df['MODEL_TEXT'].apply(remove_first_sentence)
 
+# Remove double asterisks from the text.
+corpus_df['MODEL_TEXT'] = corpus_df['MODEL_TEXT'].apply(lambda x: x.replace('**', ''))
+corpus_df['HUMAN_TEXT'] = corpus_df['HUMAN_TEXT'].apply(lambda x: x.replace('**', ''))
+
 # Remove leading and trailing whitespace from the text.
 corpus_df['MODEL_TEXT'] = corpus_df['MODEL_TEXT'].apply(lambda x: x.strip())
 corpus_df['HUMAN_TEXT'] = corpus_df['HUMAN_TEXT'].apply(lambda x: x.strip())
