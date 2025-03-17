@@ -92,6 +92,14 @@ def main():
             file.write(rateq_items[i] + "\n\n" + rateq_items[i+1] + "\n\n" + rateq_items[i+2] + "\n\n")
             file.write(choiceq_items[i] + "\n\n" + choiceq_items[i+1] + "\n\n" + choiceq_items[i+2] + "\n\n")
     
+    # Save the items to individual files.
+    for i in range(0, len(rateq_items) - 2, 3):
+        with open(f'final_corpus_survey_questions_{int(i/3) + 1}.txt', 'w') as file:
+            file.write("[[AdvancedFormat]]\n\n")
+            block_num = int(i/3) + 1
+            file.write(f"[[Block: Survey Set {block_num}]]\n\n")
+            file.write(rateq_items[i] + "\n\n" + rateq_items[i+1] + "\n\n" + rateq_items[i+2] + "\n\n")
+            file.write(choiceq_items[i] + "\n\n" + choiceq_items[i+1] + "\n\n" + choiceq_items[i+2] + "\n\n")
 
 def sample_rateq_pool(corpus_df: pd.DataFrame, seed: int) -> Tuple[list, list]:
     """
@@ -213,8 +221,7 @@ Read the text below.
 [[ID: Rate{source_corp}{index}rewrite]]
 {itemq_rewrite}
 
-[[PageBreak]]
-"""
+[[PageBreak]]"""
 
     return composition
 
@@ -243,7 +250,7 @@ def form_choiceq_item(human_text: str, llm_text: str, index: int, source_corp: s
     # Form question texts.
     itemq_choice = f"Pick which text sounds more AI-generated."
     itemq_why = f"Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful."
-    itemq_rewrite = f"Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from below (the radio buttons cannot be highlighted):\n"
+    itemq_rewrite = f"Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)"
 
     composition = f"""
 [[Question:MC:SingleAnswer:Vertical]]
@@ -281,8 +288,7 @@ Text 2: "{opt2}"
 [[ID: Choice{source_corp}{index}rewrite]]
 {itemq_rewrite}
 
-[[PageBreak]]
-"""
+[[PageBreak]]"""
 
     return composition
 
