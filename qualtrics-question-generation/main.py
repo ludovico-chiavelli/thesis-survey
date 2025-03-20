@@ -33,23 +33,24 @@ def main():
     # Fixed indeces to select the same texts for all participants. These are taken from the final_corpus by hand, at my discretion.
     # If viewing excel, remember that the row numbers are 0-indexed and that when loading a csv the header is not counted as a row. 
     # So add 2 to the row number in the csv to get the row number in the excel file.
-    rateq_indeces = {
-        "ef_llama_entries": [0, 1, 2],
-        "ef_gemma_entries": [],
-        "ef_mistral_entries": [],
-        "ba_llama_entries": [],
-        "ba_gemma_entries": [],
-        "ba_mistral_entries": []
-    }
+    # Currently not in use.
+    # rateq_indeces = {
+    #     "ef_llama_entries": [0, 1, 2],
+    #     "ef_gemma_entries": [],
+    #     "ef_mistral_entries": [],
+    #     "ba_llama_entries": [],
+    #     "ba_gemma_entries": [],
+    #     "ba_mistral_entries": []
+    # }
 
-    choiceq_indeces = {
-        "ef_llama_entries": [],
-        "ef_gemma_entries": [],
-        "ef_mistral_entries": [],
-        "ba_llama_entries": [],
-        "ba_gemma_entries": [],
-        "ba_mistral_entries": []
-    }
+    # choiceq_indeces = {
+    #     "ef_llama_entries": [],
+    #     "ef_gemma_entries": [],
+    #     "ef_mistral_entries": [],
+    #     "ba_llama_entries": [],
+    #     "ba_gemma_entries": [],
+    #     "ba_mistral_entries": []
+    # }
 
     # Sample rate question pool.
     ef_rateq_pool, bawe_rateq_pool = sample_rateq_pool(corpus_df, seed=random.randint(0, 10))
