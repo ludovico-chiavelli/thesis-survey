@@ -51,6 +51,8 @@ def generate_ss_csvs(filepath: str, output_dir: str):
         survey_set_df = survey_set_df.iloc[:, first_question_index:first_question_index + 18]
         # Append at the beginning the first 17 columns, which contain demographics and metadata
         survey_set_df = pd.concat([responses_df.iloc[:, :17], survey_set_df], axis=1)
+        # Add score column
+        survey_set_df["SC0"] = responses_df["SC0"].str.strip()
 
         
         # Print the number of rows in each survey set
