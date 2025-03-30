@@ -53,7 +53,10 @@ def generate_ss_csvs(filepath: str, output_dir: str):
         # Add the first 17 columns from responses. These contain metadata and demographic information. Select only the rows that exist in the survey set
         # Get the metadata columns (the first 17 columns)
         metadata_columns = responses_df.columns[:17]
-        survey_set_df = responses_df[metadata_columns].join(survey_set_df, how='inner') # ensure column order is same as Qualtrics exported file
+        # Get score column
+        score_column = responses_df["SC0"].str.strip()
+        # Add the score column to the DataFrame
+        survey_set_df = responses_df[metadata_columns].join(survey_set_df, how='inner').join(score_column, how='inner')
 
 
         
