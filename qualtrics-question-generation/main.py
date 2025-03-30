@@ -58,6 +58,7 @@ def main():
     # Sample choice question pool.
     ef_choiceq_pool, bawe_choiceq_pool = sample_choiceq_pool(corpus_df, seed=random.randint(0, 10))
 
+
     # Form rate question items.
     rateq_items = []
     for i in range(len(ef_rateq_pool)): # ef_rateq_pool is same length as bawe_rateq_pool
@@ -99,20 +100,35 @@ def sample_rateq_pool(corpus_df: pd.DataFrame, seed: int) -> Tuple[list, list]:
     bawe_rows = corpus_df[corpus_df['CORPUS'] == 'BAWE']
 
     # Sample 6 texts from each LLM model for EFCAMDAT entries. Use column MODEL_NAME to get the LLM text.
-    ef_llama_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["llama"]]["MODEL_TEXT"].sample(n=6, random_state=seed, replace=False).tolist()
-    ef_gemma_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["gemma"]]["MODEL_TEXT"].sample(n=6, random_state=seed, replace=False).tolist()
-    ef_mistral_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["mistral"]]["MODEL_TEXT"].sample(n=6, random_state=seed, replace=False).tolist()
+    ef_llama_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["llama"]]["MODEL_TEXT"].sample(n=6, random_state=seed, replace=False)
+    ef_gemma_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["gemma"]]["MODEL_TEXT"].sample(n=6, random_state=seed, replace=False)
+    ef_mistral_entries = ef_rows[ef_rows["MODEL_NAME"] == mn_to_fn["mistral"]]["MODEL_TEXT"].sample(n=6, random_state=seed, replace=False)
 
     # Sample 6 texts from each LLM model for BAWE entries. Use column MODEL_NAME to get the LLM text.
-    bawe_llama_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["llama"]]["MODEL_TEXT"].sample(n=6, random_state=seed, replace=False).tolist()
-    bawe_gemma_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["gemma"]]["MODEL_TEXT"].sample(n=6, random_state=seed, replace=False).tolist()
-    bawe_mistral_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["mistral"]]["MODEL_TEXT"].sample(n=6, random_state=seed, replace=False).tolist()
+    bawe_llama_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["llama"]]["MODEL_TEXT"].sample(n=6, random_state=seed, replace=False)
+    bawe_gemma_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["gemma"]]["MODEL_TEXT"].sample(n=6, random_state=seed, replace=False)
+    bawe_mistral_entries = bawe_rows[bawe_rows["MODEL_NAME"] == mn_to_fn["mistral"]]["MODEL_TEXT"].sample(n=6, random_state=seed, replace=False)
 
-    # Combine all ef entries into one list.
-    ef_entries = ef_llama_entries + ef_gemma_entries + ef_mistral_entries
+    # Note the indeces used
+    with open('sampled_rateq_indeces.txt', 'w') as file:
+        for index in ef_llama_entries.index:
+            file.write(f"EFCAMDAT - LLAMA: {index}\n")
+        for index in ef_gemma_entries.index:
+            file.write(f"EFCAMDAT - GEMMA: {index}\n")
+        for index in ef_mistral_entries.index:
+            file.write(f"EFCAMDAT - MISTRAL: {index}\n")
+        for index in bawe_llama_entries.index:
+            file.write(f"BAWE - LLAMA: {index}\n")
+        for index in bawe_gemma_entries.index:
+            file.write(f"BAWE - GEMMA: {index}\n")
+        for index in bawe_mistral_entries.index:
+            file.write(f"BAWE - MISTRAL: {index}\n")
 
-    # Combine all bawe entries into one list.
-    bawe_entries = bawe_llama_entries + bawe_gemma_entries + bawe_mistral_entries
+    # Concat all ef entries into one list.
+    ef_entries = ef_llama_entries.tolist() + ef_gemma_entries.tolist() + ef_mistral_entries.tolist()
+
+    # Concat all bawe entries into one list.
+    bawe_entries = bawe_llama_entries.tolist() + bawe_gemma_entries.tolist() + bawe_mistral_entries.tolist()
 
     return ef_entries, bawe_entries
 
@@ -144,12 +160,27 @@ def sample_choiceq_pool(corpus_df: pd.DataFrame, seed: int) -> Tuple[list[Tuple[
     ef_entries = []
     bawe_entries = []
 
+    indeces = []
+
     for model_entries in ef_model_entries:
         for index, row in model_entries.iterrows():
             ef_entries.append((row["HUMAN_TEXT"], row["MODEL_TEXT"]))
+            # Note down the index
+            indeces.append(index)
     for model_entries in bawe_model_entries:
         for index, row in model_entries.iterrows():
             bawe_entries.append((row["HUMAN_TEXT"], row["MODEL_TEXT"]))
+            # Note down the index
+            indeces.append(index)
+    
+    # Write the indeces to a file for future reference.
+    with open('sampled_choiceq_indeces.txt', 'w') as file:
+        for i, index in enumerate(indeces[:18]):  # First 18 indices correspond to EFCAMDAT
+            model = ["LLAMA", "GEMMA", "MISTRAL"][i // 6]
+            file.write(f"EFCAMDAT - {model}: {index}\n")
+        for i, index in enumerate(indeces[18:]):  # Remaining indices correspond to BAWE
+            model = ["LLAMA", "GEMMA", "MISTRAL"][i // 6]
+            file.write(f"BAWE - {model}: {index}\n")
 
     return ef_entries, bawe_entries
 

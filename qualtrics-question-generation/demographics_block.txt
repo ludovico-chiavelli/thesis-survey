@@ -1,0 +1,54 @@
+[[AdvancedFormat]]
+
+[[Block: Demographics]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+[[ID: Age]]
+State your age range.
+[[Choices]]
+18-24
+25-34
+35-44
+45-54
+55-64
+65 or older
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: English Level]]
+What is your level of English proficiency?
+[[Choices]]
+Native speaker
+Fluent (C1/C2)
+Intermediate (B1/B2)
+Beginner (A1/A2)
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: LLM Familiarity]]
+Have you used a Large Language Model (LLM) before? This includes ChatGPT, Gemini, Claude, or any other AI chatbot released after 2022.
+[[Choices]]
+Yes
+No
+I can't remember/Not sure
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: Gender]]
+What is your gender?
+[[Choices]]
+Man
+Woman
+Transgender
+Non-binary/non-conforming
+Prefer not to say
+
+[[Question:MC:SingleAnswer:Vertical]]
+[[ID: Occupation]]
+State your occupation.
+[[Choices]]
+Student
+Education/Academia
+Finance and Insurance
+Government and Public Administration
+Healthcare and Social Assistance
+Information Technology (IT) and Software Development
+Legal Services
+Science, Research, and Engineering
