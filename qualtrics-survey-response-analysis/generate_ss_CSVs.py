@@ -43,6 +43,10 @@ def generate_ss_csvs(filepath: str, output_dir: str):
 
         # Select all the rows for that survey set
         survey_set_df = responses_df[responses_df[first_question].notna()]
+
+        # Remove all columns that contain at least 1 empty value. This should apply only to columns (i.e. questions) that were not shown to the participant
+        # and therefore have no responses.
+        survey_set_df = survey_set_df.dropna(axis=1, how='any')
         
         # Print the number of rows in each survey set
         print(f"Survey set {survey_set_number} has {len(survey_set_df)} responses.")
