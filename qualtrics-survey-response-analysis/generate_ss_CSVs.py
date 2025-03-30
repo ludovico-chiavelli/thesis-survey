@@ -49,10 +49,12 @@ def generate_ss_csvs(filepath: str, output_dir: str):
         first_question_index = responses_df.columns.get_loc(first_question)
         # Select the next 18 columns
         survey_set_df = survey_set_df.iloc[:, first_question_index:first_question_index + 18]
-        # Append at the beginning the first 17 columns, which contain demographics and metadata
-        survey_set_df = pd.concat([responses_df.iloc[:, :17], survey_set_df], axis=1)
-        # Add score column
-        survey_set_df["SC0"] = responses_df["SC0"].str.strip()
+        
+        # Add the first 17 columns from responses. These contain metadata and demographic information. Select only the rows that exist in the survey set
+        # Get the metadata columns (the first 17 columns)
+        metadata_columns = responses_df.columns[:17]
+        survey_set_df = responses_df[metadata_columns].join(survey_set_df, how='inner') # ensure column order is same as Qualtrics exported file
+
 
         
         # Print the number of rows in each survey set
