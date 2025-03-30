@@ -44,9 +44,14 @@ def generate_ss_csvs(filepath: str, output_dir: str):
         # Select all the rows for that survey set
         survey_set_df = responses_df[responses_df[first_question].notna()]
 
-        # Remove all columns that contain at least 1 empty value. This should apply only to columns (i.e. questions) that were not shown to the participant
-        # and therefore have no responses.
-        survey_set_df = survey_set_df.dropna(axis=1, how='any')
+        # Select the next 18 columns (each item has 3 questions, so 3 * 6 = 18)
+        # Get the column index of the first question
+        first_question_index = responses_df.columns.get_loc(first_question)
+        # Select the next 18 columns
+        survey_set_df = survey_set_df.iloc[:, first_question_index:first_question_index + 18]
+        # Append at the beginning the first 17 columns, which contain demographics and metadata
+        survey_set_df = pd.concat([responses_df.iloc[:, :17], survey_set_df], axis=1)
+
         
         # Print the number of rows in each survey set
         print(f"Survey set {survey_set_number} has {len(survey_set_df)} responses.")
@@ -63,4 +68,3 @@ if __name__ == "__main__":
     output_directory = curr_dir  / Path("survey-set-responses")  # Replace with your desired output directory
     generate_ss_csvs(input_filepath, output_directory)
 
-    
