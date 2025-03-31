@@ -89,14 +89,14 @@ def calculate_rate_or_choice_q_score_average(ss_list: dict[pd.DataFrame], mask: 
                 total_response_score = int(row["SC0"])
                 total_score += total_response_score - response_row_score
             
-            if mode == "Rate" or mode == "Choice":    
-                # Add 1 to the total count
-                total_count += 1
-            elif "BA" in mask or "EF" in mask:
+            if mask == r"RateBA\d+$" or r"RateEF\d+$" ==  mask:
                 # As the amount of RateBA and RateEF alternates between 1 and 2 in the survey sets
                 # this elif statement is necessary so we can calculate the average score for BA and EF questions
                 # We'll add the total amount of BA or EF columns filtered to the count instead, so the maximum score becomes 1
                 total_count += len(filtered_df.columns) - 1 # -1 because we have the SC0 column
+            elif mode == "Rate" or mode == "Choice":    
+                # Add 1 to the total count
+                total_count += 1
 
     # If there are no valid scores, return 0
 
