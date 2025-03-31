@@ -47,7 +47,7 @@ def calculate_rate_or_choice_q_score_average(ss_list: dict[pd.DataFrame], mask: 
     total_score = 0
     total_count = 0
 
-    for name, df in ss_list.items():
+    for _, df in ss_list.items():
         # print(f"Processing survey set: {name}")
         # Skip the first 2 rows of each DataFrame.
         df = df.iloc[2:, :]
@@ -104,6 +104,37 @@ def calculate_rate_or_choice_q_score_average(ss_list: dict[pd.DataFrame], mask: 
         return 0.0
     return total_score / total_count
 
+def calculate_choice_q_score_average(ss_list: dict[pd.DataFrame], mask: str) -> float:
+    """
+    Similar to calculate_rate_or_choice_q_score_average, but for choice questions and uses a correct_choiceq_answers dict.
+    """
+    total_score = 0
+    total_count = 0
+
+    for name, df in ss_list.items():
+        # print(f"Processing survey set: {name}")
+        # Skip the first 2 rows of each DataFrame.
+        df = df.iloc[2:, :]
+
+        # For example, if mask = "ChoiceEF", this will select all columns that contain "ChoiceEF"
+        # If mask = "ChoiceBA", this will select all columns that contain "ChoiceBA"
+
+        filtered_df = df.filter(regex=mask)
+
+        for index, row in filtered_df.iterrows():
+            # Check if the column contains the correct answer for that question
+
+            response_row_score = 0
+            for col_name, value in row.items():
+                if value == correct_choiceq_answers[col_name]:
+                    response_row_score += 1
+                total_count += len(filtered_df.columns) # we are counting average score per question, not response.
+            # Add the score to the total score
+            total_score += response_row_score
+    # If there are no valid scores, return 0
+    if total_count == 0:
+        return 0.0
+    return total_score / total_count
 
 if __name__ == "__main__":
     
@@ -146,12 +177,6 @@ if __name__ == "__main__":
     percentage_rate_only_score = rate_only_score / 3 * 100
     print(f"The average score for rate type questions is: {percentage_rate_only_score}%. Max score is 3.")
 
-    # Calculate the average score for Choice-type questions
-    mask = r"Rate(EF|BA)\d+$" # For mode "Choice", we have to select any Rate question in the response.
-    choice_only_score = calculate_rate_or_choice_q_score_average(ss_list, mask, mode="Choice")
-    percentage_choice_only_score = choice_only_score / 3 * 100
-    print(f"The average score for choice type questions is: {percentage_choice_only_score}%. Max score is 3.")
-    
     # Calculate the average score for Rate-type questions, sourced from BA
     mask = r"RateBA\d+$"
     rate_ba_score = calculate_rate_or_choice_q_score_average(ss_list, mask, mode="Rate")
@@ -161,3 +186,19 @@ if __name__ == "__main__":
     mask = r"RateEF\d+$"
     rate_ef_score = calculate_rate_or_choice_q_score_average(ss_list, mask, mode="Rate")
     print(f"The average score for rate EF questions is: {rate_ef_score}. Max score is 1.")
+    
+    # Calculate the average score for Choice-type questions
+    mask = r"Rate(EF|BA)\d+$" # For mode "Choice", we have to select any Rate question in the response.
+    choice_only_score = calculate_rate_or_choice_q_score_average(ss_list, mask, mode="Choice")
+    percentage_choice_only_score = choice_only_score / 3 * 100
+    print(f"The average score for choice type questions is: {percentage_choice_only_score}%. Max score is 3.")
+
+    # Calculate the average score for Choice-type questions, sourced from BA
+    mask = r"ChoiceBA\d+$"
+    choice_ba_score = calculate_choice_q_score_average(ss_list, mask)
+    print(f"The average score for choice BA questions is: {choice_ba_score}. Max score is 1.")
+
+    # Calculate the average score for Choice-type questions, sourced from EF
+    mask = r"ChoiceEF\d+$"
+    choice_ef_score = calculate_choice_q_score_average(ss_list, mask)
+    print(f"The average score for choice EF questions is: {choice_ef_score}. Max score is 1.")
