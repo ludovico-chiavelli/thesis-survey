@@ -1,6 +1,7 @@
 import pandas as pd
 from pathlib import Path
 from survey_scoring import correct_choiceq_answers
+from statistics import mean
 
 def calculate_average_score(ss_list: dict[pd.DataFrame]) -> float:
     """
@@ -202,3 +203,11 @@ if __name__ == "__main__":
     mask = r"ChoiceEF\d+$"
     choice_ef_score = calculate_choice_q_score_average(ss_list, mask)
     print(f"The average score for choice EF questions is: {choice_ef_score}. Max score is 1.")
+
+    # Calculate the average score for BAWE (AKA BA) corpus questions
+    average_BA_score = mean([rate_ba_score, choice_ba_score])
+    print(f"The average score for BAWE questions is: {average_BA_score}. Max score is 1.")
+
+    # Calculate the average score for EFCAMDAT (AKA EF) corpus questions
+    average_EF_score = mean([rate_ef_score, choice_ef_score])
+    print(f"The average score for EFCAMDAT questions is: {average_EF_score}. Max score is 1.")
