@@ -4,6 +4,10 @@ import pandas as pd
 from pathlib import Path
 import re
 
+import sys
+sys.path.append("/home/nuvolari/GitHub/thesis-survey/qualtrics-survey-response-analysis") # a quick hack to import the survey_scoring module
+from survey_scoring import correct_choiceq_answers
+
 ORIGINAL_SURVEY_GEN_DF = pd.read_csv("/home/nuvolari/GitHub/thesis-survey/final-fullcorpus/final_corpus_cleaned_fsr_survey_marks.csv")
 
 # MODEL_NAME to short name mapping
@@ -22,9 +26,15 @@ def main():
     # Generate the main DataFrame with rate-type questions
     rateq_main_df = generate_rateq_main_df(survey_set_files)
 
-    # Save the DataFrame to a CSV file
-    output_file = "survey_set_main_df.csv"
+    # Save the rateq DataFrame to a CSV file
+    output_file = "survey_set_rateq_main_df.csv"
     rateq_main_df.to_csv(output_file, index=False)
+
+    # Generate the main DataFrame with choice-type questions
+    choiceq_main_df = geberate_choiceq_main_df(survey_set_files)
+    # Save the choiceq DataFrame to a CSV file
+    output_file = "survey_set_choiceq_main_df.csv"
+    choiceq_main_df.to_csv(output_file, index=False)
 
 def generate_rateq_main_df(survey_set_files: list) -> pd.DataFrame:
     """
@@ -146,6 +156,132 @@ def generate_rateq_main_df(survey_set_files: list) -> pd.DataFrame:
                 all_survey_data = pd.concat([all_survey_data, pd.DataFrame([response_row])], ignore_index=True)
         
     return all_survey_data
+
+def geberate_choiceq_main_df(survey_set_files: list) -> pd.DataFrame:
+    """
+    Generates a main DataFrame with choice-type questions from all survey sets.
+    """
+
+    # Columns for the final DataFrame
+    columns = [
+        "ss_num",
+        "response_id",
+        "question_id", 
+        "prompt_topic",
+        "chosen_text",
+        "corpus",
+        "original_model",
+        "human_label",
+        "true_label"
+    ]
+        
+    # Initialize an empty DataFrame to hold all survey set data
+    all_survey_data = pd.DataFrame(columns=columns)
+
+    # Loop through each survey set file
+    for file in survey_set_files:
+        ss_num = file.stem.split("_")[-1]
+        # Read the CSV file
+        survey_data = pd.read_csv(file)
+        
+        # Iterate over file rows, starting from the 3rd row
+        # and skipping the first two rows
+        # to get the relevant data
+        
+        for index, row in survey_data.iloc[2:].iterrows():
+            
+            response_id = row["ResponseId"]
+
+            # Extract the rate question IDs using columns. Search pattern is "Rate" + "EF" or "BA" and a number then terminate.
+            search_pattern = re.compile(r"Choice(EF|BA)\d+$")
+            rate_question_ids = [col for col in survey_data.columns if search_pattern.search(col)]
+
+            # Find the following for the question ID in the ORIGINAL_SURVEY_GEN_FILEPATH.
+            # Get the topic for each question ID
+            # Get the LLM text
+            # Get the LLM name
+            # Mark the corpus
+            q_id_metadata_map = {}
+            
+            for question_id in rate_question_ids:
+                q_id_metadata_map[question_id] = {
+                    "topic": None,
+                    "chosen_text": None,
+                    "llm_name": None,
+                    "corpus": None,
+                    "human_label": None,
+                    "true_label": None
+                }
+                # Get the topic for each question ID
+                if question_id == "ChoiceEF6":
+                    # Special case for ChoiceEF6 that is entered twice in the DF due to having to select between two different rows.
+                    # One is marked as ChoiceEF6-human and the other is ChoiceEF6-llm to signify they are both in the same question.
+                    topic = ORIGINAL_SURVEY_GEN_DF.loc[ORIGINAL_SURVEY_GEN_DF["SURVEY_ITEM"] == "ChoiceEF6-human", "TOPIC"].values[0]
+                    
+                    # Get the LLM name
+                    model_name = ORIGINAL_SURVEY_GEN_DF.loc[ORIGINAL_SURVEY_GEN_DF["SURVEY_ITEM"] == "ChoiceEF6-human", "MODEL_NAME"].values[0]
+                    llm_name = MODEL_NAME_MAP.get(model_name, "unknown")
+                    q_id_metadata_map[question_id]["llm_name"] = llm_name
+                else:
+                    topic = ORIGINAL_SURVEY_GEN_DF.loc[ORIGINAL_SURVEY_GEN_DF["SURVEY_ITEM"] == question_id, "TOPIC"].values[0]
+                    
+                    # Get the LLM name
+                    model_name = ORIGINAL_SURVEY_GEN_DF.loc[ORIGINAL_SURVEY_GEN_DF["SURVEY_ITEM"] == question_id, "MODEL_NAME"].values[0]
+                    llm_name = MODEL_NAME_MAP.get(model_name, "unknown")
+                    q_id_metadata_map[question_id]["llm_name"] = llm_name
+                
+                q_id_metadata_map[question_id]["topic"] = topic
+
+                # Set chosen text
+                chosen_text = row[question_id]
+                q_id_metadata_map[question_id]["chosen_text"] = chosen_text
+
+
+                # Mark the corpus by checking question ID
+                if "EF" in question_id:
+                    corpus = "EFCAMDAT"
+                elif "BA" in question_id:
+                    corpus = "BAWE"
+                else:
+                    corpus = "unknown"
+                q_id_metadata_map[question_id]["corpus"] = corpus
+
+                # The human label is always "model" for choice questions, as they were tasked with choosing the most AI sounding text
+                # There's no confidence score for choice questions
+                human_label = "model"
+                q_id_metadata_map[question_id]["human_label"] = human_label
+
+                # Check the true label for the question ID
+                correct_answer = correct_choiceq_answers.get(question_id, "unknown")
+
+                if chosen_text == correct_answer:
+                    true_label = "model"
+                else:
+                    true_label = "human"
+                
+                q_id_metadata_map[question_id]["true_label"] = true_label
+                response_row = {
+                    "ss_num": ss_num,
+                    "response_id": response_id,
+                    "question_id": question_id,
+                    "prompt_topic": q_id_metadata_map[question_id]["topic"],
+                    "chosen_text": q_id_metadata_map[question_id]["chosen_text"],
+                    "corpus": q_id_metadata_map[question_id]["corpus"],
+                    "original_model": q_id_metadata_map[question_id]["llm_name"],
+                    "human_label": q_id_metadata_map[question_id]["human_label"],
+                    "true_label": q_id_metadata_map[question_id]["true_label"]
+                }
+                # Append the response row to the DataFrame
+                all_survey_data = pd.concat([all_survey_data, pd.DataFrame([response_row])], ignore_index=True)
+    
+    return all_survey_data
+
+
+
+
+
+
+                
 
             
         
