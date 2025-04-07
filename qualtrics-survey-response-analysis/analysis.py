@@ -211,3 +211,16 @@ if __name__ == "__main__":
     # Calculate the average score for EFCAMDAT (AKA EF) corpus questions
     average_EF_score = mean([rate_ef_score, choice_ef_score])
     print(f"The average score for EFCAMDAT questions is: {average_EF_score}. Max score is 1.")
+
+    # Save scores to  JSON file
+    results_df = pd.DataFrame({
+        "Rate Only": [percentage_rate_only_score],
+        "Choice Only": [percentage_choice_only_score],
+        "BA Only": [average_BA_score],
+        "EF Only": [average_EF_score],
+        "Rate BA": [rate_ba_score],
+        "Rate EF": [rate_ef_score],
+        "Choice BA": [choice_ba_score],
+        "Choice EF": [choice_ef_score]
+    })
+    results_df.to_json(Path("survey_set_scores.json"), orient="records", lines=False, indent=4)
