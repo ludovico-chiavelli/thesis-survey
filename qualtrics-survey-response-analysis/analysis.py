@@ -218,7 +218,8 @@ if __name__ == "__main__":
     # Save scores to  JSON file
     results_df = pd.DataFrame({
         "Rate Only": [percentage_rate_only_score],
-        "Choice Only": [percentage_choice_only_score],
+        # The choice only score is wrong, so I'll take the average of Choice BA and EF scores
+        "Choice Only": mean([choice_ba_score, choice_ef_score]),
         "BA Only": [average_BA_score],
         "EF Only": [average_EF_score],
         "Rate BA": [rate_ba_score],
