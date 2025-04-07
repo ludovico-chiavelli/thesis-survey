@@ -3,6 +3,9 @@ from pathlib import Path
 from survey_scoring import correct_choiceq_answers
 from statistics import mean
 
+import matplotlib.pyplot as plt
+import seaborn as sns
+
 def calculate_average_score(ss_list: dict[pd.DataFrame]) -> float:
     """
     Calculate the average score for a list of DataFrames.
@@ -175,7 +178,7 @@ if __name__ == "__main__":
     # Calculate the average score for Rate-type questions
     mask = r"Rate(EF|BA)\d+$"
     rate_only_score = calculate_rate_or_choice_q_score_average(ss_list, mask, mode="Rate")
-    percentage_rate_only_score = rate_only_score / 3 * 100
+    percentage_rate_only_score = rate_only_score / 3
     print(f"The average score for rate type questions is: {percentage_rate_only_score}%. Max score is 3.")
 
     # Calculate the average score for Rate-type questions, sourced from BA
@@ -191,7 +194,7 @@ if __name__ == "__main__":
     # Calculate the average score for Choice-type questions
     mask = r"Rate(EF|BA)\d+$" # For mode "Choice", we have to select any Rate question in the response.
     choice_only_score = calculate_rate_or_choice_q_score_average(ss_list, mask, mode="Choice")
-    percentage_choice_only_score = choice_only_score / 3 * 100
+    percentage_choice_only_score = choice_only_score / 3
     print(f"The average score for choice type questions is: {percentage_choice_only_score}%. Max score is 3.")
 
     # Calculate the average score for Choice-type questions, sourced from BA
@@ -224,3 +227,16 @@ if __name__ == "__main__":
         "Choice EF": [choice_ef_score]
     })
     results_df.to_json(Path("survey_set_scores.json"), orient="records", lines=False, indent=4)
+
+    # Plot the results
+
+    plt.figure(figsize=(10, 6))
+    sns.set_theme(style="whitegrid")
+    sns.barplot(data=results_df, palette="pastel")
+    plt.title("Survey Set Scores")
+    plt.xlabel("Survey Set")
+    plt.ylabel("Score")
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.savefig("survey_set_scores.png")
+    
