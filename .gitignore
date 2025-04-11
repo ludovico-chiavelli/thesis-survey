@@ -2,3 +2,4 @@ thesis_survey_env
 /CORPUS_TXT
 final-fullcorpus/efcamdat.csv
 .vscode/
+*.pyc
