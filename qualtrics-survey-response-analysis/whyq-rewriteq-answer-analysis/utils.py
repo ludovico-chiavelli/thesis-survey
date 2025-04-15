@@ -42,9 +42,14 @@ def count_ngrams(text: str, n: int) -> dict:
 
 def normalize_text(text: str, lowercase: bool, remove_stopwords: bool, remove_punct: bool) -> str:
     """
-    Normalize text using SpaCy. This lowercases, lemmatizes, and removes stop words.
+    Normalize text using SpaCy. This lowercases, lemmatizes, and removes stop words or punctuation.
+
     Args:
-        text (str): The input text. Inspired by https://stackoverflow.com/a/49248776/13940304
+        text (str): The input text.
+        lowercase (bool): Whether to convert text to lowercase.
+        remove_stopwords (bool): Whether to remove stop words.
+        remove_punct (bool): Whether to remove punctuation.
+
     Returns:
         str: The normalized text.
     """
@@ -68,7 +73,7 @@ def normalize_text(text: str, lowercase: bool, remove_stopwords: bool, remove_pu
 def plot_ngram_bargraph(ngram_df: pd.DataFrame, n: int, output_dir: Path):
     """
     Plot a bar graph of n-grams.
-    
+
     Args:
         ngram_df (pd.DataFrame): DataFrame containing n-grams and their counts.
         n (int): The size of the n-grams.
