@@ -6,7 +6,8 @@ import pandas as pd
 import re
 import tqdm
 
-unfilterd_corpus = Path('/home/nuvolari/GitHub/thesis-llm-corpus/combine-partials/final_corpus.csv').resolve()
+final_corpus_dir = Path(__file__).parent.parent.parent # This assumes thesis-llm-corpus repo and this repo are in the same folder.
+unfilterd_corpus = final_corpus_dir / "thesis-llm-corpus" / "combine-partials" / "final_corpus_uncleaned_unfiltered.csv"
 corpus_df = pd.read_csv(unfilterd_corpus, dtype=str)
 
 # Remove rows with empty MODEL_TEXT or HUMAN_TEXT columns.
