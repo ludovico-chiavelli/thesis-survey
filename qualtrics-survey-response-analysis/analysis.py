@@ -233,10 +233,22 @@ if __name__ == "__main__":
 
     plt.figure(figsize=(10, 6))
     sns.set_theme(style="whitegrid")
-    sns.barplot(data=results_df, palette="pastel")
+    ax = sns.barplot(data=results_df)
+
+    # Annotate the bars with their values
+    for bar in ax.patches:
+        height = bar.get_height()
+        ax.text(
+            bar.get_x() + bar.get_width() / 2,  # X-coordinate
+            height,  # Y-coordinate
+            f'{height:.2f}',  # Text to display (formatted to 2 decimal places)
+            ha='center',  # Horizontal alignment
+            va='bottom'   # Vertical alignment
+        )
+
     plt.title("Survey Set Scores")
     plt.xlabel("Survey Set")
-    plt.ylabel("Score")
+    plt.ylabel("Accuracy")
     plt.xticks(rotation=45)
     plt.tight_layout()
     plt.savefig("survey_set_scores.png")
