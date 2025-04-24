@@ -2,10 +2,11 @@ from pathlib import Path
 import pandas as pd
 import tqdm
 
-unfilterd_corpus = Path('/home/nuvolari/GitHub/thesis-survey/final-fullcorpus/final_corpus_cleaned_first_sentence_removed.csv').resolve()
+intermediate_corpus_files_dir = Path('intermediate-corpus-files').resolve()
+unfilterd_corpus = intermediate_corpus_files_dir / 'final_corpus_cleaned_first_sentence_removed.csv'
 corpus_df = pd.read_csv(unfilterd_corpus, dtype=str)
 
-wordlist_filepath = Path('/home/nuvolari/GitHub/thesis-survey/final-fullcorpus/LDNOOBW-en.txt').resolve()
+wordlist_filepath = Path('LDNOOBW-en.txt').resolve()
 with open(wordlist_filepath, 'r') as file:
     # Strip newline characters from the words.
     wordlist = [line.strip() for line in file.readlines()]
@@ -30,5 +31,7 @@ for index in indeces_to_drop:
 
 # Save the filtered dataframe to a new file.
 file_name = 'final_corpus_filtered_texts.csv'
-corpus_df.to_csv(file_name, index=False)
-print(f"Filtered corpus saved to {file}")
+output_dir = Path('intermediate-corpus-files').resolve()
+output_path = output_dir / file_name
+corpus_df.to_csv(output_path, index=False)
+print(f"Filtered corpus saved to {file_name}")
