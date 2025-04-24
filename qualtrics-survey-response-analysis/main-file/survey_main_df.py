@@ -5,7 +5,8 @@ from pathlib import Path
 import re
 
 import sys
-sys.path.append("/home/nuvolari/GitHub/thesis-survey/qualtrics-survey-response-analysis") # a quick hack to import the survey_scoring module
+# a quick hack to import the survey_scoring module. I know full well this is not best practice, but I was already too deep into it and couldn't get relative imports to work properly. So to not fiddle with it more than necesary and risk breaking things and waste time, I've left it as is.
+sys.path.append("/home/nuvolari/GitHub/thesis-survey/qualtrics-survey-response-analysis") 
 from survey_scoring import correct_choiceq_answers
 
 ORIGINAL_SURVEY_GEN_DF = pd.read_csv("/home/nuvolari/GitHub/thesis-survey/final-fullcorpus/final_corpus_cleaned_fsr_survey_marks.csv")
