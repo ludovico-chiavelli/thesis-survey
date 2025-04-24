@@ -1,5 +1,5 @@
 thesis_survey_env
-/CORPUS_TXT
-final-fullcorpus/efcamdat.csv
+final-fullcorpus/human-corpora/BAWE_CORPUS_TXT/*
 .vscode/
+final-fullcorpus/human-corpora/efcamdat.csv
 *.pyc
