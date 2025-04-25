@@ -8,6 +8,8 @@ Pay attention that there are some more README.md files in some of the folders wi
 
 ## Install requirements.txt
 
+To install this program simply git clone Th.
+
 Run `pip install requirements.txt`. This project uses Python 3.10.12.
 
 ## Steps for using
