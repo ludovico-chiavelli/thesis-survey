@@ -4,6 +4,12 @@ This repo is part of a group of three repositories for my thesis.
 
 The purpose of this one is to process survey creation-related files.
 
+Pay attention that there are some more README.md files in some of the folders with extra instructions and clarifications.
+
+## Install requirements.txt
+
+Run `pip install requirements.txt`. This project uses Python 3.10.12.
+
 ## Steps for using
 
 1. You'll use `extracting_topics/extract_topics_bawe.py` and `extracting_topics/extract_topics_efcamdat.py` to extract the topics from the respective corpora.
