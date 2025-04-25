@@ -17,8 +17,9 @@ import random
 
 def main():
     # Load all B1 and above topics from EFCAMDAT and all essay topics from BAWE.
-    ef_topics_file = Path('/home/nuvolari/GitHub/thesis-survey/extracting_topics/b1_and_above_topics.txt').resolve()
-    bawe_topics_file = Path('/home/nuvolari/GitHub/thesis-survey/extracting_topics/bawe_essay_topics.txt').resolve()
+    extracting_topics_dir = Path(__file__).parent.parent / 'extracting_topics'
+    ef_topics_file = Path(extracting_topics_dir / 'b1_and_above_topics.txt').resolve()
+    bawe_topics_file = Path(extracting_topics_dir / 'bawe_essay_topics.txt').resolve()
 
     with open(ef_topics_file, 'r') as file:
         ef_topics = [line.strip() for line in file.readlines()]
