@@ -6,7 +6,8 @@ import pandas as pd
 import re
 import tqdm
 
-unfilterd_corpus = Path('/home/nuvolari/GitHub/thesis-llm-corpus/combine-partials/final_corpus.csv').resolve()
+project_dir = Path(__file__).parent.parent.parent # This assumes thesis-llm-corpus repo and this repo are in the same folder.
+unfilterd_corpus = project_dir / "thesis-llm-corpus" / "combine-partials" / "final_corpus_uncleaned_unfiltered.csv"
 corpus_df = pd.read_csv(unfilterd_corpus, dtype=str)
 
 # Remove rows with empty MODEL_TEXT or HUMAN_TEXT columns.
@@ -46,5 +47,7 @@ corpus_df['HUMAN_TEXT'] = corpus_df['HUMAN_TEXT'].apply(lambda x: x.strip())
 
 # Save the cleaned dataframe to a new file.
 file_name = 'final_corpus_cleaned_first_sentence_removed.csv'
-corpus_df.to_csv(file_name, index=False)
+output_dir = Path('intermediate-corpus-files').resolve()
+output_path = output_dir / file_name
+corpus_df.to_csv(output_path, index=False)
 print(f"Cleaned corpus saved to {file_name}")

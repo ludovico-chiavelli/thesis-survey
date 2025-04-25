@@ -17,30 +17,24 @@ import random
 
 def main():
     # Load all B1 and above topics from EFCAMDAT and all essay topics from BAWE.
-    ef_topics_file = Path('/home/nuvolari/GitHub/thesis-survey/extracting_topics/b1_and_above_topics.txt').resolve()
-    bawe_topics_file = Path('/home/nuvolari/GitHub/thesis-survey/extracting_topics/bawe_essay_topics.txt').resolve()
+    extracting_topics_dir = Path(__file__).parent.parent / 'extracting_topics'
+    ef_topics_file = Path(extracting_topics_dir / 'b1_and_above_topics.txt').resolve()
+    bawe_topics_file = Path(extracting_topics_dir / 'bawe_essay_topics.txt').resolve()
 
     with open(ef_topics_file, 'r') as file:
         ef_topics = [line.strip() for line in file.readlines()]
     with open(bawe_topics_file, 'r') as file:
         bawe_topics = [line.strip() for line in file.readlines()]
 
-    # Filter out bad topics.
-    wordlist_filepath = Path('/home/nuvolari/GitHub/thesis-survey/final-fullcorpus/cmu-bad-words.txt').resolve()
-    with open(wordlist_filepath, 'r') as file:
-        wordlist = file.readlines()
-    
-    filtered_ef_topics = filter_bad_topics(ef_topics, wordlist)
-    filtered_bawe_topics = filter_bad_topics(bawe_topics, wordlist)
 
     # Generate prompts for EFCAMDAT and BAWE topics.
     efcamdat_context = "You are an English learner.Your native language is not English. You are currently at B1 level."
     bawe_context = "You are a university student."
 
-    efcamdat_topic_prompt_items = generate_topic_prompt_items(filtered_ef_topics, efcamdat_context, crps_name='EFCAMDAT')
-    bawe_topic_prompt_items = generate_topic_prompt_items(filtered_bawe_topics, bawe_context, crps_name='BAWE')
+    efcamdat_topic_prompt_items = generate_topic_prompt_items(ef_topics, efcamdat_context, crps_name='EFCAMDAT')
+    bawe_topic_prompt_items = generate_topic_prompt_items(bawe_topics, bawe_context, crps_name='BAWE')
 
-    # Save prompts to a file.
+    # Save prompts to a file for potential later use.
     with open('final_corpus_prompts.txt', 'w') as file:
         for item in efcamdat_topic_prompt_items:
             file.write(item['prompt_text'] + '\n')
@@ -52,7 +46,7 @@ def main():
     
     # Add human text from efcamdat
     print('Opening EFCAMDAT corpus...')
-    ef_corpus = Path('/home/nuvolari/GitHub/thesis-survey/final-fullcorpus/efcamdat.csv').resolve()
+    ef_corpus = Path('human-corpora/efcamdat.csv').resolve()
     efcd_df = pd.read_csv(ef_corpus)
     for item in tqdm.tqdm(efcamdat_topic_prompt_items):
         # Select all human text samples for the topic.
@@ -68,9 +62,10 @@ def main():
             corpus_df = pd.concat([corpus_df, new_row_df], ignore_index=True)
     
     # Add human text from bawe
-    bawe_corpus = Path('/home/nuvolari/GitHub/thesis-survey/extracting_topics/BAWE.xls').resolve()
+    bawe_dir = Path(__file__).parent.parent / 'extracting_topics' 
+    bawe_corpus = Path(bawe_dir / 'BAWE.xls').resolve()
     bawe_df = pd.read_excel(bawe_corpus, sheet_name='Sheet1')
-    corpus_texts_dir = Path('/home/nuvolari/GitHub/thesis-survey/CORPUS_TXT').resolve()
+    corpus_texts_dir = Path('human-corpora/BAWE_CORPUS_TXT').resolve()
 
     # Look for all corpus items IDs in the bawe_df and extract the first 200 words from each text file. Add them all to the dataframe.
     bawe_entries = []
@@ -93,20 +88,6 @@ def main():
 
     #### Save the final corpus to a CSV file.
     corpus_df.to_csv('final_corpus_unfiltered_hum_texts.csv', index=False)
-
-        
-
-
-
-def filter_bad_topics(topics: list, wordlist: list) -> list:
-    filtered_topics = []
-    for topic in topics:
-        topic_words = topic.split()
-        if any(word.lower() in topic_words for word in wordlist):
-            print(f'Bad topic found: {topic}')
-        else:
-            filtered_topics.append(topic)
-    return filtered_topics
 
 def generate_topic_prompt_items(topics: list[str], context: str, crps_name: str) -> list[dict]:
     topic_prompt_items = []
