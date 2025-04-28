@@ -22,7 +22,8 @@ def main():
     # print(form_choiceq_item("This is a human text.", "This is an AI-generated text.", 1))
 
     # Load the final corpus.
-    final_corpus_file = Path('/home/nuvolari/GitHub/thesis-survey/final-fullcorpus/final_corpus_cleaned_first_sentence_removed.csv').resolve()
+    final_corpus_dir = Path(__file__).parent.parent / "final_fullcorpus"
+    final_corpus_file = Path(final_corpus_dir / 'final_corpus_cleaned_first_sentence_removed.csv').resolve()
     corpus_df = pd.read_csv(final_corpus_file, dtype=str)
     
     # # temporary.Check for missing values and fill them with a default string if necessary
@@ -263,9 +264,7 @@ def form_choiceq_item(human_text: str, llm_text: str, index: int, source_corp: s
     options.remove(opt1)
     opt2 = options[0]
 
-    # Form the choice question item.
 
-    # Form question texts.
     itemq_choice = f"Pick which text sounds more AI-generated."
     itemq_why = f"Why does the text option you chose sound more or less human-like? Please write at least one sentence. Any and all reasoning is useful."
     itemq_rewrite = f"Please rewrite the text you chose as AI-generated so that it sounds more human-like. You may copy and paste your answer from the text above (make sure you pick the correct one)"

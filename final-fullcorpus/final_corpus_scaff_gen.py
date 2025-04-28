@@ -27,7 +27,7 @@ def main():
         bawe_topics = [line.strip() for line in file.readlines()]
 
 
-    # Generate prompts for EFCAMDAT and BAWE topics.
+    # These are the proompts for EFCAMDAT and BAWE topics.
     efcamdat_context = "You are an English learner.Your native language is not English. You are currently at B1 level."
     bawe_context = "You are a university student."
 
@@ -49,7 +49,6 @@ def main():
     ef_corpus = Path('human-corpora/efcamdat.csv').resolve()
     efcd_df = pd.read_csv(ef_corpus)
     for item in tqdm.tqdm(efcamdat_topic_prompt_items):
-        # Select all human text samples for the topic.
         topic_human_texts = efcd_df[efcd_df['topic'] == item['topic']]['text_corrected'].values
 
         # Sample 10 random texts if there are more than 10 texts available
@@ -61,7 +60,7 @@ def main():
             new_row_df = pd.DataFrame({'CORPUS': 'EFCAMDAT', 'TOPIC_ID': item['topic_id'], 'TOPIC': item['topic'], 'HUMAN_TEXT': text, 'PROMPT': item['prompt_text']}, index=[0])
             corpus_df = pd.concat([corpus_df, new_row_df], ignore_index=True)
     
-    # Add human text from bawe
+    # Do the same for BAWE
     bawe_dir = Path(__file__).parent.parent / 'extracting_topics' 
     bawe_corpus = Path(bawe_dir / 'BAWE.xls').resolve()
     bawe_df = pd.read_excel(bawe_corpus, sheet_name='Sheet1')

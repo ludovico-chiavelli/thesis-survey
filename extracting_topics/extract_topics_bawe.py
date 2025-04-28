@@ -12,17 +12,16 @@ def main():
 
 
 def extract_topics_bawe(bawe):
-    # Extract the topics from the BAWE database
+    """Extract the topics from the BAWE database"""
     topics = bawe["title"].unique()
     return topics
 
 def extract_topics_essay_only_bawe(bawe):
-    # Extract the essay only topics from the BAWE database
+    """Extract the essay only topics from the BAWE database"""
     topics = bawe[bawe["genre family"] == "essay"]["title"].unique()
     return topics
 
 def write_topics_to_file(topics, filename):
-    # Write the topics to a file
     with open(filename, "w") as f:
         for topic in topics:
             f.write(topic + "\n")

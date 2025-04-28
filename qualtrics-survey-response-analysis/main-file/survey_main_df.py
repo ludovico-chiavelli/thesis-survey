@@ -22,7 +22,7 @@ MODEL_NAME_MAP = {
 def main():
     survey_set_dir = Path("../survey-set-responses").resolve()
     survey_set_files = list(survey_set_dir.glob("survey_set_*.csv"))
-    # Sort files according to number at the end of file stem
+    # Sort files according to number at the end of file stem, this is the survey set they belong to.
     survey_set_files.sort(key=lambda x: int(x.stem.split("_")[-1]))
 
     # Generate the main DataFrame with rate-type questions
@@ -42,8 +42,6 @@ def generate_rateq_main_df(survey_set_files: list) -> pd.DataFrame:
     """
     Generates a main DataFrame with rate-type questions from all survey sets.
     """
-
-    # Columns for the final DataFrame
     columns = [
         "ss_num",
         "response_id",
@@ -64,7 +62,6 @@ def generate_rateq_main_df(survey_set_files: list) -> pd.DataFrame:
     # Loop through each survey set file
     for file in survey_set_files:
         ss_num = file.stem.split("_")[-1]
-        # Read the CSV file
         survey_data = pd.read_csv(file)
         
         # Iterate over file rows, starting from the 3rd row
