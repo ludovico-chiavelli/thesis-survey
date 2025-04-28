@@ -17,19 +17,16 @@ def main():
     # Count tri and bi-grams for the entire survey by combining the texts of all "why" type questions
 
     all_text = []
-    regex_mask = r"(Rate|Choice)(EF|BA)\d+why$"
+    regex_mask = r"(Rate|Choice)(EF|BA)\d+why$" # select all questions with Rate or Choice, EF or BA, a digit, and why.
     for ss_name, df in ss_dict.items():
         # Skip the first 2 rows, as they are metadata
         df = df.iloc[2:]
-        # Get the "why" type questions by selecting the columns that contain "why" in their names
         whyq_answers = df.filter(regex=regex_mask).values.flatten()
         # Convert to a list and remove NaN values
         all_text.extend([str(answer) for answer in whyq_answers if pd.notna(answer)])
     
-    # Combine all text into a single string
     combined_text = " ".join(all_text)
 
-    # Normalize the text
     combined_text = normalize_text(combined_text, lowercase=True, remove_stopwords=True, remove_punct=True)
 
 
@@ -38,7 +35,6 @@ def main():
 
     ##### For loop to count n-grams #####
     for i in range(1, 5):
-        # Count n-grams
         n_gram_counts = count_ngrams(combined_text, i)
         # Sort by frequency
         sorted_n_grams = sorted(n_gram_counts.items(), key=lambda item: item[1], reverse=True)
@@ -51,7 +47,6 @@ def main():
     # Filter out not useful words based on observations
     # Create a list of words to filter out
     filter_words = ["human", "ai", "use", "sound", "sounds"]
-    # Filter the combined text
     filtered_text = " ".join([word for word in combined_text.split() if word not in filter_words])
 
     # Create a word cloud from the combined text

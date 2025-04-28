@@ -116,7 +116,6 @@ def main():
     output_dir.mkdir(parents=True, exist_ok=True)
     
     for rewrite_q, text_dict in rewrite_responses.items():
-        # Get the rewrite answers and reference text
         reference_text = text_dict["reference_text"]
         rewrite_answers = text_dict["rewrite_answer"]
 
@@ -156,7 +155,7 @@ def determine_if_rewrite(question_text: str, rewrite_answer: str) -> bool:
     len_rewrite_answer = len(rewrite_answer.split())
     length_threshold = 10
     
-    # Calculate similarity ratio
+    # Calculate the similarity ratio.
     similarity_ratio = SequenceMatcher(None, question_text, rewrite_answer).ratio()
 
     if len_rewrite_answer > length_threshold and similarity_ratio > 0.1:
@@ -174,7 +173,6 @@ def direct_compare(original_text: str, response_text: str) -> list:
     Returns:
         diff (list): A list of differences between the two texts.
     """
-    # Compare the two texts
     diff = unified_diff(original_text.splitlines(), response_text.splitlines(), lineterm='', fromfile='original', tofile='response')
 
     return diff

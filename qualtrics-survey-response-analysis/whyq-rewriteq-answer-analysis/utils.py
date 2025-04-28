@@ -29,13 +29,10 @@ def count_ngrams(text: str, n: int) -> dict:
         dict: A dictionary with n-grams as keys and their counts as values.
     """
 
-    # Tokenize the text
     tokens = text.split()
     
-    # Generate n-grams
     n_grams = ngrams(tokens, n)
     
-    # Count n-grams
     n_gram_counts = Counter(n_grams)
     
     return dict(n_gram_counts)

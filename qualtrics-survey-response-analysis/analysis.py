@@ -44,7 +44,7 @@ def calculate_rate_or_choice_q_score_average(ss_list: dict[pd.DataFrame], mask: 
     Calculate the average score for rate type questions in a list of DataFrames. Allows for masking of specific columns (EF or BA)
 
     Args:
-        ss_list (list[pd.DataFrame]): List of survey set DataFrames."
+        ss_list (list[pd.DataFrame]): List of survey set DataFrames.
     Returns:
         float: The average score across all DataFrames.
     """
@@ -56,12 +56,7 @@ def calculate_rate_or_choice_q_score_average(ss_list: dict[pd.DataFrame], mask: 
         # Skip the first 2 rows of each DataFrame.
         df = df.iloc[2:, :]
 
-        # Select only the columns that match the mask
         # This will select all columns that contain the mask string
-
-        # For example, if mask = "EF", this will select all columns that contain "EF"
-        # If mask = "BA", this will select all columns that contain "BA"
-        # If mask = "Rate", this will select all columns that contain "Rate"
 
         filtered_df = df.filter(regex=mask)
 
@@ -80,9 +75,7 @@ def calculate_rate_or_choice_q_score_average(ss_list: dict[pd.DataFrame], mask: 
             response_row_score = 0
             for _, value in row.items():
                 if value == "1 - Definitely AI" or value == "2 - Likely AI":
-                    # Add 1 to the score
                     response_row_score += 1
-            # Add the score to the total score
             if mode == "Rate":
                 # Add the score to the total score
                 total_score += response_row_score
@@ -111,6 +104,12 @@ def calculate_rate_or_choice_q_score_average(ss_list: dict[pd.DataFrame], mask: 
 def calculate_choice_q_score_average(ss_list: dict[pd.DataFrame], mask: str) -> float:
     """
     Similar to calculate_rate_or_choice_q_score_average, but for choice questions and uses a correct_choiceq_answers dict.
+
+    Args:
+        ss_list (list[pd.DataFrame]): List of survey set DataFrames.
+        mask (str): regex mask.
+    Returns:
+        float: The average score across all DataFrames.
     """
     total_score = 0
     total_count = 0

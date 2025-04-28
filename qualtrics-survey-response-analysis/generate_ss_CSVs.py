@@ -69,9 +69,8 @@ def generate_ss_csvs(filepath: str, output_dir: str):
         print(f"Generated CSV for survey set {survey_set_number}: {output_filepath}")
 
 if __name__ == "__main__":
-    # Example usage
     curr_dir = Path(__file__).parent.resolve()
-    input_filepath = curr_dir  / Path("survey_responses.csv")  # Replace with your input CSV file path
-    output_directory = curr_dir  / Path("survey-set-responses")  # Replace with your desired output directory
+    input_filepath = curr_dir  / Path("survey_responses.csv")
+    output_directory = curr_dir  / Path("survey-set-responses")
     generate_ss_csvs(input_filepath, output_directory)
 

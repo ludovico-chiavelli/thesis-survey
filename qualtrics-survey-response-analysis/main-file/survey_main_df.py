@@ -272,16 +272,5 @@ def geberate_choiceq_main_df(survey_set_files: list) -> pd.DataFrame:
     
     return all_survey_data
 
-
-
-
-
-
-                
-
-            
-        
-        
-
 if __name__ == "__main__":
     main()
