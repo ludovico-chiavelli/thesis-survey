@@ -131,7 +131,7 @@ def generate_rateq_main_df(survey_set_files: list) -> pd.DataFrame:
                     human_label = "human"
                     confidence = 1
                 else:
-                    ValueError(f"Unknown answer format: {raw_answer}")
+                    print(f"Unknown answer format: {raw_answer}")
                     human_label = "unknown"
                     confidence = 0
                 
@@ -177,10 +177,9 @@ def geberate_choiceq_main_df(survey_set_files: list) -> pd.DataFrame:
     # Initialize an empty DataFrame to hold all survey set data
     all_survey_data = pd.DataFrame(columns=columns)
 
-    # Loop through each survey set file
+    
     for file in survey_set_files:
         ss_num = file.stem.split("_")[-1]
-        # Read the CSV file
         survey_data = pd.read_csv(file)
         
         # Iterate over file rows, starting from the 3rd row
@@ -217,14 +216,12 @@ def geberate_choiceq_main_df(survey_set_files: list) -> pd.DataFrame:
                     # One is marked as ChoiceEF6-human and the other is ChoiceEF6-llm to signify they are both in the same question.
                     topic = ORIGINAL_SURVEY_GEN_DF.loc[ORIGINAL_SURVEY_GEN_DF["SURVEY_ITEM"] == "ChoiceEF6-human", "TOPIC"].values[0]
                     
-                    # Get the LLM name
                     model_name = ORIGINAL_SURVEY_GEN_DF.loc[ORIGINAL_SURVEY_GEN_DF["SURVEY_ITEM"] == "ChoiceEF6-human", "MODEL_NAME"].values[0]
                     llm_name = MODEL_NAME_MAP.get(model_name, "unknown")
                     q_id_metadata_map[question_id]["llm_name"] = llm_name
                 else:
                     topic = ORIGINAL_SURVEY_GEN_DF.loc[ORIGINAL_SURVEY_GEN_DF["SURVEY_ITEM"] == question_id, "TOPIC"].values[0]
                     
-                    # Get the LLM name
                     model_name = ORIGINAL_SURVEY_GEN_DF.loc[ORIGINAL_SURVEY_GEN_DF["SURVEY_ITEM"] == question_id, "MODEL_NAME"].values[0]
                     llm_name = MODEL_NAME_MAP.get(model_name, "unknown")
                     q_id_metadata_map[question_id]["llm_name"] = llm_name
