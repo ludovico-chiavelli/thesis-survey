@@ -98,7 +98,6 @@ def main():
     all_text = normalize_text(all_text, lowercase=True, remove_stopwords=True, remove_punct=True)
     ##### For loop to count n-grams #####
     for i in [2, 3]:
-        # Count n-grams
         n_gram_counts = count_ngrams(all_text, i)
         # Sort by frequency
         sorted_n_grams = sorted(n_gram_counts.items(), key=lambda item: item[1], reverse=True)
@@ -138,7 +137,6 @@ def determine_if_rewrite(question_text: str, rewrite_answer: str) -> bool:
         bool: True if the rewrite answer is actually rewriting, False otherwise.
     """
 
-    # Normalize the text
     question_text = normalize_text(question_text, lowercase=True, remove_stopwords=False, remove_punct=False)
     rewrite_answer = normalize_text(rewrite_answer, lowercase=True, remove_stopwords=False, remove_punct=False)
     # Remove any leading or trailing whitespace
