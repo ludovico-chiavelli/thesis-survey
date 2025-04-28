@@ -1,6 +1,7 @@
 # Check any LDNOOBW words are present in the final_corpus_survey_questions.txt
-
-with open('/home/nuvolari/GitHub/thesis-survey/qualtrics-question-generation/Human_Performance_Evaluation_Human_vs_AILLM_Generated_Text_Survey.qsf', 'r') as file:
+from pathlib import Path
+curr_dir = Path(__file__).parent
+with open(curr_dir / 'Human_Performance_Evaluation_Human_vs_AILLM_Generated_Text_Survey.qsf', 'r') as file:
     wordlist = [line.strip() for line in file.readlines()]
     with open('final_corpus_survey_questions.txt', 'r') as file:
         lines = file.readlines()
