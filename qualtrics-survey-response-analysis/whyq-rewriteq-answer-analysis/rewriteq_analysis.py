@@ -64,6 +64,7 @@ def main():
     # Separate into actual rewrites and non-rewrites
     rewrite_responses = {}
     non_rewrite_responses = {}
+    
 
     for rewrite_q, text_dict in all_text_dict.items():
         rewrite_responses[rewrite_q] = {
@@ -87,6 +88,13 @@ def main():
             else:
                 non_rewrite_responses[rewrite_q]["rewrite_answer"].append(rewrite_answer)
     
+    # print amount of rewrites and non-rewrites
+    total_rewrite_responses = sum([len(response["rewrite_answer"]) for response in rewrite_responses.values()])
+    total_non_rewrite_responses = sum([len(response["rewrite_answer"]) for response in non_rewrite_responses.values()])
+    print(f"Total number of rewrite questions: {total_rewrite_responses}")
+    print(f"Total number of non-rewrite questions: {total_non_rewrite_responses}")
+
+    
 
     # Count tri and bi-grams for all non-rewrite answers
     all_text = " ".join([text for text_dict in non_rewrite_responses.values() for text in text_dict["rewrite_answer"]])
@@ -109,21 +117,21 @@ def main():
     ############## Word cloud ##############
     make_wordcloud_plot(all_text, output_dir)
 
-    ############## Direct comparison of rewrite answers ##############
-    # Save results to file
-    output_dir = Path("rewriteq-analysis-output")
-    output_dir.mkdir(parents=True, exist_ok=True)
+    # ############## Direct comparison of rewrite answers ##############
+    # # Save results to file
+    # output_dir = Path("rewriteq-analysis-output")
+    # output_dir.mkdir(parents=True, exist_ok=True)
     
-    for rewrite_q, text_dict in rewrite_responses.items():
-        reference_text = text_dict["reference_text"]
-        rewrite_answers = text_dict["rewrite_answer"]
+    # for rewrite_q, text_dict in rewrite_responses.items():
+    #     reference_text = text_dict["reference_text"]
+    #     rewrite_answers = text_dict["rewrite_answer"]
 
-        for rewrite_answer in rewrite_answers:
-            # Save the diff to a file
-            d = HtmlDiff()
-            diff = d.make_file(reference_text.splitlines(), rewrite_answer.splitlines(), fromdesc="Reference Text", todesc="Rewrite Answer", context=True, numlines=0)
-            with open(output_dir / f"{rewrite_q}_diff.html", "w", encoding="utf-8") as f:
-                f.write(diff)
+    #     for rewrite_answer in rewrite_answers:
+    #         # Save the diff to a file
+    #         d = HtmlDiff()
+    #         diff = d.make_file(reference_text.splitlines(), rewrite_answer.splitlines(), fromdesc="Reference Text", todesc="Rewrite Answer", context=True, numlines=0)
+    #         with open(output_dir / f"{rewrite_q}_diff.html", "w", encoding="utf-8") as f:
+    #             f.write(diff)
                     
 
 def determine_if_rewrite(question_text: str, rewrite_answer: str) -> bool:
@@ -156,7 +164,7 @@ def determine_if_rewrite(question_text: str, rewrite_answer: str) -> bool:
     # Calculate the similarity ratio.
     similarity_ratio = SequenceMatcher(None, question_text, rewrite_answer).ratio()
 
-    if len_rewrite_answer > length_threshold and similarity_ratio > 0.1:
+    if len_rewrite_answer > length_threshold and similarity_ratio > 0.1: # this method does potentially cutoff valid full rewrites, but it most likely cuts out token submissions.
         return True
     else:
         return False
