@@ -10,7 +10,8 @@ qualtrics_dir = Path(__file__).resolve().parent.parent
 sys.path.append(str(qualtrics_dir))
 from survey_scoring import correct_choiceq_answers
 
-ORIGINAL_SURVEY_GEN_DF = pd.read_csv("/home/nuvolari/GitHub/thesis-survey/final-fullcorpus/final_corpus_cleaned_fsr_survey_marks.csv")
+project_dir = Path.cwd().parent.parent
+ORIGINAL_SURVEY_GEN_DF = pd.read_csv(project_dir / "final-fullcorpus/final_corpus_cleaned_fsr_survey_marks.csv")
 
 # MODEL_NAME to short name mapping
 MODEL_NAME_MAP = {
